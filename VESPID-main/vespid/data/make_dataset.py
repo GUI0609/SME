@@ -956,11 +956,12 @@ def add_author_ids(df, inplace=False):
 
 
 def add_semantic_scholar_to_wos(
-    df, 
+    df,
     api_key,
     max_concurrent_requests=None,
     n_jobs=None
-):
+): 
+
     '''
     Given a dataset of paper records from Web Of Science (WoS), add in fields
     from matching records we pull from Semantic Scholar to augment it.
@@ -989,56 +990,19 @@ def add_semantic_scholar_to_wos(
     -------
     Copy of ``df`` with extra columns coming from the Semantic Scholar API.
     '''
-    
     output = df.copy()
-    
-    good_id_index = df[
-        (df['DOI'].notnull())
-        | (df['id_ss'].notnull())
-    ].index
-    num_records_with_id = len(good_id_index)
-    pct_records_with_id = round(num_records_with_id / len(df), 4) * 100
-    logger.info(f"{num_records_with_id:,} records ({pct_records_with_id}%) "
-                "have either a DOI or a Semantic Scholar paper ID. "
-"As such, they will be augmented with Semantic Scholar data.")
-    
-    if num_records_with_id == 0:
-        logger.info("No identifiers found, returning un-augmented data...")
-        return output
+    df_ss = pd.DataFrame()
 
-    # First the ones with Semantic Scholar ID, 
-    # as this is guaranteed to work as expected
-    if df['id_ss'].notnull().sum() > 0:
-        logger.info("Finding S2 records based off of S2 paper ID...")
-        df_ss = query_semantic_scholar(
-            df.loc[df['id_ss'].notnull(), 'id_ss'],
-            query_type='S2 Paper ID',
+    logger.info("Finding S2 records based off of DOI...")
+    df_ss = df_ss.append(
+        query_semantic_scholar(
+            df['DOI'], 
+            query_type='DOI', 
             api_key=api_key,
             max_concurrent_requests=max_concurrent_requests,
-            n_jobs=n_jobs,
-            fields_of_interest=None # Use default
+            n_jobs=n_jobs
         )
-        
-    else:
-        logger.warning("No S2 IDs found, skipping S2 ID queries")
-        df_ss = pd.DataFrame()
-
-    # Now look at ones that have a DOI but no SS ID
-    remaining_records_index = df[
-        (df['id_ss'].isnull())
-        & (df['DOI'].notnull())
-    ].index
-    if len(remaining_records_index) > 0:
-        logger.info("Finding S2 records based off of DOI...")
-        df_ss = df_ss.append(
-            query_semantic_scholar(
-                df.loc[remaining_records_index, 'DOI'], 
-                query_type='DOI', 
-                api_key=api_key,
-                max_concurrent_requests=max_concurrent_requests,
-                n_jobs=n_jobs
-            )
-        ).sort_index()
+    ).sort_index()
 
 
     if not df_ss.empty:
@@ -1047,7 +1011,7 @@ def add_semantic_scholar_to_wos(
         
         output = df.join(df_ss, how='left', lsuffix='_wos', rsuffix='_ss')
 
-        output = output.drop(columns=['id_ss']).rename(columns={
+        output = output.rename(columns={
                 'authors': 'authors_ss', 
                 'url': 'url_ss',
                 'paperId': 'id_ss',
@@ -1115,7 +1079,7 @@ def add_semantic_scholar_to_wos(
             
         output['authors_ss'] = np.nan
         output['url_ss'] = np.nan
-        output['id_ss'] = np.nan
+        # output['id_ss'] = np.nan
         
         output['abstract_source'] = 'Web of Science'
     
