@@ -956,12 +956,11 @@ def add_author_ids(df, inplace=False):
 
 
 def add_semantic_scholar_to_wos(
-    df,
+    df, 
     api_key,
     max_concurrent_requests=None,
     n_jobs=None
-): 
-
+):
     '''
     Given a dataset of paper records from Web Of Science (WoS), add in fields
     from matching records we pull from Semantic Scholar to augment it.
@@ -990,19 +989,24 @@ def add_semantic_scholar_to_wos(
     -------
     Copy of ``df`` with extra columns coming from the Semantic Scholar API.
     '''
+    
     output = df.copy()
     df_ss = pd.DataFrame()
+    
 
-    logger.info("Finding S2 records based off of DOI...")
-    df_ss = df_ss.append(
-        query_semantic_scholar(
-            df['DOI'], 
-            query_type='DOI', 
-            api_key=api_key,
-            max_concurrent_requests=max_concurrent_requests,
-            n_jobs=n_jobs
-        )
-    ).sort_index()
+    # Now look at ones that have a DOI but no SS ID
+    remaining_records_index = df.index
+    if len(remaining_records_index) > 0:
+        logger.info("Finding S2 records based off of DOI...")
+        df_ss = df_ss.append(
+            query_semantic_scholar(
+                df.loc[remaining_records_index, 'DOI'], 
+                query_type='DOI', 
+                api_key=api_key,
+                max_concurrent_requests=max_concurrent_requests,
+                n_jobs=n_jobs
+            )
+        ).sort_index()
 
 
     if not df_ss.empty:
@@ -1079,7 +1083,7 @@ def add_semantic_scholar_to_wos(
             
         output['authors_ss'] = np.nan
         output['url_ss'] = np.nan
-        # output['id_ss'] = np.nan
+        output['id_ss'] = np.nan
         
         output['abstract_source'] = 'Web of Science'
     
