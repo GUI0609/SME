@@ -2,6 +2,7 @@ import pandas as pd
 from vespid.data.crossref import *
 from vespid.data.make_dataset import *
 from semanticscholar import SemanticScholar
+import crossref_commons
 
 api_key = 'H6LFRtg5Ar55rlCiBkr1k7YH2nr6DCvpa538wF5C'
 
@@ -50,6 +51,16 @@ def add_crossref_ref_to_ss_wos(df,api_key,doicolumns = 'doi'):
     df['ref_ss'] = df[doicolumns].apply(get_ss_ref)
 
     return df
+
+#对没有出版年份的文献进行修正
+def correct_without_year(df):
+    cor_date = df[df['date']!=0].reset_index().drop(columns = ['index'])
+    incor_date = df[df['date']==0].reset_index().drop(columns = ['index'])
+    for index in range(len(incor_date)):
+        result = crossref_commons.retrieval.get_publication_as_json(incor_date['DOI'].loc[index])
+        incor_date['date'].loc[index] = result['created']['date-parts'][0][0]
+    df2 = cor_date.append(incor_date).reset_index().drop(columns = ['index'])
+    return df2
 
 
 
