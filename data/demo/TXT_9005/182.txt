@@ -1,0 +1,226 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Dorigo, P
+   Fraccarollo, D
+   Santostasi, G
+   Maragno, I
+   Floreani, M
+   Borea, PA
+   Mosti, L
+   Sansebastiano, L
+   Fossa, P
+   Orsini, F
+   Benetollo, F
+   Bombieri, G
+AF Dorigo, P
+   Fraccarollo, D
+   Santostasi, G
+   Maragno, I
+   Floreani, M
+   Borea, PA
+   Mosti, L
+   Sansebastiano, L
+   Fossa, P
+   Orsini, F
+   Benetollo, F
+   Bombieri, G
+TI Synthesis and cardiotonic activity of novel pyrimidine derivatives:
+   Crystallographic and quantum chemical studies
+SO JOURNAL OF MEDICINAL CHEMISTRY
+LA English
+DT Article
+ID GUINEA-PIG ATRIAL; 2-SUBSTITUTED
+   5-CYANO-1,6-DIHYDRO-6-OXO-3-PYRIDINECARBOXYLIC ACIDS; METHYL
+   2,4-DISUBSTITUTED 5-PYRIMIDINECARBOXYLATES; CHRONIC HEART-FAILURE;
+   INOTROPIC AGENTS; CYCLIC-AMP; PHARMACOLOGICAL CHARACTERIZATION;
+   POTASSIUM CONDUCTANCE; VENTRICULAR MUSCLE; ADENOSINE
+AB The synthesis of ethyl or methyl 4-substituted or unsubstituted 2-(dimethylamino)-5-pyrimidinecarboxylates 10-20, which is mainly carried out by reaction of ethyl or methyl 2-[(dimethylamino)methylene]-3-oxoalkanoates with 1,1-dimethylguanidine, is described, The above esters were hydrolyzed to the relative carboxylic acids 21-30, which were decarboxylated to the corresponding 2,4-disubstituted pyrimidines 31-40. All the new synthesized pyrimidines were evaluated in spontaneously beating and electrically driven atria from reserpine-treated guinea pigs, Their effects were compared to those induced by milrinone in both atria preparations, Compound 28 (4-benzyl-2-(dimethylamino)-5-pyrimidinecarboxylic acid) was the most effective positive inotropic agent, while the corresponding methyl ester 17 reduced both the contractile force and the frequency of guinea pig atria. An antagonism toward the negative influence exerted by endogenous adenosine on the heart seems to be involved in the contractile activity of compound 28. By contrast, compound 17 might be partial agonist at the purinergic inhibitory (A1) receptor. X-ray-analysis carried out on 17 and 28 and molecular modeling investigations extended also to related derivatives allowed a possible rationalization between structure and inotropic activity for this series of compounds.
+C1 UNIV FERRARA, IST FARMACOL, I-44100 FERRARA, ITALY.
+   UNIV GENOA, IST SCI FARMACEUT, I-16132 GENOA, ITALY.
+   UNIV MILAN, DIPARTIMENTO CHIM ORGAN & IND, I-20188 MILAN, ITALY.
+   CNR, ICTIMA, I-35100 PADUA, ITALY.
+   UNIV MILAN, IST CHIM FARMACEUT, I-20131 MILAN, ITALY.
+RP Dorigo, P (corresponding author), UNIV PADUA, DIPARTIMENTO FARMACOL, LARGO E MENEGHETTI 2, I-35131 PADUA, ITALY.
+RI Orsini, Fulvia/S-3783-2016
+OI Orsini, Fulvia/0000-0003-4165-1398; Fossa, Paola/0000-0001-9386-0445
+CR *ACQ SYST DEP SCI, 1992, MOL ADV DES
+   BELARDINELLI L, 1983, AM J PHYSIOL, V244, pH734, DOI 10.1152/ajpheart.1983.244.5.H734
+   BELARDINELLI L, 1983, REGULATORY FUNCTION, P378
+   BENNETT GB, 1978, J MED CHEM, V21, P623, DOI 10.1021/jm00205a006
+   BOHM M, 1984, J PHARMACOL EXP THER, V230, P483
+   BURNS RF, 1980, P NATL ACAD SCI USA, V77, P5547
+   CERBAI E, 1988, AM J PHYSIOL, V255, pH872, DOI 10.1152/ajpheart.1988.255.4.H872
+   DEWAR MJS, 1985, J AM CHEM SOC, V107, P3902, DOI 10.1021/ja00299a024
+   DORIGO P, 1993, J MED CHEM, V36, P2475, DOI 10.1021/jm00069a005
+   DORIGO P, 1990, CARDIOVASC DRUG THER, V4, P509, DOI 10.1007/BF01857762
+   DORIGO P, 1986, BRIT J PHARMACOL, V87, P623, DOI 10.1111/j.1476-5381.1986.tb14578.x
+   DORIGO P, 1994, FARMACO, V49, P19
+   DORIGO P, 1992, GEN PHARMACOL-VASC S, V23, P535, DOI 10.1016/0306-3623(92)90124-3
+   EARL CQ, 1986, J CARDIOVASC PHARM, V8, P864
+   ENDOH M, 1986, CIRCULATION, V73, P117
+   ENDOH M, 1979, JPN J PHARMACOL, V29, P855, DOI 10.1254/jjp.29.855
+   ENDOH M, 1983, PHYSL PHARM ADENOSIN, P127
+   FRANCIS GS, 1989, AM HEART J, V118, P642, DOI 10.1016/0002-8703(89)90291-3
+   IJZERMAN AP, 1995, ADENOSINE AND ADENINE NUCLEOTIDES: FROM MOLECULAR BIOLOGY TO INTEGRATIVE PHYSIOLOGY, P27
+   *IND U, 527 IND U
+   JOCHEM G, 1983, EXPERIENTIA, V39, P1347, DOI 10.1007/BF01990096
+   JOHNSON CK, 1986, ORNL5138
+   JONES RG, 1951, J AM CHEM SOC, V73, P3684, DOI 10.1021/ja01152a034
+   LESHER GY, 1836, Patent No. 604
+   LOWRY OH, 1951, J BIOL CHEM, V193, P265
+   LUBBE WF, 1992, J AM COLL CARDIOL, V19, P1622, DOI 10.1016/0735-1097(92)90629-2
+   MENOZZI G, 1987, J HETEROCYCLIC CHEM, V24, P1669, DOI 10.1002/jhet.5570240634
+   MENOZZI G, 1990, FARMACO, V45, P167
+   MOSTI L, 1993, EUR J MED CHEM, V28, P853, DOI 10.1016/0223-5234(93)90037-F
+   MOSTI L, 1989, EUR J MED CHEM, V24, P517, DOI 10.1016/0223-5234(89)90057-3
+   MOSTI L, 1992, FARMACO, V47, P427
+   NEWMAN WH, 1984, J MOL CELL CARDIOL, V16, P577, DOI 10.1016/S0022-2828(84)80645-8
+   ORSINI F, 1993, EUR J MED CHEM, V28, P637, DOI 10.1016/0223-5234(93)90095-V
+   ORSINI F, 1990, EUR J MED CHEM, V25, P425, DOI 10.1016/0223-5234(90)90006-O
+   OVERBERGER CG, 1954, J AM CHEM SOC, V76, P1065, DOI 10.1021/ja01633a040
+   OVERBERGER CG, 1954, J AM CHEM SOC, V76, P1879, DOI 10.1021/ja01636a043
+   PACKER M, 1991, NEW ENGL J MED, V325, P1468, DOI 10.1056/NEJM199111213252103
+   PACKER M, 1988, J AM COLL CARDIOL, V12, P1299, DOI 10.1016/0735-1097(88)92615-0
+   PANIZZI L, 1946, GAZZ CHIM ITAL, V76, P56
+   PARSONS WJ, 1988, MOL PHARMACOL, V33, P441
+   PELLEG A, 1987, J PHARMACOL EXP THER, V242, P791
+   PROSTRAN M, 1988, ARCH INT PHARMACOD T, V294, P137
+   SANSEBASTIANO L, 1993, FARMACO, V48, P335
+   SCHENONE P, 1990, J HETEROCYCLIC CHEM, V27, P295, DOI 10.1002/jhet.5570270234
+   SCHILD HO, 1947, BRIT J PHARM CHEMOTH, V2, P189, DOI 10.1111/j.1476-5381.1947.tb00336.x
+   SHELDRICK G. M., 1993, SHELXL 93 PROGRAM RE
+   SHELDRICK GM, 1990, ACTA CRYSTALLOGR A, V46, P467, DOI 10.1107/S0108767390000277
+   SKOMEDAL T, 1988, PHARMACOL TOXICOL, V63, P20, DOI 10.1111/j.1600-0773.1988.tb00902.x
+   STEIN B, 1994, J MOL CELL CARDIOL, V26, P403, DOI 10.1006/jmcc.1994.1049
+   TEMMA K, 1977, MOL PHARMACOL, V13, P1076
+   Thompson W J, 1979, Adv Cyclic Nucleotide Res, V10, P69
+   Thompson W J, 1974, Methods Enzymol, V38, P205
+   UNGERER M, 1990, N-S ARCH PHARMACOL, V341, P577
+   VISENTIN S, 1990, AM J PHYSIOL, V258, pH1070, DOI 10.1152/ajpheart.1990.258.4.H1070
+   WEISHAAR RE, 1987, CIRC RES, V61, P539, DOI 10.1161/01.RES.61.4.539
+NR 55
+TC 24
+Z9 27
+U1 0
+U2 4
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0022-2623
+EI 1520-4804
+J9 J MED CHEM
+JI J. Med. Chem.
+PD SEP 13
+PY 1996
+VL 39
+IS 19
+BP 3671
+EP 3683
+DI 10.1021/jm9508649
+PG 13
+WC Chemistry, Medicinal
+WE Science Citation Index Expanded (SCI-EXPANDED); Index Chemicus (IC)
+SC Pharmacology & Pharmacy
+GA VG688
+UT WOS:A1996VG68800007
+PM 8809156
+DA 2022-10-19
+ER
+
+PT J
+AU Gaan, S
+   He, GW
+   Feenstra, RM
+   Walker, J
+   Towe, E
+AF Gaan, S.
+   He, Guowei
+   Feenstra, R. M.
+   Walker, J.
+   Towe, E.
+TI Size, shape, composition, and electronic properties of InAs/GaAs quantum
+   dots by scanning tunneling microscopy and spectroscopy
+SO JOURNAL OF APPLIED PHYSICS
+LA English
+DT Article
+ID SCALE; TIP
+AB InAs/GaAs quantum dot (QD) heterostructures grown by molecular beam epitaxy are studied using cross-sectional scanning tunneling microscopy and spectroscopy. The images reveal individual InAs QDs having a lens shape with maximum base diameter of 10.5 nm and height of 2.9 nm. Analysis of strain relaxation of the QDs reveals an indium composition varying from 65% at the base of the QD, to 95% at its center, and back to 65% at its apex. Room-temperature tunneling spectra acquired 3-4 nm from the center of a dot show a peak located in the upper part of the GaAs band gap originating from the lowest electron confined state of the QD, along with a tail in the conductance extending out from the valence band and originating from QD hole states. A computational method is developed for simulating the tunneling spectra using effective-mass bands treated in an envelope function approximation. By comparison of the computations to low-current spectra, the energy of the lowest electron, and highest hole QD states are determined. These energies are found to be in reasonably good agreement both with optical measurements and prior theoretical predictions of Wang et al. [Phys. Rev. B 59, 5678 (1999)]. (c) 2010 American Institute of Physics. [doi:10.1063/1.3518680]
+C1 [Gaan, S.; He, Guowei; Feenstra, R. M.] Carnegie Mellon Univ, Dept Phys, Pittsburgh, PA 15213 USA.
+   [Walker, J.; Towe, E.] Carnegie Mellon Univ, Dept Elect & Comp Engn, Pittsburgh, PA 15213 USA.
+RP Gaan, S (corresponding author), Carnegie Mellon Univ, Dept Phys, Pittsburgh, PA 15213 USA.
+EM feenstra@andrew.cmu.edu
+RI Feenstra, Randall M/P-2530-2014
+OI Feenstra, Randall M/0000-0001-7120-5685; He, Guowei/0000-0001-8653-2793
+FU National Science Foundation [DMR-0856240]; Direct For Mathematical &
+   Physical Scien [0856240] Funding Source: National Science Foundation
+FX This work was supported by the National Science Foundation under Grant
+   No. DMR-0856240. Computing resources were provided by the McWilliams
+   Center for Cosmology at Carnegie Mellon University. Discussions with H.
+   Eisele, R. Goldman, and B. Grandidier are gratefully acknowledged.
+CR BARDEEN J, 1961, PHYS REV LETT, V6, P57, DOI 10.1103/PhysRevLett.6.57
+   Benner AF, 2005, IBM J RES DEV, V49, P755, DOI 10.1147/rd.494.0755
+   Berthe M, 2008, SCIENCE, V319, P436, DOI 10.1126/science.1151186
+   Blokland JH, 2009, APPL PHYS LETT, V94, DOI 10.1063/1.3072366
+   Bruls DM, 2002, APPL PHYS LETT, V81, P1708, DOI 10.1063/1.1504162
+   Chen L, 2003, J CRYST GROWTH, V251, P208, DOI 10.1016/S0022-0248(02)02472-7
+   Dasika VD, 2009, J APPL PHYS, V106, DOI 10.1063/1.3158560
+   Dong Y, 2008, J APPL PHYS, V103, DOI 10.1063/1.2902828
+   Duke C. B., 1969, TUNNELING SOLIDS, P217
+   Eisele H, 2008, J APPL PHYS, V104, DOI 10.1063/1.3042216
+   Eisele H, 1999, APPL PHYS LETT, V75, P106, DOI 10.1063/1.124290
+   Feenstra RM, 2007, NANOTECHNOLOGY, V18, DOI 10.1088/0957-4484/18/4/044015
+   Feenstra RM, 1999, PHYSICA B, V273-4, P796, DOI 10.1016/S0921-4526(99)00507-4
+   Feenstra RM, 2003, J VAC SCI TECHNOL B, V21, P2080, DOI 10.1116/1.1606466
+   FEENSTRA RM, 1994, SEMICOND SCI TECH, V9, P2157, DOI 10.1088/0268-1242/9/12/001
+   Gaan S, 2010, APPL PHYS LETT, V97, DOI 10.1063/1.3491551
+   Girard JC, 2009, J VAC SCI TECHNOL B, V27, P891, DOI 10.1116/1.3013854
+   Legrand B, 1998, APPL PHYS LETT, V73, P96, DOI 10.1063/1.121792
+   Lita B, 1999, APPL PHYS LETT, V74, P2824, DOI 10.1063/1.124026
+   Lu JQ, 2006, APPL PHYS LETT, V88, DOI 10.1063/1.2171473
+   Madelung O., 1991, SEMICONDUCTORS GROUP
+   Maltezopoulos T, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.196804
+   Merzbacher E., 1970, QUANTUM MECHANICS, P105
+   Mlinar V, 2009, PHYS REV B, V80, DOI 10.1103/PhysRevB.80.035328
+   Nagashima M, 2010, J APPL PHYS, V107, DOI 10.1063/1.3327002
+   Pal D, 2006, APPL PHYS LETT, V88, DOI 10.1063/1.2193466
+   Ramachandran V, 1999, PHYS REV LETT, V82, P1000, DOI 10.1103/PhysRevLett.82.1000
+   Smith AR, 2004, SURF SCI, V561, P154, DOI 10.1016/j.susc.2004.05.011
+   Stier O, 1999, PHYS REV B, V59, P5688, DOI 10.1103/PhysRevB.59.5688
+   TERSOFF J, 1990, PHYS REV B, V41, P1235, DOI 10.1103/PhysRevB.41.1235
+   TERSOFF J, 1985, PHYS REV B, V31, P805, DOI 10.1103/PhysRevB.31.805
+   Urbieta A, 2008, PHYS REV B, V77, DOI 10.1103/PhysRevB.77.155313
+   Vurgaftman I, 2001, J APPL PHYS, V89, P5815, DOI 10.1063/1.1368156
+   Wang LW, 1999, PHYS REV B, V59, P5678, DOI 10.1103/PhysRevB.59.5678
+   Wang LW, 2000, APPL PHYS LETT, V76, P339, DOI 10.1063/1.125747
+   Williamson AJ, 2000, PHYS REV B, V62, P12963, DOI 10.1103/PhysRevB.62.12963
+   Yamauchi T, 2000, APPL PHYS LETT, V77, P4368, DOI 10.1063/1.1333397
+NR 37
+TC 28
+Z9 29
+U1 0
+U2 33
+PU AMER INST PHYSICS
+PI MELVILLE
+PA 1305 WALT WHITMAN RD, STE 300, MELVILLE, NY 11747-4501 USA
+SN 0021-8979
+EI 1089-7550
+J9 J APPL PHYS
+JI J. Appl. Phys.
+PD DEC 1
+PY 2010
+VL 108
+IS 11
+AR 114315
+DI 10.1063/1.3518680
+PG 13
+WC Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Physics
+GA 696XG
+UT WOS:000285474100122
+OA Green Submitted
+DA 2022-10-19
+ER
+
+EFF

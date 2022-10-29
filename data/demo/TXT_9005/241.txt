@@ -1,0 +1,110 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Corni, S
+   Cammi, R
+   Mennucci, B
+   Tomasi, J
+AF Corni, S
+   Cammi, R
+   Mennucci, B
+   Tomasi, J
+TI Electronic excitation energies of molecules in solution within continuum
+   solvation models: Investigating the discrepancy between state-specific
+   and linear-response methods
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+ID INTEGRAL-EQUATION FORMALISM; SOLVENT EFFECT THEORIES;
+   SELF-CONSISTENT-FIELD; SOLVATOCHROMIC SHIFTS; EXCITED-STATES;
+   CONFIGURATION-INTERACTION; NONEQUILIBRIUM SOLVATION; ANISOTROPIC
+   DIELECTRICS; PARA-NITROANILINE; METAL-SURFACE
+AB In a recent article [R. Cammi, S. Corni, B. Mennucci, and J. Tomasi, J. Chem. Phys. 122, 104513 (2005)], we demonstrated that the state-specific (SS) and the linear-response (LR) approaches, two different ways to calculate solute excitation energies in the framework of quantum-mechanical continuum models of solvation, give different excitation energy expressions. In particular, they differ in the terms related to the electronic response of the solvent. In the present work, we further investigate this difference by comparing the excitation energy expressions of SS and LR with those obtained through a simple model for solute-solvent systems that bypasses one of the basic assumptions of continuum solvation models, i.e., the use of a single Hartree product of a solute and a solvent wave function to describe the total solute-solvent wave function. In particular, we consider the total solute-solvent wave function as a linear combination of the four products of two solute states and two solvent electronic states. To maximize the comparability with quantum-mechanical continuum model the resulting excitation energy expression is recast in terms of response functions of the solvent and quantities proper for the solvated molecule. The comparison of the presented expressions with the LR and SS ones enlightens the physical meaning of the terms included or neglected by these approaches and shows that SS agrees with the results of the four-level model, while LR includes a term classified as dispersion in previous treatments and neglects another related to electrostatic. A discussion on the possible origin of the LR flaw is finally given. (c) 2005 American Institute of Physics.
+C1 Natl Res Ctr Nanostruct & BioSyst, INFM, CNR, I-41100 Modena, Italy.
+   Univ Parma, Dipartimento Chim, I-43100 Parma, Italy.
+   Univ Pisa, Dipartimento Chim & Chim Ind, I-56126 Pisa, Italy.
+RP Corni, S (corresponding author), Natl Res Ctr Nanostruct & BioSyst, INFM, CNR, Via Campi 213-A, I-41100 Modena, Italy.
+EM corni.stefano@unimore.it
+RI Corni, Stefano/A-6198-2012; Cammi, Roberto/E-9028-2015; Mennucci,
+   Benedetta/G-5522-2016; Mennucci, Benedetta/H-2216-2011
+OI Cammi, Roberto/0000-0002-7026-7750; Mennucci,
+   Benedetta/0000-0002-4394-0129; Corni, Stefano/0000-0001-6707-108X
+CR AGUILAR MA, 1993, J CHEM PHYS, V98, P737
+   Andreussi O, 2004, J CHEM PHYS, V121, P10190, DOI 10.1063/1.1806819
+   ANGYAN JG, 1992, J MATH CHEM, V10, P93, DOI 10.1007/BF01169172
+   Aquilante F, 2003, J CHEM PHYS, V119, P12323, DOI 10.1063/1.1625363
+   BONACCORSI R, 1983, J COMPUT CHEM, V4, P567, DOI 10.1002/jcc.540040416
+   CAMMI R, 1995, J COMPUT CHEM, V16, P1449, DOI 10.1002/jcc.540161202
+   Cammi R, 2005, J CHEM PHYS, V122, DOI 10.1063/1.1867373
+   Cammi R, 2003, J CHEM PHYS, V119, P5818, DOI 10.1063/1.1603728
+   Cammi R, 1999, J CHEM PHYS, V110, P9877, DOI 10.1063/1.478861
+   Cammi R, 2000, J PHYS CHEM A, V104, P5631, DOI 10.1021/jp000156l
+   CAMMI R, 1996, INT J QUANTUM CHEM, V75, P767
+   Cances E, 1997, J CHEM PHYS, V107, P3032, DOI 10.1063/1.474659
+   Chandler D., 1987, INTRO MODERN STAT ME
+   Christiansen O, 2000, J CHEM PHYS, V113, P8101, DOI 10.1063/1.1316035
+   Corni S, 2003, J CHEM PHYS, V118, P6481, DOI 10.1063/1.1558036
+   Corni S, 2002, J CHEM PHYS, V117, P7266, DOI 10.1063/1.1507579
+   Cramer CJ, 1999, CHEM REV, V99, P2161, DOI 10.1021/cr960149m
+   do Monte SA, 2004, THEOR CHEM ACC, V111, P78, DOI 10.1007/s00214-003-0530-7
+   FOX T, 1992, CHEM PHYS LETT, V191, P33, DOI 10.1016/0009-2614(92)85364-G
+   HONJOU H, 1997, J CHEM PHYS, V107, P5652
+   Iozzi MF, 2004, J CHEM PHYS, V120, P7029, DOI 10.1063/1.1669389
+   KARELSON MM, 1992, J PHYS CHEM-US, V96, P6949, DOI 10.1021/j100196a019
+   Kawski A, 2002, Z NATURFORSCH A, V57, P255, DOI 10.1515/zna-2002-0509
+   KIM HJ, 1990, J CHEM PHYS, V93, P5194, DOI 10.1063/1.459665
+   Klamt A, 1996, J PHYS CHEM-US, V100, P3349, DOI 10.1021/jp950607f
+   Li J, 2000, INT J QUANTUM CHEM, V77, P264, DOI 10.1002/(SICI)1097-461X(2000)77:1<264::AID-QUA24>3.3.CO;2-A
+   LINDER B, 1967, ADV CHEM PHYS, V12, P225
+   Liptay W., 1966, MODERN QUANTUM CHE 2
+   MCRAE EG, 1957, J PHYS CHEM-US, V61, P562, DOI 10.1021/j150551a012
+   McWeeny R., 1992, METHODS MOL QUANTUM
+   Mennucci B, 1997, J PHYS CHEM B, V101, P10506, DOI 10.1021/jp971959k
+   Mennucci B, 1998, J CHEM PHYS, V109, P2798, DOI 10.1063/1.476878
+   MIERTUS S, 1981, CHEM PHYS, V55, P117, DOI 10.1016/0301-0104(81)85090-2
+   MIKKELSEN KV, 1994, J CHEM PHYS, V100, P8240, DOI 10.1063/1.466767
+   Poulsen TD, 1999, J PHYS CHEM A, V103, P3418, DOI 10.1021/jp984782i
+   RAUDINO A, 1983, J CHEM SOC FARADAY T, V2, P1759
+   RAUHUT G, 1993, J AM CHEM SOC, V115, P9174, DOI 10.1021/ja00073a036
+   ROSCH N, 1994, J PHYS CHEM-US, V98, P5817
+   Ruiz-Lopez M. F., 1983, THEOCHEM, V93, P277, DOI 10.1016/0166-1280(83)80113-4
+   SerranoAndres L, 1997, INT J QUANTUM CHEM, V65, P167, DOI 10.1002/(SICI)1097-461X(1997)65:2<167::AID-QUA8>3.0.CO;2-U
+   Tapia O., 1991, THEOCHEM, V72, P59
+   TAPIA O, 1992, J MATH CHEM, V10, P139, DOI 10.1007/BF01169173
+   TAPIA O, 1980, QUANTUM THEORY CHEM, V2
+   Tchougreeff AL, 1999, PHYS CHEM CHEM PHYS, V1, P1051, DOI 10.1039/a808668k
+   TOMASI J, 1994, CHEM REV, V94, P2027, DOI 10.1021/cr00031a013
+   Tretiak S, 2002, CHEM REV, V102, P3171, DOI 10.1021/cr0101252
+   YOMOSA S, 1974, J PHYS SOC JPN, V36, P1655, DOI 10.1143/JPSJ.36.1655
+   YOUNG RH, 1992, J CHEM PHYS, V97, P8263
+   Zhu C, 2004, PHYS REV A, V70, DOI 10.1103/PhysRevA.70.032722
+   Zubarev D. N., 1974, NONEQUILIBRIUM STAT
+NR 50
+TC 171
+Z9 171
+U1 1
+U2 24
+PU AMER INST PHYSICS
+PI MELVILLE
+PA CIRCULATION & FULFILLMENT DIV, 2 HUNTINGTON QUADRANGLE, STE 1 N O 1,
+   MELVILLE, NY 11747-4501 USA
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PD OCT 1
+PY 2005
+VL 123
+IS 13
+AR 134512
+DI 10.1063/1.2039077
+PG 10
+WC Chemistry, Physical; Physics, Atomic, Molecular & Chemical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Physics
+GA 972GO
+UT WOS:000232442500053
+PM 16223319
+DA 2022-10-21
+ER
+
+EF

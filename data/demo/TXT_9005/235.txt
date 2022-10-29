@@ -1,0 +1,113 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Bredas, JL
+   Calbert, JP
+   da Silva, DA
+   Cornil, J
+AF Bredas, JL
+   Calbert, JP
+   da Silva, DA
+   Cornil, J
+TI Organic semiconductors: A theoretical characterization of the basic
+   parameters governing charge transport
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+ID FIELD-EFFECT TRANSISTORS; THIN-FILM TRANSISTORS; POLYCYCLIC
+   AROMATIC-HYDROCARBONS; DIFFERENTIAL-OVERLAP TECHNIQUE; CONJUGATED
+   POLYMERS; ELECTRONIC-STRUCTURE; HIGH-MOBILITY; OPTOELECTRONIC DEVICES;
+   INTERMEDIATE NEGLECT; CRYSTAL
+AB Organic semiconductors based on pi-conjugated oligomers and polymers constitute the active elements in new generations of plastic (opto)electronic devices. The performance of these devices depends largely on the efficiency of the charge-transport processes; at the microscopic level, one of the major parameters governing the transport properties is the amplitude of the electronic transfer integrals between adjacent oligomer or polymer chains, Here, quantum-chemical calculations are performed on model systems to address the way transfer integrals between adjacent chains are affected by the nature and relative positions of the interacting units. Compounds under investigation include oligothienylenes, hexabenzocoronene, oligoacenes, and perylene. It is shown that the amplitude of the transfer integrals is extremely sensitive to the molecular packing. Interestingly, in contrast to conventional wisdom, specific arrangements can lead to electron mobilities that are larger than hole mobilities, which is, for instance, the case of perylene.
+C1 Univ Arizona, Dept Chem, Tucson, AZ 85721 USA.
+   Univ Mons, Ctr Res Mol Elect & Photon, Lab Chem Novel Mat, B-7000 Mons, Belgium.
+RP Bredas, JL (corresponding author), Univ Arizona, Dept Chem, POB 210041, Tucson, AZ 85721 USA.
+EM jlbredas@u.arizona.edu
+RI DA SILVA FILHO, DEMETRIO/N-7184-2019; Bredas, Jean-Luc E/A-3431-2008; DA
+   SILVA FILHO, DEMETRIO A/H-9303-2016
+OI DA SILVA FILHO, DEMETRIO/0000-0002-7103-4780; Bredas, Jean-Luc
+   E/0000-0001-7278-4471; DA SILVA FILHO, DEMETRIO A/0000-0002-7103-4780
+CR Bao ZN, 2000, ADV MATER, V12, P227, DOI 10.1002/(SICI)1521-4095(200002)12:3<227::AID-ADMA227>3.0.CO;2-U
+   Brabec CJ, 2001, ADV FUNCT MATER, V11, P15, DOI 10.1002/1616-3028(200102)11:1<15::AID-ADFM15>3.3.CO;2-1
+   BROCK CP, 1990, ACTA CRYSTALLOGR B, V46, P795, DOI 10.1107/S0108768190008382
+   BURROUGHES JH, 1990, NATURE, V347, P539, DOI 10.1038/347539a0
+   CAMERMAN A, 1964, PROC R SOC LON SER-A, V279, P129, DOI 10.1098/rspa.1964.0094
+   Cornil J, 2001, ADV MATER, V13, P1053, DOI 10.1002/1521-4095(200107)13:14<1053::AID-ADMA1053>3.0.CO;2-7
+   Cornil J, 2001, J AM CHEM SOC, V123, P1250, DOI 10.1021/ja005700i
+   DEWAR MJS, 1985, J AM CHEM SOC, V107, P3902, DOI 10.1021/ja00299a024
+   Dodabalapur A, 1998, APPL PHYS LETT, V73, P142, DOI 10.1063/1.121736
+   Fichou D, 2000, J MATER CHEM, V10, P571, DOI 10.1039/a908312j
+   Friend RH, 1999, NATURE, V397, P121, DOI 10.1038/16393
+   FRIEND RH, 1999, PHYSICS WORLD    JUN, P35, DOI DOI 10.1088/2058-7058/12/6/27
+   GARNIER F, 1994, SCIENCE, V265, P1684, DOI 10.1126/science.265.5179.1684
+   GODDARD R, 1995, J AM CHEM SOC, V117, P30, DOI 10.1021/ja00106a004
+   GREENHAM NC, 1993, NATURE, V365, P628, DOI 10.1038/365628a0
+   Gundlach DJ, 1997, IEEE ELECTR DEVICE L, V18, P87, DOI 10.1109/55.556089
+   HADDON RC, 1995, J MATER CHEM, V5, P1719, DOI 10.1039/jm9950501719
+   HALLS JJM, 1995, NATURE, V376, P498, DOI 10.1038/376498a0
+   Herwig P, 1996, ADV MATER, V8, P510, DOI 10.1002/adma.19960080613
+   Horowitz G, 1999, SYNTHETIC MET, V101, P401, DOI 10.1016/S0379-6779(98)00313-0
+   Horowitz G, 2000, ADV MATER, V12, P1046, DOI 10.1002/1521-4095(200007)12:14<1046::AID-ADMA1046>3.0.CO;2-W
+   Horowitz G, 1998, ADV MATER, V10, P365, DOI 10.1002/(SICI)1521-4095(199803)10:5<365::AID-ADMA365>3.0.CO;2-U
+   Katz HE, 2000, NATURE, V404, P478, DOI 10.1038/35006603
+   Katz HE, 1997, J MATER CHEM, V7, P369, DOI 10.1039/a605274f
+   Keil M, 2000, J PHYS CHEM B, V104, P3967, DOI 10.1021/jp9941211
+   Laquindanum JG, 1996, CHEM MATER, V8, P2542, DOI 10.1021/cm9603664
+   Li XC, 1998, J AM CHEM SOC, V120, P2206, DOI 10.1021/ja9735968
+   Li XY, 1999, CHEM PHYS, V248, P137, DOI 10.1016/S0301-0104(99)00239-6
+   Malagoli M, 2000, CHEM PHYS LETT, V327, P13, DOI 10.1016/S0009-2614(00)00757-0
+   MARCUS RA, 1993, REV MOD PHYS, V65, P599, DOI 10.1103/RevModPhys.65.599
+   Muller M, 1998, CHEM-EUR J, V4, P2099, DOI 10.1002/(SICI)1521-3765(19981102)4:11<2099::AID-CHEM2099>3.0.CO;2-T
+   Nelson SF, 1998, APPL PHYS LETT, V72, P1854, DOI 10.1063/1.121205
+   Newton MD, 2000, INT J QUANTUM CHEM, V77, P255, DOI 10.1002/(SICI)1097-461X(2000)77:1<255::AID-QUA23>3.0.CO;2-O
+   PONOMAREV VI, 1976, KRISTALLOGRAFIYA+, V21, P392
+   RIDLEY J, 1973, THEOR CHIM ACTA, V32, P111, DOI 10.1007/BF00528484
+   SARICIFTCI NS, 1992, SCIENCE, V258, P1474, DOI 10.1126/science.258.5087.1474
+   Schon JH, 2000, SCIENCE, V290, P963, DOI 10.1126/science.290.5493.963
+   Schon JH, 2000, NATURE, V406, P702, DOI 10.1038/35021011
+   Schon JH, 2000, SCIENCE, V289, P599, DOI 10.1126/science.289.5479.599
+   Schon JH, 2001, SYNTHETIC MET, V122, P157, DOI 10.1016/S0379-6779(00)01335-7
+   Schon JH, 2001, PHYS REV LETT, V86, P3843, DOI 10.1103/PhysRevLett.86.3843
+   Schon JH, 2000, SCIENCE, V287, P1022, DOI 10.1126/science.287.5455.1022
+   Schon JH, 2000, APPL PHYS LETT, V77, P3776, DOI 10.1063/1.1329634
+   Sheats JR, 1996, SCIENCE, V273, P884, DOI 10.1126/science.273.5277.884
+   Sirringhaus H, 1999, NATURE, V401, P685, DOI 10.1038/44359
+   Sirringhaus H, 1998, SCIENCE, V280, P1741, DOI 10.1126/science.280.5370.1741
+   Sirringhaus H, 2000, SCIENCE, V290, P2123, DOI 10.1126/science.290.5499.2123
+   TANG CW, 1987, APPL PHYS LETT, V51, P913, DOI 10.1063/1.98799
+   Torsi L, 1998, PHYS REV B, V57, P2271, DOI 10.1103/PhysRevB.57.2271
+   van de Craats AM, 1999, ADV MATER, V11, P1469, DOI 10.1002/(SICI)1521-4095(199912)11:17<1469::AID-ADMA1469>3.0.CO;2-K
+   van de Craats AM, 1998, ADV MATER, V10, P36
+   Yu G, 1998, ADV MATER, V10, P1431, DOI 10.1002/(SICI)1521-4095(199812)10:17<1431::AID-ADMA1431>3.0.CO;2-4
+   ZERNER MC, 1980, J AM CHEM SOC, V102, P589, DOI 10.1021/ja00522a025
+NR 53
+TC 1071
+Z9 1078
+U1 10
+U2 369
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD APR 30
+PY 2002
+VL 99
+IS 9
+BP 5804
+EP 5809
+DI 10.1073/pnas.092143399
+PG 6
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 548FK
+UT WOS:000175377800013
+PM 11972059
+OA Green Published, Bronze
+DA 2022-10-21
+ER
+
+EF

@@ -1,0 +1,130 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Liu, XW
+   Wu, Z
+   Chen, JT
+   Li, L
+   Chen, P
+   Sun, WB
+AF Liu, Xiang-Wen
+   Wu, Zhuo
+   Chen, Ji-Tun
+   Li, Li
+   Chen, Peng
+   Sun, Wen-Bin
+TI Regulating the single-molecule magnetic properties of phenol
+   oxygen-bridged binuclear lanthanide complexes through the electronic and
+   spatial effect of the substituents
+SO INORGANIC CHEMISTRY FRONTIERS
+LA English
+DT Article
+ID ZERO-FIELD; ION MAGNET; BEHAVIOR; RELAXATION; ANISOTROPY; DY;
+   LUMINESCENT; TRANSITION; QUASI-D-5H; DILUTION
+AB A series of binuclear lanthanide complexes with formulas [Dy-2(DMOMP)(2)(TFNB)(4)]center dot CH3CH2OCH2CH3 (1), [Dy-2(DMOEP)(2)(TFNB)(4)] (2), [Dy-2(DMOEP)(2)(BTFA)(4)] (3), [Dy-2(DMOEP)(2)(TTA)(4)] (4), and [Dy-2(DMOAP)(2)(TFNB)(4)] (5), (DMOMP = 2,6-dimethoxy-4-methylphenol, DMOEP = methyl 3,5-dimethoxy-4-hydroxybenzoate, DMOAP = 3,5-dimethoxy-4-hydroxybenzaldehyde, TFNB = 4,4,4-trifluoro-1-(2-naphthyl)-1,3-butanedione, BTFA = benzoyltrifluoroacetone, TTA = 2-thenoyltrifluoroacetone) were structurally and magnetically characterized. The core structures of these complexes consist of dinuclear lanthanide(iii) ions bridged firmly by phenoxyl O atoms from two nearly horizontal and isolated 2,6-dimethoxyphenol (DMOP) derivatives, which provide an ideal model to investigate the synergistic contribution of single-ion anisotropy and magnetic exchange interaction. In this case, the modification was carried out on the para position of the phenol hydroxyl of the DMOP bridge and on one side of the terminal substituent of the beta-diketonate co-ligand with electron-donating/withdrawing substituents that also exhibit different steric hindrance. Following this, the effective energy barrier (U-eff) of magnetization reversal was enhanced by ten times in magnitude at the most, and the hysteresis temperature increased from zero to 2.5 K.
+C1 [Liu, Xiang-Wen; Wu, Zhuo; Chen, Ji-Tun; Chen, Peng; Sun, Wen-Bin] Heilongjiang Univ, Key Lab Funct Inorgan Mat Chem, Minist Educ, Sch Chem & Mat Sci, 74 Xuefu Rd, Harbin 150080, Peoples R China.
+   [Li, Li] Jilin Univ, State Key Lab Inorgan Synth & Preparat Chem, Coll Chem, 2699 Qianjin St, Changchun 130012, Peoples R China.
+RP Chen, P; Sun, WB (corresponding author), Heilongjiang Univ, Key Lab Funct Inorgan Mat Chem, Minist Educ, Sch Chem & Mat Sci, 74 Xuefu Rd, Harbin 150080, Peoples R China.
+EM jehugu@outlook.com; wenbinsun@126.com
+OI Sun, Wenbin/0000-0003-3358-050X
+FU NSFC [21572048, 21102039]; Educational Commission of Heilongjiang
+   Province [LH2019B016]; Heilongjiang University [JCL201605,
+   2017230101001473]
+FX This study was supported by the NSFC (No. 21572048, 21102039), the
+   Educational Commission of Heilongjiang Province (LH2019B016), the
+   Heilongjiang University (JCL201605, 2017230101001473). We thank Prof. T.
+   Liu and Dr Y. S. Meng (Dalian University of Technology) for the ZFC-FC
+   measurements.
+CR Abragam A., 1970, Electron Paramagnetic Resonance of Transition Ions
+   Alvarez S, 2005, COORDIN CHEM REV, V249, P1693, DOI 10.1016/j.ccr.2005.03.031
+   Aubin SMJ, 1999, INORG CHEM, V38, P5329, DOI 10.1021/ic990613g
+   Bagai R, 2007, J AM CHEM SOC, V129, P12918, DOI 10.1021/ja075382o
+   Bain GA, 2008, J CHEM EDUC, V85, P532, DOI 10.1021/ed085p532
+   Bernot K, 2009, PHYS REV B, V79, DOI 10.1103/PhysRevB.79.134419
+   Bi Y, 2011, CHEM-EUR J, V17, P12476, DOI 10.1002/chem.201101838
+   Blagg RJ, 2011, ANGEW CHEM INT EDIT, V50, P6530, DOI 10.1002/anie.201101932
+   Bogani L, 2008, NAT MATER, V7, P179, DOI 10.1038/nmat2133
+   Canaj AB, 2019, ANGEW CHEM INT EDIT, V58, P14146, DOI 10.1002/anie.201907686
+   Chen YC, 2017, ANGEW CHEM INT EDIT, V56, P4996, DOI 10.1002/anie.201701480
+   Chilton NF, 2013, NAT COMMUN, V4, DOI 10.1038/ncomms3551
+   Colacio E, 2013, ANGEW CHEM INT EDIT, V52, P9130, DOI 10.1002/anie.201304386
+   Cole KS, 1941, J CHEM PHYS, V9, P341, DOI 10.1063/1.1750906
+   Cucinotta G., 2012, ANGEW CHEM, V124, P1638, DOI DOI 10.1002/ANGE.201107453
+   da Cunha TT, 2013, J AM CHEM SOC, V135, P16332, DOI 10.1021/ja4089956
+   Demir S, 2017, NAT COMMUN, V8, DOI 10.1038/s41467-017-01553-w
+   Dolomanov OV, 2009, J APPL CRYSTALLOGR, V42, P339, DOI 10.1107/S0021889808042726
+   Feltham HLC, 2014, COORDIN CHEM REV, V276, P1, DOI 10.1016/j.ccr.2014.05.011
+   Gatteschi D, 2006, MESOSCOPIC PHYS NANO, P1
+   Guo FS, 2018, SCIENCE, V362, P1400, DOI 10.1126/science.aav0652
+   Guo YN, 2011, J AM CHEM SOC, V133, P11948, DOI 10.1021/ja205035g
+   Habib F, 2011, J AM CHEM SOC, V133, P8830, DOI 10.1021/ja2017009
+   Han T, 2012, INORG CHEM, V51, P13009, DOI 10.1021/ic3021244
+   Huang XC, 2015, DALTON T, V44, P20834, DOI 10.1039/c5dt04147c
+   Huo Y, 2019, INORG CHEM, V58, P1301, DOI 10.1021/acs.inorgchem.8b02788
+   Jeon IR, 2013, J AM CHEM SOC, V135, P16845, DOI 10.1021/ja409927v
+   Jiang SD, 2010, ANGEW CHEM INT EDIT, V49, P7448, DOI 10.1002/anie.201004027
+   Lee S, 2017, CHEM LETT, V46, P10, DOI 10.1246/cl.160800
+   Leng JD, 2013, CHEM COMMUN, V49, P9341, DOI 10.1039/c3cc45113e
+   Li HD, 2018, J MATER CHEM C, V6, P2060, DOI 10.1039/c7tc05377k
+   Li M, 2017, CHEM-EUR J, V23, P17775, DOI 10.1002/chem.201703755
+   Lin PH, 2009, ANGEW CHEM INT EDIT, V48, P9489, DOI 10.1002/anie.200903199
+   Liu J, 2016, J AM CHEM SOC, V138, P5441, DOI 10.1021/jacs.6b02638
+   Liu JL, 2018, CHEM SOC REV, V47, P2431, DOI 10.1039/c7cs00266a
+   Liu JL, 2013, CHEM SCI, V4, P3310, DOI 10.1039/c3sc50843a
+   Liu JL, 2012, INORG CHEM, V51, P8538, DOI 10.1021/ic301115b
+   Llunell M., 2013, SHAPE V2 1
+   Long J, 2011, J AM CHEM SOC, V133, P5319, DOI 10.1021/ja109706y
+   Luzon J, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.247205
+   McClain KR, 2018, CHEM SCI, V9, P8492, DOI 10.1039/c8sc03907k
+   Meihaus KR, 2014, INORG CHEM, V53, P3099, DOI 10.1021/ic4030102
+   Meihaus KR, 2013, J AM CHEM SOC, V135, P17952, DOI 10.1021/ja4094814
+   Panissod P., 2002, MAGNETISM MOL MAT, P235
+   Perfetti M, 2015, INORG CHEM, V54, P3090, DOI 10.1021/acs.inorgchem.5b00288
+   Pfau B, 2012, NAT COMMUN, V3, DOI 10.1038/ncomms2108
+   Pointillart F, 2015, ANGEW CHEM INT EDIT, V54, P1504, DOI 10.1002/anie.201409887
+   Pointillart F, 2011, CHEM-EUR J, V17, P10397, DOI 10.1002/chem.201100869
+   Pugh T., 2016, ANGEW CHEM, V128, P11248
+   Pugh T, 2016, ANGEW CHEM INT EDIT, V55, P11082, DOI 10.1002/anie.201604346
+   Pugh T, 2016, CHEM SCI, V7, P2128, DOI 10.1039/c5sc03755g
+   Rinehart JD, 2011, CHEM SCI, V2, P2078, DOI 10.1039/c1sc00513h
+   Rinehart JD, 2011, J AM CHEM SOC, V133, P14236, DOI 10.1021/ja206286h
+   Rocha AR, 2005, NAT MATER, V4, P335, DOI 10.1038/nmat1349
+   Sheldrick GM, 2008, ACTA CRYSTALLOGR A, V64, P112, DOI 10.1107/S0108767307043930
+   SHRIVASTAVA KN, 1983, PHYS STATUS SOLIDI B, V117, P437, DOI 10.1002/pssb.2221170202
+   Sun WB, 2016, CHEM SCI, V7, P684, DOI 10.1039/c5sc02986d
+   Titos-Padilla S, 2013, INORG CHEM, V52, P9620, DOI 10.1021/ic401378k
+   Wernsdorfer W, 2002, NATURE, V416, P406, DOI 10.1038/416406a
+   Wu JF, 2017, INORG CHEM, V56, P11211, DOI 10.1021/acs.inorgchem.7b01582
+   Wu JF, 2016, CHEM SCI, V7, P3632, DOI 10.1039/c5sc04510j
+   Yamaguchi A, 2002, J PHYS SOC JPN, V71, P414, DOI 10.1143/JPSJ.71.414
+   Yi XH, 2012, CHEM-EUR J, V18, P11379, DOI 10.1002/chem.201201167
+   Zheng YZ, 2009, CHEM-EUR J, V15, P12566, DOI 10.1002/chem.200902064
+NR 64
+TC 7
+Z9 7
+U1 2
+U2 30
+PU ROYAL SOC CHEMISTRY
+PI CAMBRIDGE
+PA THOMAS GRAHAM HOUSE, SCIENCE PARK, MILTON RD, CAMBRIDGE CB4 0WF, CAMBS,
+   ENGLAND
+SN 2052-1553
+J9 INORG CHEM FRONT
+JI Inorg. Chem. Front.
+PD MAR 7
+PY 2020
+VL 7
+IS 5
+BP 1229
+EP 1238
+DI 10.1039/c9qi01380f
+PG 10
+WC Chemistry, Inorganic & Nuclear
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry
+GA KT6IJ
+UT WOS:000519117700014
+DA 2022-10-21
+ER
+
+EF

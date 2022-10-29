@@ -1,0 +1,2022 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Mizuseki, H
+   Belosludov, RV
+   Uehara, T
+   Lee, SU
+   Kawazoe, Y
+AF Mizuseki, Hiroshi
+   Belosludov, Rodion V.
+   Uehara, Tomoki
+   Lee, Sang Uck
+   Kawazoe, Yoshiyuki
+TI Transport properties of nanoscale materials for molecular wire
+   applications: A case study of ferrocene dimers
+SO JOURNAL OF THE KOREAN PHYSICAL SOCIETY
+LA English
+DT Article; Proceedings Paper
+CT 4th Conference of the
+   Asian-Consortium-on-Computational-Materials-Science
+CY SEP 13-16, 2007
+CL Korea Inst Sci & Technol, Seoul, SOUTH KOREA
+HO Korea Inst Sci & Technol
+DE molecular electronics; molecular devices; nanoelectronics;
+   nanostructure; nonequilibrium Green's function formalism
+ID NEGATIVE DIFFERENTIAL RESISTANCE; ELECTRON-TRANSPORT; 1ST-PRINCIPLES;
+   RECTIFIER; CONDUCTANCE; DIODE; AU
+AB Recently, molecular electronics has been attracting significant attention as a post-silicon enabling technology for the fabrication of future nanoscale electronic devices. The geometric and the electronic structures of the proposed configurations of ferrocene-based dimer systems, such as bisferrocene-2,4-dithiolate, s-(bisferrocenyl)indacene-2,6-dithiolate and bis(ferrocenyl)pentalene-2,5-dithiolate, were examined using density functional theory. The transport properties were investigated using the nonequilibrium Green's function formalism for quantum transport. The results obtained indicate that the transmission coefficients of the dimers strongly depend on the metal-metal distance and on delocalization of the molecular levels. Thus, control of molecular orbital delocalization can be achieved by designing the metallocene-based polymer such that the metal-metal distance is optimal.
+C1 [Mizuseki, Hiroshi; Belosludov, Rodion V.; Uehara, Tomoki; Lee, Sang Uck; Kawazoe, Yoshiyuki] Tohoku Univ, Inst Mat Res, Sendai, Miyagi 9808577, Japan.
+RP Mizuseki, H (corresponding author), Tohoku Univ, Inst Mat Res, 2-1-1 Katahira, Sendai, Miyagi 9808577, Japan.
+EM rnizuseki@imr.edu
+RI Lee, Sang Uck/J-9027-2014; Kawazoe, Yoshiyuki/C-2998-2011; Belosludov,
+   Rodion/A-1748-2013; Mizuseki, Hiroshi/A-8891-2011
+OI Lee, Sang Uck/0000-0001-9596-2349; Mizuseki,
+   Hiroshi/0000-0003-0973-7693; Belosludov, Rodion/0000-0003-4661-9194
+CR AVIRAM A, 1974, CHEM PHYS LETT, V29, P277, DOI 10.1016/0009-2614(74)85031-1
+   Belosludov RV, 2007, PHYS REV B, V75, DOI 10.1103/PhysRevB.75.113411
+   Belosludov RV, 2006, COMP MATER SCI, V36, P130, DOI 10.1016/j.commatsci.2004.11.012
+   Belosludov RV, 2005, JPN J APPL PHYS 1, V44, P2823, DOI 10.1143/JJAP.44.2823
+   Belosludov RV, 2004, JPN J APPL PHYS 1, V43, P2061, DOI 10.1143/JJAP.43.2061
+   Brandbyge M, 2002, PHYS REV B, V65, DOI 10.1103/PhysRevB.65.165401
+   Chen H, 2003, PHYS REV B, V67, DOI 10.1103/PhysRevB.67.113408
+   Chen J, 2000, APPL PHYS LETT, V77, P1224, DOI 10.1063/1.1289650
+   Chen J, 1999, SCIENCE, V286, P1550, DOI 10.1126/science.286.5444.1550
+   Chen YC, 2005, PHYS REV LETT, V95, DOI 10.1103/PhysRevLett.95.166802
+   Damle PS, 2001, PHYS REV B, V64, DOI 10.1103/PhysRevB.64.201403
+   Datta S., 1997, ELECT TRANSPORT MESO
+   Di Ventra M, 2000, PHYS REV LETT, V84, P979, DOI 10.1103/PhysRevLett.84.979
+   Donhauser ZJ, 2001, SCIENCE, V292, P2303, DOI 10.1126/science.1060294
+   Engtrakul C, 2001, NANO LETT, V1, P541, DOI 10.1021/nl010038p
+   Farajian AA, 2007, J CHEM PHYS, V127, DOI 10.1063/1.2748047
+   Farajian AA, 2006, THIN SOLID FILMS, V499, P269, DOI 10.1016/j.tsf.2005.07.122
+   Farajian AA, 2003, PHYS REV B, V67, DOI 10.1103/PhysRevB.67.205423
+   Getty SA, 2005, PHYS REV B, V71, DOI 10.1103/PhysRevB.71.241401
+   HAALAND A, 1979, ACCOUNTS CHEM RES, V12, P415, DOI 10.1021/ar50143a006
+   Jiang F, 2006, J CHEM PHYS, V125, DOI 10.1063/1.2337286
+   Jiang F, 2005, PHYS REV B, V72, DOI 10.1103/PhysRevB.72.155408
+   Jiang F, 2006, PHYS LETT A, V359, P487, DOI 10.1016/j.physleta.2006.06.070
+   Liang YY, 2007, J CHEM PHYS, V127, DOI 10.1063/1.2771156
+   Liu R, 2006, J CHEM PHYS, V124, DOI 10.1063/1.2141955
+   Liu R, 2005, NANO LETT, V5, P1959, DOI 10.1021/nl0513380
+   Liu R, 2006, J AM CHEM SOC, V128, P6274, DOI 10.1021/ja057054z
+   Majumder C, 2002, JPN J APPL PHYS 1, V41, P2770, DOI 10.1143/JJAP.41.2770
+   Majumder C, 2002, J PHYS CHEM A, V106, P7911, DOI 10.1021/jp0258560
+   Majumder C, 2002, J CHEM PHYS, V117, P7669, DOI 10.1063/1.1509053
+   Majumder C, 2002, J CHEM PHYS, V117, P2819, DOI 10.1063/1.1491404
+   Majumder C, 2001, J PHYS CHEM A, V105, P9454, DOI 10.1021/jp011888w
+   Mizuseki H, 2003, THIN SOLID FILMS, V438, P235, DOI 10.1016/S0040-6090(03)00782-X
+   Mizuseki H, 2003, COMP MATER SCI, V27, P161, DOI 10.1016/S0927-0256(02)00440-8
+   Nitzan A, 2003, SCIENCE, V300, P1384, DOI 10.1126/science.1081572
+   Palacios JJ, 2002, PHYS REV B, V66, DOI 10.1103/PhysRevB.66.035322
+   Pupysheva OV, 2006, J APPL PHYS, V100, DOI 10.1063/1.2234546
+   Reed MA, 1997, SCIENCE, V278, P252, DOI 10.1126/science.278.5336.252
+   Uehara T, 2006, JPN J APPL PHYS 1, V45, P3768, DOI 10.1143/JJAP.45.3768
+   Wang JT, 2006, PHYS REV LETT, V97, DOI 10.1103/PhysRevLett.97.046103
+   Wang JT, 2005, PHYS REV LETT, V94, DOI 10.1103/PhysRevLett.94.226103
+   Wang JT, 2003, PHYS REV B, V67, DOI 10.1103/PhysRevB.67.193307
+   Ye JF, 2007, INT J QUANTUM CHEM, V107, P2006, DOI 10.1002/qua.21361
+   Zhou YX, 2007, PHYS REV B, V75, DOI 10.1103/PhysRevB.75.245407
+NR 44
+TC 11
+Z9 11
+U1 1
+U2 10
+PU KOREAN PHYSICAL SOC
+PI SEOUL
+PA 635-4, YUKSAM-DONG, KANGNAM-KU, SEOUL 135-703, SOUTH KOREA
+SN 0374-4884
+EI 1976-8524
+J9 J KOREAN PHYS SOC
+JI J. Korean Phys. Soc.
+PD APR
+PY 2008
+VL 52
+IS 4
+SI SI
+BP 1197
+EP 1201
+DI 10.3938/jkps.52.1197
+PN 1
+PG 5
+WC Physics, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Physics
+GA 288RY
+UT WOS:000255004700004
+DA 2022-10-19
+ER
+
+PT J
+AU Zheng, YS
+   Lu, TQ
+   Zhang, CX
+   Su, WH
+AF Zheng, YS
+   Lu, TQ
+   Zhang, CX
+   Su, WH
+TI Antiresonance of electron tunneling through a quantum dot array
+SO PHYSICA E-LOW-DIMENSIONAL SYSTEMS & NANOSTRUCTURES
+LA English
+DT Article
+DE quantum dots; electronic transport; antiresonant tunnelling; conductance
+ID CARBON-ATOM WIRES; CONDUCTANCE OSCILLATIONS; TRANSPORT; QUANTIZATION;
+   TRANSISTOR; SYSTEMS
+AB Electronic transport through a one-dimensional quantum dot array is theoretically studied. In such a system both electron reservoirs of continuum states couple with the individual component quantum dots of the array arbitrarily. When there are some dangling quantum dots in the array outside the dot(s) contacting the leads, the electron tunneling through the quantum dot array is wholly forbidden if the electron energy is just equal to the molecular energy levels of the dangling quantum dots, which is called as antiresonance of electron tunneling. Accordingly, when the chemical potential of the reservoir electrons is aligned with the electron levels of all quantum dots, the linear conductance at zero temperature vanishes if there are odd number dangling quantum dots; Otherwise, it is equal to 2e(2)/h due to resonant tunneling if the total number of quantum dots in the array is odd. This odd-even parity is independent of the interdot and the lead-dot coupling strength. (C) 2004 Elsevier B.V. All rights reserved.
+C1 Jilin Univ, Dept Phys, Changchun 130023, Peoples R China.
+RP Zheng, YS (corresponding author), Jilin Univ, Dept Phys, Changchun 130023, Peoples R China.
+EM zys@mail.jlu.edu.cn
+CR AVERIN DV, 1991, PHYS REV B, V44, P6199, DOI 10.1103/PhysRevB.44.6199
+   BEENAKKER CWJ, 1991, PHYS REV B, V44, P1646, DOI 10.1103/PhysRevB.44.1646
+   Cronenwett SM, 1998, SCIENCE, V281, P540, DOI 10.1126/science.281.5376.540
+   Goldhaber-Gordon D, 1998, NATURE, V391, P156, DOI 10.1038/34373
+   Goldhaber-Gordon D, 1998, PHYS REV LETT, V81, P5225, DOI 10.1103/PhysRevLett.81.5225
+   Kim TS, 2002, PHYS REV B, V65, DOI 10.1103/PhysRevB.65.214526
+   KOUWENHOVEN LP, 1991, Z PHYS B CON MAT, V85, P367, DOI 10.1007/BF01307632
+   Lang ND, 1998, PHYS REV LETT, V81, P3515, DOI 10.1103/PhysRevLett.81.3515
+   Lang ND, 2000, PHYS REV LETT, V84, P358, DOI 10.1103/PhysRevLett.84.358
+   MEIR Y, 1991, PHYS REV LETT, V66, P3048, DOI 10.1103/PhysRevLett.66.3048
+   MEIR Y, 1993, PHYS REV LETT, V70, P2601, DOI 10.1103/PhysRevLett.70.2601
+   MEIR Y, 1992, PHYS REV LETT, V68, P2512, DOI 10.1103/PhysRevLett.68.2512
+   MEIRAV U, 1990, PHYS REV LETT, V65, P771, DOI 10.1103/PhysRevLett.65.771
+   NAGAMUNE Y, 1994, APPL PHYS LETT, V64, P2379, DOI 10.1063/1.111620
+   NIU Q, 1986, PHYS REV LETT, V57, P2057, DOI 10.1103/PhysRevLett.57.2057
+   Oguri A, 2001, PHYS REV B, V63, DOI 10.1103/PhysRevB.63.115305
+   Orellana PA, 2003, PHYS REV B, V67, DOI 10.1103/PhysRevB.67.085321
+   Pustilnik M, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.216601
+   SCOTTTHOMAS JHF, 1989, PHYS REV LETT, V62, P583, DOI 10.1103/PhysRevLett.62.583
+   Shailos A, 2001, PHYS REV B, V64, DOI 10.1103/PhysRevB.64.193302
+   TEWORDT M, 1992, APPL PHYS LETT, V60, P595, DOI 10.1063/1.106564
+   XIE QH, 1995, PHYS REV LETT, V75, P2542, DOI 10.1103/PhysRevLett.75.2542
+   You JQ, 1999, PHYS REV B, V60, P8727, DOI 10.1103/PhysRevB.60.8727
+   Zeng ZY, 2002, PHYS REV B, V65, DOI 10.1103/PhysRevB.65.193405
+NR 24
+TC 21
+Z9 21
+U1 0
+U2 5
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1386-9477
+EI 1873-1759
+J9 PHYSICA E
+JI Physica E
+PD SEP
+PY 2004
+VL 24
+IS 3-4
+BP 290
+EP 296
+DI 10.1016/j.physe.2004.05.004
+PG 7
+WC Nanoscience & Nanotechnology; Physics, Condensed Matter
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics; Physics
+GA 856WJ
+UT WOS:000224076000018
+DA 2022-10-19
+ER
+
+PT J
+AU Kumawat, RL
+   Pathak, B
+AF Kumawat, Rameshwar L.
+   Pathak, Biswarup
+TI Electronic Conductance and Current Modulation through Graphdiyne
+   Nanopores for DNA Sequencing
+SO ACS APPLIED ELECTRONIC MATERIALS
+LA English
+DT Article
+DE 2D nanomaterials; graphdiyne nanopore; biomolecules; DNA sequencing;
+   translocation time; conductance; electric current
+ID INDIVIDUAL IDENTIFICATION; GRAPHENE; TRANSLOCATION; NUCLEOBASES;
+   NANORIBBONS; GRAPHYNE; NANOGAP
+AB Solid-state nanopore devices have emerged as one of the most promising technologies that may decode the sequence of DNA nucleobases by reading electronic conductance and electric current signals. Herein we study the potential of atomically thick graphdiyne (GDY) to act as an all-electronic nanopore (NP)-based DNA sequencing device. The first-principles density functional theory method is used to study the structural properties, interaction energy (E-i) values, translocation time (tau), charge transfer [Q(e)] values, charge density difference [Delta rho(r)], molecular orbital (MO) positions, and electronic density of states (DOS) properties of the GDYNP and GDYNP + nucleobase (nucleobases: adenine (A), guanine (G), thymine (T), and cytosine (C)) systems. Our results suggest that the GDYNP system could be a suitable device for the detection of nucleobases due to their specific translocation times inside the GDYNP device. The Delta rho(r) results reveal that the charge fluctuates around the GDYNP edges close to the target nucleobase. This charge reorganization causes the modulation of charge transport in the GDYNP device. Furthermore, the GDYNP device is used to read-out the conductance and current signals of each DNA nucleobase while located inside the GDYNP by using nonequilibrium Green's functions formalism. Our findings show a change in conductance with respect to the reference bare "GDYNP" device for energy values below/above the Fermi energy. The conductance as well as current sensitivity (%) values (C > G > T > A) indicates that the nucleobases could possibly be sequenced through the GDYNP device. Further, each nucleobase transmits unique current signals when transported through the GDYNP device. A distinction between purine- and pyrimidine-type nucleobases seems possible due to their different current signals. Thus, our study highlights the potentials that would motivate research toward the development of the GDYNP device, which may be even a better DNA nucleobase detector compared to graphene-based devices.
+C1 [Kumawat, Rameshwar L.; Pathak, Biswarup] Indian Inst Technol IIT Indore, Dept Met Engn & Mat Sci, Indore 453552, Madhya Pradesh, India.
+   [Pathak, Biswarup] Indian Inst Technol IIT Indore, Dept Chem, Indore 453552, Madhya Pradesh, India.
+RP Pathak, B (corresponding author), Indian Inst Technol IIT Indore, Dept Met Engn & Mat Sci, Indore 453552, Madhya Pradesh, India.; Pathak, B (corresponding author), Indian Inst Technol IIT Indore, Dept Chem, Indore 453552, Madhya Pradesh, India.
+EM biswarup@iiti.ac.in
+RI Pathak, IIT/AFR-8624-2022; Kumawat, Rameshwar L/ABF-7692-2021
+OI Pathak, IIT/0000-0002-9972-9947; Kumawat, Rameshwar
+   L/0000-0002-2210-3428
+FU DST-SERB [CRG/2018/001131]; MHRD;  [SPARC/2018-2019/P116/SL]
+FX We acknowledge IIT Indore for the lab and computing facilities. This
+   work is supported by SPARC/2018-2019/P116/SL and DST-SERB (project
+   number: CRG/2018/001131). R.L.K. acknowledges MHRD for a senior research
+   fellowship (SRF).
+CR Arjmandi-Tash H, 2016, CHEM SOC REV, V45, P476, DOI 10.1039/c5cs00512d
+   Berland K, 2014, PHYS REV B, V89, DOI 10.1103/PhysRevB.89.035412
+   Boys SF, 2002, MOL PHYS, V100, P65, DOI 10.1080/00268970110088901
+   Brandbyge M, 2002, PHYS REV B, V65, DOI 10.1103/PhysRevB.65.165401
+   Branton D, 2008, NAT BIOTECHNOL, V26, P1146, DOI 10.1038/nbt.1495
+   Chang SA, 2010, NANO LETT, V10, P1070, DOI 10.1021/nl1001185
+   Chen X, 2015, SCI REP-UK, V5, DOI 10.1038/srep16720
+   Chen XM, 2021, FRONT CELL INFECT MI, V11, DOI 10.3389/fcimb.2021.632490
+   Chiara M, 2021, BRIEF BIOINFORM, V22, P616, DOI 10.1093/bib/bbaa297
+   Cho Y, 2011, PHYS CHEM CHEM PHYS, V13, P14293, DOI 10.1039/c1cp20760a
+   da Rocha CG, 2014, PHYS CHEM CHEM PHYS, V16, P3558, DOI 10.1039/c3cp53780c
+   Datta S, 2000, SUPERLATTICE MICROST, V28, P253, DOI 10.1006/spmi.2000.0920
+   Datta S., 1997, ELECT TRANSPORT MESO
+   Dekker C, 2007, NAT NANOTECHNOL, V2, P209, DOI 10.1038/nnano.2007.27
+   Feliciano GT, 2018, J PHYS CHEM B, V122, P485, DOI 10.1021/acs.jpcb.7b03475
+   Feng J, 2015, NANO LETT, V15, P3431, DOI 10.1021/acs.nanolett.5b00768
+   Garaj S, 2010, NATURE, V467, P190, DOI 10.1038/nature09379
+   Gracheva ME, 2006, NANOTECHNOLOGY, V17, P622, DOI 10.1088/0957-4484/17/3/002
+   Hayden EC, 2014, NATURE, V507, P294, DOI 10.1038/507294a
+   He H, 2008, J PHYS CHEM C, V112, P3456, DOI 10.1021/jp7115142
+   He JJ, 2017, NAT COMMUN, V8, DOI 10.1038/s41467-017-01202-2
+   Houldcroft CJ, 2017, NAT REV MICROBIOL, V15, P183, DOI 10.1038/nrmicro.2016.182
+   Alvarez-Cubero MJ, 2017, ANN HUM BIOL, V44, P581, DOI 10.1080/03014460.2017.1375155
+   Kim HS, 2014, SMALL, V10, P774, DOI 10.1002/smll.201301225
+   Kumawat RL, 2021, ACS APPL BIO MATER, V4, P1403, DOI 10.1021/acsabm.0c01309
+   Kumawat RL, 2020, MATER ADV, V1, P2908, DOI 10.1039/d0ma00617c
+   Kumawat RL, 2020, J PHYS CHEM C, V124, P27194, DOI 10.1021/acs.jpcc.0c08545
+   Kumawat RL, 2020, NANOSCALE ADV, V2, P4041, DOI 10.1039/d0na00241k
+   Kumawat RL, 2020, ACS APPL ELECTRON MA, V2, P1218, DOI 10.1021/acsaelm.0c00024
+   Kumawat RL, 2019, J PHYS CHEM C, V123, P22377, DOI 10.1021/acs.jpcc.9b06239
+   Kumawat RL, 2019, ACS APPL MATER INTER, V11, P219, DOI 10.1021/acsami.8b17239
+   Lagerqvist J, 2006, NANO LETT, V6, P779, DOI 10.1021/nl0601076
+   Lagerqvist J, 2007, BIOPHYS J, V93, P2384, DOI 10.1529/biophysj.106.102269
+   LEE CT, 1988, PHYS REV B, V37, P785, DOI 10.1103/PhysRevB.37.785
+   Lee K, 2007, PHYS REV B, V75, DOI 10.1103/PhysRevB.75.045402
+   Liu HT, 2010, SCIENCE, V327, P64, DOI 10.1126/science.1181799
+   Liu JM, 2019, ADV MATER, V31, DOI 10.1002/adma.201804386
+   Liu K, 2014, ACS NANO, V8, P2504, DOI 10.1021/nn406102h
+   Mardis ER, 2011, NATURE, V470, P198, DOI 10.1038/nature09796
+   Merchant CA, 2010, NANO LETT, V10, P2915, DOI 10.1021/nl101046t
+   Min SK, 2011, NAT NANOTECHNOL, V6, P162, DOI [10.1038/nnano.2010.283, 10.1038/NNANO.2010.283]
+   Nelson T, 2010, NANO LETT, V10, P3237, DOI 10.1021/nl9035934
+   Ordejon P, 1996, PHYS REV B, V53, P10441, DOI 10.1103/PhysRevB.53.R10441
+   Pathak B, 2012, APPL PHYS LETT, V100, DOI 10.1063/1.3673335
+   Peng Q, 2014, NANOTECHNOL SCI APPL, V7, P1, DOI 10.2147/NSA.S40324
+   Postma HWC, 2010, NANO LETT, V10, P420, DOI 10.1021/nl9029237
+   Prasongkit J, 2018, J PHYS CHEM C, V122, P7094, DOI 10.1021/acs.jpcc.8b00241
+   Prasongkit J, 2013, J PHYS CHEM C, V117, P15421, DOI 10.1021/jp4048743
+   Prasongkit J, 2011, NANO LETT, V11, P1941, DOI 10.1021/nl200147x
+   Rajan AC, 2014, ACS NANO, V8, P1827, DOI 10.1021/nn4062148
+   Rezapour MR, 2014, J COMPUT CHEM, V35, P1916, DOI 10.1002/jcc.23705
+   Saha KK, 2012, NANO LETT, V12, P50, DOI 10.1021/nl202870y
+   Scalmani G., 2009, GAUSSIAN 09 REVISION
+   Schneider GF, 2010, NANO LETT, V10, P3163, DOI [10.1021/nl102069z, 10.1021/nl101046t]
+   Seo G, 2020, ACS NANO, V14, P5135, DOI 10.1021/acsnano.0c02823
+   Shekar SC, 2014, J PHYS CHEM C, V118, P4516, DOI 10.1021/jp412791v
+   Shendure J, 2008, NAT BIOTECHNOL, V26, P1135, DOI 10.1038/nbt1486
+   Shukla V, 2017, ACS APPL MATER INTER, V9, P39945, DOI 10.1021/acsami.7b06827
+   Siwy ZS, 2010, NAT NANOTECHNOL, V5, P697, DOI 10.1038/nnano.2010.198
+   Steinbock LJ, 2015, NANOTECHNOLOGY, V26, DOI 10.1088/0957-4484/26/7/074003
+   Thomas S, 2014, J PHYS CHEM C, V118, P10855, DOI 10.1021/jp501711d
+   Traversi F, 2013, NAT NANOTECHNOL, V8, P939, DOI [10.1038/NNANO.2013.240, 10.1038/nnano.2013.240]
+   TROULLIER N, 1991, PHYS REV B, V43, P1993, DOI 10.1103/PhysRevB.43.1993
+   Xie CP, 2020, CHEM-EUR J, V26, P569, DOI 10.1002/chem.201903297
+   Yang NJ, 2017, CARBON, V115, P293, DOI 10.1016/j.carbon.2017.01.012
+   Yu HD, 2019, ADV MATER, V31, DOI 10.1002/adma.201803101
+   Zhao DH, 2021, FRONT CHEM SCI ENG, V15, P922, DOI 10.1007/s11705-020-2004-z
+NR 67
+TC 6
+Z9 6
+U1 4
+U2 18
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+EI 2637-6113
+J9 ACS APPL ELECTRON MA
+JI ACS Appl. Electron. Mater.
+PD SEP 28
+PY 2021
+VL 3
+IS 9
+BP 3835
+EP 3845
+DI 10.1021/acsaelm.1c00452
+EA AUG 2021
+PG 11
+WC Engineering, Electrical & Electronic; Materials Science,
+   Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Materials Science
+GA WB4KB
+UT WOS:000703541500013
+DA 2022-10-19
+ER
+
+PT J
+AU Yin, HT
+   Liu, XJ
+   Feng, LF
+   Lu, TQ
+   Li, H
+AF Yin, Hai-Tao
+   Liu, Xiao-Jie
+   Feng, Li-Feng
+   Lue, Tian-Quan
+   Li, Hua
+TI Spin-dependent Kondo effect induced by Rashba spin-orbit interaction in
+   parallel coupled double quantum dots
+SO PHYSICS LETTERS A
+LA English
+DT Article
+DE Kondo effect; Quantum dot; Spin-orbit interaction
+AB Electronic transport through parallel coupled double quantum dots (DQD) with Rashba spin-orbit (RSO) interaction is investigated in Kondo regime by means of the slave-boson mean field approximation at zero temperature. By the co-action of the phase factor deduced by RSO interaction and the magnetic flux penetrating the parallel DQD, an interesting spin-dependent Kondo effect emerges. The molecular state representation theory is used to obtain a detailed understanding of the spin-dependent Kondo effect. It is shown that Quantum interference between the bonding Kondo state and antibonding state, which is modulated by the RSO interaction, plays a crucial role to the density of states and the linear conductance. The magnitude of each spin component conductance can be modulated by the RSO interaction strength. The conductance of each spin component exhibits 4 pi-periodic function with respect to phi(R). Moreover, the swap operation in the parallel DQD system can be implemented by tuning the RSO interaction. (C) 2010 Elsevier B.V. All rights reserved.
+C1 [Yin, Hai-Tao; Liu, Xiao-Jie; Feng, Li-Feng; Li, Hua] Harbin Normal Univ, Sch Phys & Elect Engn, Heilongjiang Key Lab Low Dimens Syst & Mesoscop P, Harbin 150025, Peoples R China.
+   [Lue, Tian-Quan] Harbin Inst Technol, Ctr Condensed Matter Sci & Technol, Harbin 150080, Peoples R China.
+RP Yin, HT (corresponding author), Harbin Normal Univ, Sch Phys & Elect Engn, Heilongjiang Key Lab Low Dimens Syst & Mesoscop P, Harbin 150025, Peoples R China.
+EM wlyht@126.com
+FU Heilongjiang Province Natural Science Foundation of China [F200939];
+   Harbin Normal University [KGB200907]
+FX The authors acknowledge the support by Heilongjiang Province Natural
+   Science Foundation of China under Grant No. F200939 and the Harbin
+   Normal University Youth Academic Backbone Project under Grant No.
+   KGB200907.
+CR Aguado R, 2000, PHYS REV LETT, V85, P1946, DOI 10.1103/PhysRevLett.85.1946
+   Chen KW, 2008, PHYS REV B, V78, DOI 10.1103/PhysRevB.78.235319
+   Chi F, 2007, PHYS LETT A, V363, P302, DOI 10.1016/j.physleta.2006.11.007
+   COLEMAN P, 1984, PHYS REV B, V29, P3035, DOI 10.1103/PhysRevB.29.3035
+   de Guevara MLL, 2003, PHYS REV B, V67, DOI 10.1103/PhysRevB.67.195335
+   Ding GH, 2005, PHYS REV B, V71, DOI 10.1103/PhysRevB.71.205313
+   Fang TF, 2010, PHYS REV B, V81, DOI 10.1103/PhysRevB.81.113402
+   GLAZMAN LI, 1988, JETP LETT+, V47, P452
+   Gong WJ, 2008, APPL PHYS LETT, V92, DOI 10.1063/1.2838310
+   Hattori K, 2008, PHYS REV B, V78, DOI 10.1103/PhysRevB.78.155321
+   Ionicioiu R, 2003, PHYS REV B, V67, DOI 10.1103/PhysRevB.67.041307
+   Ji Y, 2000, SCIENCE, V290, P779, DOI 10.1126/science.290.5492.779
+   Ji Y, 2002, PHYS REV LETT, V88, DOI 10.1103/PhysRevLett.88.076601
+   Kobayashi T, 2010, PHYS REV LETT, V104, DOI 10.1103/PhysRevLett.104.036804
+   Litvinov VI, 2006, APPL PHYS LETT, V89, DOI 10.1063/1.2397559
+   Lopez R, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.136802
+   Lu HF, 2007, PHYS REV B, V76, DOI 10.1103/PhysRevB.76.045120
+   Martinek J, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.127203
+   Mravlje J, 2006, PHYS REV B, V73, DOI 10.1103/PhysRevB.73.241305
+   NG TK, 1988, PHYS REV LETT, V61, P1768, DOI 10.1103/PhysRevLett.61.1768
+   Nitta J, 1997, PHYS REV LETT, V78, P1335, DOI 10.1103/PhysRevLett.78.1335
+   Pareek TP, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.076601
+   Sasaki S, 2009, PHYS REV LETT, V103, DOI 10.1103/PhysRevLett.103.266806
+   Shelykh IA, 2005, PHYS REV B, V72, DOI 10.1103/PhysRevB.72.235316
+   Sinova J, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.126603
+   Sun QF, 2005, PHYS REV B, V71, DOI 10.1103/PhysRevB.71.155321
+   Sun QF, 2005, PHYS REV B, V71, DOI 10.1103/PhysRevB.71.165310
+   Sun QF, 2006, PHYS REV B, V73, DOI 10.1103/PhysRevB.73.235301
+   Tanaka Y, 2005, PHYS REV B, V72, DOI 10.1103/PhysRevB.72.085304
+   van der Wiel WG, 2000, SCIENCE, V289, P2105, DOI 10.1126/science.289.5487.2105
+   van der Wiel WG, 2002, PHYS REV LETT, V88, DOI 10.1103/PhysRevLett.88.126803
+   Weymann I, 2010, PHYS REV B, V81, DOI 10.1103/PhysRevB.81.035331
+   Wu BH, 2005, PHYS REV B, V72, DOI 10.1103/PhysRevB.72.165313
+   Yang SRE, 2006, PHYS REV B, V73, DOI 10.1103/PhysRevB.73.125330
+   Yin HT, 2009, PHYS LETT A, V373, P285, DOI 10.1016/j.physleta.2008.11.023
+NR 35
+TC 5
+Z9 5
+U1 0
+U2 5
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0375-9601
+EI 1873-2429
+J9 PHYS LETT A
+JI Phys. Lett. A
+PD JUN 21
+PY 2010
+VL 374
+IS 28
+BP 2865
+EP 2873
+DI 10.1016/j.physleta.2010.05.001
+PG 9
+WC Physics, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Physics
+GA 612XE
+UT WOS:000278938300014
+DA 2022-10-19
+ER
+
+PT J
+AU Wu, XF
+   Luo, TF
+AF Wu, Xufei
+   Luo, Tengfei
+TI Effect of electron-phonon coupling on thermal transport across
+   metal-nonmetal interface -A second look
+SO EPL
+LA English
+DT Article
+AB The effect of electron-phonon (e-ph) coupling on thermal transport across metalnonmetal interfaces is yet to be completely understood. In this paper, we use a series of molecular-dynamics (MD) simulations with e-ph coupling effect included by Langevin dynamics to calculate the thermal conductance at a model metal-nonmetal interface. It is found that while e-ph coupling can present additional thermal resistance on top of the phonon-phonon thermal resistance, it can also make the phonon-phonon thermal conductance larger than the pure phonon transport case. This is because the e-ph interaction can disturb the phonon subsystem and enhance the energy communication between different phonon modes inside the metal. This facilitates redistributing phonon energy into modes that can more easily transfer energy across the interfaces. Compared to the pure phonon thermal conduction, the total thermal conductance with e-ph coupling effect can become either smaller or larger depending on the coupling factor. This result helps clarify the role of e-ph coupling in thermal transport across metal-nonmetal interface. Copyright (C) EPLA, 2015.
+C1 [Wu, Xufei; Luo, Tengfei] Univ Notre Dame, Aerosp & Mech Engn, South Bend, IN 46617 USA.
+   [Luo, Tengfei] Univ Notre Dame, Ctr Sustainable Energy Notre Dame, South Bend, IN USA.
+RP Luo, TF (corresponding author), Univ Notre Dame, Aerosp & Mech Engn, South Bend, IN 46617 USA.
+EM tluo@nd.edu
+RI Luo, Tengfei/A-8354-2013; Wu, Xufei/G-5319-2016
+OI Wu, Xufei/0000-0002-4871-1376
+FU Notre Dame Center for Research Computing; NSF [TG-CTS100078];
+   Semiconductor Research Corporation [2013-MA-2383]; University of Notre
+   Dame
+FX This research was supported in part by the Notre Dame Center for
+   Research Computing and NSF through XSEDE resources provided by SDSC
+   Trestles and TACC Stampede under grant No. TG-CTS100078. TL acknowledges
+   the support by the Semiconductor Research Corporation (contract No.
+   2013-MA-2383) and the startup fund from the University of Notre Dame. We
+   thank Dr Bo QIU for useful discussions.
+CR Broido DA, 2007, APPL PHYS LETT, V91, DOI 10.1063/1.2822891
+   Cahill DG, 2003, J APPL PHYS, V93, P793, DOI 10.1063/1.1524305
+   Carlborg CF, 2008, PHYS REV B, V78, DOI 10.1103/PhysRevB.78.205406
+   DEBERNARDI A, 1995, PHYS REV LETT, V75, P1819, DOI 10.1103/PhysRevLett.75.1819
+   Duffy M. D., 2007, J PHYS CONDENS MATT, V19
+   Jones RE, 2013, APPL PHYS LETT, V102, DOI 10.1063/1.4804677
+   Khalatnikov I.M., 1952, J EXP THEOR PHYS+, V22, P687
+   Li M., 2014, ARXIV14122465CONDMAT
+   Lin Z, 2008, PHYS REV B, V77, DOI 10.1103/PhysRevB.77.075133
+   Luo TF, 2013, PHYS CHEM CHEM PHYS, V15, P3389, DOI 10.1039/c2cp43771f
+   Luo TF, 2013, EPL-EUROPHYS LETT, V101, DOI 10.1209/0295-5075/101/16001
+   Luo TF, 2010, INT J HEAT MASS TRAN, V53, P1, DOI 10.1016/j.ijheatmasstransfer.2009.10.033
+   Majumdar A, 2004, APPL PHYS LETT, V84, P4768, DOI 10.1063/1.1758301
+   McGaughey AJ, 2006, ADV HEAT TRANSFER, V39, P169, DOI [10.1016/s0065- 2717(06)39002-8, DOI 10.1016/S0065-2717(06)39002-8]
+   Nuo Y., 2015, J COMPUT THEOR NANOS, V12, P168
+   Phillips CL, 2009, J CHEM PHYS, V131, DOI 10.1063/1.3204030
+   Pop E, 2007, J APPL PHYS, V101, DOI 10.1063/1.2717855
+   Qiu B., 2014, ARXIV14094862CONDMAT
+   Shenogina N, 2008, J CHEM PHYS, V129, DOI 10.1063/1.2991183
+   Singh P, 2013, APPL PHYS LETT, V102, DOI 10.1063/1.4804383
+   SWARTZ ET, 1989, REV MOD PHYS, V61, P605, DOI 10.1103/RevModPhys.61.605
+   Wang Y, 2012, PHYS REV B, V85, DOI 10.1103/PhysRevB.85.205311
+   Wu X., 2015, ARXIV14122791CONDMAT
+   Wu XF, 2014, J APPL PHYS, V115, DOI 10.1063/1.4859555
+   Ziman M., 2001, ELECT PHONONS THEORY
+NR 25
+TC 17
+Z9 18
+U1 2
+U2 26
+PU EPL ASSOCIATION, EUROPEAN PHYSICAL SOCIETY
+PI MULHOUSE
+PA 6 RUE DES FRERES LUMIERE, MULHOUSE, 68200, FRANCE
+SN 0295-5075
+EI 1286-4854
+J9 EPL-EUROPHYS LETT
+JI EPL
+PD JUN
+PY 2015
+VL 110
+IS 6
+AR 67004
+DI 10.1209/0295-5075/110/67004
+PG 6
+WC Physics, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Physics
+GA CM9CC
+UT WOS:000358002600022
+OA Green Submitted
+DA 2022-10-19
+ER
+
+PT J
+AU Chi, F
+   Wang, J
+   He, TY
+   Fu, ZG
+   Zhang, P
+   Zhang, XW
+   Wang, LH
+   Lu, ZL
+AF Chi, Feng
+   Wang, Jing
+   He, Tian-Yu
+   Fu, Zhen-Guo
+   Zhang, Ping
+   Zhang, Xiao-Wen
+   Wang, Lihui
+   Lu, Zongliu
+TI Quantum Interference Effects in Quantum Dot Molecular With Majorana
+   Bound States
+SO FRONTIERS IN PHYSICS
+LA English
+DT Article
+DE quantum dots; Majorana bound states; quantum interference; Fano effect;
+   antiresonance
+ID TRANSPORT
+AB Non-invasive detection of the Majorana bound state (MBSs), a kind of quasiparticle without charge and mass, is one of the core issues in current condensed matter physics. Here we study in theory the quantum interference effect in parallel-coupled double quantum dots which are connected either by Majorana bound states (MBSs) or regular fermions. We find that the zero-energy conductance develops a sharp peak when the dots are connected by the MBSs, whereas that in the case of the dots are coupled via regular fermions shows a valley. By varying the coupling strength between the dots and the electron reservoirs, the conductance in the two structures changes in different ways. By comparing the properties of the linear conductance in the two systems, the information of the MBSs formed at the two ends of a topological superconductor nanowire then can be inferred. We also find that the MBSs in the present structure also induces the Fano effect, and is favorable in quantum information processing.
+C1 [Chi, Feng; Wang, Jing; He, Tian-Yu] Univ Elect Sci & Technol China, Zhongshan Inst, Sch Elect & Informat Engn, Zhongshan, Peoples R China.
+   [Fu, Zhen-Guo; Zhang, Ping] Inst Appl Phys & Computat Math, Beijing, Peoples R China.
+   [Zhang, Xiao-Wen] Guilin Univ Elect Technol, Sch Mat Sci & Engn, Guilin, Peoples R China.
+   [Zhang, Xiao-Wen] Guilin Univ Elect Technol, Guangxi Key Lab Informat Mat, Guilin, Peoples R China.
+   [Wang, Lihui; Lu, Zongliu] China Monferrous Met Guilin Geol & Min Co Ltd, Guilin Key Lab Microelect Electrode Mat & Biol Na, Guilin, Peoples R China.
+   [Wang, Lihui; Lu, Zongliu] China Monferrous Met Guilin Geol & Min Co Ltd, Natl Special Mineral Mat Engn Technol Res Ctr, Guilin, Peoples R China.
+   [Wang, Lihui; Lu, Zongliu] China Monferrous Met Guilin Geol & Min Co Ltd, Guangxi Key Lab Superhard Mat, Guilin, Peoples R China.
+RP Chi, F (corresponding author), Univ Elect Sci & Technol China, Zhongshan Inst, Sch Elect & Informat Engn, Zhongshan, Peoples R China.; Fu, ZG (corresponding author), Inst Appl Phys & Computat Math, Beijing, Peoples R China.
+EM chifeng@semi.ac.cn; fu_zhenguo@iapcm.ac.cn
+FU NSFC [62075035]; Initial Project of UEST of China, Zhongshan Institute
+   [415YKQ02]; Project for Innovation Team of Guangdong University
+   [2018KCXTD033]; Science and Technology Bureau of Zhongshan [2017B1116,
+   180809162197886]; Research Funds for Beijing Universities
+   [KM201910009002]; Key Research and Development Program of Guangxi
+   [GuiKeAB19110032]
+FX This research was supported by the NSFC (Grant No. 62075035), the
+   Initial Project of UEST of China, Zhongshan Institute (415YKQ02),
+   Project for Innovation Team of Guangdong University (No. 2018KCXTD033),
+   Science and Technology Bureau of Zhongshan (Grant No. 2017B1116,
+   180809162197886), and the Research Funds for Beijing Universities
+   (NO.KM201910009002). X-W Zhang acknowledges support from Key Research
+   and Development Program of Guangxi (GuiKeAB19110032).
+CR Alicea J, 2012, REP PROG PHYS, V75, DOI 10.1088/0034-4885/75/7/076501
+   Chi F, 2007, J APPL PHYS, V101, DOI 10.1063/1.2720097
+   Chi F, 2020, FRONT PHYS-LAUSANNE, V8, DOI 10.3389/fphy.2020.00254
+   Cifuentes JD, 2019, PHYS REV B, V100, DOI 10.1103/PhysRevB.100.085429
+   Das A, 2012, NAT PHYS, V8, P887, DOI [10.1038/NPHYS2479, 10.1038/nphys2479]
+   de Guevara MLL, 2003, PHYS REV B, V67, DOI 10.1103/PhysRevB.67.195335
+   Deng MT, 2016, SCIENCE, V354, P1557, DOI 10.1126/science.aaf3961
+   Feng JJ, 2020, PHYS REV B, V101, DOI 10.1103/PhysRevB.101.180504
+   Fornieri A, 2019, NATURE, V569, P89, DOI 10.1038/s41586-019-1068-8
+   Gorski G, 2019, PHYS STATUS SOLIDI B, V256, DOI 10.1002/pssb.201800492
+   Hanson R, 2007, REV MOD PHYS, V79, P1217, DOI 10.1103/RevModPhys.79.1217
+   Hofstetter W, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.156803
+   Ivanov TI, 2017, PHYS REV B, V96, DOI 10.1103/PhysRevB.96.035417
+   Jeon S, 2017, SCIENCE, V358, P772, DOI 10.1126/science.aan3670
+   Jiang C, 2015, SOLID STATE COMMUN, V212, P14, DOI 10.1016/j.ssc.2015.04.001
+   Karzig T, 2017, PHYS REV B, V95, DOI 10.1103/PhysRevB.95.235305
+   Kitaev A. Y., 2001, PHYS-USP+, V44, P131, DOI [10.1070/1063-7869/44/10S/S29, DOI 10.1070/1063-7869/44/10S/S29]
+   Li YX, 2013, J APPL PHYS, V114, DOI 10.1063/1.4813229
+   Liu DE, 2015, PHYS REV B, V91, DOI 10.1103/PhysRevB.91.081405
+   Liu DE, 2011, PHYS REV B, V84, DOI 10.1103/PhysRevB.84.201308
+   Liu LM, 2018, NANOSCALE RES LETT, V13, DOI 10.1186/s11671-018-2773-1
+   Lopez R, 2014, PHYS REV B, V89, DOI 10.1103/PhysRevB.89.205418
+   Miroshnichenko AE, 2010, REV MOD PHYS, V82, P2257, DOI 10.1103/RevModPhys.82.2257
+   Mourik V, 2012, SCIENCE, V336, P1003, DOI 10.1126/science.1222360
+   Nayak C, 2008, REV MOD PHYS, V80, P1083, DOI 10.1103/RevModPhys.80.1083
+   Oreg Y, 2010, PHYS REV LETT, V105, DOI 10.1103/PhysRevLett.105.177002
+   Ren HC, 2019, NATURE, V569, P93, DOI 10.1038/s41586-019-1148-9
+   Ricco LS, 2019, PHYS REV B, V99, DOI 10.1103/PhysRevB.99.155159
+   Ricco LS, 2018, PHYS REV B, V98, DOI 10.1103/PhysRevB.98.075142
+   Sau JD, 2010, PHYS REV LETT, V104, DOI 10.1103/PhysRevLett.104.040502
+   Sherman D, 2017, NAT NANOTECHNOL, V12, P212, DOI [10.1038/nnano.2016.227, 10.1038/NNANO.2016.227]
+   Tang HZ, 2015, AIP ADV, V5, DOI 10.1063/1.4939096
+   Tang LW, 2020, FRONT PHYS-LAUSANNE, V8, DOI 10.3389/fphy.2020.00147
+   Ueda A, 2014, PHYS REV B, V90, DOI 10.1103/PhysRevB.90.081405
+   van der Wiel WG, 2003, REV MOD PHYS, V75, P1, DOI 10.1103/RevModPhys.75.1
+   Wang N, 2014, J APPL PHYS, V115, DOI 10.1063/1.4867040
+   Weymann I, 2020, PHYS REV B, V101, DOI 10.1103/PhysRevB.101.235404
+   Xia JJ, 2015, NANOSCALE RES LETT, V10, P1, DOI 10.1186/s11671-015-0914-3
+   Yi GY, 2020, PHYS REV B, V102, DOI 10.1103/PhysRevB.102.085418
+   Zeng QB, 2016, PHYS LETT A, V380, P951, DOI 10.1016/j.physleta.2015.12.026
+   Zhang H, 2018, NATURE, V556, P74, DOI 10.1038/nature26142
+NR 41
+TC 2
+Z9 2
+U1 0
+U2 7
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN 2296-424X
+J9 FRONT PHYS-LAUSANNE
+JI Front. Physics
+PD JAN 18
+PY 2021
+VL 8
+AR 631031
+DI 10.3389/fphy.2020.631031
+PG 7
+WC Physics, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Physics
+GA QA3IB
+UT WOS:000613339900001
+OA gold
+DA 2022-10-19
+ER
+
+PT J
+AU chayjan, MR
+   Ahmadi, I
+   Khoeini, F
+AF chayjan, Mahnoosh Rostami
+   Ahmadi, Isa
+   Khoeini, Farhad
+TI Highly tunable charge transport in defective graphene nanoribbons under
+   external local forces and constraints: A hybrid computational study
+SO RESULTS IN PHYSICS
+LA English
+DT Article
+DE Molecular mechanics; Modeling; Tight-binding; Vacancy defect;
+   Conductance
+AB In this paper, we propose a combined modeling of molecular mechanics (MM) and the tight-binding (TB) approach, which enables us to study the effect of factors such as external local forces, constraints, and vacancy defects on electronic transport properties of nanomaterials. Nanostructures selected in this work are armchair graphene nanoribbons (AGNRs). According to this method, the nanostructure is modeled as a frame, and the beam element is applied for illustrating the covalent interatomic interactions in bonds. In our calculations, the terms of torsional, stretching, and bending energies are considered. The selected pristine nanoribbon is a metal, and the purpose of this study is to find the effects of mechanical loading, the vacancy defects and their positions on the electrical conductance of the structure. We observe that the presence of vacancy defects in the structure leads to the opening of an energy gap, which changes the phase of the nanostructure from metal to the semiconductor. We find that with increasing the number of point defects, the energy gap size of the strained system grows. Besides, increasing the magnitude of the local force reduces the conductance, and the energy gap of the system. By changing parameters such as the number of point defects and magnitude local forces, the transport gap of the system can be controlled. The results of this research may be useful in the design of nano-electromechanical systems.
+C1 [chayjan, Mahnoosh Rostami; Ahmadi, Isa] Univ Zanjan, Dept Mech Engn, Zanjan 45195313, Iran.
+   [Khoeini, Farhad] Univ Zanjan, Dept Phys, Zanjan 45195313, Iran.
+RP Khoeini, F (corresponding author), Univ Zanjan, Dept Phys, Zanjan 45195313, Iran.
+EM khoeini@znu.ac.ir
+CR Abdullah NR, 2020, RESULTS PHYS, V18, DOI 10.1016/j.rinp.2020.103282
+   Balandin AA, 2008, NANO LETT, V8, P902, DOI 10.1021/nl0731872
+   Chang TC, 2003, J MECH PHYS SOLIDS, V51, P1059, DOI 10.1016/S0022-5096(03)00006-1
+   Chavez-Castillo MR, 2015, RSC ADV, V5, P96052, DOI 10.1039/c5ra15312c
+   Chernozatonskii LA, 2020, NANOTECHNOLOGY, V31, DOI 10.1088/1361-6528/ab5b60
+   Chu L, 2019, PHYSICA E, V110, P115, DOI 10.1016/j.physe.2019.01.023
+   Das S, 2014, NANO LETT, V14, P5733, DOI 10.1021/nl5025535
+   De Frias Lopez R, 2013, 3D FINITE BEAM ELEME
+   Dean CR, 2010, NAT NANOTECHNOL, V5, P722, DOI 10.1038/nnano.2010.172
+   Gangele A, 2018, INT J MECH SCI, V142, P491, DOI 10.1016/j.ijmecsci.2018.05.012
+   Geim AK, 2007, NAT MATER, V6, P183, DOI 10.1038/nmat1849
+   Georgantzinos SK, 2012, INT J MECH SCI, V55, P85, DOI 10.1016/j.ijmecsci.2011.12.006
+   Georgantzinos SK, 2011, COMP MATER SCI, V50, P2057, DOI 10.1016/j.commatsci.2011.02.008
+   Gui G, 2015, APPL PHYS LETT, V106, DOI 10.1063/1.4907410
+   Guinea F, 2010, NAT PHYS, V6, P30, DOI 10.1038/NPHYS1420
+   Isacsson A, 2011, PHYS REV B, V84, DOI 10.1103/PhysRevB.84.125452
+   Ji SH, 2012, NAT MATER, V11, P114, DOI [10.1038/NMAT3170, 10.1038/nmat3170]
+   Jiang JW, 2017, CARBON, V118, P370, DOI 10.1016/j.carbon.2017.03.067
+   Khare R, 2007, PHYS REV B, V75, DOI 10.1103/PhysRevB.75.075412
+   Khoeini F, 2009, PHYSICA E, V41, P1533, DOI 10.1016/j.physe.2009.04.029
+   Khoeini F, 2020, PHYSICA E, V123, DOI 10.1016/j.physe.2020.114200
+   Khoeini F, 2019, J MATER SCI, V54, P14483, DOI 10.1007/s10853-019-03928-4
+   Khoeini F, 2015, J PHYS D APPL PHYS, V48, DOI 10.1088/0022-3727/48/40/405501
+   Khoeini F, 2014, DIAM RELAT MATER, V47, P7, DOI 10.1016/j.diamond.2014.05.001
+   Khoeini F, 2013, THIN SOLID FILMS, V548, P443, DOI 10.1016/j.tsf.2013.09.072
+   Khoeini F, 2010, EUR PHYS J B, V75, P505, DOI 10.1140/epjb/e2010-00159-5
+   Kordkheili SAH, 2013, COMP MATER SCI, V69, P335, DOI 10.1016/j.commatsci.2012.11.027
+   Lee C, 2008, SCIENCE, V321, P385, DOI 10.1126/science.1157996
+   Lee JH, 2012, COMP MATER SCI, V51, P30, DOI 10.1016/j.commatsci.2011.06.041
+   Lehmann T, 2013, PHYS REV B, V88, DOI 10.1103/PhysRevB.88.125420
+   Li CY, 2003, INT J SOLIDS STRUCT, V40, P2487, DOI 10.1016/S0020-7683(03)00056-8
+   Li SY, 2020, PHYS REV LETT, V124, DOI 10.1103/PhysRevLett.124.106802
+   Li Y, 2010, NANO RES, V3, P545, DOI 10.1007/s12274-010-0015-7
+   Lima LRF, 2018, PHYS REV B, V97, DOI 10.1103/PhysRevB.97.165405
+   Mahdavifar M, 2018, NANOTECHNOLOGY, V29, DOI 10.1088/1361-6528/aac66f
+   Majidi S, 2017, RESULTS PHYS, V7, P3209, DOI 10.1016/j.rinp.2017.08.049
+   Meyer JC, 2007, NATURE, V446, P60, DOI 10.1038/nature05545
+   Mikaeilzadeh L, 2020, PHYSICA E, V124, DOI 10.1016/j.physe.2020.114355
+   Mohammadi M, 2019, MATER RES EXPRESS, V6, DOI 10.1088/2053-1591/ab3a6d
+   Mokhalingam A, 2020, CARBON, V159, P478, DOI 10.1016/j.carbon.2019.12.014
+   Mortazavi B, 2017, APPL MATER TODAY, V8, P60, DOI 10.1016/j.apmt.2017.04.010
+   Mortazavi B, 2016, J POWER SOURCES, V329, P456, DOI 10.1016/j.jpowsour.2016.08.109
+   Mortazavi B, 2016, ELECTROCHIM ACTA, V213, P865, DOI 10.1016/j.electacta.2016.08.027
+   Naemi Z, 2019, J MATER SCI, V54, P7728, DOI 10.1007/s10853-019-03400-3
+   Nazarloo AS, 2020, NANOTECHNOLOGY, V31, DOI 10.1088/1361-6528/ab598e
+   Pereira VM, 2009, PHYS REV LETT, V103, DOI 10.1103/PhysRevLett.103.046801
+   Qasemnazhand M, 2019, NEW J CHEM, V43, P16515, DOI 10.1039/c9nj02860a
+   RAPPE AK, 1992, J AM CHEM SOC, V114, P10024, DOI 10.1021/ja00051a040
+   Roknabadi MR, 2013, SUPERLATTICE MICROST, V59, P178, DOI 10.1016/j.spmi.2013.03.022
+   Safarian S, 2018, INT J ENG-IRAN, V31, P456, DOI 10.5829/ije.2018.31.03c.08
+   Shah NA, 2019, ARXIV PREPRINT ARXIV
+   Shakeri M, 2019, SUPERLATTICE MICROST, V128, P116, DOI 10.1016/j.spmi.2019.01.019
+   Shekarforoush S, 2018, J APPL PHYS, V123, DOI 10.1063/1.5029547
+   Shimizu T, 2011, NAT NANOTECHNOL, V6, P45, DOI [10.1038/nnano.2010.249, 10.1038/NNANO.2010.249]
+   Si C, 2016, NANOSCALE, V8, P3207, DOI 10.1039/c5nr07755a
+   Tao L, 2015, NAT NANOTECHNOL, V10, P227, DOI [10.1038/nnano.2014.325, 10.1038/NNANO.2014.325]
+   Tserpes KI, 2005, COMPOS PART B-ENG, V36, P468, DOI 10.1016/j.compositesb.2004.10.003
+   Tserpes KI, 2014, SPRINGER SER MATER S, V188, P303, DOI 10.1007/978-3-319-01201-8_10
+   Wakabayashi K, 2010, SCI TECHNOL ADV MAT, V11, DOI 10.1088/1468-6996/11/5/054504
+   Wu T, 2020, RESULTS PHYS, V17, DOI 10.1016/j.rinp.2020.103103
+   Yousefi F, 2020, INT J HEAT MASS TRAN, V146, DOI 10.1016/j.ijheatmasstransfer.2019.118884
+NR 61
+TC 3
+Z9 3
+U1 0
+U2 0
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2211-3797
+J9 RESULTS PHYS
+JI Results Phys.
+PD JAN
+PY 2021
+VL 20
+AR 103770
+DI 10.1016/j.rinp.2020.103770
+EA JAN 2021
+PG 9
+WC Materials Science, Multidisciplinary; Physics, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Materials Science; Physics
+GA QC4VD
+UT WOS:000614830200013
+OA Green Submitted, gold
+DA 2022-10-19
+ER
+
+PT J
+AU Olarte-Plata, JD
+   Bresme, F
+AF Olarte-Plata, Juan D.
+   Bresme, Fernando
+TI Thermal conductance of the water-gold interface: The impact of the
+   treatment of surface polarization in non-equilibrium molecular
+   simulations
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+ID NANOSCALE HEAT-TRANSFER; DYNAMICS; METALS; MODEL
+AB Interfacial thermal conductance (ITC) quantifies heat transport across material-fluid interfaces. It is a property of crucial importance to study heat transfer processes at both macro- and nanoscales. Therefore, it is essential to accurately model the specific interactions between solids and liquids. Here, we investigate the thermal conductance of gold-water interfaces using polarizable and non-polarizable models. Both models have been fitted to reproduce the interfacial tension of the gold-water interface, but they predict significantly different ITCs. We demonstrate that the treatment of polarization using Drude-like models, widely employed in molecular simulations, leads to a coupling of the solid and liquid vibrational modes that give rise to a significant overestimation of the ITCs. We analyze the dependence of the vibrational coupling with the mass of the Drude particle and propose a solution to the artificial enhancement of the ITC, preserving at the same time the polarization response of the solid. Based on our calculations, we estimate ITCs of 200 MW/(m(2) K) for the water-gold interface. This magnitude is comparable to that reported recently for gold-water interfaces [279 +/- 16 MW/(m(2) K)] using atomic fluctuating charges to account for the polarization contribution. (c) 2022 Author(s). All article content, except where otherwise noted, is licensed under a Creative Commons Attribution (CC BY) license(http://creativecommons.org/licenses/by/4.0/).
+C1 [Olarte-Plata, Juan D.; Bresme, Fernando] Imperial Coll London, Dept Chem, Mol Sci Res Hub, London W12 0BZ, England.
+RP Olarte-Plata, JD; Bresme, F (corresponding author), Imperial Coll London, Dept Chem, Mol Sci Res Hub, London W12 0BZ, England.
+EM j.olarte@imperial.ac.uk; f.bresme@imperial.ac.uk
+FU Leverhulme Trust [RPG-2018-384]; EPSRC [EP/P020194/1, EP/T022213/1]
+FX We acknowledge the Leverhulme Trust for the award of Grant No.
+   RPG-2018-384, the Imperial College London RCS High Performance Computing
+   facility, and the UK Materials and Molecular Modeling Hub for
+   computational resources (partially funded by EPSRC through Grant Nos.
+   EP/P020194/1 and EP/T022213/1).
+CR BERENDSEN HJC, 1987, J PHYS CHEM-US, V91, P6269, DOI 10.1021/j100308a038
+   Bhattarai H, 2020, J CHEM PHYS, V153, P4703, DOI 10.1063/5.0027847
+   Bussi G, 2007, J CHEM PHYS, V126, DOI 10.1063/1.2408420
+   Cahill DG, 2014, APPL PHYS REV, V1, DOI 10.1063/1.4832615
+   Caputa JP, 2011, PHYSICA A, V390, P31, DOI 10.1016/j.physa.2010.09.019
+   Di Lecce S, 2021, PHYS CHEM CHEM PHYS, V23, P22174, DOI 10.1039/d1cp03345j
+   Gaskins JT, 2018, NANO LETT, V18, P7469, DOI 10.1021/acs.nanolett.8b02837
+   Ge ZB, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.186101
+   Geada IL, 2018, NAT COMMUN, V9, DOI 10.1038/s41467-018-03137-8
+   Giri A, 2020, ADV FUNCT MATER, V30, DOI 10.1002/adfm.201903857
+   Heinz H, 2008, J PHYS CHEM C, V112, P17281, DOI 10.1021/jp801931d
+   Hu H, 2012, J APPL PHYS, V112, DOI 10.1063/1.4749393
+   Jiang MX, 2022, J CHEM PHYS, V156, DOI 10.1063/5.0074912
+   Kapitza PL, 1941, PHYS REV, V60, P354, DOI 10.1103/PhysRev.60.354
+   Kong LT, 2011, COMPUT PHYS COMMUN, V182, P2201, DOI 10.1016/j.cpc.2011.04.019
+   Lemkul JA, 2016, CHEM REV, V116, P4983, DOI 10.1021/acs.chemrev.5b00505
+   Luo TF, 2013, PHYS CHEM CHEM PHYS, V15, P3389, DOI 10.1039/c2cp43771f
+   Masuduzzaman M, 2020, ACS OMEGA, V5, P26527, DOI 10.1021/acsomega.0c03241
+   Merabia S, 2009, P NATL ACAD SCI USA, V106, P15113, DOI 10.1073/pnas.0901372106
+   Muscatello J, 2017, PHYS REV LETT, V119, DOI 10.1103/PhysRevLett.119.045901
+   Neogi S., 2016, ARXIV
+   Ntim S, 2020, PHYS CHEM CHEM PHYS, V22, P10786, DOI 10.1039/d0cp00409j
+   Olarte-Plata JD, 2022, ACS NANO, V16, P694, DOI 10.1021/acsnano.1c08220
+   Olarte-Plata JD, 2022, MOL SIMULAT, V48, P87, DOI 10.1080/08927022.2021.1959033
+   Osman MA, 1996, APPL SURF SCI, V99, P261, DOI 10.1016/0169-4332(96)00101-8
+   Persson BNJ, 2011, J PHYS-CONDENS MAT, V23, DOI 10.1088/0953-8984/23/4/045009
+   Pham A, 2013, J CHEM PHYS, V139, DOI 10.1063/1.4851395
+   PLIMPTON S, 1995, J COMPUT PHYS, V117, P1, DOI 10.1006/jcph.1995.1039
+   Shenogina N, 2009, PHYS REV LETT, V102, DOI 10.1103/PhysRevLett.102.156101
+   Smirnov KS, 2017, PHYS CHEM CHEM PHYS, V19, P2950, DOI 10.1039/c6cp06770k
+   Stukowski A, 2010, MODEL SIMUL MATER SC, V18, DOI 10.1088/0965-0393/18/1/015012
+   SWARTZ ET, 1989, REV MOD PHYS, V61, P605, DOI 10.1103/RevModPhys.61.605
+   Tascini AS, 2017, PHYS CHEM CHEM PHYS, V19, P3244, DOI 10.1039/c6cp06403e
+   TYSON WR, 1977, SURF SCI, V62, P267, DOI 10.1016/0039-6028(77)90442-3
+   Velasco-Velez JJ, 2014, SCIENCE, V346, P831, DOI 10.1126/science.1259437
+   Wilson OM, 2002, PHYS REV B, V66, DOI 10.1103/PhysRevB.66.224301
+   Wu YJ, 2006, J CHEM PHYS, V124, DOI 10.1063/1.2136877
+   Yu X, 2005, J CHEM PHYS, V122, DOI 10.1063/1.1830431
+NR 38
+TC 0
+Z9 0
+U1 3
+U2 3
+PU AIP Publishing
+PI MELVILLE
+PA 1305 WALT WHITMAN RD, STE 300, MELVILLE, NY 11747-4501 USA
+SN 0021-9606
+EI 1089-7690
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PD MAY 28
+PY 2022
+VL 156
+IS 20
+AR 204701
+DI 10.1063/5.0090983
+PG 10
+WC Chemistry, Physical; Physics, Atomic, Molecular & Chemical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Physics
+GA 1N1DI
+UT WOS:000800402500012
+PM 35649827
+OA hybrid, Green Published
+DA 2022-10-19
+ER
+
+PT J
+AU Rems, L
+   Viano, M
+   Kasimova, MA
+   Miklavcic, D
+   Tarek, M
+AF Rems, Lea
+   Viano, Marilyne
+   Kasimova, Marina A.
+   Miklavcic, Damijan
+   Tarek, Mounir
+TI The contribution of lipid peroxidation to membrane permeability in
+   electropermeabilization: A molecular dynamics study
+SO BIOELECTROCHEMISTRY
+LA English
+DT Article
+DE Electroporation; Oxidized lipids; Permeability; Electrical conductance;
+   Cell membrane; Free energy calculations
+ID PULSED ELECTRIC-FIELDS; FREE-ENERGY; PLASMA-MEMBRANE; MAMMALIAN-CELLS;
+   PHOSPHOLIPID-MEMBRANES; OXIDATIVE STRESS; PORE CREATION; ION DIFFUSION;
+   FORCE-FIELD; ELECTROPORATION
+AB Electroporation or electropermeabilization is a technique that enables transient increase in the cell membrane permeability by exposing cells to pulsed electric field. However, the molecular mechanisms of the long-lived cell membrane permeability, which persists on the minutes time scale after the pulse treatment, remain elusive. Experimental studies have suggested that lipid peroxidation could present a mechanism of this prolonged membrane permeabilization. In this study we make the first important step in quantifying the possible contribution of lipid peroxidation to electropermeabilization. We use free energy calculations to quantify the permeability and conductance of bilayers, containing an increasing percentage of hydroperoxide lipid derivatives, to sodium and chloride ions. We then compare our calculations to experimental measurements on electropermeabilized cells. Our results show that the permeability and conductance increase dramatically by several orders of magnitude in peroxidized bilayers. Yet this increase is not sufficient to reasonably account for the entire range of experimental measurements. Nevertheless, lipid peroxidation might be considered an important mechanism of prolonged membrane permeabilization, if exposure of cells to high voltage electric pulses leads to secondary lipid peroxidation products. Our analysis calls for experimental studies, which will determine the type and amount of lipid per oxidation products in electropermeabilized cell membranes. (C) 2018 Published by Elsevier B.V.
+C1 [Rems, Lea] Delft Univ Technol, Dept Chem Engn, NL-2629 HZ Delft, Netherlands.
+   [Viano, Marilyne; Kasimova, Marina A.; Tarek, Mounir] Univ Lorraine, CNRS, LPCT, F-54000 Nancy, France.
+   [Miklavcic, Damijan] Univ Ljubljana, Fac Elect Engn, Trzaska 25, SI-1000 Ljubljana, Slovenia.
+   [Rems, Lea] KTH Royal Inst Technol, Sci Life Lab, Dept Appl Phys, S-17165 Solna, Sweden.
+RP Rems, L (corresponding author), Delft Univ Technol, Dept Chem Engn, NL-2629 HZ Delft, Netherlands.; Tarek, M (corresponding author), Univ Lorraine, CNRS, LPCT, F-54000 Nancy, France.; Rems, L (corresponding author), KTH Royal Inst Technol, Sci Life Lab, Dept Appl Phys, S-17165 Solna, Sweden.
+EM l.rems@tudelft.nl; mounir.tarek@univ-lorraine.fr
+RI Rems, Lea/U-4161-2019; Miklavčič, Damijan/A-9497-2008; TAREK,
+   Mounir/B-8443-2012
+OI Rems, Lea/0000-0001-7470-4367; Miklavčič, Damijan/0000-0003-3506-9449;
+   TAREK, mounir/0000-0002-9451-3215
+FU OCCIGEN center [(GENCI-CNRS)] [c2015077461]; Slovenian Research Agency
+   (ARRS) [P2-0249]; COST action [TD1104, STSM-TD1104-270215-057439];
+   "Contrat Etat Plan Region Lorraine 2015-2020" subproject MatDS
+FX Part of the simulations was performed using HPC resources from the
+   OCCIGEN center [(GENCI-CNRS) project number c2015077461]. This work was
+   supported by Slovenian Research Agency (ARRS) [program P2-0249 and
+   funding for Junior Researchers to L.R.], COST action TD1104
+   (www.electroporation.net) [Short Term Scientific
+   MissionSTSM-TD1104-270215-057439]. M.T. Acknowledges the support from
+   the "Contrat Etat Plan Region Lorraine 2015-2020" subproject MatDS.
+CR Abbott SK, 2012, BBA-BIOMEMBRANES, V1818, P1309, DOI 10.1016/j.bbamem.2012.01.011
+   Abrams JB, 2008, J PHYS CHEM B, V112, P15742, DOI 10.1021/jp805039u
+   Alberts B., 2002, MOL BIOL CELL
+   ANDERSEN OS, 1975, BIOPHYS J, V15, P795
+   ASAMI K, 1990, BIOPHYS J, V58, P143, DOI 10.1016/S0006-3495(90)82360-2
+   Azan A, 2017, ANAL CHEM, V89, P10790, DOI 10.1021/acs.analchem.7b02079
+   Barducci A, 2011, WIRES COMPUT MOL SCI, V1, P826, DOI 10.1002/wcms.31
+   Bennett WFD, 2014, BIOPHYS J, V106, P210, DOI 10.1016/j.bpj.2013.11.4486
+   BENOV LC, 1994, GEN PHYSIOL BIOPHYS, V13, P85
+   BENZ R, 1981, BIOCHIM BIOPHYS ACTA, V640, P169, DOI 10.1016/0005-2736(81)90542-3
+   BERENDSEN HJC, 1984, J CHEM PHYS, V81, P3684, DOI 10.1063/1.448118
+   BIEDINGER U, 1990, PLANTA, V180, P598, DOI 10.1007/BF02411459
+   Binder H, 2002, CHEM PHYS LIPIDS, V115, P39, DOI 10.1016/S0009-3084(02)00005-1
+   Bjelkmar P, 2010, J CHEM THEORY COMPUT, V6, P459, DOI 10.1021/ct900549r
+   Bonnafous P, 1999, BBA-BIOMEMBRANES, V1461, P123, DOI 10.1016/S0005-2736(99)00154-6
+   Bonomi M, 2009, COMPUT PHYS COMMUN, V180, P1961, DOI 10.1016/j.cpc.2009.05.011
+   Boonnoy P, 2015, J PHYS CHEM LETT, V6, P4884, DOI 10.1021/acs.jpclett.5b02405
+   Breton M, 2018, BIOELECTROCHEMISTRY, V119, P76, DOI 10.1016/j.bioelechem.2017.09.005
+   Busch NA, 1998, BIOPHYS J, V75, P2956, DOI 10.1016/S0006-3495(98)77737-9
+   Chen M, 2012, J CHEM PHYS, V137, DOI 10.1063/1.4733389
+   Cuendet M. A., 2012, PLUMED USERS GUIDE
+   Cuendet MA, 2014, J CHEM THEORY COMPUT, V10, P2975, DOI 10.1021/ct500012b
+   Cwiklik L, 2010, CHEM PHYS LETT, V486, P99, DOI 10.1016/j.cplett.2010.01.010
+   DARDEN T, 1993, J CHEM PHYS, V98, P10089, DOI 10.1063/1.464397
+   DeBruin KA, 1999, BIOPHYS J, V77, P1213, DOI 10.1016/S0006-3495(99)76973-0
+   GABRIEL B, 1994, EUR J BIOCHEM, V223, P25, DOI 10.1111/j.1432-1033.1994.tb18962.x
+   GABRIEL B, 1995, EUR J BIOCHEM, V228, P710, DOI 10.1111/j.1432-1033.1995.tb20314.x
+   Garrec J, 2014, J PHYS CHEM LETT, V5, P1653, DOI 10.1021/jz500502q
+   Gurtovenko AA, 2008, J PHYS CHEM B, V112, P1953, DOI 10.1021/jp0750708
+   HANAI T, 1965, J THEOR BIOL, V9, P433, DOI 10.1016/0022-5193(65)90042-1
+   HAUSER H, 1972, NATURE, V239, P342, DOI 10.1038/239342a0
+   HAUSER H, 1973, BIOCHEMISTRY-US, V12, P4507, DOI 10.1021/bi00746a032
+   Hess B, 1997, J COMPUT CHEM, V18, P1463, DOI 10.1002/(SICI)1096-987X(199709)18:12<1463::AID-JCC4>3.3.CO;2-L
+   Hess B, 2008, J CHEM THEORY COMPUT, V4, P435, DOI 10.1021/ct700301q
+   Hoffmann EK, 2009, PHYSIOL REV, V89, P193, DOI 10.1152/physrev.00037.2007
+   HOOVER WG, 1985, PHYS REV A, V31, P1695, DOI 10.1103/PhysRevA.31.1695
+   Hummer G, 2005, NEW J PHYS, V7, DOI 10.1088/1367-2630/7/1/034
+   Humphrey W, 1996, J MOL GRAPH MODEL, V14, P33, DOI 10.1016/0263-7855(96)00018-5
+   Ibey BL, 2010, BIOELECTROCHEMISTRY, V79, P114, DOI 10.1016/j.bioelechem.2010.01.001
+   Ibey BL, 2009, BIOELECTROMAGNETICS, V30, P92, DOI 10.1002/bem.20451
+   Jarerattanachat V, 2013, J PHYS CHEM B, V117, P8490, DOI 10.1021/jp4040612
+   JORGENSEN WL, 1983, J CHEM PHYS, V79, P926, DOI 10.1063/1.445869
+   Jurkiewicz P, 2012, BBA-BIOMEMBRANES, V1818, P2388, DOI 10.1016/j.bbamem.2012.05.020
+   Kakorin S, 1996, BIOPHYS CHEM, V58, P109, DOI 10.1016/0301-4622(95)00090-9
+   Khavrutskii IV, 2009, J AM CHEM SOC, V131, P1706, DOI 10.1021/ja8081704
+   Klauda JB, 2010, J PHYS CHEM B, V114, P7830, DOI 10.1021/jp101759q
+   Kohagen M, 2016, J PHYS CHEM B, V120, P1454, DOI 10.1021/acs.jpcb.5b05221
+   Kohagen M, 2014, J PHYS CHEM B, V118, P7902, DOI 10.1021/jp5005693
+   Laio A, 2002, P NATL ACAD SCI USA, V99, P12562, DOI 10.1073/pnas.202427399
+   Leguebe M, 2014, J THEOR BIOL, V360, P83, DOI 10.1016/j.jtbi.2014.06.027
+   Leontyev I, 2011, PHYS CHEM CHEM PHYS, V13, P2613, DOI 10.1039/c0cp01971b
+   Levine ZA, 2010, J MEMBRANE BIOL, V236, P27, DOI 10.1007/s00232-010-9277-y
+   Li JB, 2010, BIOMICROFLUIDICS, V4, DOI 10.1063/1.3324847
+   Lis M, 2011, PHYS CHEM CHEM PHYS, V13, P17555, DOI 10.1039/c1cp21009b
+   MACCARRONE M, 1995, BIOCHEM BIOPH RES CO, V206, P238, DOI 10.1006/bbrc.1995.1033
+   MACCARRONE M, 1995, BIOCHEM BIOPH RES CO, V209, P417, DOI 10.1006/bbrc.1995.1519
+   Mahnic-Kalamiza S, 2014, J MEMBRANE BIOL, V247, P1279, DOI 10.1007/s00232-014-9737-x
+   Maragliano L, 2006, CHEM PHYS LETT, V426, P168, DOI 10.1016/j.cplett.2006.05.062
+   Marnett LJ, 1999, MUTAT RES-FUND MOL M, V424, P83, DOI 10.1016/S0027-5107(99)00010-X
+   MARRINK SJ, 1994, J PHYS CHEM-US, V98, P4155, DOI 10.1021/j100066a040
+   Mason RP, 1997, FREE RADICAL BIO MED, V23, P419, DOI 10.1016/S0891-5849(97)00101-9
+   Melikov KC, 2001, BIOPHYS J, V80, P1829, DOI 10.1016/S0006-3495(01)76153-X
+   Nesin V, 2012, BIOELECTROMAGNETICS, V33, P394, DOI 10.1002/bem.21696
+   Neumann E, 1998, BIOPHYS J, V74, P98, DOI 10.1016/S0006-3495(98)77771-9
+   Niki E, 2005, BIOCHEM BIOPH RES CO, V338, P668, DOI 10.1016/j.bbrc.2005.08.072
+   NOSE S, 1984, MOL PHYS, V52, P255, DOI 10.1080/00268978400101201
+   NOSE S, 1983, MOL PHYS, V50, P1055, DOI 10.1080/00268978300102851
+   Pakhomov AG, 2007, BIOELECTROMAGNETICS, V28, P655, DOI 10.1002/bem.20354
+   Pakhomov AG, 2007, ARCH BIOCHEM BIOPHYS, V465, P109, DOI 10.1016/j.abb.2007.05.003
+   Pakhomov AG, 2009, BIOCHEM BIOPH RES CO, V385, P181, DOI 10.1016/j.bbrc.2009.05.035
+   Pakhomova ON, 2012, ARCH BIOCHEM BIOPHYS, V527, P55, DOI 10.1016/j.abb.2012.08.004
+   PAPAHADJOPOULOS D, 1972, BIOCHIM BIOPHYS ACTA, V266, P561, DOI 10.1016/0005-2736(72)90354-9
+   PARRINELLO M, 1981, J APPL PHYS, V52, P7182, DOI 10.1063/1.328693
+   Paula S, 1998, BIOPHYS J, V74, P319, DOI 10.1016/S0006-3495(98)77789-6
+   Pavlin M, 2005, BIOPHYS J, V88, P4378, DOI 10.1529/biophysj.104.048975
+   Pavlin M, 2007, BBA-GEN SUBJECTS, V1770, P12, DOI 10.1016/j.bbagen.2006.06.014
+   Pavlin M, 2008, BIOELECTROCHEMISTRY, V74, P38, DOI 10.1016/j.bioelechem.2008.04.016
+   Piggot TJ, 2012, J CHEM THEORY COMPUT, V8, P4593, DOI 10.1021/ct3003157
+   Reis A, 2012, BBA-BIOMEMBRANES, V1818, P2374, DOI 10.1016/j.bbamem.2012.02.002
+   Rems L, 2016, J APPL PHYS, V119, DOI 10.1063/1.4949264
+   Riske KA, 2009, BIOPHYS J, V97, P1362, DOI 10.1016/j.bpj.2009.06.023
+   ROLS MP, 1990, BIOPHYS J, V58, P1089, DOI 10.1016/S0006-3495(90)82451-6
+   Rosazza C, 2016, CURR GENE THER, V16, P98, DOI 10.2174/1566523216666160331130040
+   Runas KA, 2015, SOFT MATTER, V11, P499, DOI 10.1039/c4sm01478b
+   Sabri N, 1996, EUR J BIOCHEM, V238, P737, DOI 10.1111/j.1432-1033.1996.0737w.x
+   Sankhagowit S, 2014, BBA-BIOMEMBRANES, V1838, P2615, DOI 10.1016/j.bbamem.2014.06.020
+   Scheffer HJ, 2014, J VASC INTERV RADIOL, V25, P997, DOI 10.1016/j.jvir.2014.01.028
+   Sengel JT, 2016, P NATL ACAD SCI USA, V113, P5281, DOI 10.1073/pnas.1517437113
+   Shirakashi R, 2004, INT J HEAT MASS TRAN, V47, P4517, DOI 10.1016/j.ijheatmasstransfer.2004.04.007
+   SUKHORUKOV VL, 1993, J MEMBRANE BIOL, V132, P27
+   Tarek M, 2005, BIOPHYS J, V88, P4045, DOI 10.1529/biophysj.104.050617
+   TEISSIE J, 1980, J MEMBRANE BIOL, V55, P133, DOI 10.1007/BF01871155
+   Teissie J, 2005, BBA-GEN SUBJECTS, V1724, P270, DOI 10.1016/j.bbagen.2005.05.006
+   Tieleman D. Peter, 2004, BMC Biochemistry, V5, P10, DOI 10.1186/1471-2091-5-10
+   Toepfl S, 2007, CHEM ENG PROCESS, V46, P537, DOI 10.1016/j.cep.2006.07.011
+   TSONG TY, 1991, BIOPHYS J, V60, P297, DOI 10.1016/S0006-3495(91)82054-9
+   Uchida K, 2003, PROG LIPID RES, V42, P318, DOI 10.1016/S0163-7827(03)00014-6
+   Van der Paal J, 2016, CHEM SCI, V7, P489, DOI 10.1039/c5sc02311d
+   Vernier PT, 2009, PLOS ONE, V4, DOI 10.1371/journal.pone.0007966
+   Vorobyov I, 2014, BIOPHYS J, V106, P586, DOI 10.1016/j.bpj.2013.12.027
+   Wang LG, 2006, P NATL ACAD SCI USA, V103, P18528, DOI 10.1073/pnas.0608714103
+   Weaver JC, 1996, BIOELECTROCH BIOENER, V41, P135, DOI 10.1016/S0302-4598(96)05062-3
+   Weber G, 2014, SOFT MATTER, V10, P4241, DOI 10.1039/c3sm52740a
+   Wegner LH, 2015, BIOPHYS J, V108, P1660, DOI 10.1016/j.bpj.2015.01.038
+   Wong-Ekkabut J, 2007, BIOPHYS J, V93, P4225, DOI 10.1529/biophysj.107.112565
+   Yarmush ML, 2014, ANNU REV BIOMED ENG, V16, P295, DOI 10.1146/annurev-bioeng-071813-104622
+   Yeo SK, 2013, J SCI FOOD AGR, V93, P396, DOI 10.1002/jsfa.5775
+   Yin HY, 2011, CHEM REV, V111, P5944, DOI 10.1021/cr200084z
+   Yun O, 2016, INT J MOL SCI, V17, DOI 10.3390/ijms17081374
+   Zhao W, 2012, J AGR FOOD CHEM, V60, P12204, DOI 10.1021/jf304236h
+NR 110
+TC 40
+Z9 42
+U1 4
+U2 47
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 1567-5394
+EI 1878-562X
+J9 BIOELECTROCHEMISTRY
+JI Bioelectrochemistry
+PD FEB
+PY 2019
+VL 125
+BP 46
+EP 57
+DI 10.1016/j.bioelechem.2018.07.018
+PG 12
+WC Biochemistry & Molecular Biology; Biology; Biophysics; Electrochemistry
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology; Life Sciences & Biomedicine - Other
+   Topics; Biophysics; Electrochemistry
+GA HC0ND
+UT WOS:000451494200007
+PM 30265863
+DA 2022-10-19
+ER
+
+PT J
+AU Garner, MH
+   Bro-Jorgensen, W
+   Solomon, GC
+AF Garner, Marc H.
+   Bro-Jorgensen, William
+   Solomon, Gemma C.
+TI Three Distinct Torsion Profiles of Electronic Transmission through
+   Linear Carbon Wires
+SO JOURNAL OF PHYSICAL CHEMISTRY C
+LA English
+DT Article
+ID MAGNETIC-FIELD CONTROL; CUMULENIC C=C BONDS; TRANSPORT-PROPERTIES; ATOM
+   WIRES; ELECTRICAL-TRANSPORT; HELICAL ORBITALS; CHARGE-TRANSPORT;
+   MOLECULAR WIRES; CURRENT-DENSITY; CONDUCTANCE
+AB The one-dimensional carbon allotrope carbyne, a linear chain of sp-hybridized carbon atoms, is predicted to exist in a polyynic and a cumulenic structure. While molecular forms of carbyne have been extensively characterized, the structural nature is hard to determine for many linear carbon wires that are made in situ during pulling experiments. Here, we show that cumulenes and polyynes have distinctively different low-bias conductance profiles under axial torsion. We analyze the change of the electronic structure, Landauer transmission, and ballistic current density of the three types of closed-shell molecular carbynes as a function of the torsion angle. Polyynic, odd-carbon cumulenic, and even-carbon cumulenic carbon wires exhibit helical frontier molecular orbitals when the end-groups are not in a coplanar configuration. This helical conjugation effect gives rise to strong ring current patterns around the linear wires. Only the transmission of even-carbon polyynic wires follows the well-known cosine-squared law with axial torsion that is also seen in biphenyl-type systems. Notably, the transmission of even-carbon cumulenic carbon wires rises with axial torsion from coplanar toward perpendicular orientation of the end-groups. The three distinct transmission profiles of polyynes, odd-carbon cumulenes, and even-carbon cumulenes may allow for experimental identification of the structural nature of linear carbon wires. Their different electron transport properties under axial torsion furthermore underline that, in the molecular limit of carbyne, three different subclasses of linear carbon wires exist.
+C1 [Garner, Marc H.; Bro-Jorgensen, William; Solomon, Gemma C.] Univ Copenhagen, Nanosci Ctr, DK-2100 Copenhagen O, Denmark.
+   [Garner, Marc H.; Bro-Jorgensen, William; Solomon, Gemma C.] Univ Copenhagen, Dept Chem, DK-2100 Copenhagen O, Denmark.
+RP Solomon, GC (corresponding author), Univ Copenhagen, Nanosci Ctr, DK-2100 Copenhagen O, Denmark.; Solomon, GC (corresponding author), Univ Copenhagen, Dept Chem, DK-2100 Copenhagen O, Denmark.
+EM gsolomon@chem.ku.dk
+RI Solomon, Gemma C./L-8344-2014
+OI Solomon, Gemma C./0000-0002-2018-1529; Garner, Marc/0000-0002-7270-8353
+FU Danish Council for Independent Research Natural Sciences; Carlsberg
+   Foundation
+FX We thank Roald Hoffmann for many insightful discussions. We are grateful
+   for funding from the Danish Council for Independent Research Natural
+   Sciences and the Carlsberg Foundation.
+CR Aidas K, 2014, WIRES COMPUT MOL SCI, V4, P269, DOI 10.1002/wcms.1172
+   Al-Backri A, 2014, J CHEM PHYS, V140, DOI 10.1063/1.4867635
+   Artyukhov VI, 2014, NANO LETT, V14, P4224, DOI 10.1021/nl5017317
+   Auffrant A, 2004, CHEM-EUR J, V10, P2906, DOI 10.1002/chem.200400218
+   Bailey SWD, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.256802
+   Ballmann S, 2012, PHYS REV LETT, V109, DOI 10.1103/PhysRevLett.109.056801
+   Ballmann S, 2010, CHEMPHYSCHEM, V11, P2256, DOI 10.1002/cphc.200900974
+   Banhart F, 2015, BEILSTEIN J NANOTECH, V6, P559, DOI 10.3762/bjnano.6.58
+   Ben Romdhane F, 2017, CARBON, V122, P92, DOI 10.1016/j.carbon.2017.06.039
+   Borrnert F, 2010, PHYS REV B, V81, DOI 10.1103/PhysRevB.81.085439
+   Buhringer MU, 2018, ANGEW CHEM INT EDIT, V57, P8321, DOI 10.1002/anie.201802137
+   Burkle M, 2012, PHYS REV B, V85, DOI 10.1103/PhysRevB.85.075417
+   Cabra G, 2018, J CHEM PHYS, V148, DOI 10.1063/1.5029252
+   Caricato M, 2015, J CHEM THEORY COMPUT, V11, P1349, DOI 10.1021/acs.jctc.5b00051
+   Casari CS, 2018, MRS COMMUN, V8, P207, DOI 10.1557/mrc.2018.48
+   Casari CS, 2016, NANOSCALE, V8, P4414, DOI 10.1039/c5nr06175j
+   Chalifoux WA, 2010, NAT CHEM, V2, P967, DOI [10.1038/NCHEM.828, 10.1038/nchem.828]
+   Chen ZX, 2019, J PHYS CHEM LETT, V10, P3453, DOI 10.1021/acs.jpclett.9b00796
+   Cook AM, 2015, TETRAHEDRON LETT, V56, P2377, DOI 10.1016/j.tetlet.2015.03.111
+   Coulson CA, 1940, P CAMB PHILOS SOC, V36, P193
+   Cretu O, 2013, NANO LETT, V13, P3487, DOI 10.1021/nl4018918
+   Cui L, 2011, J AM CHEM SOC, V133, P7332, DOI 10.1021/ja2020185
+   D'yachkov PN, 2013, J PHYS CHEM C, V117, P16306, DOI 10.1021/jp4038864
+   Datta S., 1997, ELECT TRANSPORT MESO
+   Dhakal U, 2019, PHYS LETT A, V383, P2193, DOI 10.1016/j.physleta.2019.04.018
+   Doan TH, 2016, J MOL STRUCT, V1116, P127, DOI 10.1016/j.molstruc.2016.03.026
+   Dou KP, 2011, J PHYS CHEM C, V115, P13911, DOI 10.1021/jp202609x
+   Enkovaara J, 2010, J PHYS-CONDENS MAT, V22, DOI 10.1088/0953-8984/22/25/253202
+   Fan ZQ, 2016, CARBON, V98, P179, DOI 10.1016/j.carbon.2015.11.011
+   Fias S, 2017, J CHEM PHYS, V147, DOI 10.1063/1.5001924
+   FISCHER H, 1968, THEOR CHIM ACTA, V12, P344, DOI 10.1007/BF00527554
+   Frisch M.J, 2013, GAUSSIAN 09 COMPUTER
+   Furst JA, 2010, EPL-EUROPHYS LETT, V91, DOI 10.1209/0295-5075/91/37002
+   Garner MH, 2020, CHEM SCI, V11, P2568, DOI 10.1039/d0sc90031a
+   Garner MH, 2019, CHEM SCI, V10, P4598, DOI 10.1039/c8sc05464a
+   Garner MH, 2018, J PHYS CHEM C, V122, P26777, DOI 10.1021/acs.jpcc.8b05661
+   Garner MH, 2018, J PHYS CHEM LETT, V9, P6941, DOI 10.1021/acs.jpclett.8b03432
+   Garner MH, 2018, ACS CENTRAL SCI, V4, P688, DOI 10.1021/acscentsci.8b00086
+   Gil-Guerrero S, 2019, NANO LETT, V19, P7394, DOI 10.1021/acs.nanolett.9b03063
+   Gluyas JBG, 2016, CHEM-EUR J, V22, P16138, DOI 10.1002/chem.201603236
+   Grimme S, 2010, J CHEM PHYS, V132, DOI 10.1063/1.3382344
+   Guckel S, 2018, ORGANOMETALLICS, V37, P1432, DOI 10.1021/acs.organomet.8b00099
+   Guo YD, 2013, RSC ADV, V3, P16672, DOI 10.1039/c3ra41401a
+   Hartle R, 2011, PHYS REV LETT, V107, DOI 10.1103/PhysRevLett.107.046802
+   Hendon CH, 2013, CHEM SCI, V4, P4278, DOI 10.1039/c3sc52061g
+   Herges R, 2015, J ORG CHEM, V80, P11869, DOI 10.1021/acs.joc.5b01959
+   Larsen AH, 2017, J PHYS-CONDENS MAT, V29, DOI 10.1088/1361-648X/aa680e
+   Hod O, 2006, ACCOUNTS CHEM RES, V39, P109, DOI 10.1021/ar0401909
+   Hod O, 2005, J AM CHEM SOC, V127, P1648, DOI 10.1021/ja043366a
+   HOFFMANN R, 1987, ANGEW CHEM INT EDIT, V26, P846, DOI 10.1002/anie.198708461
+   HOFFMANN R, 1966, TETRAHEDRON, V22, P521, DOI 10.1016/0040-4020(66)80020-0
+   Imamura A, 2013, CHEM PHYS LETT, V590, P136, DOI 10.1016/j.cplett.2013.10.064
+   Imamura A, 2013, INT J QUANTUM CHEM, V113, P423, DOI 10.1002/qua.24244
+   Jarowski PD, 2006, J PHYS CHEM A, V110, P7237, DOI 10.1021/jp0607770
+   Jasper-Tonnies T, 2017, PHYS REV LETT, V119, DOI 10.1103/PhysRevLett.119.066801
+   Jensen A, 2019, J PHYS CHEM C, V123, P12042, DOI 10.1021/acs.jpcc.8b11092
+   Jin CH, 2009, PHYS REV LETT, V102, DOI 10.1103/PhysRevLett.102.205501
+   Khoo KH, 2008, NANO LETT, V8, P2900, DOI 10.1021/nl8017143
+   Kral P, 2005, J CHEM PHYS, V123, DOI 10.1063/1.2107527
+   Kuang GW, 2016, J AM CHEM SOC, V138, P11140, DOI 10.1021/jacs.6b07416
+   KUHN R, 1966, ANGEW CHEM INT EDIT, V5, P420, DOI 10.1002/anie.196604202
+   La Torre A, 2015, NAT COMMUN, V6, DOI 10.1038/ncomms7636
+   LAGOW RJ, 1995, SCIENCE, V267, P362, DOI 10.1126/science.267.5196.362
+   Lai LQ, 2019, PHYS REV B, V100, DOI 10.1103/PhysRevB.100.125437
+   Lambropoulos K, 2017, PHYS CHEM CHEM PHYS, V19, P26890, DOI 10.1039/c7cp05134d
+   Lang ND, 1998, PHYS REV LETT, V81, P3515, DOI 10.1103/PhysRevLett.81.3515
+   Lang ND, 2000, PHYS REV LETT, V84, P358, DOI 10.1103/PhysRevLett.84.358
+   Larade B, 2001, PHYS REV B, V64, DOI 10.1103/PhysRevB.64.075420
+   Larsen AH, 2009, PHYS REV B, V80, DOI 10.1103/PhysRevB.80.195112
+   Liu MJ, 2013, ACS NANO, V7, P10075, DOI 10.1021/nn404177r
+   Martin WR, 2019, J ENERG MATER, V37, P70, DOI 10.1080/07370652.2018.1531089
+   Martin WR, 2018, CHEMISTRYSELECT, V3, P7222, DOI 10.1002/slct.201800920
+   MAYERLE JJ, 1978, ACTA CRYSTALLOGR B, V34, P1374, DOI 10.1107/S0567740878005646
+   Milan DC, 2017, NANOSCALE, V9, P355, DOI 10.1039/c6nr06355a
+   Milan DC, 2016, J PHYS CHEM C, V120, P15666, DOI 10.1021/acs.jpcc.5b08877
+   Milani A, 2017, J PHYS CHEM C, V121, P10562, DOI 10.1021/acs.jpcc.7b02246
+   Mishchenko A, 2010, NANO LETT, V10, P156, DOI 10.1021/nl903084b
+   Mujica V, 1999, ADV CHEM PHYS, V107, P403, DOI 10.1002/9780470141663.ch7
+   Nozaki D, 2017, J COMPUT CHEM, V38, P1685, DOI 10.1002/jcc.24812
+   Oeiras RY, 2014, J CHEM PHYS, V140, DOI 10.1063/1.4869858
+   Orimoto Y, 2019, J PHYS CHEM C, V123, P11134, DOI 10.1021/acs.jpcc.9b01829
+   Peeks MD, 2016, PHYS CHEM CHEM PHYS, V18, P5264, DOI 10.1039/c5cp06167a
+   Perdew JP, 1996, PHYS REV LETT, V77, P3865, DOI 10.1103/PhysRevLett.77.3865
+   Petreska I, 2008, PHYS REV B, V78, DOI 10.1103/PhysRevB.78.045209
+   Pigulski B, 2017, J ORG CHEM, V82, P1487, DOI 10.1021/acs.joc.6b02685
+   Pohl V, 2019, J PHYS CHEM LETT, V10, P5387, DOI 10.1021/acs.jpclett.9b01732
+   Prasongkit J, 2010, PHYS REV B, V81, DOI 10.1103/PhysRevB.81.115404
+   Qiu M, 2012, J PHYS CHEM C, V116, P11709, DOI 10.1021/jp300073t
+   Rai D, 2012, PHYS REV B, V85, DOI 10.1103/PhysRevB.85.155440
+   Rai D, 2011, J PHYS CHEM LETT, V2, P2118, DOI 10.1021/jz200862r
+   Rai D, 2010, J PHYS CHEM C, V114, P20583, DOI 10.1021/jp105030d
+   Ravagnan L, 2007, PHYS REV LETT, V98, DOI 10.1103/PhysRevLett.98.216103
+   Ravagnan L, 2009, PHYS REV LETT, V102, DOI 10.1103/PhysRevLett.102.245502
+   Rix JB, 2019, J PHYS CHEM C, V123, P3817, DOI 10.1021/acs.jpcc.8b09626
+   Sarbadhikary P, 2018, PHYS CHEM CHEM PHYS, V20, P9364, DOI [10.1039/c7cp06113g, 10.1039/C7CP06113G]
+   Sarbadhikary P, 2016, J ORG CHEM, V81, P5623, DOI 10.1021/acs.joc.6b00943
+   Shen L, 2010, J AM CHEM SOC, V132, P11481, DOI 10.1021/ja909531c
+   Shi L, 2016, NAT MATER, V15, P634, DOI [10.1038/NMAT4617, 10.1038/nmat4617]
+   Solomon GC, 2010, NAT CHEM, V2, P223, DOI [10.1038/NCHEM.546, 10.1038/nchem.546]
+   Song B, 2010, NEW J PHYS, V12, DOI 10.1088/1367-2630/12/10/103017
+   Sowa JK, 2018, J PHYS CHEM LETT, V9, P1859, DOI 10.1021/acs.jpclett.8b00550
+   Stuyver T, 2018, NANO LETT, V18, P7298, DOI 10.1021/acs.nanolett.8b03503
+   Stuyver T, 2017, CHEMPHYSCHEM, V18, P3012, DOI 10.1002/cphc.201700874
+   Szafert S, 2003, CHEM REV, V103, P4175, DOI 10.1021/cr030041o
+   Tada T, 2002, CHEMPHYSCHEM, V3, P1035, DOI 10.1002/cphc.200290006
+   Gonzalez MT, 2014, J PHYS CHEM C, V118, P21655, DOI 10.1021/jp506078a
+   Tiana D, 2014, CHEM COMMUN, V50, P13990, DOI 10.1039/c4cc06433j
+   Tokutome Y, 2013, J MOL STRUCT, V1047, P136, DOI 10.1016/j.molstruc.2013.05.013
+   Tongay S, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.136404
+   Venkataraman L, 2006, NATURE, V442, P904, DOI 10.1038/nature05037
+   Vonlanthen D, 2009, ANGEW CHEM INT EDIT, V48, P8886, DOI 10.1002/anie.200903946
+   Walz M, 2014, PHYS REV LETT, V113, DOI 10.1103/PhysRevLett.113.136602
+   Wang CS, 2009, J AM CHEM SOC, V131, P15647, DOI 10.1021/ja9061129
+   Wendinger D, 2017, ACCOUNTS CHEM RES, V50, P1468, DOI 10.1021/acs.accounts.7b00164
+   Wilhelm J, 2014, PHYS REV B, V89, DOI 10.1103/PhysRevB.89.195406
+   WOITELLIER S, 1989, CHEM PHYS, V131, P481, DOI 10.1016/0301-0104(89)80193-4
+   Xu WJ, 2019, ANGEW CHEM INT EDIT, V58, P8378, DOI 10.1002/anie.201901228
+   Xue YQ, 2004, PHYS REV B, V70, DOI 10.1103/PhysRevB.70.081404
+   Yoshizawa K, 2008, J AM CHEM SOC, V130, P9406, DOI 10.1021/ja800638t
+   Yu JX, 2015, CHINESE PHYS B, V24, DOI 10.1088/1674-1056/24/6/067307
+   Yuzvinsky TD, 2006, NANO LETT, V6, P2718, DOI 10.1021/nl061671j
+   Zang YP, 2019, NAT COMMUN, V10, DOI 10.1038/s41467-019-12487-w
+   Zang YP, 2018, J AM CHEM SOC, V140, P13167, DOI 10.1021/jacs.8b06964
+   Zanolli Z, 2010, ACS NANO, V4, P5174, DOI 10.1021/nn100712q
+   Zhang L, 2011, PHYS REV B, V84, DOI 10.1103/PhysRevB.84.115412
+   Zhang ZH, 2013, SCI REP-UK, V3, DOI 10.1038/srep02575
+   Zhao X, 2017, J CHEM PHYS, V146, DOI 10.1063/1.4972572
+   Zhao Y, 2008, THEOR CHEM ACC, V120, P215, DOI 10.1007/s00214-007-0310-x
+   ZIMMERMAN HE, 1971, ACCOUNTS CHEM RES, V4, P272, DOI 10.1021/ar50044a002
+NR 129
+TC 15
+Z9 15
+U1 4
+U2 28
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 1932-7447
+EI 1932-7455
+J9 J PHYS CHEM C
+JI J. Phys. Chem. C
+PD SEP 3
+PY 2020
+VL 124
+IS 35
+BP 18968
+EP 18982
+DI 10.1021/acs.jpcc.0c07051
+PG 15
+WC Chemistry, Physical; Nanoscience & Nanotechnology; Materials Science,
+   Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Science & Technology - Other Topics; Materials Science
+GA NK1JS
+UT WOS:000566496200014
+OA Green Submitted
+DA 2022-10-19
+ER
+
+PT J
+AU Petrov, EG
+   Marchenko, VV
+   Zelinskyy, YR
+AF Petrov, EG
+   Marchenko, VV
+   Zelinskyy, YR
+TI On the influence of electron-electron correlation on the current-voltage
+   characteristics of a short molecular wire
+SO MOLECULAR CRYSTALS AND LIQUID CRYSTALS
+LA English
+DT Article
+DE molecular wire; electron transfer; Coulomb repulsion; voltage
+ID CONDUCTANCE; INTERFACES
+AB It is demonstrated that detailed information can be gained on the inelastic mechanism of correlated electron transfer through a molecular wire if one analyses the current behavior in dependence on the strength of the external electric field. The approach is complementary to the derivation of the current-voltage characteristics, and the given analysis of the current-length effect observed at a fixed electric field-strength allows to specify the influence of the blocking transmission factor on incoherent electron transfer. It is found that at small external electric field-strength the current through a regular molecular wire exhibits an Ohmic behaviour while at strong fields electron-electron correlations lead to an exponential decrease of the current.
+C1 Natl Acad Sci Ukraine, Bogolyubov Inst Theoret PHys, UA-03143 Kiev, Ukraine.
+RP Petrov, EG (corresponding author), Natl Acad Sci Ukraine, Bogolyubov Inst Theoret PHys, 14-B Metrologichna Str, UA-03143 Kiev, Ukraine.
+OI Petrov, Elmar/0000-0003-4166-5298
+CR AVIRAM A, 1998, ANN NY ACAD SCI, V852
+   Chen J, 1999, SCIENCE, V286, P1550, DOI 10.1126/science.286.5444.1550
+   Datta S, 1997, PHYS REV LETT, V79, P2530, DOI 10.1103/PhysRevLett.79.2530
+   Magoga M, 1997, PHYS REV B, V56, P4722, DOI 10.1103/PhysRevB.56.4722
+   MUJICA V, 1994, J CHEM PHYS, V101, P6849, DOI 10.1063/1.468314
+   Mujica V, 1999, ADV CHEM PHYS, V107, P403, DOI 10.1002/9780470141663.ch7
+   Mujica V, 2000, J CHEM PHYS, V112, P6834, DOI 10.1063/1.481258
+   Nitzan A, 2001, ANNU REV PHYS CHEM, V52, P681, DOI 10.1146/annurev.physchem.52.1.681
+   PETROV EG, 1995, CHEM PHYS, V193, P237, DOI 10.1016/0301-0104(95)00426-O
+   Petrov EG, 2001, MOL CRYST LIQ CRYST, V361, P209, DOI 10.1080/10587250108025740
+   Petrov EG, 1997, PHYS REV LETT, V79, P4006, DOI 10.1103/PhysRevLett.79.4006
+   Petrov EG, 1998, J CHEM PHYS, V109, P9561, DOI 10.1063/1.477618
+   Petrov EG, 2001, PHYS REV LETT, V86, P2862, DOI 10.1103/PhysRevLett.86.2862
+   PETROV EG, 2002, IN PRESS CHEM PHYS
+   Ratner M. A., 1997, MOL ELECT
+   Reed MA, 1999, P IEEE, V87, P652, DOI 10.1109/5.752520
+   Seminario JM, 1999, J PHYS CHEM A, V103, P7883, DOI 10.1021/jp991570s
+   Seminario JM, 2000, J AM CHEM SOC, V122, P3015, DOI 10.1021/ja992936h
+   SIMMONS JG, 1963, J APPL PHYS, V34, P1793, DOI 10.1063/1.1702682
+   Tian WD, 1998, J CHEM PHYS, V109, P2874, DOI 10.1063/1.476841
+   Yaliraki SN, 1999, J CHEM PHYS, V111, P6997, DOI 10.1063/1.480096
+NR 21
+TC 3
+Z9 3
+U1 0
+U2 1
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK,, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1058-725X
+J9 MOL CRYST LIQ CRYST
+JI Mol. Cryst. Liquid Cryst.
+PY 2002
+VL 385
+BP 121
+EP 131
+DI 10.1080/10587250290113006
+PG 11
+WC Chemistry, Multidisciplinary; Crystallography; Materials Science,
+   Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Crystallography; Materials Science
+GA 624FZ
+UT WOS:000179750800001
+DA 2022-10-19
+ER
+
+PT J
+AU Wang, JS
+   Li, BW
+AF Wang, JS
+   Li, BW
+TI Mode-coupling theory and molecular dynamics simulation for heat
+   conduction in a chain with transverse motions
+SO PHYSICAL REVIEW E
+LA English
+DT Article
+ID THERMAL-CONDUCTIVITY; TRANSPORT; ENERGY; SOLITONS
+AB We study heat conduction in a 1D chain of particles with longitudinal as well as transverse motions. The particles are connected by 2D harmonic springs together with bending angle interactions. The problem is analyzed by mode-coupling theory and compared with molecular dynamics. We find very good, quantitative agreement for the damping of modes between a full mode-coupling theory and molecular dynamics result, and a simplified mode-coupling theory gives qualitative description of the damping. The theories predict generically that thermal conductance diverges as N-1/3 as the size N increases for systems terminated with heat baths at the ends. The N-2/5 dependence is also observed in molecular dynamics, which we attribute to crossover effect.
+C1 Natl Univ Singapore, Singapore MIT Alliance, Singapore 117543, Singapore.
+   Natl Univ Singapore, Dept Computat Sci, Singapore 117543, Singapore.
+   Natl Univ Singapore, Dept Phys, Singapore 117542, Singapore.
+RP Wang, JS (corresponding author), Natl Univ Singapore, Singapore MIT Alliance, Singapore 117543, Singapore.
+RI Li, Baowen/G-3003-2011; Wang, Jian-Sheng/A-1758-2012
+OI Li, Baowen/0000-0002-8728-520X; Wang, Jian-Sheng/0000-0002-5119-8382
+CR Alonso D, 1999, PHYS REV LETT, V82, P1859, DOI 10.1103/PhysRevLett.82.1859
+   Alonso D, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.066131
+   Aoki K, 2000, PHYS LETT B, V477, P348, DOI 10.1016/S0370-2693(00)00189-1
+   Balucani U., 1994, DYNAMICS LIQUID STAT
+   Berber S, 2000, PHYS REV LETT, V84, P4613, DOI 10.1103/PhysRevLett.84.4613
+   Bonetto F., 2000, MATH PHYS, V128, DOI DOI 10.1142/9781848160224_0008
+   Buckingham E, 1914, PHYS REV, V4, P345, DOI 10.1103/PhysRev.4.345
+   Casati G, 2003, PHYS REV E, V67, DOI 10.1103/PhysRevE.67.015203
+   Che JW, 2000, NANOTECHNOLOGY, V11, P65, DOI 10.1088/0957-4484/11/2/305
+   Deutsch JM, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.010201
+   Deutsch JM, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.041203
+   Dhar A, 2001, PHYS REV LETT, V86, P3554, DOI 10.1103/PhysRevLett.86.3554
+   Grassberger P, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.180601
+   HARDY RJ, 1963, PHYS REV, V132, P168, DOI 10.1103/PhysRev.132.168
+   Hu BB, 2000, PHYS REV E, V61, P3828, DOI 10.1103/PhysRevE.61.3828
+   Hu BB, 1998, PHYS REV E, V57, P2992, DOI 10.1103/PhysRevE.57.2992
+   Huang K., 1987, STAT MECH
+   KABURAKI H, 1993, PHYS LETT A, V181, P85, DOI 10.1016/0375-9601(93)91129-S
+   KUBO R, 1992, STAT PHYS, V2, P97
+   Lepri S, 1997, PHYS REV LETT, V78, P1896, DOI 10.1103/PhysRevLett.78.1896
+   Lepri S, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.067102
+   Lepri S, 2003, PHYS REP, V377, P1, DOI 10.1016/S0370-1573(02)00558-6
+   Lepri S, 1998, EUROPHYS LETT, V43, P271, DOI 10.1209/epl/i1998-00352-3
+   Lepri S, 1998, PHYS REV E, V58, P7165, DOI 10.1103/PhysRevE.58.7165
+   Lepri S, 2000, EUR PHYS J B, V18, P441, DOI 10.1007/s100510070031
+   LI B, CONDMAT0407093
+   Li B. A., UNPUB
+   Li BW, 2003, PHYS REV E, V67, DOI 10.1103/PhysRevE.67.021204
+   Li BW, 2002, PHYS REV LETT, V88, DOI 10.1103/PhysRevLett.88.223901
+   Li BW, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.254301
+   Li BW, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.044301
+   Li BW, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.089402
+   Manevitch LI, 1997, PHYS REV E, V55, P4713, DOI 10.1103/PhysRevE.55.4713
+   Maruyama S, 2002, PHYSICA B, V323, P193, DOI 10.1016/S0921-4526(02)00898-0
+   MAYO SL, 1990, J PHYS CHEM-US, V94, P8897, DOI 10.1021/j100389a010
+   MORI H, 1965, PROG THEOR PHYS, V33, P423, DOI 10.1143/PTP.33.423
+   Narayan O, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.200601
+   PEIERLS RE, 1955, QUANTUM THEORY SOLID, pCH2
+   Pereverzev A, 2003, PHYS REV E, V68, DOI 10.1103/PhysRevE.68.056124
+   Pomeau Y., 1975, Physics Reports. Physics Letters Section C, V19c, P63, DOI 10.1016/0370-1573(75)90019-8
+   Prosen T, 2000, PHYS REV LETT, V84, P2857, DOI 10.1103/PhysRevLett.84.2857
+   RIEDER Z, 1967, J MATH PHYS, V8, P1073, DOI 10.1063/1.1705319
+   Savin A. V., 1999, Physics-Uspekhi, V42, P245, DOI 10.1070/PU1999v042n03ABEH000539
+   Savin AV, 2000, PHYS REV E, V61, P7065, DOI 10.1103/PhysRevE.61.7065
+   Scheipers J, 1997, Z PHYS B CON MAT, V103, P547, DOI 10.1007/s002570050409
+   Smit B., 1996, UNDERSTANDING MOL SI
+   Terraneo M, 2002, PHYS REV LETT, V88, DOI 10.1103/PhysRevLett.88.094302
+   TERSOFF J, 1988, PHYS REV B, V37, P6991, DOI 10.1103/PhysRevB.37.6991
+   Wang JS, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.074302
+   Yamamoto T, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.075502
+   YAO ZH, CONDMAT0402616
+   ZHANG G, CONDMAT0403393
+   Zheng QR, 2002, EUR PHYS J B, V25, P233, DOI 10.1140/epjb/e20020026
+   ZWANZIG R, 1960, J CHEM PHYS, V33, P1338, DOI 10.1063/1.1731409
+NR 54
+TC 60
+Z9 61
+U1 0
+U2 7
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1539-3755
+EI 1550-2376
+J9 PHYS REV E
+JI Phys. Rev. E
+PD AUG
+PY 2004
+VL 70
+IS 2
+AR 021204
+DI 10.1103/PhysRevE.70.021204
+PN 1
+PG 16
+WC Physics, Fluids & Plasmas; Physics, Mathematical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Physics
+GA 852VH
+UT WOS:000223784400014
+PM 15447482
+OA Green Submitted
+DA 2022-10-19
+ER
+
+PT J
+AU Mitra, A
+   Aleiner, I
+   Millis, AJ
+AF Mitra, A
+   Aleiner, I
+   Millis, AJ
+TI Phonon effects in molecular transistors: Quantal and classical treatment
+SO PHYSICAL REVIEW B
+LA English
+DT Article
+ID TRANSPORT; OSCILLATIONS; NOISE
+AB We present a comprehensive theoretical treatment of the effect of electron-phonon interactions on molecular transistors, including both quantal and classical limits. We study both equilibrated and out of equilibrium phonons. We present detailed results for conductance, noise, and phonon distribution in two regimes. One involves temperatures large as compared to the rate of electronic transitions on and off the dot; in this limit our approach yields classical rate equations, which are solved numerically for a wide range of parameters. The other regime is that of low temperatures and weak electron-phonon coupling where a perturbative approximation in the Keldysh formulation can be applied. The interplay between the phonon-induced renormalization of the density of states on the quantum dot and the phonon-induced renormalization of the dot-lead coupling is found to be important. Whether or not the phonons are able to equilibrate in a time rapid compared to the transit time of an electron through the dot is found to affect the conductance. Observable signatures of phonon equilibration are presented. We also discuss the nature of the low-T to high-T crossover.
+C1 Columbia Univ, Dept Phys, New York, NY 10027 USA.
+RP Mitra, A (corresponding author), Columbia Univ, Dept Phys, 538 W 120th St, New York, NY 10027 USA.
+RI Aleiner, Igor/M-8148-2019; Mitra, Aditi/E-6427-2011
+OI Mitra, Aditi/0000-0002-2169-3796
+CR AJI V, CONDMAT0302222
+   Aleiner IL, 2002, PHYS REP, V358, P309, DOI 10.1016/S0370-1573(01)00063-1
+   Alexandrov AS, 2003, PHYS REV B, V67, DOI 10.1103/PhysRevB.67.075301
+   Alexandrov S, 2003, PHYS REV D, V67, DOI 10.1103/PhysRevD.67.044009
+   BEENAKKER CWJ, 1991, PHYS REV B, V44, P1646, DOI 10.1103/PhysRevB.44.1646
+   BRAIG S, CONDMAT0401347
+   Chen J, 1999, SCIENCE, V286, P1550, DOI 10.1126/science.286.5444.1550
+   Collier CP, 2000, SCIENCE, V289, P1172, DOI 10.1126/science.289.5482.1172
+   Fedorets D, 2002, EUROPHYS LETT, V58, P99, DOI 10.1209/epl/i2002-00611-3
+   FEDORETS D, CONDMAT0311104
+   FEDORETS D, CONDMAT0311105
+   Flensberg K, 2003, PHYS REV B, V68, DOI 10.1103/PhysRevB.68.205323
+   Gardiner C. W., 2000, QUANTUM NOISE
+   GLAZMAN LI, 1988, PISMA ESKP TEOR FIZ, V48, P403
+   GLAZMAN LI, 1988, ZH EKSP TEOR FIZ, V67, P163
+   GOGOLIN AO, CONDMAT0207513
+   JAUHO AP, 1994, PHYS REV B, V50, P5528, DOI 10.1103/PhysRevB.50.5528
+   KELDYSH LV, 1977, SOV PHYS JETP, V46, P155
+   KOROTKOV AN, 1994, PHYS REV B, V49, P10381, DOI 10.1103/PhysRevB.49.10381
+   Kouwenhoven L, 1998, PHYS WORLD, V11, P35
+   KOUWENHOVEN LP, 1997, NATO ADV STUDIES I E, V345
+   KUBATKIN S, 2003, NATURE, V425, P68
+   Liang WJ, 2002, NATURE, V417, P725, DOI 10.1038/nature00790
+   Lundin U, 2002, PHYS REV B, V66, DOI 10.1103/PhysRevB.66.075303
+   MAHAN G, 1990, MANY PARTICLE PHYSIC
+   McCarthy KD, 2003, PHYS REV B, V67, DOI 10.1103/PhysRevB.67.245415
+   Park H, 2000, NATURE, V407, P57, DOI 10.1038/35024031
+   Park J, 2002, NATURE, V417, P722, DOI 10.1038/nature00791
+   PASUPATHY AN, CONDMAT0311150
+   RAMMER J, 1991, REV MOD PHYS, V63, P781, DOI 10.1103/RevModPhys.63.781
+   Reichert J, 2002, PHYS REV LETT, V88, DOI 10.1103/PhysRevLett.88.176804
+   SCHOELLER H, 1994, PHYS REV B, V50, P18436, DOI 10.1103/PhysRevB.50.18436
+   Vavilov MG, 2004, PHYS REV B, V69, DOI 10.1103/PhysRevB.69.035303
+   WINGREEN NS, 1989, PHYS REV B, V40, P11834, DOI 10.1103/PhysRevB.40.11834
+   Zhitenev NB, 2002, PHYS REV LETT, V88, DOI 10.1103/PhysRevLett.88.226801
+   Zhu JX, 2003, PHYS REV B, V67, DOI 10.1103/PhysRevB.67.165326
+NR 36
+TC 448
+Z9 450
+U1 0
+U2 30
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 2469-9950
+EI 2469-9969
+J9 PHYS REV B
+JI Phys. Rev. B
+PD JUN
+PY 2004
+VL 69
+IS 24
+AR 245302
+DI 10.1103/PhysRevB.69.245302
+PG 21
+WC Materials Science, Multidisciplinary; Physics, Applied; Physics,
+   Condensed Matter
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Materials Science; Physics
+GA 836CC
+UT WOS:000222531800047
+OA Green Accepted
+DA 2022-10-19
+ER
+
+PT J
+AU Thuberg, D
+   Reyes, SA
+   Eggert, S
+AF Thuberg, Daniel
+   Reyes, Sebastian A.
+   Eggert, Sebastian
+TI Quantum resonance catastrophe for conductance through a periodically
+   driven barrier
+SO PHYSICAL REVIEW B
+LA English
+DT Article
+ID BOUND-STATES; ELECTRON-TRANSPORT; MOLECULAR WIRE; CONTINUUM; DYNAMICS;
+   LATTICES; SYSTEMS; FIELDS
+AB We consider the quantum conductance in a tight-binding chain with a locally applied potential which is oscillating in time. The steady state for such a driven impurity can be calculated exactly for any energy and applied potential using the Floquet formalism. The resulting transmission has a nontrivial, nonmonotonic behavior depending on incoming momentum, driving frequency, and the strength of the applied periodic potential. Hence there is an abundance of tuning possibilities, which allows finding the resonances of total reflection for any choice of incoming momentum and periodic potential. Remarkably, this implies that even for an arbitrarily small infinitesimal impurity potential it is always possible to find a resonance frequency at which there is a catastrophic breakdown of the transmission T = 0. The points of zero transmission are closely related to the phenomenon of Fano resonances at dynamically created bound states in the continuum. The results are relevant for a variety of one-dimensional systems where local AC driving is possible, such as quantum nanodot arrays, ultracold gases in optical lattices, photonic crystals, or molecular electronics.
+C1 [Thuberg, Daniel; Reyes, Sebastian A.] Pontificia Univ Catolica Chile, Inst Fis, Casilla 306, Santiago 22, Chile.
+   [Eggert, Sebastian] Univ Kaiserslautern, Dept Phys, D-67663 Kaiserslautern, Germany.
+   [Eggert, Sebastian] Univ Kaiserslautern, Res Ctr OPTIMAS, D-67663 Kaiserslautern, Germany.
+RP Thuberg, D (corresponding author), Pontificia Univ Catolica Chile, Inst Fis, Casilla 306, Santiago 22, Chile.
+RI Eggert, Sebastian/G-2762-2011
+OI Eggert, Sebastian/0000-0001-5864-0447
+FU FONDECYT [11110537]; CONICYT [63140250]; German Research Foundation
+   (DFG) [SFB/TR49]
+FX We thank Luis Foa, Pedro Orellana, Axel Pelster, and Luis Rosales for
+   fruitful discussions. This research was financially supported by
+   FONDECYT Grant No. 11110537, CONICYT Grant No. 63140250, and the German
+   Research Foundation (DFG) via the SFB/TR49.
+CR Aidelsburger M, 2015, NAT PHYS, V11, P162, DOI 10.1038/NPHYS3171
+   AVIRAM A, 1974, CHEM PHYS LETT, V29, P277, DOI 10.1016/0009-2614(74)85031-1
+   Balzani V., 2006, MOL DEVICES MACHINES
+   Bayindir M, 2000, PHYS REV LETT, V84, P2140, DOI 10.1103/PhysRevLett.84.2140
+   Bloch I, 2005, NAT PHYS, V1, P23, DOI 10.1038/nphys138
+   Cui XD, 2001, SCIENCE, V294, P571, DOI 10.1126/science.1064354
+   Cuniberti G, 2002, CHEM PHYS, V281, P465, DOI 10.1016/S0301-0104(02)00341-5
+   de Guevara MLL, 2006, PHYS REV B, V73, DOI 10.1103/PhysRevB.73.205303
+   Della Valle G, 2007, PHYS REV LETT, V98, DOI 10.1103/PhysRevLett.98.263601
+   Domcke W., 1997, CHEM PHYS, V217, P117
+   Entin MV, 2008, EPL-EUROPHYS LETT, V84, DOI 10.1209/0295-5075/84/47008
+   Fagas G, 2001, PHYS REV B, V63, DOI 10.1103/PhysRevB.63.045416
+   Floquet M.G., 1883, ANN SCI ECOLE NORM S, V12, P47, DOI [10.24033/asens.220, DOI 10.24033/ASENS.220]
+   FRIEDRICH H, 1985, PHYS REV A, V32, P3231, DOI 10.1103/PhysRevA.32.3231
+   Gonzalez-Santander C, 2013, EPL-EUROPHYS LETT, V102, DOI 10.1209/0295-5075/102/17012
+   Goser KP, 2004, NANOELECTRONICS NANO
+   Gradshteyn IS., 2015, TABLES INTEGRALS SER, V8th
+   Grifoni M, 1998, PHYS REP, V304, P229, DOI 10.1016/S0370-1573(98)00022-2
+   Gutierrez R, 2002, PHYS REV B, V65, DOI 10.1103/PhysRevB.65.113410
+   HONE DW, 1993, PHYS REV B, V48, P15123, DOI 10.1103/PhysRevB.48.15123
+   JAUHO AP, 1994, PHYS REV B, V50, P5528, DOI 10.1103/PhysRevB.50.5528
+   Kaestner B, 2015, REP PROG PHYS, V78, DOI 10.1088/0034-4885/78/10/103901
+   Kierig E, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.190405
+   Klein O, 1929, Z PHYS, V53, P157, DOI 10.1007/BF01339716
+   Li WJ, 1999, PHYS REV B, V60, P15732, DOI 10.1103/PhysRevB.60.15732
+   Longhi S, 2013, SCI REP-UK, V3, DOI 10.1038/srep02219
+   Miroshnichenko AE, 2005, PHYS REV E, V72, DOI 10.1103/PhysRevE.72.056611
+   Miyake H, 2013, PHYS REV LETT, V111, DOI 10.1103/PhysRevLett.111.185302
+   Nicholson TL, 2015, NAT COMMUN, V6, DOI 10.1038/ncomms7896
+   Nitzan A, 2003, SCIENCE, V300, P1384, DOI 10.1126/science.1081572
+   Plotnik Y, 2014, NAT MATER, V13, P57, DOI [10.1038/NMAT3783, 10.1038/nmat3783]
+   Pollack SE, 2010, PHYS REV A, V81, DOI 10.1103/PhysRevA.81.053627
+   Rapp A, 2012, PHYS REV LETT, V109, DOI 10.1103/PhysRevLett.109.203005
+   Rechtsman MC, 2013, NATURE, V496, P196, DOI 10.1038/nature12066
+   Reed MA, 1997, SCIENCE, V278, P252, DOI 10.1126/science.278.5336.252
+   Savage KJ, 2012, NATURE, V491, P574, DOI 10.1038/nature11653
+   Shen L, 2010, J AM CHEM SOC, V132, P11481, DOI 10.1021/ja909531c
+   Spethmann N, 2012, PHYS REV LETT, V109, DOI 10.1103/PhysRevLett.109.235301
+   STILLINGER FH, 1975, PHYS REV A, V11, P446, DOI 10.1103/PhysRevA.11.446
+   Tomaras C, 2011, EPL-EUROPHYS LETT, V93, DOI 10.1209/0295-5075/93/47011
+   Vogler A, 2014, PHYS REV LETT, V113, DOI 10.1103/PhysRevLett.113.215301
+   von Neumann J, 1929, PHYS Z, V30, P467
+   Wang T, 2014, PHYS REV A, V90, DOI 10.1103/PhysRevA.90.013633
+   Zenesini A, 2009, PHYS REV LETT, V102, DOI 10.1103/PhysRevLett.102.100403
+   2002, REV MOD PHYS, V75, P1
+NR 45
+TC 12
+Z9 13
+U1 0
+U2 8
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 2469-9950
+EI 2469-9969
+J9 PHYS REV B
+JI Phys. Rev. B
+PD MAY 9
+PY 2016
+VL 93
+IS 18
+AR 180301
+DI 10.1103/PhysRevB.93.180301
+PG 5
+WC Materials Science, Multidisciplinary; Physics, Applied; Physics,
+   Condensed Matter
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Materials Science; Physics
+GA DL9VN
+UT WOS:000375991500002
+OA Green Submitted
+DA 2022-10-19
+ER
+
+PT J
+AU Walczak, K
+   Yerkes, KL
+AF Walczak, Kamil
+   Yerkes, Kirk L.
+TI Nanoscale transport of phonons: Dimensionality, subdiffusion, molecular
+   damping, and interference effects
+SO JOURNAL OF APPLIED PHYSICS
+LA English
+DT Article; Proceedings Paper
+CT 58th Annual Conference on Magnetism and Magnetic Materials
+CY NOV 04-08, 2013
+CL Denver, CO
+ID THERMAL CONDUCTANCE; SPRING CONSTANT; HEAT-TRANSPORT; QUANTUM;
+   DIFFUSION; SYSTEMS; CHAINS; WIRES; FLOW
+AB We examine heat transport carried by acoustic phonons in the systems composed of nanoscale chains of masses coupled to two thermal baths of different temperatures. Thermal conductance is obtained by using linearized Landauer-type formula for heat flux with phonon transmission probability calculated within atomistic Green's functions (AGF) method. AGF formalism is extended onto dissipative chains of masses with harmonic coupling beyond nearest-neighbor approximation, while atomistic description of heat reservoirs is also included into computational scheme. In particular, the phonon lifetimes and the phonon frequency shifts are discussed for harmonic lattices of different dimensions. Further, resonant structure of phonon transmission spectrum is analyzed with respect to reservoir-induced effects, molecular damping, and mass-to-mass harmonic coupling. Analysis of transmission zeros (antiresonances) and their accompanied Fano-shape resonances are discussed as a result of interference effects between different vibrational modes. Finally, we also predict subdiffusive transport regime for low-frequency ballistic phonons propagated along a linear chain of harmonically coupled masses. (C) 2014 AIP Publishing LLC.
+C1 [Walczak, Kamil; Yerkes, Kirk L.] Air Force Res Lab, Aerosp Syst Directorate, Wright Patterson AFB, OH 45433 USA.
+RP Walczak, K (corresponding author), Air Force Res Lab, Aerosp Syst Directorate, Wright Patterson AFB, OH 45433 USA.
+FU Air Force Office of Scientific Research
+FX The authors would like to acknowledge support from the Air Force Office
+   of Scientific Research.
+CR Altfeder I, 2010, PHYS REV LETT, V105, DOI 10.1103/PhysRevLett.105.166101
+   Angelescu DE, 1998, SUPERLATTICE MICROST, V23, P673, DOI 10.1006/spmi.1997.0561
+   Averin DV, 2010, PHYS REV LETT, V104, DOI 10.1103/PhysRevLett.104.220601
+   Bandopadhyay S, 2004, AM J PHYS, V72, P1501, DOI 10.1119/1.1789162
+   Bandyopadhyay M, 2011, PHYS REV E, V84, DOI 10.1103/PhysRevE.84.011151
+   CALDEIRA AO, 1983, PHYSICA A, V121, P587, DOI 10.1016/0378-4371(83)90013-4
+   CASHER A, 1971, J MATH PHYS, V12, P1701, DOI 10.1063/1.1665794
+   Chang CW, 2006, SCIENCE, V314, P1121, DOI 10.1126/science.1132898
+   Chang CW, 2008, PHYS REV LETT, V101, DOI 10.1103/PhysRevLett.101.075903
+   Chaudhuri A, 2010, PHYS REV B, V81, DOI 10.1103/PhysRevB.81.064301
+   Chtcheglova LA, 2004, BIOPHYS J, V86, P1177, DOI 10.1016/S0006-3495(04)74192-2
+   Deymier P.A, 2013, ACOUSTIC METAMATERIA, P387
+   Dhar A, 2006, J STAT PHYS, V125, P805, DOI 10.1007/s10955-006-9235-3
+   FANO U, 1961, PHYS REV, V124, P1866, DOI 10.1103/PhysRev.124.1866
+   Gillet JN, 2009, J HEAT TRANS-T ASME, V131, DOI 10.1115/1.3072927
+   Harrison WA., 1989, ELECT STRUCTURES PRO
+   HARVEY RJ, 1966, PHYS REV, V152, P1115, DOI 10.1103/PhysRev.152.1115
+   HOOVER WG, 1985, PHYS REV A, V31, P1695, DOI 10.1103/PhysRevA.31.1695
+   Hopkins PE, 2011, NANO LETT, V11, P107, DOI 10.1021/nl102918q
+   Hopkins PE, 2009, PHYS REV B, V80, DOI 10.1103/PhysRevB.80.201408
+   Hopkins PE, 2009, J APPL PHYS, V106, DOI 10.1063/1.3212974
+   Huang Z, 2010, J APPL PHYS, V108, DOI 10.1063/1.3499347
+   Hydgaard P., 2004, PHYS REV B, V69
+   Jensenius H, 1997, PHYS REV LETT, V79, P5030, DOI 10.1103/PhysRevLett.79.5030
+   Khelif A, 2002, PHYS REV B, V65, DOI 10.1103/PhysRevB.65.174308
+   Kittel C., 1996, INTRO SOLID STATE PH, V8
+   Kosevich YA, 2006, PHYS REV B, V74, DOI 10.1103/PhysRevB.74.012301
+   Kostyrko T, 2002, J PHYS-CONDENS MAT, V14, P4393, DOI 10.1088/0953-8984/14/17/312
+   Koswatta SO, 2007, IEEE T ELECTRON DEV, V54, P2339, DOI 10.1109/TED.2007.902900
+   Levin GA, 2012, PHYS REV E, V85, DOI 10.1103/PhysRevE.85.031109
+   Levy R, 2002, NANOTECHNOLOGY, V13, P33, DOI 10.1088/0957-4484/13/1/307
+   Li BW, 2006, APPL PHYS LETT, V88, DOI 10.1063/1.2191730
+   Li BW, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.184301
+   Li BW, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.044301
+   Li J, 2009, J APPL PHYS, V106, DOI 10.1063/1.3157175
+   Li NB, 2012, REV MOD PHYS, V84, P1045, DOI 10.1103/RevModPhys.84.1045
+   Li NB, 2010, PHYS REV LETT, V105, DOI 10.1103/PhysRevLett.105.054102
+   Liu S, 2012, EUR PHYS J B, V85, DOI 10.1140/epjb/e2012-30383-8
+   Liu S, 2014, PHYS REV LETT, V112, DOI 10.1103/PhysRevLett.112.040601
+   Mahan GD, 2011, APPL PHYS LETT, V98, DOI 10.1063/1.3573800
+   Marshall BT, 2006, BIOPHYS J, V90, P681, DOI 10.1529/biophysj.105.061010
+   Marshall BT, 2003, NATURE, V423, P190, DOI 10.1038/nature01605
+   MASON WP, 1956, J ACOUST SOC AM, V28, P930, DOI 10.1121/1.1908524
+   Migliori A, 2008, J APPL PHYS, V104, DOI 10.1063/1.2975190
+   Mingo A., 2006, PHYS REV B, V74
+   Mingo N, 2003, PHYS REV B, V68, DOI 10.1103/PhysRevB.68.245406
+   MUJICA V, 1994, J CHEM PHYS, V101, P6856, DOI 10.1063/1.468315
+   Muralidharan B, 2013, PHYS REV B, V88, DOI 10.1103/PhysRevB.88.045402
+   Muralidharan B, 2012, PHYS REV B, V85, DOI 10.1103/PhysRevB.85.155423
+   Nieuwenhuizen TM, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.036102
+   Nika DL, 2009, PHYS REV B, V79, DOI 10.1103/PhysRevB.79.155413
+   NOSE S, 1984, J CHEM PHYS, V81, P511, DOI 10.1063/1.447334
+   Ozpineci A, 2001, PHYS REV B, V63, DOI 10.1103/PhysRevB.63.125415
+   Panasyuk GY, 2013, PHYS REV E, V87, DOI 10.1103/PhysRevE.87.062118
+   Panasyuk GY, 2012, PHYS REV E, V86, DOI 10.1103/PhysRevE.86.021116
+   Prosen T, 2010, NEW J PHYS, V12, DOI 10.1088/1367-2630/12/2/025016
+   Prosen T, 2008, NEW J PHYS, V10, DOI 10.1088/1367-2630/10/4/043026
+   Prunnila M, 2010, PHYS REV LETT, V105, DOI 10.1103/PhysRevLett.105.125501
+   Rego LGC, 1998, PHYS REV LETT, V81, P232, DOI 10.1103/PhysRevLett.81.232
+   Reuter MG, 2009, J PHYS CHEM A, V113, P4665, DOI 10.1021/jp811492u
+   Roberts NA, 2011, INT J THERM SCI, V50, P648, DOI 10.1016/j.ijthermalsci.2010.12.004
+   Saltonstall CB, 2013, J APPL PHYS, V113, DOI 10.1063/1.4773331
+   Schwab K, 2000, NATURE, V404, P974, DOI 10.1038/35010065
+   Shabana A. A., 2013, THEORY VIBRATION, VII
+   Stout AL, 2001, BIOPHYS J, V80, P2976, DOI 10.1016/S0006-3495(01)76263-7
+   Tanielian MH, 2011, APPL PHYS LETT, V99, DOI 10.1063/1.3641897
+   Volokitin AI, 2007, REV MOD PHYS, V79, P1291, DOI 10.1103/RevModPhys.79.1291
+   Voltz S., 2009, THERMAL NANOSYSTEMS
+   Walczak K., UNPUB
+   Wang JS, 2008, EUR PHYS J B, V62, P381, DOI 10.1140/epjb/e2008-00195-8
+   Wang JS, 2007, PHYS REV E, V75, DOI 10.1103/PhysRevE.75.061128
+   Wang JS, 2006, PHYS REV B, V74, DOI 10.1103/PhysRevB.74.033408
+   Wang L, 2007, PHYS REV LETT, V99, DOI 10.1103/PhysRevLett.99.177208
+   Wang L, 2008, PHYS REV LETT, V101, DOI 10.1103/PhysRevLett.101.267203
+   Xu Y, 2008, PHYS REV B, V78, DOI 10.1103/PhysRevB.78.224303
+   Yamamoto T, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.075502
+   Yamamoto T, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.255503
+   Yang N, 2010, NANO TODAY, V5, P85, DOI 10.1016/j.nantod.2010.02.002
+   Zhang G, 2005, J CHEM PHYS, V123, DOI 10.1063/1.1949166
+   Zhang W, 2007, PHYS REV B, V76, DOI 10.1103/PhysRevB.76.195429
+   Zhang W, 2007, NUMER HEAT TR B-FUND, V51, P333, DOI 10.1080/10407790601144755
+NR 81
+TC 4
+Z9 4
+U1 0
+U2 20
+PU AMER INST PHYSICS
+PI MELVILLE
+PA 1305 WALT WHITMAN RD, STE 300, MELVILLE, NY 11747-4501 USA
+SN 0021-8979
+EI 1089-7550
+J9 J APPL PHYS
+JI J. Appl. Phys.
+PD MAY 7
+PY 2014
+VL 115
+IS 17
+AR 174308
+DI 10.1063/1.4874755
+PG 16
+WC Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Physics
+GA AG8BO
+UT WOS:000335643700639
+DA 2022-10-19
+ER
+
+PT J
+AU Lee, E
+   Zhang, T
+   Hu, M
+   Luo, TF
+AF Lee, Eungkyu
+   Zhang, Teng
+   Hu, Ming
+   Luo, Tengfei
+TI Thermal boundary conductance enhancement using experimentally achievable
+   nanostructured interfaces - analytical study combined with molecular
+   dynamics simulation
+SO PHYSICAL CHEMISTRY CHEMICAL PHYSICS
+LA English
+DT Article
+ID TRANSPORT; GAN; RESISTANCE; HEAT
+AB Interfacial thermal resistance presents great challenges to the thermal management of modern electronics. In this work, we perform an analytical study to enhance the thermal boundary conductance (TBC) of nanostructured interfaces with square-shape pillar arrays, extendable to the characteristic lengths that can be fabricated in practice. As a representative system, we investigate a SiC substrate with the square-shape pillar array combined with epitaxial GaN as the nanostructured interface. By applying a first-order ray tracing method and molecular dynamics simulations to analyze phonon incidence and transmission at the nanostructured interface, we systematically study the impact of the characteristic dimensions of the pillar array on the TBC. Based on the multi-scale analysis we provide a general guideline to optimize the nanostructured interfaces to achieve higher TBC, demonstrating that the optimized TBC value of the nanostructured SiC/GaN interfaces can be 42% higher than that of the planar SiC/GaN interfaces without nanostructures. The model used and results obtained in this study will guide the further experimental realization of nanostructured interfaces for better thermal management in microelectronics.
+C1 [Lee, Eungkyu; Zhang, Teng; Luo, Tengfei] Univ Notre Dame, Dept Aerosp & Mech Engn, Notre Dame, IN 46556 USA.
+   [Hu, Ming] Rhein Westfal TH Aachen, Fac Georesources & Mat Engn, Div Mat Sci & Engn, Inst Mineral Engn, D-52064 Aachen, Germany.
+   [Hu, Ming] Rhein Westfal TH Aachen, Aachen Inst Adv Study Computat Engn Sci AICES, D-52064 Aachen, Germany.
+   [Luo, Tengfei] Univ Notre Dame, Ctr Sustainable Energy Notre Dame, Notre Dame, IN 46556 USA.
+RP Luo, TF (corresponding author), Univ Notre Dame, Dept Aerosp & Mech Engn, Notre Dame, IN 46556 USA.; Luo, TF (corresponding author), Univ Notre Dame, Ctr Sustainable Energy Notre Dame, Notre Dame, IN 46556 USA.
+EM tluo@nd.edu
+RI Hu, Ming/AAU-6585-2020; Lee, Eungkyu/AAM-3898-2021; Luo,
+   Tengfei/A-8354-2013; Zhang, Teng/E-6301-2016
+OI Lee, Eungkyu/0000-0002-0211-0727; Hu, Ming/0000-0002-8209-0139; Zhang,
+   Teng/0000-0002-1885-3525
+FU DARPA Young Faculty Award program [D15AP00094]; NICS Darter
+   [TG-CTS100078]
+FX This work was supported by the DARPA Young Faculty Award program
+   (D15AP00094). The computation was supported in part by the Notre Dame
+   Center for Research Computing and NSF through XSEDE resources provided
+   by SDSC Comet and NICS Darter under grant number TG-CTS100078.
+CR Bar-Cohen A, 2006, P IEEE, V94, P1549, DOI 10.1109/JPROC.2006.879791
+   Benbakhti B, 2009, IEEE T ELECTRON DEV, V56, P2178, DOI 10.1109/TED.2009.2028400
+   Capitani GC, 2007, AM MINERAL, V92, P403, DOI 10.2138/am.2007.2346
+   Chen G, 1998, PHYS REV B, V57, P14958, DOI 10.1103/PhysRevB.57.14958
+   Chen G., 2005, PAPPAL SER MECH ENG, P180
+   DAVIS RF, 1991, P IEEE, V79, P702, DOI 10.1109/5.90133
+   English TS, 2012, PHYS REV B, V85, DOI 10.1103/PhysRevB.85.035438
+   Erhart P, 2005, PHYS REV B, V71, DOI 10.1103/PhysRevB.71.035211
+   Filippov K., 2003, MRS INTERNET J N S R, V8, pe4, DOI DOI 10.1557/S1092578300000478
+   Ge ZB, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.186101
+   Harikrishna H, 2013, APPL PHYS LETT, V102, DOI 10.1063/1.4812749
+   Hopkins P E, 2013, ISRN MECH ENG, V2013, DOI [DOI 10.1155/2013/682586, 10.1155/2013/682586]
+   Hu M, 2011, INT J HEAT MASS TRAN, V54, P5183, DOI 10.1016/j.ijheatmasstransfer.2011.08.027
+   Hu M, 2009, PHYS REV B, V79, DOI 10.1103/PhysRevB.79.104305
+   Landry ES, 2009, PHYS REV B, V80, DOI 10.1103/PhysRevB.80.165304
+   LITTLE WA, 1959, CAN J PHYS, V37, P334, DOI 10.1139/p59-037
+   Losego MD, 2012, NAT MATER, V11, P502, DOI [10.1038/NMAT3303, 10.1038/nmat3303]
+   Luo TF, 2013, PHYS CHEM CHEM PHYS, V15, P3389, DOI 10.1039/c2cp43771f
+   MORKOC H, 1994, J APPL PHYS, V76, P1363, DOI 10.1063/1.358463
+   PLIMPTON S, 1995, COMP MATER SCI, V4, P361, DOI 10.1016/0927-0256(95)00037-1
+   Prasher R, 2009, APPL PHYS LETT, V94, DOI 10.1063/1.3075065
+   Ramachandran V, 1999, J VAC SCI TECHNOL A, V17, P1289, DOI 10.1116/1.581810
+   Sarua A, 2007, IEEE T ELECTRON DEV, V54, P3152, DOI 10.1109/TED.2007.908874
+   Shenogina N, 2009, PHYS REV LETT, V102, DOI 10.1103/PhysRevLett.102.156101
+   Sun FY, 2014, ADV MATER, V26, P6093, DOI 10.1002/adma.201400954
+   SWARTZ ET, 1989, REV MOD PHYS, V61, P605, DOI 10.1103/RevModPhys.61.605
+   Totzeck M, 2007, NAT PHOTONICS, V1, P629, DOI 10.1038/nphoton.2007.218
+   Turin VO, 2004, ELECTRON LETT, V40, P81, DOI 10.1049/el:20040071
+   Won Y., 2013, 2013 IEEE COMP SEM I, P1
+   Wu J, 2012, PROC SPIE, V8401, DOI 10.1117/12.921203
+   Wu XF, 2015, EPL-EUROPHYS LETT, V110, DOI 10.1209/0295-5075/110/67004
+   Wu XF, 2014, J APPL PHYS, V115, DOI 10.1063/1.4859555
+   Wyckoff R.W.G., 1963, CRYSTAL STRUCTURES
+   Zeng T., 2000, J HEAT TRANSFER, V123, P340
+   Zhou XW, 2013, PHYS REV B, V87, DOI 10.1103/PhysRevB.87.094303
+   Zhou XW, 2014, PHYS CHEM CHEM PHYS, V16, P9403, DOI 10.1039/c4cp00261j
+   Zimmerman P., 2009, SPIE NEWSROOM, DOI [10.1117/2.1200906.1691, DOI 10.1117/2.1200906.1691]
+NR 37
+TC 15
+Z9 16
+U1 2
+U2 41
+PU ROYAL SOC CHEMISTRY
+PI CAMBRIDGE
+PA THOMAS GRAHAM HOUSE, SCIENCE PARK, MILTON RD, CAMBRIDGE CB4 0WF, CAMBS,
+   ENGLAND
+SN 1463-9076
+EI 1463-9084
+J9 PHYS CHEM CHEM PHYS
+JI Phys. Chem. Chem. Phys.
+PD JUL 7
+PY 2016
+VL 18
+IS 25
+BP 16794
+EP 16801
+DI 10.1039/c6cp01927g
+PG 8
+WC Chemistry, Physical; Physics, Atomic, Molecular & Chemical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Physics
+GA DP7WY
+UT WOS:000378711100021
+PM 27275647
+DA 2022-10-19
+ER
+
+PT J
+AU Jones, RE
+   Ward, DK
+   Templeton, JA
+AF Jones, R. E.
+   Ward, D. K.
+   Templeton, J. A.
+TI Spatial resolution of the electrical conductance of ionic fluids using a
+   Green-Kubo method
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+ID MOLECULAR-DYNAMICS SIMULATIONS; STATISTICAL-MECHANICAL THEORY;
+   TRANSPORT-COEFFICIENTS; IRREVERSIBLE-PROCESSES; THERMAL-CONDUCTIVITY;
+   ATOMISTIC SIMULATION; RECIPROCAL RELATIONS; LIQUID FLOW; FORMULAS;
+   SYSTEMS
+AB We present a Green-Kubo method to spatially resolve transport coefficients in compositionally heterogeneous mixtures. We develop the underlying theory based on well-known results from mixture theory, Irving-Kirkwood field estimation, and linear response theory. Then, using standard molecular dynamics techniques, we apply the methodology to representative systems. With a homogeneous salt water system, where the expectation of the distribution of conductivity is clear, we demonstrate the sensitivities of the method to system size, and other physical and algorithmic parameters. Then we present a simple model of an electrochemical double layer where we explore the resolution limit of the method. In this system, we observe significant anisotropy in the wall-normal vs. transverse ionic conductances, as well as near wall effects. Finally, we discuss extensions and applications to more realistic systems such as batteries where detailed understanding of the transport properties in the vicinity of the electrodes is of technological importance. (C) 2014 AIP Publishing LLC.
+C1 [Jones, R. E.] Sandia Natl Labs, Mech Mat Dept, Livermore, CA 94550 USA.
+   [Ward, D. K.] Sandia Natl Labs, Mat Chem Dept, Livermore, CA 94550 USA.
+   [Templeton, J. A.] Sandia Natl Labs, Thermal Fluid Sci & Engn Dept, Livermore, CA 94550 USA.
+RP Jones, RE (corresponding author), Sandia Natl Labs, Mech Mat Dept, Livermore, CA 94550 USA.
+FU Laboratory Directed Research and Development (LDRD) program at Sandia
+   National Laboratory; Advanced Simulation and Computing (ASC) program at
+   Sandia National Laboratory; U.S. Department of Energy's National Nuclear
+   Security Administration [DE-AC04-94AL85000]
+FX This work was supported by the Laboratory Directed Research and
+   Development (LDRD) and Advanced Simulation and Computing (ASC) programs
+   at Sandia National Laboratories. Sandia is a multiprogram laboratory
+   managed and operated by Sandia Corporation, a wholly-owned subsidiary of
+   Lockheed Martin Corporation, for the U.S. Department of Energy's
+   National Nuclear Security Administration under Contract No.
+   DE-AC04-94AL85000. The authors are grateful to J. Lechman, K. Mandadapu,
+   and J. Zimmerman for helpful comments on a draft of this paper.
+CR ALDER BJ, 1970, J CHEM PHYS, V53, P3813, DOI 10.1063/1.1673845
+   Andrieux D, 2007, J STAT PHYS, V127, P107, DOI 10.1007/s10955-006-9233-5
+   BOCQUET L, 1994, PHYS REV E, V49, P3079, DOI 10.1103/PhysRevE.49.3079
+   Bonetto F, 2009, J STAT PHYS, V134, P1097, DOI 10.1007/s10955-008-9657-1
+   Chalopin Y, 2012, PHYS REV B, V85, DOI 10.1103/PhysRevB.85.195302
+   Chapman DL, 1913, PHILOS MAG, V25, P475, DOI 10.1080/14786440408634187
+   Chowdhuri S, 2001, J CHEM PHYS, V115, P3732, DOI 10.1063/1.1387447
+   De Groot S. R., 1962, NONEQUILIBRIUM THERM
+   Debye P, 1923, PHYS Z, V24, P185
+   English NJ, 2008, MOL PHYS, V106, P1887, DOI 10.1080/00268970802360348
+   EVANS DJ, 1982, PHYS LETT A, V91, P457, DOI 10.1016/0375-9601(82)90748-4
+   Evans DJ, 2007, STATISTICAL MECHANICS OF NONEQUILIBRIUM LIQUIDS, P1
+   Frenkel D, 2001, UNDERSTANDING MOL SI
+   Freund JB, 2002, J CHEM PHYS, V116, P2194, DOI 10.1063/1.1431543
+   Galamba N, 2007, J CHEM PHYS, V126, DOI 10.1063/1.2734965
+   Gallavotti G, 1996, PHYS REV LETT, V77, P4334, DOI 10.1103/PhysRevLett.77.4334
+   Gouy M., 1910, J PHYS THEOR APPL, V9, DOI DOI 10.1051/JPHYSTAP:019100090045700
+   GREEN MS, 1954, J CHEM PHYS, V22, P398, DOI 10.1063/1.1740082
+   HARDY RJ, 1982, J CHEM PHYS, V76, P622, DOI 10.1063/1.442714
+   HELFAND E, 1960, PHYS REV, V119, P1, DOI 10.1103/PhysRev.119.1
+   Helmholtz H.v., 1853, ANN PHYS CHEM, V165, P353, DOI DOI 10.1002/ANDP.18531650603
+   HEYES DM, 1994, PHYS REV B, V49, P755, DOI 10.1103/PhysRevB.49.755
+   Hockney RW, 1988, COMPUTER SIMULATION, DOI 10.1201/9781439822050
+   IRVING JH, 1950, J CHEM PHYS, V18, P817, DOI 10.1063/1.1747782
+   Ishii Y, 2014, J PHYS CHEM B, V118, P3385, DOI 10.1021/jp411781n
+   Jaksic V, 2006, COMMUN MATH PHYS, V265, P721, DOI 10.1007/s00220-006-0004-6
+   Jaksic V, 2007, ANN HENRI POINCARE, V8, P1013, DOI 10.1007/s00023-007-0327-7
+   Joly L, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.257805
+   Jones RE, 2012, J CHEM PHYS, V136, DOI 10.1063/1.3700344
+   JORGENSEN WL, 1983, J CHEM PHYS, V79, P926, DOI 10.1063/1.445869
+   KARASAWA N, 1989, J PHYS CHEM-US, V93, P7320, DOI 10.1021/j100358a012
+   Kaviany M., 2008, HEAT TRANSFER PHYS
+   Kim D, 2006, PHYS REV E, V73, DOI 10.1103/PhysRevE.73.051203
+   KUBO R, 1957, J PHYS SOC JPN, V12, P1203, DOI 10.1143/JPSJ.12.1203
+   KUBO R, 1957, J PHYS SOC JPN, V12, P570, DOI 10.1143/JPSJ.12.570
+   Kubo R., 1998, STAT PHYS, V2
+   Kundu A, 2009, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2009/03/L03001
+   LANCASTER P, 1981, MATH COMPUT, V37, P141, DOI 10.1090/S0025-5718-1981-0616367-1
+   Lebowitz JL, 1999, J STAT PHYS, V95, P333, DOI 10.1023/A:1004589714161
+   Lee JW, 2013, J CHEM THEORY COMPUT, V9, P3051, DOI 10.1021/ct4002043
+   Lee JW, 2012, J CHEM THEORY COMPUT, V8, P2012, DOI 10.1021/ct3001156
+   Lefevere R, 2006, J STAT MECH-THEORY E, DOI 10.1088/1742-5468/2006/02/L02001
+   LIU WK, 1995, INT J NUMER METH FL, V20, P1081, DOI 10.1002/fld.1650200824
+   MALMBERG CG, 1956, J RES NAT BUR STAND, V56, P1, DOI 10.6028/jres.056.001
+   Mandadapu KK, 2010, J CHEM PHYS, V133, DOI 10.1063/1.3459126
+   McQuarrie D.A., 2000, STAT MECH
+   Merabia S, 2012, PHYS REV B, V86, DOI 10.1103/PhysRevB.86.094303
+   Morriss GP., 1990, STAT MECH NONEQUILIB
+   MULLERPLATHE F, 1995, J CHEM PHYS, V103, P4745
+   MURDOCH AI, 1993, INT J ENG SCI, V31, P1345, DOI 10.1016/0020-7225(93)90002-C
+   NOLL W, 1955, J RATION MECH ANAL, V4, P627
+   Ohtori N, 2009, J CHEM PHYS, V130, DOI 10.1063/1.3086856
+   Onsager L, 1931, PHYS REV, V37, P405, DOI 10.1103/PhysRev.37.405
+   Onsager L, 1931, PHYS REV, V38, P2265, DOI 10.1103/PhysRev.38.2265
+   PAYNE VA, 1995, ELECTROCHIM ACTA, V40, P2087, DOI 10.1016/0013-4686(95)00145-5
+   Qiao R, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.198301
+   Rajabpour A, 2010, J APPL PHYS, V108, DOI 10.1063/1.3500526
+   Ren LQ, 2001, J COLLOID INTERF SCI, V233, P12, DOI 10.1006/jcis.2000.7262
+   Ren  LQ, 2001, INT J HEAT MASS TRAN, V44, P3125, DOI 10.1016/S0017-9310(00)00339-2
+   Rey-Bellet L, 2002, ANN HENRI POINCARE, V3, P483, DOI 10.1007/s00023-002-8625-6
+   RYCKAERT JP, 1978, FARADAY DISCUSS, V66, P95, DOI 10.1039/dc9786600095
+   Salanne M, 2011, J PHYS-CONDENS MAT, V23, DOI 10.1088/0953-8984/23/10/102101
+   Sethna J., 2006, STAT MECH ENTROPY OR, V14
+   Sirk TW, 2013, J CHEM PHYS, V138, DOI 10.1063/1.4789961
+   Templeton J. A., 2013, TECHNICAL REPORT
+   Tsionsky V, 1996, J ELECTROCHEM SOC, V143, P2240, DOI 10.1149/1.1836987
+   Viscardy S, 2007, J CHEM PHYS, V126, DOI 10.1063/1.2724820
+   Viscardy S, 2007, J CHEM PHYS, V126, DOI 10.1063/1.2724821
+   Wagner GJ, 2008, COMPUT METHOD APPL M, V197, P3351, DOI 10.1016/j.cma.2008.02.004
+   Wheeler DR, 2004, J PHYS CHEM B, V108, P18353, DOI 10.1021/jp047850b
+   Yeh IC, 1999, J CHEM PHYS, V111, P3155, DOI 10.1063/1.479595
+   Zhou YH, 1996, J PHYS CHEM-US, V100, P5516, DOI 10.1021/jp9533739
+   Zimmerman JA, 2004, MODEL SIMUL MATER SC, V12, pS319, DOI 10.1088/0965-0393/12/4/S03
+   Zimmerman JA, 2010, J COMPUT PHYS, V229, P2364, DOI 10.1016/j.jcp.2009.11.039
+   ZWANZIG R, 1965, ANNU REV PHYS CHEM, V16, P67, DOI 10.1146/annurev.pc.16.100165.000435
+   ZWANZIG R, 1965, J CHEM PHYS, V43, P714, DOI 10.1063/1.1696795
+   ZWANZIG R, 1964, J CHEM PHYS, V40, P2527, DOI 10.1063/1.1725558
+   Zwanzig R., 2001, NONEQUILIBRIUM STAT
+NR 78
+TC 4
+Z9 4
+U1 1
+U2 23
+PU AMER INST PHYSICS
+PI MELVILLE
+PA 1305 WALT WHITMAN RD, STE 300, MELVILLE, NY 11747-4501 USA
+SN 0021-9606
+EI 1089-7690
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PD NOV 14
+PY 2014
+VL 141
+IS 18
+AR 184110
+DI 10.1063/1.4901035
+PG 13
+WC Chemistry, Physical; Physics, Atomic, Molecular & Chemical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Physics
+GA AT3PZ
+UT WOS:000344847600014
+PM 25399135
+OA Green Submitted
+DA 2022-10-19
+ER
+
+PT J
+AU Zhou, XW
+   Jones, RE
+   Kimmer, CJ
+   Duda, JC
+   Hopkins, PE
+AF Zhou, Xiao Wang
+   Jones, Reese E.
+   Kimmer, Christopher James
+   Duda, John C.
+   Hopkins, Patrick E.
+TI Relationship of thermal boundary conductance to structure from an
+   analytical model plus molecular dynamics simulations
+SO PHYSICAL REVIEW B
+LA English
+DT Article
+ID EMBEDDED-ATOM-METHOD; KAPITZA CONDUCTANCE; RELATIVE STABILITY;
+   ELASTIC-CONSTANTS; HEAT-CAPACITY; TEMPERATURE; GALLIUM; GAN;
+   CONDUCTIVITY; MECHANISM
+AB Thermal boundary resistance dominates the overall resistance of nanosystems. This effect can be utilized to improve the figure of merit of thermoelectric materials. It is also a concern for thermal failures in microelectronic devices. The interfacial resistance depends sensitively on many interrelated structural details including material properties of the two layers, the system dimensions, the interfacial morphology, and the defect concentrations near the interface. The lack of an analytical understanding of these dependencies has been a major hurdle for a science-based design of optimum systems on a nanoscale. Here we have combined an analytical model with extensive, highly converged direct-method molecular dynamics simulations to derive analytical relationships between interfacial thermal boundary resistance and structural features. We discover that thermal boundary resistance linearly decreases with total interfacial area that can be modified by interfacial roughening. This finding is further elucidated using wave-packet analysis and local density of state calculations. DOI: 10.1103/PhysRevB.87.094303
+C1 [Zhou, Xiao Wang; Jones, Reese E.] Sandia Natl Labs, Mech Mat Dept, Livermore, CA 94550 USA.
+   [Kimmer, Christopher James] Indiana Univ SE, Sch Nat Sci, New Albany, IN 47150 USA.
+   [Duda, John C.; Hopkins, Patrick E.] Univ Virginia, Dept Mech & Aerosp Engn, Charlottesville, VA 22904 USA.
+   [Duda, John C.] Sandia Natl Labs, Microscale Sci & Technol Dept, Albuquerque, NM 87185 USA.
+RP Zhou, XW (corresponding author), Sandia Natl Labs, Mech Mat Dept, Livermore, CA 94550 USA.
+EM xzhou@sandia.gov
+FU US Department of Energy's National Nuclear Security Administration
+   [DE-AC04-94AL85000]; NSF [CBET 1134311]
+FX Sandia National Laboratories is a multiprogram laboratory managed and
+   operated by Sandia Corporation, a wholly owned subsidiary of Lockheed
+   Martin Corporation, for the US Department of Energy's National Nuclear
+   Security Administration under contract DE-AC04-94AL85000. This work was
+   performed under a Laboratory Directed Research and Development (LDRD)
+   project. P. E. H. is also appreciative for funding from NSF Grant No.
+   CBET 1134311.
+CR Albe K, 2002, PHYS REV B, V66, DOI 10.1103/PhysRevB.66.035205
+   [Anonymous], 1994, ELECT MAT INFORM SER
+   Bere A, 2006, PHILOS MAG, V86, P2159, DOI 10.1080/14786430600640486
+   Bere A, 2002, PHYS REV B, V65, DOI 10.1103/PhysRevB.65.205323
+   Cahill DG, 2003, J APPL PHYS, V93, P793, DOI 10.1063/1.1524305
+   Carlborg CF, 2008, PHYS REV B, V78, DOI 10.1103/PhysRevB.78.205406
+   da Silva LW, 2004, INT J HEAT MASS TRAN, V47, P2417, DOI 10.1016/j.ijheatmasstransfer.2003.11.024
+   Daly BC, 2002, PHYS REV B, V66, DOI 10.1103/PhysRevB.66.024301
+   Danilchenko BA, 2006, APPL PHYS LETT, V89, DOI 10.1063/1.2335373
+   DAW MS, 1984, PHYS REV B, V29, P6443, DOI 10.1103/PhysRevB.29.6443
+   Dresselhaus MS, 1999, MICROSCALE THERM ENG, V3, P89
+   Duda JC, 2012, J APPL PHYS, V112, DOI 10.1063/1.4764921
+   Duda JC, 2012, J APPL PHYS, V112, DOI 10.1063/1.4757941
+   Duda JC, 2012, APPL PHYS LETT, V100, DOI 10.1063/1.3695058
+   Duda JC, 2011, PHYS REV B, V84, DOI 10.1103/PhysRevB.84.193301
+   English TS, 2012, PHYS REV B, V85, DOI 10.1103/PhysRevB.85.035438
+   Evans M. S. W. J., 2012, APPL PHYS LETT, V100
+   FOILES SM, 1986, PHYS REV B, V33, P7983, DOI 10.1103/PhysRevB.33.7983
+   HOOVER WG, 1985, PHYS REV A, V31, P1695, DOI 10.1103/PhysRevA.31.1695
+   Hopkins PE, 2006, APPL PHYS LETT, V89, DOI 10.1063/1.2357585
+   Hopkins PE, 2011, PHYS REV B, V84, DOI 10.1103/PhysRevB.84.035438
+   Hopkins PE, 2011, APPL PHYS LETT, V98, DOI 10.1063/1.3581041
+   Hopkins PE, 2010, PHYS REV B, V82, DOI 10.1103/PhysRevB.82.085307
+   Hopkins PE, 2008, J HEAT TRANS-T ASME, V130, DOI 10.1115/1.2897344
+   Hopkins PE, 2009, J APPL PHYS, V105, DOI 10.1063/1.3068476
+   Hu M, 2009, PHYS REV B, V79, DOI 10.1103/PhysRevB.79.104305
+   IKESHOJI T, 1994, MOL PHYS, V81, P251, DOI 10.1080/00268979400100171
+   Imamura K, 2003, J PHYS-CONDENS MAT, V15, P8679, DOI 10.1088/0953-8984/15/50/002
+   Jiang L, 2005, J HEAT TRANS-T ASME, V127, P1167, DOI 10.1115/1.2035113
+   Jund P, 1999, PHYS REV B, V59, P13707, DOI 10.1103/PhysRevB.59.13707
+   Kaburaki H, 2007, J APPL PHYS, V102, DOI 10.1063/1.2772547
+   Kapitza PL, 1941, J PHYS-USSR, V4, P181
+   Kim K, 1996, PHYS REV B, V53, P16310, DOI 10.1103/PhysRevB.53.16310
+   Kimmer C, 2007, PHYS REV B, V75, DOI 10.1103/PhysRevB.75.144105
+   Kittel C, 1979, INTRO SOLID STATE PH, Vfifth
+   Koci L, 2006, PHYS REV B, V74, DOI 10.1103/PhysRevB.74.012101
+   Landry ES, 2009, PHYS REV B, V80, DOI 10.1103/PhysRevB.80.165304
+   Liang Z, 2011, J PHYS-CONDENS MAT, V23, DOI 10.1088/0953-8984/23/49/495303
+   LYALL KR, 1971, CAN J PHYS, V49, P1075, DOI 10.1139/p71-133
+   Lyeo HK, 2006, PHYS REV B, V73, DOI 10.1103/PhysRevB.73.144301
+   Mahan GD, 1998, PHYS REV LETT, V80, P4016, DOI 10.1103/PhysRevLett.80.4016
+   MAILHIOT C, 1992, PHYS REV B, V46, P14419, DOI 10.1103/PhysRevB.46.14419
+   Majumdar A, 2004, APPL PHYS LETT, V84, P4768, DOI 10.1063/1.1758301
+   Marmalyuk AA, 1998, HIGH TEMP+, V36, P817
+   Matyushov DV, 1996, J CHEM PHYS, V104, P8627, DOI 10.1063/1.471551
+   MCNEIL LE, 1993, J AM CERAM SOC, V76, P1132, DOI 10.1111/j.1151-2916.1993.tb03730.x
+   MEI J, 1992, PHYS REV B, V46, P21, DOI 10.1103/PhysRevB.46.21
+   Merabia S, 2012, PHYS REV B, V86, DOI 10.1103/PhysRevB.86.094303
+   Mishin Y, 1999, PHYS REV B, V59, P3393, DOI 10.1103/PhysRevB.59.3393
+   Nord J, 2003, J PHYS-CONDENS MAT, V15, P5649, DOI 10.1088/0953-8984/15/32/324
+   Norris PM, 2009, J HEAT TRANS-T ASME, V131, DOI 10.1115/1.3072928
+   Novoselov KS, 2004, SCIENCE, V306, P666, DOI 10.1126/science.1102896
+   Ong ZY, 2010, PHYS REV B, V81, DOI 10.1103/PhysRevB.81.155408
+   Persson BNJ, 2011, J PHYS-CONDENS MAT, V23, DOI 10.1088/0953-8984/23/4/045009
+   Poudel B, 2008, SCIENCE, V320, P634, DOI 10.1126/science.1156446
+   Rajabpour A, 2011, J APPL PHYS, V110, DOI 10.1063/1.3665408
+   Riffat SB, 2003, APPL THERM ENG, V23, P913, DOI 10.1016/S1359-4311(03)00012-7
+   Ruterana P, 1999, PHYS REV B, V59, P15917, DOI 10.1103/PhysRevB.59.15917
+   Schelling PK, 2004, J APPL PHYS, V95, P6082, DOI 10.1063/1.1702100
+   Schelling PK, 2002, PHYS REV B, V65, DOI 10.1103/PhysRevB.65.144306
+   Schelling PK, 2001, J AM CERAM SOC, V84, P2997, DOI 10.1111/j.1151-2916.2001.tb01127.x
+   Schulz U, 2003, MAT SCI ENG A-STRUCT, V360, P319, DOI 10.1016/S0921-5093(03)00470-2
+   Serrano J, 2000, PHYS REV B, V62, P16612, DOI 10.1103/PhysRevB.62.16612
+   Shen M, 2011, PHYS REV B, V84, DOI 10.1103/PhysRevB.84.195432
+   Shin S, 2010, PHYS REV B, V82, DOI 10.1103/PhysRevB.82.081302
+   SLACK GA, 1973, J PHYS CHEM SOLIDS, V34, P321, DOI 10.1016/0022-3697(73)90092-9
+   Smith AR, 1998, APPL PHYS LETT, V72, P2114, DOI 10.1063/1.121293
+   Smith RW, 1996, J APPL PHYS, V79, P1448, DOI 10.1063/1.360983
+   Stevens R. J., 2004, P IMECE04, P60334
+   Stevens RJ, 2007, INT J HEAT MASS TRAN, V50, P3977, DOI 10.1016/j.ijheatmasstransfer.2007.01.040
+   STILLINGER FH, 1985, PHYS REV B, V31, P5262, DOI 10.1103/PhysRevB.31.5262
+   STONER RJ, 1993, PHYS REV B, V48, P16373, DOI 10.1103/PhysRevB.48.16373
+   SWARTZ ET, 1987, APPL PHYS LETT, V51, P2200, DOI 10.1063/1.98939
+   SWARTZ ET, 1989, REV MOD PHYS, V61, P605, DOI 10.1103/RevModPhys.61.605
+   Sze S.M., 1981, PHYS SEMICONDUCTOR D
+   Termentzidis K, 2011, INT J HEAT MASS TRAN, V54, P2014, DOI 10.1016/j.ijheatmasstransfer.2011.01.001
+   Termentzidis K, 2009, PHYS REV B, V79, DOI 10.1103/PhysRevB.79.214307
+   THOMAS JF, 1968, PHYS REV, V175, P955, DOI 10.1103/PhysRev.175.955
+   TSUBOUCHI K, 1985, IEEE T SON ULTRASON, V32, P634, DOI 10.1109/T-SU.1985.31647
+   Wang Y, 2012, PHYS REV B, V85, DOI 10.1103/PhysRevB.85.205311
+   Yoon YG, 2004, PHYS REV B, V70, DOI 10.1103/PhysRevB.70.012302
+   Zhou X., UNPUB
+   Zhou XW, 2011, MODEL SIMUL MATER SC, V19, DOI 10.1088/0965-0393/19/2/025004
+   Zhou XW, 2010, PHYS REV B, V81, DOI 10.1103/PhysRevB.81.155321
+   Zhou XW, 2010, PHYS REV B, V81, DOI 10.1103/PhysRevB.81.073304
+   Zhou XW, 2009, PHYS REV B, V79, DOI 10.1103/PhysRevB.79.115201
+NR 86
+TC 56
+Z9 57
+U1 4
+U2 58
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 2469-9950
+EI 2469-9969
+J9 PHYS REV B
+JI Phys. Rev. B
+PD MAR 11
+PY 2013
+VL 87
+IS 9
+AR 094303
+DI 10.1103/PhysRevB.87.094303
+PG 17
+WC Materials Science, Multidisciplinary; Physics, Applied; Physics,
+   Condensed Matter
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Materials Science; Physics
+GA 105UK
+UT WOS:000316098000001
+OA hybrid
+DA 2022-10-19
+ER
+
+EFF

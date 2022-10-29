@@ -1,0 +1,368 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Nyberg, RH
+   Morr, DK
+AF Nyberg, RH
+   Morr, DK
+TI Interacting molecules on the surface of a d(x2-y2)-wave superconductor
+SO PHYSICAL REVIEW B
+LA English
+DT Article
+ID SINGLE MOLECULES; SPECTROSCOPY
+AB We study interacting molecules on the surface of a d(x2-y2)-wave superconductor. We show that the interplay between the molecules' excitation spectrum and quantum interference of the scattered host electrons leads to a series of characteristic signatures and intriguing quantum effects in the superconductor's local density of states. We demonstrate that these effects give insight into both the nature of the superconducting pairing correlations and the intermolecular interactions.
+C1 Univ Illinois, Dept Phys, Chicago, IL 60607 USA.
+RP Nyberg, RH (corresponding author), Univ Illinois, Dept Phys, Chicago, IL 60607 USA.
+RI Morr, Dirk/B-8887-2019
+OI Morr, Dirk/0000-0003-3692-2835
+CR ALATSKY AV, 2003, PHYS REV B, V68
+   ANDERSEN BM, 2003, PHYS REV B, V67
+   Braun KF, 2002, PHYS REV LETT, V88, DOI 10.1103/PhysRevLett.88.096801
+   COHENTANNOUDJI C, 1977, QUANTUM MECH, V1, pCH5
+   Damascelli A, 2003, REV MOD PHYS, V75, P473, DOI 10.1103/RevModPhys.75.473
+   Drakova D, 2001, REP PROG PHYS, V64, P205, DOI 10.1088/0034-4885/64/2/202
+   Gimzewski JK, 1999, SCIENCE, V283, P1683, DOI 10.1126/science.283.5408.1683
+   Gross L, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.056103
+   HEWSON AC, 1979, J PHYS C SOLID STATE, V12, P1665, DOI 10.1088/0022-3719/12/9/009
+   Ho W, 2002, J CHEM PHYS, V117, P11033, DOI 10.1063/1.1521153
+   Hornbaker DJ, 2002, SCIENCE, V295, P828, DOI 10.1126/science.1068133
+   JAKLEVIC RC, 1966, PHYS REV LETT, V17, P1139, DOI 10.1103/PhysRevLett.17.1139
+   Kneipp K, 1997, PHYS REV LETT, V78, P1667, DOI 10.1103/PhysRevLett.78.1667
+   Manoharan HC, 2000, NATURE, V403, P512, DOI 10.1038/35000508
+   Morr DK, 2003, PHYS REV B, V68, DOI 10.1103/PhysRevB.68.060505
+   Morr DK, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.107006
+   Morr DK, 2002, PHYS REV B, V66, DOI 10.1103/PhysRevB.66.140508
+   Morr DK, 2003, PHYS REV B, V67, DOI 10.1103/PhysRevB.67.020502
+   Nazin GV, 2003, SCIENCE, V302, P77, DOI 10.1126/science.1088971
+   Nie SM, 1997, SCIENCE, V275, P1102, DOI 10.1126/science.275.5303.1102
+   Nitzan A, 2001, ANNU REV PHYS CHEM, V52, P681, DOI 10.1146/annurev.physchem.52.1.681
+   Stipe BC, 1998, SCIENCE, V280, P1732, DOI 10.1126/science.280.5370.1732
+   Zhu LY, 2003, PHYS REV B, V67, DOI 10.1103/PhysRevB.67.094508
+NR 23
+TC 2
+Z9 2
+U1 0
+U2 3
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 2469-9950
+EI 2469-9969
+J9 PHYS REV B
+JI Phys. Rev. B
+PD JUN
+PY 2005
+VL 71
+IS 22
+AR 224503
+DI 10.1103/PhysRevB.71.224503
+PG 5
+WC Materials Science, Multidisciplinary; Physics, Applied; Physics,
+   Condensed Matter
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Materials Science; Physics
+GA 942IS
+UT WOS:000230276700091
+DA 2022-10-21
+ER
+
+PT J
+AU Carlotti, M
+   Soni, S
+   Qiu, XK
+   Ai, Y
+   Sauter, E
+   Zharnikov, M
+   Chiechi, RC
+AF Carlotti, Marco
+   Soni, Saurabh
+   Qiu, Xinkai
+   Ai, Yong
+   Sauter, Eric
+   Zharnikov, Michael
+   Chiechi, Ryan C.
+TI Systematic experimental study of quantum interference effects in
+   anthraquinoid molecular wires (vol 1, pg 2018, 2019)
+SO NANOSCALE ADVANCES
+LA English
+DT Correction
+C1 [Carlotti, Marco; Soni, Saurabh; Qiu, Xinkai; Ai, Yong; Chiechi, Ryan C.] Zernike Inst Adv Mat, Nijenborgh 4, NL-9747 AG Groningen, Netherlands.
+   [Carlotti, Marco; Soni, Saurabh; Qiu, Xinkai; Ai, Yong; Chiechi, Ryan C.] Univ Groningen, Stratingh Inst Chem, Nijenborgh 4, NL-9747 AG Groningen, Netherlands.
+   [Sauter, Eric; Zharnikov, Michael] Heidelberg Univ, Appl Phys Chem, Neuenheier Feld 253, D-69120 Heidelberg, Germany.
+RP Chiechi, RC (corresponding author), Zernike Inst Adv Mat, Nijenborgh 4, NL-9747 AG Groningen, Netherlands.; Chiechi, RC (corresponding author), Univ Groningen, Stratingh Inst Chem, Nijenborgh 4, NL-9747 AG Groningen, Netherlands.
+EM r.c.chiechi@rug.nl
+RI Qiu, Xinkai/AAG-3306-2020; Institute, Zernike/W-7033-2019; Soni,
+   Saurabh/B-4217-2018
+OI Qiu, Xinkai/0000-0001-5857-6414; Soni, Saurabh/0000-0002-8159-9128
+CR Carlotti M, 2019, NANOSCALE ADV, V1, P2018, DOI 10.1039/c8na00223a
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ROYAL SOC CHEMISTRY
+PI CAMBRIDGE
+PA THOMAS GRAHAM HOUSE, SCIENCE PARK, MILTON RD, CAMBRIDGE CB4 0WF, CAMBS,
+   ENGLAND
+SN 2516-0230
+J9 NANOSCALE ADV
+JI Nanoscale Adv.
+PD MAY 1
+PY 2019
+VL 1
+IS 5
+BP 2040
+EP 2040
+DI 10.1039/c9na90018g
+PG 1
+WC Chemistry, Multidisciplinary; Nanoscience & Nanotechnology; Materials
+   Science, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Science & Technology - Other Topics; Materials Science
+GA IL1VK
+UT WOS:000477090200043
+PM 36134208
+OA Green Submitted, Green Published, Green Accepted, gold
+DA 2022-10-21
+ER
+
+PT J
+AU de Oliveira, JB
+   de Oliveira, ISS
+   Padilha, JE
+   Miwa, RH
+AF de Oliveira, J. B.
+   de Oliveira, I. S. S.
+   Padilha, J. E.
+   Miwa, R. H.
+TI Tunable magnetism and spin-polarized electronic transport in graphene
+   mediated by molecular functionalization of extended defects
+SO PHYSICAL REVIEW B
+LA English
+DT Article
+ID EPITAXIAL GRAPHENE; LINE DEFECTS; AB-INITIO; GRAIN-BOUNDARIES;
+   CHARGE-TRANSFER; FERROMAGNETISM; NANORIBBONS; ADSORPTION; DEPOSITION;
+   ENERGY
+AB We use first-principles simulations to investigate the magnetic and the electronic transport properties of functionalized graphene layers upon the presence of extended linear defects (ELDs). We have considered electron-donor molecules, tetrathiafulvalene (TTF), lying on the graphene sites neighboring the ELD (TTF/ELD). Those molecules bond to the graphene sheet mediated by van der Waals interactions, giving rise to a net (molecule. graphene) charge transfer. The n-type doping of graphene, as well as the molecule-graphene interaction, are strengthened by the presence of the ELD. There is a charge density accumulation on the C atoms along the defect sites, promoting the formation of magnetic states in TTF/ELD. We show that such a net magnetization can be modified through an external electric field (E-field). Further electronic transport calculations reveal that the transmission coefficients exhibit a spin anisotropy which can be controlled by the Efield, and thus showing that TTF/ELD is a quite interesting system to realize tunable spin-polarized electronic currents on graphene.
+C1 [de Oliveira, J. B.] Inst Fed Triangulo Mineiro, BR-38270000 Ituiutaba, MG, Brazil.
+   [de Oliveira, I. S. S.] Univ Fed Lavras, Dept Fis, CP 3037, BR-37200000 Lavras, MG, Brazil.
+   [Padilha, J. E.] Univ Fed Parana, Campus Avancado Jandaia Sul,CP 109, BR-86900000 Jandaia Do Sul, PR, Brazil.
+   [Miwa, R. H.] Univ Fed Uberlandia, Inst Fis, CP 593, BR-38400902 Uberlandia, MG, Brazil.
+RP de Oliveira, JB (corresponding author), Inst Fed Triangulo Mineiro, BR-38270000 Ituiutaba, MG, Brazil.
+EM joaooliveira@iftm.edu.br; igor.oliveira@dfi.ufla.br;
+   jose.padilha@ufpr.br; hiroki@ufu.br
+RI Padilha, Jose Eduardo/H-5207-2012; de Oliveira, Igor/ABE-9283-2020;
+   Padilha, José Eduardo/O-9775-2015; de Oliveira, Igor S. S./N-8275-2013;
+   Miwa, Roberto/I-3565-2013
+OI Padilha, José Eduardo/0000-0002-4299-2808; de Oliveira, Igor S.
+   S./0000-0002-9121-9598; Miwa, Roberto/0000-0002-1237-1525
+FU Brazilian agency CAPES; Brazilian agency CNPq; Brazilian agency FAPEMIG
+FX The authors acknowledge financial support from the Brazilian agencies
+   CAPES, CNPq, and FAPEMIG, and the computational support from CENAPAD/SP
+   and Laboratorio Nacional de Computacao Cientifica (LNCC-SCAFMat).
+CR Addou R, 2013, LANGMUIR, V29, P6354, DOI 10.1021/la400972k
+   Alexandre SS, 2017, PHYS REV B, V96, DOI 10.1103/PhysRevB.96.075445
+   Alexandre SS, 2012, NANO LETT, V12, P5097, DOI 10.1021/nl3017434
+   Bader RFW, 1994, INT SERIES MONOGRAPH
+   Barja S, 2010, CHEM COMMUN, V46, P8198, DOI 10.1039/c0cc02675a
+   Bjork J, 2010, J PHYS CHEM LETT, V1, P3407, DOI 10.1021/jz101360k
+   Boukhvalov DW, 2008, PHYS REV B, V77, DOI 10.1103/PhysRevB.77.035427
+   Braganca AM, 2016, CHEM SCI, V7, P7028, DOI 10.1039/c6sc02400a
+   Brito WH, 2012, PHYS REV B, V85, DOI 10.1103/PhysRevB.85.035404
+   Bucko T, 2013, PHYS REV B, V87, DOI 10.1103/PhysRevB.87.064110
+   Chakarova-Kack SD, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.146107
+   Chen W, 2007, J AM CHEM SOC, V129, P10418, DOI 10.1021/ja071658g
+   Chen W, 2015, RSC ADV, V5, P53003, DOI 10.1039/c5ra06665d
+   Chen W, 2009, PROG SURF SCI, V84, P279, DOI 10.1016/j.progsurf.2009.06.002
+   de Lima FDC, 2017, MATER CHEM PHYS, V194, P118, DOI 10.1016/j.matchemphys.2017.03.031
+   de Oliveira ISS, 2015, J CHEM PHYS, V142, DOI 10.1063/1.4906435
+   Garnica M, 2013, NAT PHYS, V9, P368, DOI [10.1038/NPHYS2610, 10.1038/nphys2610]
+   Giesbers AJM, 2013, PHYS REV LETT, V111, DOI 10.1103/PhysRevLett.111.166101
+   Gunlycke D, 2013, NANO LETT, V13, P259, DOI 10.1021/nl304015q
+   Han W, 2014, NAT NANOTECHNOL, V9, P794, DOI [10.1038/NNANO.2014.214, 10.1038/nnano.2014.214]
+   Joly VLJ, 2010, PHYS REV B, V81, DOI 10.1103/PhysRevB.81.245428
+   Kim K, 2014, NAT COMMUN, V5, DOI 10.1038/ncomms5781
+   Klimes J, 2010, J PHYS-CONDENS MAT, V22, DOI 10.1088/0953-8984/22/2/022201
+   Kou LZ, 2011, ACS NANO, V5, P1012, DOI 10.1021/nn1024175
+   Kresse G, 1996, PHYS REV B, V54, P11169, DOI 10.1103/PhysRevB.54.11169
+   Kresse G, 1999, PHYS REV B, V59, P1758, DOI 10.1103/PhysRevB.59.1758
+   Kumar A, 2017, ACS NANO, V11, P4960, DOI 10.1021/acsnano.7b01599
+   Lahiri J, 2010, NAT NANOTECHNOL, V5, P326, DOI [10.1038/nnano.2010.53, 10.1038/NNANO.2010.53]
+   Lee H, 2005, PHYS REV B, V72, DOI 10.1103/PhysRevB.72.174431
+   Martins TB, 2007, PHYS REV LETT, V98, DOI 10.1103/PhysRevLett.98.196803
+   Martins TB, 2008, NANO LETT, V8, P2293, DOI 10.1021/nl800991j
+   Acosta CM, 2014, PHYS REV B, V89, DOI 10.1103/PhysRevB.89.155438
+   MONKHORST HJ, 1976, PHYS REV B, V13, P5188, DOI 10.1103/PhysRevB.13.5188
+   Nair RR, 2012, NAT PHYS, V8, P199, DOI [10.1038/nphys2183, 10.1038/NPHYS2183]
+   Novaes FD, 2006, BRAZ J PHYS, V36, P799, DOI 10.1590/S0103-97332006000500039
+   Obodo JT, 2015, PHYS REV B, V91, DOI 10.1103/PhysRevB.91.014413
+   Padilha JE, 2011, PHYS REV B, V84, DOI 10.1103/PhysRevB.84.113412
+   Padilha JE, 2011, INT J QUANTUM CHEM, V111, P1379, DOI 10.1002/qua.22690
+   Perdew JP, 1996, PHYS REV LETT, V77, P3865, DOI 10.1103/PhysRevLett.77.3865
+   Rao SS, 2012, NANO LETT, V12, P1210, DOI 10.1021/nl203512c
+   Ren JC, 2015, PHYS CHEM CHEM PHYS, V17, P30744, DOI 10.1039/c5cp03764f
+   Ren JC, 2015, PHYS REV B, V91, DOI 10.1103/PhysRevB.91.045425
+   Roos M, 2011, BEILSTEIN J NANOTECH, V2, P365, DOI 10.3762/bjnano.2.42
+   Samuels AJ, 2015, ACS APPL MATER INTER, V7, P22246, DOI 10.1021/acsami.5b05140
+   Santos EJG, 2010, PHYS REV B, V81, DOI 10.1103/PhysRevB.81.125433
+   Schlierf A, 2014, J MATER CHEM C, V2, P3129, DOI 10.1039/c3tc32153c
+   Singh R, 2009, J PHYS-CONDENS MAT, V21, DOI 10.1088/0953-8984/21/19/196002
+   Soler JM, 2002, J PHYS-CONDENS MAT, V14, P2745, DOI 10.1088/0953-8984/14/11/302
+   Son YW, 2006, NATURE, V444, P347, DOI 10.1038/nature05180
+   Stoner EC, 1939, PROC R SOC LON SER-A, V169, P0339, DOI 10.1098/rspa.1939.0003
+   Stoner EC, 1938, PROC R SOC LON SER-A, V165, P0372, DOI 10.1098/rspa.1938.0066
+   Tkatchenko A, 2009, PHYS REV LETT, V102, DOI 10.1103/PhysRevLett.102.073005
+   Voggu R, 2008, J PHYS-CONDENS MAT, V20, DOI 10.1088/0953-8984/20/47/472204
+   WANG Y, 2009, NANO LETT, V9, P220, DOI DOI 10.1021/nl802810g
+   Yazyev OV, 2007, PHYS REV B, V75, DOI 10.1103/PhysRevB.75.125408
+   Yazyev OV, 2010, NAT MATER, V9, P806, DOI [10.1038/nmat2830, 10.1038/NMAT2830]
+   Yu SU, 2014, ACS NANO, V8, P8662, DOI 10.1021/nn503550d
+   Zhang HB, 2012, PHYS REV LETT, V108, DOI 10.1103/PhysRevLett.108.056802
+   Zhang YH, 2010, NANOTECHNOLOGY, V21, DOI 10.1088/0957-4484/21/6/065201
+NR 59
+TC 10
+Z9 10
+U1 0
+U2 56
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 2469-9950
+EI 2469-9969
+J9 PHYS REV B
+JI Phys. Rev. B
+PD JAN 9
+PY 2018
+VL 97
+IS 4
+AR 045107
+DI 10.1103/PhysRevB.97.045107
+PG 7
+WC Materials Science, Multidisciplinary; Physics, Applied; Physics,
+   Condensed Matter
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Materials Science; Physics
+GA FS2NP
+UT WOS:000419615700004
+DA 2022-10-21
+ER
+
+PT J
+AU Luis, F
+   Mettes, F
+   Evangelisti, M
+   Morello, A
+   de Jongh, LJ
+AF Luis, F
+   Mettes, F
+   Evangelisti, M
+   Morello, A
+   de Jongh, LJ
+TI Approach of single-molecule magnets to thermal equilibrium
+SO JOURNAL OF PHYSICS AND CHEMISTRY OF SOLIDS
+LA English
+DT Article; Proceedings Paper
+CT Spring Meeting of the European-Materials-Research-Society (EMRS)
+CY JUN 10-13, 2003
+CL STRASBOURG, FRANCE
+SP European Mat Res Soc
+ID DEPENDENT SPECIFIC-HEAT; QUANTUM RELAXATION; MAGNETIZATION; CLUSTERS;
+   MN-12-ACETATE; SPECTROSCOPY; NEUTRON; INTERFERENCE; ANISOTROPY;
+   COMPLEXES
+AB We study the spin-lattice relaxation of single-molecule-magnets (SMM) using time-dependent specific heat C-m measurements. These molecular clusters, intermediate between paramagnetic atoms and ferromagnetic nanoparticles, are ideal systems to investigate if quantum phenomena contribute to relaxation at the mesoscopic scale. Experiments show indeed that relaxation to equilibrium proceeds by quantum tunnelling through the magnetic anisotropy energy barrier. For sufficiently high temperatures (T greater than or similar to 1 K), tunnelling takes place between excited magnetic states. Tunnelling via lower lying states can be promoted by applying a magnetic field B, perpendicular to the anisotropy axis. For sufficiently large B-perpendicular to, the lowest energy states become quantum coherent superpositions. The equilibrium C-m is dominated, for T < 1 K, by dipolar interactions between the molecular spins. A nearly isotropic Mn-6 cluster compound shows a transition to a ferromagnetic phase at T-c similar or equal to 0.16 K. For Ising-like SMM's, such as Mn-4, relaxation takes place by incoherent tunnelling between the lowest lying +/-S states, assisted by interactions with phonons and nuclear spins. Tunnelling can then be promoted by lowering the symmetry of the molecule. In this case too, the molecular spins order if tunnelling remains sufficiently fast down to T-c similar or equal to 0.2 K. (C) 2003 Elsevier Ltd. All rights reserved.
+C1 Univ Zaragoza, CSIC, Inst Ciencia Mat Aragon, Zaragoza 50009, Spain.
+   Leiden Univ, Leiden Inst Phys, Kamerlingh Onnes Lab, NL-2300 RA Leiden, Netherlands.
+RP Luis, F (corresponding author), Univ Zaragoza, CSIC, Inst Ciencia Mat Aragon, Zaragoza 50009, Spain.
+EM fluis@unizar.es
+RI Morello, Andrea/B-6475-2008; Crespo, Marco Evangelisti/B-5878-2011;
+   LUIS, Fernando M/E-9108-2011
+OI Morello, Andrea/0000-0001-7445-699X; Crespo, Marco
+   Evangelisti/0000-0002-8028-9064; LUIS, Fernando M/0000-0001-6284-0521
+CR Abragam A., 1970, Electron Paramagnetic Resonance of Transition Ions
+   Aliaga N, 2001, POLYHEDRON, V20, P1273, DOI 10.1016/S0277-5387(01)00605-2
+   Andres H, 2000, J AM CHEM SOC, V122, P12469, DOI 10.1021/ja0009424
+   Aromi G, 1999, J AM CHEM SOC, V121, P5489, DOI 10.1021/ja983446c
+   Aubin SMJ, 1998, J AM CHEM SOC, V120, P4991, DOI 10.1021/ja974241r
+   Aubin SMJ, 1996, J AM CHEM SOC, V118, P7746, DOI 10.1021/ja960970f
+   BACHMANN R, 1972, REV SCI INSTRUM, V43, P205, DOI 10.1063/1.1685596
+   Barra AL, 1996, EUROPHYS LETT, V35, P133, DOI 10.1209/epl/i1996-00544-3
+   Barra AL, 1997, PHYS REV B, V56, P8192, DOI 10.1103/PhysRevB.56.8192
+   BIRGE NO, 1985, PHYS REV LETT, V54, P2674, DOI 10.1103/PhysRevLett.54.2674
+   Caciuffo R, 1998, PHYS REV LETT, V81, P4744, DOI 10.1103/PhysRevLett.81.4744
+   CHRISTENSEN T, 1985, J PHYS-PARIS, V46, P635, DOI 10.1051/jphyscol:19858102
+   CHUDNOWSKY EM, 1998, MACROSCOPIC QUANTUM
+   CIEPLAK M, 1988, PHYS REV B, V37, P1790, DOI 10.1103/PhysRevB.37.1790
+   ENZ M, 1986, J PHYS C SOLID STATE, V19, pL711, DOI 10.1088/0022-3719/19/30/005
+   Evangelisti M, 2003, POLYHEDRON, V22, P2169, DOI 10.1016/S0277-5387(03)00238-9
+   Fernandez JF, 2002, PHYS REV B, V66, DOI 10.1103/PhysRevB.66.064423
+   Fernandez JF, 1998, PHYS REV LETT, V80, P5659, DOI 10.1103/PhysRevLett.80.5659
+   Fernandez JF, 2000, PHYS REV B, V62, P53, DOI 10.1103/PhysRevB.62.53
+   FERNANDEZ JF, PHYS REV B, V65
+   Fominaya F, 1997, PHYS REV LETT, V79, P1126, DOI 10.1103/PhysRevLett.79.1126
+   Fominaya F, 1999, PHYS REV B, V59, P519, DOI 10.1103/PhysRevB.59.519
+   Fort A, 1998, PHYS REV LETT, V80, P612, DOI 10.1103/PhysRevLett.80.612
+   Friedman JR, 1996, PHYS REV LETT, V76, P3830, DOI 10.1103/PhysRevLett.76.3830
+   GARANIN DA, 1991, J PHYS A-MATH GEN, V24, pL61, DOI 10.1088/0305-4470/24/2/002
+   Garanin DA, 1997, PHYS REV B, V56, P11102, DOI 10.1103/PhysRevB.56.11102
+   GATTESCHI D, 1994, SCIENCE, V265, P1054, DOI 10.1126/science.265.5175.1054
+   Gomes AM, 1998, PHYS REV B, V57, P5021, DOI 10.1103/PhysRevB.57.5021
+   GUNTHEWR L, 1995, QUANTUM TUNNELING MA
+   HartmannBoutron F, 1996, INT J MOD PHYS B, V10, P2577, DOI 10.1142/S0217979296001148
+   Hennion M, 1997, PHYS REV B, V56, P8819, DOI 10.1103/PhysRevB.56.8819
+   Hernandez JM, 1996, EUROPHYS LETT, V35, P301, DOI 10.1209/epl/i1996-00570-7
+   Hill, COMMUNICATION
+   Hill S, 1998, PHYS REV LETT, V80, P2453, DOI 10.1103/PhysRevLett.80.2453
+   Leuenberger MN, 1999, EUROPHYS LETT, V46, P692, DOI 10.1209/epl/i1999-00321-x
+   LIS T, 1980, ACTA CRYSTALLOGR B, V36, P2042, DOI 10.1107/S0567740880007893
+   LOPONEN MT, 1980, PHYS REV LETT, V45, P457, DOI 10.1103/PhysRevLett.45.457
+   LOSS D, 1992, PHYS REV LETT, V69, P3232, DOI 10.1103/PhysRevLett.69.3232
+   Luis F, 2000, PHYS REV LETT, V85, P4377, DOI 10.1103/PhysRevLett.85.4377
+   Luis F, 1998, PHYS REV B, V57, P505, DOI 10.1103/PhysRevB.57.505
+   Luis F, 1997, PHYS REV B, V55, P11448, DOI 10.1103/PhysRevB.55.11448
+   Martinez-Hidalgo X, 2001, EUROPHYS LETT, V55, P273, DOI 10.1209/epl/i2001-00331-2
+   Mettes FL, 2001, PHYS REV B, V64, DOI 10.1103/PhysRevB.64.174411
+   Mettes FL, 2001, POLYHEDRON, V20, P1459, DOI 10.1016/S0277-5387(01)00636-2
+   Mirebeau I, 1999, PHYS REV LETT, V83, P628, DOI 10.1103/PhysRevLett.83.628
+   Morello A, 2003, PHYS REV LETT, V90, DOI 10.1103/PhysRevLett.90.017206
+   Mukhin AA, 1998, EUROPHYS LETT, V44, P778, DOI 10.1209/epl/i1998-00541-0
+   Pohjola T, 2000, PHYS REV B, V62, P15026, DOI 10.1103/PhysRevB.62.15026
+   Prokof'ev NV, 1998, PHYS REV LETT, V80, P5794, DOI 10.1103/PhysRevLett.80.5794
+   Prokofev NV, 1996, J LOW TEMP PHYS, V104, P143, DOI 10.1007/BF00754094
+   Sangregorio C, 1997, PHYS REV LETT, V78, P4645, DOI 10.1103/PhysRevLett.78.4645
+   SESSOLI R, 1993, NATURE, V365, P141, DOI 10.1038/365141a0
+   Thomas L, 1999, PHYS REV LETT, V83, P2398, DOI 10.1103/PhysRevLett.83.2398
+   Thomas L, 1996, NATURE, V383, P145, DOI 10.1038/383145a0
+   VONDELFT J, 1992, PHYS REV LETT, V69, P3236, DOI 10.1103/PhysRevLett.69.3236
+   Wernsdorfer W, 2002, PHYS REV B, V65, DOI 10.1103/PhysRevB.65.180403
+   WIEGHARDT K, 1984, ANGEW CHEM INT EDIT, V23, P77
+   Zheng M, 1996, INORG CHEM, V35, P3307, DOI 10.1021/ic9512340
+NR 58
+TC 9
+Z9 9
+U1 0
+U2 5
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0022-3697
+EI 1879-2553
+J9 J PHYS CHEM SOLIDS
+JI J. Phys. Chem. Solids
+PD APR
+PY 2004
+VL 65
+IS 4
+SI SI
+BP 763
+EP 771
+DI 10.1016/j.jpcs.2003.11.013
+PG 9
+WC Chemistry, Multidisciplinary; Physics, Condensed Matter
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Chemistry; Physics
+GA 778BR
+UT WOS:000189219700018
+DA 2022-10-21
+ER
+
+EF

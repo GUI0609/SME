@@ -1,0 +1,412 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Takami, T
+   Maki, J
+   Ooba, J
+   Kobayashi, T
+   Nogita, R
+   Aoyagi, M
+AF Takami, Toshiya
+   Maki, Jun
+   Ooba, Jun-ichi
+   Kobayashi, Taizo
+   Nogita, Rie
+   Aoyagi, Mutsumi
+TI Interaction and localization of one-electron orbitals in an organic
+   molecule: Fictitious parameter analysis for multiphysics simulations
+SO JOURNAL OF THE PHYSICAL SOCIETY OF JAPAN
+LA English
+DT Article
+DE eigenvalue statistics; avoided crossings; quantum chaos; multiphysics
+   simulation; variational construction of coupled simulation; electronic
+   states of bio-molecules; one-electron orbital energy; solute-solvent
+   system; RISM/SCF
+ID INTERACTION SITE MODEL; SELF-CONSISTENT-FIELD; QUANTUM CHAOTIC SYSTEMS;
+   ENERGY-LEVELS; MOTION
+AB We present a new methodology for analyzing complicated multiphysics simulations by introducing a fictitious parameter. Using the method, we study the quantum mechanical aspects of an organic molecule in water. The simulation is variationally constructed from the ab initio molecular orbital method and classical statistical mechanics, with the fictitious parameter representing the coupling strength between solute and solvent. We obtain a number of one-electron orbital energies of the solute molecule derived from the Hartree-Fock approximation, and eigenvalue statistical analysis developed in the study of nonintegrable systems is applied to them. On the basis of the results, we analyze the localization properties of the electronic wavefunctions under the influence of the solvent.
+C1 Kyushu Univ, Comp & Commun Ctr, Higashi Ku, Fukuoka 8128581, Japan.
+RP Takami, T (corresponding author), Kyushu Univ, Comp & Commun Ctr, Higashi Ku, 6-10-1 Hakozaki, Fukuoka 8128581, Japan.
+EM takami@cc.kyushu-u.ac.jp; maki-j@cc.kyushu-u.ac.jp
+RI Takami, Toshiya/B-9413-2009
+OI Takami, Toshiya/0000-0002-2764-2324
+CR Bies WE, 2001, PHYS REV E, V63, DOI 10.1103/PhysRevE.63.066214
+   BRODY TA, 1981, REV MOD PHYS, V53, P385, DOI 10.1103/RevModPhys.53.385
+   GASPARD P, 1990, PHYS REV A, V42, P4015, DOI 10.1103/PhysRevA.42.4015
+   Gnutzmann S., 2018, SPRINGER SERIES SYNE
+   HIRATA F, 2003, MOL THEORY SOLVATION, pCH4
+   Inadomi Y, 2002, CHEM PHYS LETT, V364, P139, DOI 10.1016/S0009-2614(02)01291-5
+   Kitaura K, 1999, CHEM PHYS LETT, V313, P701, DOI 10.1016/S0009-2614(99)00874-X
+   Lee MI, 2003, J METEOROL SOC JPN, V81, P963, DOI 10.2151/jmsj.81.963
+   Levit S, 1999, PHYS REV B, V60, P5549, DOI 10.1103/PhysRevB.60.5549
+   Machida M, 2005, PHYS REV E, V72, DOI 10.1103/PhysRevE.72.056206
+   Matsuoka S, 2005, P IEEE, V93, P522, DOI 10.1109/JPROC.2004.842748
+   Ogata S, 2005, PHYS REV B, V72, DOI 10.1103/PhysRevB.72.045348
+   ROOTHAAN CCJ, 1951, REV MOD PHYS, V23, P69, DOI 10.1103/RevModPhys.23.69
+   Sato H, 1996, J CHEM PHYS, V105, P1546, DOI 10.1063/1.472015
+   Sato H, 2000, J CHEM PHYS, V112, P9463, DOI 10.1063/1.481564
+   Sato T, 2005, J PHYS CONF SER, V16, P310, DOI 10.1088/1742-6596/16/1/043
+   TAKAMI T, 1995, PHYS REV E, V52, P2434, DOI 10.1103/PhysRevE.52.2434
+   TAKAMI T, 1992, PHYS REV LETT, V68, P419, DOI 10.1103/PhysRevLett.68.419
+   TAKAMI T, 1992, PHYS REV LETT, V68, P3371, DOI 10.1103/PhysRevLett.68.3371
+   TAKAMI T, 1994, PROG THEOR PHYS SUPP, P303
+   TEN-NO S, 1994, J CHEM PHYS, V100, P7443, DOI 10.1063/1.466888
+   TEN-NO S, 1993, CHEM PHYS LETT, V214, P391, DOI 10.1016/0009-2614(93)85655-8
+   Timberlake T, 2005, PHYS REV E, V72, DOI 10.1103/PhysRevE.72.016208
+   Yoshida N, 2006, J COMPUT CHEM, V27, P453, DOI 10.1002/jcc.20356
+   ZAKRZEWSKI J, 1993, PHYS REV E, V47, P1650, DOI 10.1103/PhysRevE.47.1650
+   ZAKRZEWSKI J, 1993, PHYS REV E, V47, P1665, DOI 10.1103/PhysRevE.47.1665
+NR 26
+TC 2
+Z9 2
+U1 0
+U2 2
+PU PHYSICAL SOC JAPAN
+PI TOKYO
+PA YUSHIMA URBAN BUILDING 5F, 2-31-22 YUSHIMA, BUNKYO-KU, TOKYO, 113-0034,
+   JAPAN
+SN 0031-9015
+J9 J PHYS SOC JPN
+JI J. Phys. Soc. Jpn.
+PD JAN
+PY 2007
+VL 76
+IS 1
+AR 013001
+DI 10.1143/JPSJ.76.013001
+PG 4
+WC Physics, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Physics
+GA 127NI
+UT WOS:000243592600001
+OA Green Submitted
+DA 2022-10-21
+ER
+
+PT J
+AU Liu, J
+   Wu, B
+   Fu, LB
+   Diener, RB
+   Niu, Q
+AF Liu, J
+   Wu, B
+   Fu, LB
+   Diener, RB
+   Niu, Q
+TI Quantum step heights in hysteresis loops of molecular magnets
+SO PHYSICAL REVIEW B
+LA English
+DT Article
+ID PHASE INTERFERENCE; IRON CLUSTER; MAGNETIZATION; RELAXATION; SPIN;
+   FIELD; NANOMAGNETS; SYSTEM; FE-8; MN-12-ACETATE
+AB We present an analytical theory on the heights of the quantum steps observed in the hysteresis loops of molecular magnets. By considering the dipolar interaction between molecular spins, our theory successfully yields the step heights measured in experiments, and reveals a scaling law for the dependence of the heights on the sweeping rates hidden in the experimental data. With this theory, we show how to accurately determine the tunnel splitting of a single molecular spin from the step heights and the sample geometry.
+C1 Univ Texas, Dept Phys, Austin, TX 78712 USA.
+   Inst Appl Phys & Computat Math, Beijing 100088, Peoples R China.
+RP Liu, J (corresponding author), Univ Texas, Dept Phys, Austin, TX 78712 USA.
+RI Niu, Qian/G-9908-2013; Wu, Biao/B-3329-2008; Fu, Libin/S-5061-2019
+OI Wu, Biao/0000-0001-9229-5894; Liu, Jie/0000-0001-8829-2682
+CR ABRAGAM A, 1961, PRINCIPLE NUCL MAGNE
+   Barra AL, 1996, EUROPHYS LETT, V35, P133, DOI 10.1209/epl/i1996-00544-3
+   Bokacheva L, 2000, PHYS REV LETT, V85, P4803, DOI 10.1103/PhysRevLett.85.4803
+   Chudnovsky E. M., 1998, MACROSCOPIC QUANTUM
+   Cuccoli A, 1999, EUR PHYS J B, V12, P39, DOI 10.1007/s100510050974
+   Friedman JR, 1996, PHYS REV LETT, V76, P3830, DOI 10.1103/PhysRevLett.76.3830
+   Garanin DA, 2000, PHYS REV B, V61, P12204, DOI 10.1103/PhysRevB.61.12204
+   Garanin DA, 1999, PHYS REV B, V59, P3671, DOI 10.1103/PhysRevB.59.3671
+   GARG A, 1995, PHYS REV B, V51, P15161, DOI 10.1103/PhysRevB.51.15161
+   GARG A, 1993, EUROPHYS LETT, V22, P205, DOI 10.1209/0295-5075/22/3/008
+   Gunther L., 1995, QUANTUM TUNNELING MA
+   Hams A, 2000, PHYS REV B, V62, P13880, DOI 10.1103/PhysRevB.62.13880
+   Hernandez JM, 1996, EUROPHYS LETT, V35, P301, DOI 10.1209/epl/i1996-00570-7
+   Jang ZH, 2000, PHYS REV LETT, V84, P2977, DOI 10.1103/PhysRevLett.84.2977
+   Landau L. D., 1932, PHYS Z SOWJETUNION, V2, P46, DOI DOI 10.1098/RSPA.1932.0165
+   LANDAU LD, 1994, QUANTUM MECH
+   Leuenberger MN, 2000, PHYS REV B, V61, P1286, DOI 10.1103/PhysRevB.61.1286
+   Leuenberger MN, 2001, NATURE, V410, P789, DOI 10.1038/35071024
+   LIU J, QUANTPH0105140
+   Luis F, 1998, PHYS REV B, V57, P505, DOI 10.1103/PhysRevB.57.505
+   MULLEN K, 1989, PHYS REV LETT, V62, P2543, DOI 10.1103/PhysRevLett.62.2543
+   NISHINO M, CONDMAT0103553
+   Niu Q, 1998, PHYS REV LETT, V80, P3491, DOI 10.1103/PhysRevLett.80.3491
+   Ohm T, 1998, EUR PHYS J B, V6, P195, DOI 10.1007/s100510050541
+   Perenboom JAAJ, 1998, PHYS REV B, V58, P330, DOI 10.1103/PhysRevB.58.330
+   Prokof'ev NV, 1998, PHYS REV LETT, V80, P5794, DOI 10.1103/PhysRevLett.80.5794
+   Sangregorio C, 1997, PHYS REV LETT, V78, P4645, DOI 10.1103/PhysRevLett.78.4645
+   Thomas L, 1996, NATURE, V383, P145, DOI 10.1038/383145a0
+   Wernsdorfer W, 2000, J APPL PHYS, V87, P5481, DOI 10.1063/1.373379
+   Wernsdorfer W, 2000, PHYS REV LETT, V84, P2965, DOI 10.1103/PhysRevLett.84.2965
+   Wernsdorfer W, 2002, PHYS REV B, V65, DOI 10.1103/PhysRevB.65.180403
+   Wernsdorfer W, 1999, PHYS REV LETT, V82, P3903, DOI 10.1103/PhysRevLett.82.3903
+   Wernsdorfer W, 1999, SCIENCE, V284, P133, DOI 10.1126/science.284.5411.133
+   Wernsdorfer W, 2001, ADV CHEM PHYS, V118, P99, DOI 10.1002/9780470141786.ch3
+   Wernsdorfer W, 2000, EUROPHYS LETT, V50, P552, DOI 10.1209/epl/i2000-00305-x
+   Wu B, 2000, PHYS REV A, V61, DOI 10.1103/PhysRevA.61.023402
+   Zener C, 1932, P R SOC LOND A-CONTA, V137, P696, DOI 10.1098/rspa.1932.0165
+   Zhong YC, 2000, PHYS REV B, V62, pR9256, DOI 10.1103/PhysRevB.62.R9256
+NR 38
+TC 43
+Z9 43
+U1 0
+U2 13
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 2469-9950
+EI 2469-9969
+J9 PHYS REV B
+JI Phys. Rev. B
+PD JUN 1
+PY 2002
+VL 65
+IS 22
+AR 224401
+DI 10.1103/PhysRevB.65.224401
+PG 6
+WC Materials Science, Multidisciplinary; Physics, Applied; Physics,
+   Condensed Matter
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Materials Science; Physics
+GA 572HA
+UT WOS:000176767100057
+OA Green Submitted
+DA 2022-10-21
+ER
+
+PT J
+AU Palacino-Gonzalez, E
+   Gelin, MF
+   Domcke, W
+AF Palacino-Gonzalez, Elisa
+   Gelin, Maxim F.
+   Domcke, Wolfgang
+TI Theoretical aspects of femtosecond double-pump single-molecule
+   spectroscopy. II. Strong-field regime
+SO PHYSICAL CHEMISTRY CHEMICAL PHYSICS
+LA English
+DT Article
+ID POPULATION-INVERSION; PULSES; TIME; RELAXATION; DYNAMICS; PHASE
+AB We investigate femtosecond double-pump single-molecule signals in the strong-field regime, which is characterized by nonlinear scaling of the signal with the intensity of the pump pulses. The signals can be decomposed into population and coherence contributions. In contrast to the weak-field regime (in which only the coherence contribution is important) both contributions are relevant in the strong-field regime and reveal the vibrational dynamics of the chromophore. Other than in the weak-field regime, the detection of vibrational beatings is not limited by the electronic dephasing time of the chromophore. Moreover, the signals in the strong-field regime are more robust with respect to the environment-induced modulation of the chromophore parameters. It is shown that excited-state absorption in chromophores with three electronic states is reflected in the phase dependence of single-molecule signals. The simulations reveal that the information content of femtosecond double-pump single-molecule signals is enhanced in the strong-coupling regime.
+C1 [Palacino-Gonzalez, Elisa; Gelin, Maxim F.; Domcke, Wolfgang] Tech Univ Munich, Dept Chem, D-85747 Garching, Germany.
+RP Gelin, MF (corresponding author), Tech Univ Munich, Dept Chem, D-85747 Garching, Germany.
+EM maxim.gelin@ch.tum.de
+OI Palacino-Gonzalez, Elisa/0000-0003-2764-1409
+FU Deutsche Forschungsgemeinschaft (DFG); DFG-Cluster of Excellence
+   "Munich-Centre for Advanced Photonics''; International Max-Planck
+   Research School of Advanced Photon Science
+FX This work has been supported by the Deutsche Forschungsgemeinschaft
+   (DFG) through a research grant and the DFG-Cluster of Excellence
+   "Munich-Centre for Advanced Photonics'' (www.munich-photonics.de). E.
+   P.-G. acknowledges support by the International Max-Planck Research
+   School of Advanced Photon Science (www.mpq.mpg.de/APS).
+CR ALLEN LC, 1988, OPTICAL RESONANCE 2
+   Avlasevich Y, 2007, CHEM-EUR J, V13, P6555, DOI 10.1002/chem.200700523
+   Brinks D, 2014, CHEM SOC REV, V43, P2476, DOI 10.1039/c3cs60269a
+   Brinks D, 2011, FARADAY DISCUSS, V153, P51, DOI 10.1039/c1fd00087j
+   Brinks D, 2010, NATURE, V465, P905, DOI 10.1038/nature09110
+   Cao JS, 2000, J CHEM PHYS, V113, P1898, DOI 10.1063/1.481993
+   Cina JA, 2016, J CHEM PHYS, V144, DOI 10.1063/1.4947568
+   de Araujo LEE, 1999, J PHYS CHEM A, V103, P10409, DOI 10.1021/jp992323r
+   Dong H, 2013, J PHYS CHEM B, V117, P11318, DOI 10.1021/jp402768c
+   Fischer MC, 2016, REV SCI INSTRUM, V87, DOI 10.1063/1.4943211
+   Gelin MF, 2013, J CHEM PHYS, V139, DOI 10.1063/1.4832876
+   Gelin MF, 2013, J CHEM PHYS, V139, DOI 10.1063/1.4836636
+   Gelin MF, 2013, PHYS REV A, V87, DOI 10.1103/PhysRevA.87.063416
+   Gelin MF, 2013, PHYS CHEM CHEM PHYS, V15, P8119, DOI 10.1039/c3cp44454f
+   Gelin MF, 2011, J PHYS CHEM B, V115, P5648, DOI 10.1021/jp112055h
+   Gelin MF, 2011, J PHYS CHEM LETT, V2, P114, DOI 10.1021/jz1015247
+   Hahn S, 1998, CHEM PHYS LETT, V296, P137, DOI 10.1016/S0009-2614(98)01003-3
+   Hildner R, 2011, PHYS CHEM CHEM PHYS, V13, P1888, DOI 10.1039/c0cp02231d
+   Hildner R, 2011, NAT PHYS, V7, P172, DOI 10.1038/NPHYS1858
+   Jahng J, 2015, APPL PHYS LETT, V106, DOI 10.1063/1.4913853
+   LIPARI G, 1982, J AM CHEM SOC, V104, P4546, DOI 10.1021/ja00381a009
+   Maly P, 2016, SCI REP-UK, V6, DOI 10.1038/srep26230
+   Maly P, 2016, P NATL ACAD SCI USA, V113, P2934, DOI 10.1073/pnas.1522265113
+   Min W, 2011, ANNU REV PHYS CHEM, V62, P507, DOI 10.1146/annurev.physchem.012809.103512
+   Mukamel S, 2011, PHYS REV A, V83, DOI 10.1103/PhysRevA.83.013815
+   ORRIT M, 1990, PHYS REV LETT, V65, P2716, DOI 10.1103/PhysRevLett.65.2716
+   Palacino-Gonzalez E, 2017, PHYS CHEM CHEM PHYS, V19, P32296, DOI 10.1039/c7cp04809b
+   Piatkowski L, 2016, ACS PHOTONICS, V3, P1401, DOI 10.1021/acsphotonics.6b00124
+   SCHERER NF, 1991, J CHEM PHYS, V95, P1487, DOI 10.1063/1.461064
+   TANIMURA Y, 1993, PHYS REV E, V47, P118, DOI 10.1103/PhysRevE.47.118
+   Tanimura Y, 1997, J CHEM PHYS, V106, P2078, DOI 10.1063/1.473099
+   Vala J, 2001, OPT EXPRESS, V8, P238, DOI 10.1364/OE.8.000238
+   van Dijk EMHP, 2005, J CHEM PHYS, V123, DOI 10.1063/1.1940567
+   Vitanov NV, 2001, ANNU REV PHYS CHEM, V52, P763, DOI 10.1146/annurev.physchem.52.1.763
+   Zewail AH, 2000, J PHYS CHEM A, V104, P5660, DOI 10.1021/jp001460h
+NR 35
+TC 8
+Z9 8
+U1 0
+U2 9
+PU ROYAL SOC CHEMISTRY
+PI CAMBRIDGE
+PA THOMAS GRAHAM HOUSE, SCIENCE PARK, MILTON RD, CAMBRIDGE CB4 0WF, CAMBS,
+   ENGLAND
+SN 1463-9076
+EI 1463-9084
+J9 PHYS CHEM CHEM PHYS
+JI Phys. Chem. Chem. Phys.
+PD DEC 28
+PY 2017
+VL 19
+IS 48
+BP 32307
+EP 32319
+DI 10.1039/c7cp04810f
+PG 13
+WC Chemistry, Physical; Physics, Atomic, Molecular & Chemical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Physics
+GA FP9HU
+UT WOS:000417958900013
+PM 29199730
+DA 2022-10-21
+ER
+
+PT J
+AU Saarikoski, H
+   Puska, MJ
+   Nieminen, RM
+AF Saarikoski, H
+   Puska, MJ
+   Nieminen, RM
+TI Electronic structure calculations for 2-D quantum dots and laterally
+   coupled quantum dot molecules in magnetic fields
+SO INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY
+LA English
+DT Article; Proceedings Paper
+CT 9th International Conference on Application of the Density Functional
+   Theory to Chemistry and Physics
+CY SEP 10-14, 2001
+CL MADRID, SPAIN
+DE quantum dots; spin DFT; 2-D; electron density
+ID DENSITY FUNCTIONAL FORMALISM; GAS; STATE
+AB We computed the electronic structure of a circular parabolically confined 2-D quantum dot and a quantum dot molecule in an external magnetic field, The modeled systems are a single six-electron quantum dot and a quantum dot molecule comprising two one-electron dots. The calculations were done in real space using current and spin density functional theory. The results are compared to those obtained by the quantum Monte Carlo method. (C) 2002 Wiley Periodicals, Inc.
+C1 Aalto Univ, Phys Lab, FIN-02015 Espoo, Finland.
+RP Saarikoski, H (corresponding author), Aalto Univ, Phys Lab, POB 1100, FIN-02015 Espoo, Finland.
+EM hri@fyslab.hut.fi
+RI Nieminen, Risto M/I-5573-2012; Saarikoski, Henri M./J-3479-2013; Puska,
+   Martti J/E-7362-2012
+OI Nieminen, Risto M/0000-0002-1032-2711; Saarikoski, Henri
+   M./0000-0001-6155-0119; Puska, Martti J/0000-0002-8419-3289
+CR Burkard G, 1999, PHYS REV B, V59, P2070, DOI 10.1103/PhysRevB.59.2070
+   FERCONI M, 1994, PHYS REV B, V50, P14722, DOI 10.1103/PhysRevB.50.14722
+   GUNNARSSON O, 1976, PHYS REV B, V13, P4274, DOI 10.1103/PhysRevB.13.4274
+   Harju A, 1999, PHYS REV B, V59, P5622, DOI 10.1103/PhysRevB.59.5622
+   Heiskanen M, 2001, PHYS REV B, V63, DOI 10.1103/PhysRevB.63.245106
+   HOHENBERG P, 1964, PHYS REV B, V136, pB864, DOI 10.1103/PhysRev.136.B864
+   KOHN W, 1965, PHYS REV, V140, P1133, DOI 10.1103/PhysRev.140.A1133
+   Koskinen M, 1997, PHYS REV LETT, V79, P1389, DOI 10.1103/PhysRevLett.79.1389
+   Koskinen M, 1999, EUR PHYS J D, V9, P487, DOI 10.1007/s100530050484
+   LEVESQUE D, 1984, PHYS REV B, V30, P1056, DOI 10.1103/PhysRevB.30.1056
+   Loss D, 1998, PHYS REV A, V57, P120, DOI 10.1103/PhysRevA.57.120
+   MCEUEN P, 1997, SCIENCE, V278, P5
+   Orlov AO, 1997, SCIENCE, V277, P928, DOI 10.1126/science.277.5328.928
+   Saarikoski H, 2002, EUR PHYS J B, V26, P241, DOI 10.1140/epjb/e20020086
+   Steffens O, 1998, EUROPHYS LETT, V42, P529, DOI 10.1209/epl/i1998-00276-4
+   TANATAR B, 1989, PHYS REV B, V39, P5005, DOI 10.1103/PhysRevB.39.5005
+   VIGNALE G, 1988, PHYS REV B, V37, P10685, DOI 10.1103/PhysRevB.37.10685
+   WEISBUCH C, 1977, PHYS REV B, V15, P816, DOI 10.1103/PhysRevB.15.816
+   Wensauer A, 2000, PHYS REV B, V62, P2605, DOI 10.1103/PhysRevB.62.2605
+NR 19
+TC 4
+Z9 4
+U1 4
+U2 10
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0020-7608
+EI 1097-461X
+J9 INT J QUANTUM CHEM
+JI Int. J. Quantum Chem.
+PD JAN 20
+PY 2003
+VL 91
+IS 3
+BP 490
+EP 497
+DI 10.1002/qua.10433
+PG 8
+WC Chemistry, Physical; Mathematics, Interdisciplinary Applications;
+   Quantum Science & Technology; Physics, Atomic, Molecular & Chemical
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Chemistry; Mathematics; Physics
+GA 632NB
+UT WOS:000180228400030
+DA 2022-10-21
+ER
+
+PT J
+AU Hofling, E
+   Reithmaier, JP
+   Baars, T
+   Bayer, M
+   Forchel, A
+AF Hofling, E
+   Reithmaier, JP
+   Baars, T
+   Bayer, M
+   Forchel, A
+TI Optical and structural properties of GaInAs/InP single quantum wells
+   grown by solid-source MBE with a GaP decomposition source
+SO JOURNAL OF CRYSTAL GROWTH
+LA English
+DT Article
+DE molecular beam epitaxy; phosphorus source; GaInAs/InP; X-ray diffraction
+ID MOLECULAR-BEAM EPITAXY; HIGH-QUALITY INP; PHOSPHORUS SOURCE;
+   HETEROSTRUCTURES; INGAP
+AB Lattice-matched GaInAs/InP single quantum wells grown by solid-source molecular beam epitaxy using phosphorus evaporation from GaP were investigated by high resolution X-ray diffraction, low-temperature photoluminescence and time-resolved photoluminescence spectroscopy. The samples show high structural and optical quality exemplified by interference oscillations in the X-ray rocking curve, a quantum well exciton line width of 8.5 meV and a carrier lifetime of 1.3 ns. (C) 1998 Elsevier Science B.V. All rights reserved.
+C1 Univ Wurzburg, D-97074 Wurzburg, Germany.
+RP Hofling, E (corresponding author), Univ Wurzburg, D-97074 Wurzburg, Germany.
+RI Bayer, Manfred/I-7947-2013; Reithmaier, Johann P/G-8171-2012
+OI Reithmaier, Johann P/0000-0002-1974-8292; Forchel,
+   Alfred/0000-0002-9377-9935; Bayer, Manfred/0000-0002-0893-5949
+CR BRENER I, 1991, APPL PHYS LETT, V58, P965, DOI 10.1063/1.104457
+   Chen WL, 1996, J VAC SCI TECHNOL B, V14, P2739, DOI 10.1116/1.589012
+   CLAXTON PA, 1987, J CRYST GROWTH, V81, P288, DOI 10.1016/0022-0248(87)90406-4
+   FEWSTER PF, 1987, J APPL PHYS, V62, P4154, DOI 10.1063/1.339133
+   HARMAND JC, 1995, J CRYST GROWTH, V150, P1292, DOI 10.1016/0022-0248(95)80147-5
+   HEINECKE H, 1990, J CRYST GROWTH, V105, P143, DOI 10.1016/0022-0248(90)90352-L
+   Kunzel H, 1997, J CRYST GROWTH, V175, P940, DOI 10.1016/S0022-0248(96)00879-2
+   LIPPERT G, 1995, APPL PHYS LETT, V66, P3197, DOI 10.1063/1.113721
+   MONDRY MJ, 1985, J VAC SCI TECHNOL A, V3, P316, DOI 10.1116/1.573257
+   PANISH MB, 1980, J ELECTROCHEM SOC, V127, P2729, DOI 10.1149/1.2129580
+   Rongen RTH, 1997, SEMICOND SCI TECH, V12, P974, DOI 10.1088/0268-1242/12/8/008
+   Sandhu A, 1996, JPN J APPL PHYS 1, V35, P2108, DOI 10.1143/JJAP.35.2108
+   SHAH J, 1988, IEEE J QUANTUM ELECT, V24, P276, DOI 10.1109/3.124
+   SHITARA T, 1994, APPL PHYS LETT, V65, P356, DOI 10.1063/1.112373
+   SHITARA T, 1995, J CRYST GROWTH, V150, P1261, DOI 10.1016/0022-0248(95)80141-X
+   TSANG WT, 1987, IEEE J QUANTUM ELECT, V23, P936
+   WICKS GW, 1991, APPL PHYS LETT, V59, P342, DOI 10.1063/1.105590
+   WRIGHT SL, 1982, J VAC SCI TECHNOL, V20, P143, DOI 10.1116/1.571348
+NR 18
+TC 8
+Z9 8
+U1 0
+U2 2
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0022-0248
+J9 J CRYST GROWTH
+JI J. Cryst. Growth
+PD AUG
+PY 1998
+VL 191
+IS 4
+BP 607
+EP 612
+DI 10.1016/S0022-0248(98)00361-3
+PG 6
+WC Crystallography; Materials Science, Multidisciplinary; Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Crystallography; Materials Science; Physics
+GA 115WE
+UT WOS:000075688600003
+DA 2022-10-21
+ER
+
+EF

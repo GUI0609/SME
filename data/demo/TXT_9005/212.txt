@@ -1,0 +1,168 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Tomza, M
+   Skomorowski, W
+   Musial, M
+   Gonzalez-Ferez, R
+   Koch, CP
+   Moszynski, R
+AF Tomza, Michal
+   Skomorowski, Wojciech
+   Musial, Monika
+   Gonzalez-Ferez, Rosario
+   Koch, Christiane P.
+   Moszynski, Robert
+TI Interatomic potentials, electric properties and spectroscopy of the
+   ground and excited states of the Rb-2 molecule: ab initio calculations
+   and effect of a non-resonant field
+SO MOLECULAR PHYSICS
+LA English
+DT Article
+DE potential-energy curves; coupled-cluster theory; induced-dipole
+   interaction; AC Stark effect; far-off-resonant laser field
+ID LASER-INDUCED FLUORESCENCE; FOURIER-TRANSFORM SPECTROSCOPY; TRANSITION
+   DIPOLE-MOMENTS; SHAPE RESONANCE; ULTRACOLD RB-2; ENERGY CURVES;
+   PHOTOASSOCIATION; RUBIDIUM; ATOMS; ION
+AB We formulate the theory for a diatomic molecule in a spatially degenerate electronic state interacting with a non-resonant laser field and investigate its rovibrational structure in the presence of the field. We report on ab initio calculations employing the double electron attachment intermediate Hamiltonian Fock space coupled cluster method restricted to single and double excitations for all electronic states of the Rb-2 molecule up to 5s+5d dissociation limit of about 26,000cm(-1). In order to correctly predict the spectroscopic behaviour of Rb-2, we have also calculated the electric transition dipole moments, non-adiabatic coupling and spin-orbit coupling matrix elements, and static dipole polarisabilities, using the multireference configuration interaction method. When a molecule is exposed to strong non-resonant light, its rovibrational levels get hybridised. We study the spectroscopic signatures of this effect for transitions between the X-1 sigma(+) (g) electronic ground state and the A(1)sigma(+) (u) and b(u)(3) excited state manifold. The latter is characterised by strong perturbations due to the spin-orbit interaction. We find that for non-resonant field strengths of the order 10(9) W/cm(2), the spin-orbit interaction and coupling to the non-resonant field become comparable. The non-resonant field can then be used to control the singlet-triplet character of a rovibrational level.
+C1 [Tomza, Michal; Skomorowski, Wojciech; Moszynski, Robert] Univ Warsaw, Fac Chem, Warsaw, Poland.
+   [Tomza, Michal; Koch, Christiane P.] Univ Kassel, D-34125 Kassel, Germany.
+   [Musial, Monika] Univ Silesia, Inst Chem, Katowice, Poland.
+   [Gonzalez-Ferez, Rosario] Univ Granada, Inst Carlos I Fis Teor & Computac, Granada, Spain.
+   [Gonzalez-Ferez, Rosario] Univ Granada, Dept Fis Atom Mol & Nucl, Granada, Spain.
+RP Moszynski, R (corresponding author), Univ Warsaw, Fac Chem, Warsaw, Poland.
+EM robert.moszynski@tiger.chem.uw.edu.pl
+RI Tomza, Michal/B-4791-2012; Gonzalez-Ferez, Rosario/A-2421-2009;
+   Skomorowski, Wojciech/T-7235-2017; Koch, Christiane/C-5948-2008
+OI Tomza, Michal/0000-0003-1792-8043; Gonzalez-Ferez,
+   Rosario/0000-0002-8871-116X; Skomorowski, Wojciech/0000-0002-0364-435X;
+   Koch, Christiane/0000-0001-6285-5766; musial, monika/0000-0002-0038-787X
+FU Polish Ministry of Science and Higher Education [N N204 215539]; Spanish
+   project (MICINN) [FIS2011-24540]; Spanish project (Junta de Andalucia)
+   [P11-FQM-7276, FQM-4643]; Foundation for Polish Science MPD Programme;
+   EU European Regional Development Fund; Foundation for Polish Science
+   within the MISTRZ programme; National Science Foundation [NSF
+   PHY11-25915]
+FX Financial support from the Polish Ministry of Science and Higher
+   Education through the project N N204 215539 and by the Spanish project
+   FIS2011-24540 (MICINN) as well as the Grants P11-FQM-7276 and FQM-4643
+   (Junta de Andalucia) is gratefully acknowledged. MT was supported by the
+   project operated within the Foundation for Polish Science MPD Programme
+   co-financed by the EU European Regional Development Fund. RGF belongs to
+   the Andalusian research group FQM-207. RM thanks the Foundation for
+   Polish Science for support within the MISTRZ programme. Part of this
+   work was done while the authors were visitors at the Kavli Institute for
+   Theoretical Physics, University of California at Santa Barbara, within
+   the programme Fundamental Science and Applications of Ultra-cold Polar
+   Molecules. Financial support from the National Science Foundation grant
+   no. NSF PHY11-25915 is gratefully acknowledged.
+CR Aganoglu R., 2011, ARXIV 1105 0761
+   Allouche AR, 2012, J CHEM PHYS, V136, DOI 10.1063/1.3694014
+   AMIOT C, 1990, J CHEM PHYS, V93, P8591, DOI 10.1063/1.459246
+   AMIOT C, 1986, MOL PHYS, V58, P667, DOI 10.1080/00268978600101491
+   AMIOT C, 1987, MOL PHYS, V61, P51, DOI 10.1080/00268978700100981
+   Aubock G, 2010, J CHEM PHYS, V132, DOI 10.1063/1.3308493
+   Ban T, 2004, EUROPHYS LETT, V66, P485, DOI 10.1209/epl/i2003-10241-9
+   Ban T, 2001, CHEM PHYS LETT, V345, P423, DOI 10.1016/S0009-2614(01)00918-6
+   Bartlett RJ, 2007, REV MOD PHYS, V79, P291, DOI 10.1103/RevModPhys.79.291
+   Bellos MA, 2011, PHYS CHEM CHEM PHYS, V13, P18880, DOI 10.1039/c1cp21383k
+   Bergeman T, 2006, J PHYS B-AT MOL OPT, V39, pS813, DOI 10.1088/0953-4075/39/19/S01
+   Beser B, 2009, J CHEM PHYS, V131, DOI 10.1063/1.3194290
+   Boesten HMJM, 1997, PHYS REV A, V55, P636, DOI 10.1103/PhysRevA.55.636
+   Boesten HMJM, 1996, PHYS REV LETT, V77, P5194, DOI 10.1103/PhysRevLett.77.5194
+   BOYS SF, 1970, MOL PHYS, V19, P553, DOI 10.1080/00268977000101561
+   Bunker PR, 1998, MOL SYMMETRY SPECTRO, V2nd
+   Bussery-Honvault B, 2005, PHYS REV A, V72, DOI 10.1103/PhysRevA.72.012702
+   Bussery-Honvault B, 2003, PHYS REV A, V68, DOI 10.1103/PhysRevA.68.032718
+   Bussery-Honvault B, 2006, MOL PHYS, V104, P2387, DOI 10.1080/00268970600674023
+   Bussery-Honvault B, 2006, J CHEM PHYS, V125, DOI 10.1063/1.2222348
+   Carini JL, 2013, PHYS REV A, V87, DOI 10.1103/PhysRevA.87.011401
+   Cornell E, 1996, J RES NATL INST STAN, V101, P419, DOI 10.6028/jres.101.045
+   Deiglmayr J, 2008, J CHEM PHYS, V129, DOI 10.1063/1.2960624
+   Derevianko A, 2010, ATOM DATA NUCL DATA, V96, P323, DOI 10.1016/j.adt.2009.12.002
+   Durr S, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.020406
+   Edvardsson D, 2003, MOL PHYS, V101, P2381, DOI 10.1080/0026897031000121307
+   Fioretti A, 2007, J PHYS B-AT MOL OPT, V40, P3283, DOI 10.1088/0953-4075/40/16/009
+   FREY P, 1978, J PHYS B-AT MOL OPT, V11, pL589, DOI 10.1088/0022-3700/11/19/005
+   FRIEDRICH B, 1995, PHYS REV LETT, V74, P4623, DOI 10.1103/PhysRevLett.74.4623
+   Gabbanini C, 2000, PHYS REV LETT, V84, P2814, DOI 10.1103/PhysRevLett.84.2814
+   Gonzalez-Ferez R, 2012, PHYS REV A, V86, DOI 10.1103/PhysRevA.86.063420
+   Gould P. J., COMMUNICATION
+   Gutterres RF, 2002, PHYS REV A, V66, DOI 10.1103/PhysRevA.66.024502
+   Heijmen TGA, 1996, MOL PHYS, V89, P81, DOI 10.1080/002689796174029
+   Huang Y, 2006, J PHYS B-AT MOL OPT, V39, pS857, DOI 10.1088/0953-4075/39/19/S04
+   Huber P. K. K., 1979, MOL SPECTRA MOL STRU
+   Jastrzebski W., COMMUNICATION
+   Koch CP, 2009, FARADAY DISCUSS, V142, P389, DOI 10.1039/b818458e
+   Koch CP, 2008, PHYS REV A, V78, DOI 10.1103/PhysRevA.78.043417
+   KONOWALOW DD, 1982, ACS SYM SER, V179, P3
+   Krych M, 2011, PHYS REV A, V83, DOI 10.1103/PhysRevA.83.032723
+   Lang F, 2008, PHYS REV LETT, V101, DOI 10.1103/PhysRevLett.101.133005
+   Lawrence EO, 1929, PHYS REV, V34, P233, DOI 10.1103/PhysRev.34.233
+   Lemeshko M, 2010, J PHYS CHEM A, V114, P9848, DOI 10.1021/jp1032299
+   Lim IS, 2005, J CHEM PHYS, V122, DOI 10.1063/1.1856451
+   Lozeille J, 2006, EUR PHYS J D, V39, P261, DOI 10.1140/epjd/e2006-00084-4
+   Lyakh DI, 2012, CHEM REV, V112, P182, DOI 10.1021/cr2001417
+   MARINESCU M, 1995, PHYS REV A, V52, P311, DOI 10.1103/PhysRevA.52.311
+   Marte A, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.283202
+   Mayle M, 2007, PHYS REV A, V75, DOI 10.1103/PhysRevA.75.013421
+   McCabe DJ, 2009, PHYS REV A, V80, DOI 10.1103/PhysRevA.80.033404
+   Merli A, 2009, PHYS REV A, V80, DOI 10.1103/PhysRevA.80.063417
+   Mudrich M, 2009, PHYS REV A, V80, DOI 10.1103/PhysRevA.80.042512
+   Mullins T, 2009, PHYS REV A, V80, DOI 10.1103/PhysRevA.80.063416
+   Musial M, 2012, J CHEM PHYS, V136, DOI 10.1063/1.3700438
+   Park SJ, 2001, J MOL SPECTROSC, V207, P129, DOI 10.1006/jmsp.2001.8337
+   Pechkis HK, 2007, PHYS REV A, V76, DOI 10.1103/PhysRevA.76.022504
+   Pechkis JA, 2011, PHYS REV A, V83, DOI 10.1103/PhysRevA.83.063403
+   Roberts JL, 1998, PHYS REV LETT, V81, P5109, DOI 10.1103/PhysRevLett.81.5109
+   Rybak L, 2011, PHYS REV LETT, V107, DOI 10.1103/PhysRevLett.107.273001
+   Rybak L, 2011, FARADAY DISCUSS, V153, P383, DOI 10.1039/c1fd00052g
+   Salami H, 2009, PHYS REV A, V80, DOI 10.1103/PhysRevA.80.022515
+   Salzmann W, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.233003
+   Seto JY, 2000, J CHEM PHYS, V113, P3067, DOI 10.1063/1.1286979
+   Skomorowski W, 2012, J CHEM PHYS, V136, DOI 10.1063/1.4713939
+   Skomorowski W, 2012, PHYS REV A, V85, DOI 10.1103/PhysRevA.85.043414
+   Skomorowski W, 2011, J CHEM PHYS, V134, DOI 10.1063/1.3567306
+   Spelsberg D, 1999, J CHEM PHYS, V111, P9625, DOI 10.1063/1.480295
+   Stanton J.F., 2006, ACES II COMPUTER PRO
+   Strauss C, 2010, PHYS REV A, V82, DOI 10.1103/PhysRevA.82.052514
+   Tomza M, 2012, PHYS REV A, V86, DOI 10.1103/PhysRevA.86.043424
+   Tomza M, 2011, PHYS CHEM CHEM PHYS, V13, P18893, DOI 10.1039/c1cp21196j
+   van Kempen EGM, 2002, PHYS REV LETT, V88, DOI 10.1103/PhysRevLett.88.093201
+   Volz T, 2005, PHYS REV A, V72, DOI 10.1103/PhysRevA.72.010704
+   Werner H.J., 2008, MOL PRO VERSION 2008
+   Winkler K, 2005, PHYS REV LETT, V95, DOI 10.1103/PhysRevLett.95.063202
+   Wright MJ, 2006, PHYS REV A, V74, DOI 10.1103/PhysRevA.74.063402
+   Wright MJ, 2007, PHYS REV A, V75, DOI 10.1103/PhysRevA.75.051401
+   Wright MJ, 2005, PHYS REV LETT, V95, DOI 10.1103/PhysRevLett.95.063001
+NR 79
+TC 62
+Z9 62
+U1 2
+U2 44
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0026-8976
+EI 1362-3028
+J9 MOL PHYS
+JI Mol. Phys.
+PD JUL 1
+PY 2013
+VL 111
+IS 12-13
+SI SI
+BP 1781
+EP 1797
+DI 10.1080/00268976.2013.793835
+PG 17
+WC Chemistry, Physical; Physics, Atomic, Molecular & Chemical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Physics
+GA 240CE
+UT WOS:000326071500016
+OA Green Submitted
+DA 2022-10-21
+ER
+
+EF

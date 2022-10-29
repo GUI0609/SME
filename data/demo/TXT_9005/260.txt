@@ -1,0 +1,60 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Hasegawa, A
+   Yoshizawa, K
+   Hirao, K
+AF Hasegawa, A
+   Yoshizawa, K
+   Hirao, K
+TI Electronic structures of gold nanowires
+SO CHEMICAL PHYSICS LETTERS
+LA English
+DT Article
+ID QUANTIZED CONDUCTANCE; ELEMENTS
+AB The electronic properties of the 7-1 structure of a gold nanowire, which is the simplest structure among possible helical multi-shell nanowires, are examined. Density of states (DOS) and crystal orbital overlap population (COOP) analyzes at the extended Huckel level of theory show that the contribution of the inner gold-atom row to the electric conduction and structural strength is small. The outer tube is responsible for both the structural stability and the electric conduction. The gold atoms of the nanowire are charged when the nanowire has an inner row. There is a wavy negative charge distribution in the outer tube when the outer tube has a helical structure. (C) 2001 Elsevier Science B.V. All rights reserved.
+C1 Inst Fundamental Chem, Sakyo Ku, Kyoto 6068103, Japan.
+   Sumitomo Chem Co Ltd, Tsukuba Res Lab, Tsukuba, Ibaraki 3003294, Japan.
+   Kyushu Univ, Inst Fundamental Res Organ Chem, Fukuoka 8128581, Japan.
+   Kyoto Univ, Grad Sch Engn, Dept Chem Mat, Sakyo Ku, Kyoto 6068501, Japan.
+RP Hasegawa, A (corresponding author), Inst Fundamental Chem, Sakyo Ku, 34-4 Takano Nishihiraki Cho, Kyoto 6068103, Japan.
+CR COSTAKRAMER JL, 1997, PHYS REV B, V55, P1022
+   FITZPATRICK NJ, 1986, INORG CHIM ACTA, V111, P139, DOI 10.1016/S0020-1693(00)84642-3
+   HOFFMANN R, 1963, J CHEM PHYS, V39, P1397, DOI 10.1063/1.1734456
+   HOFFMANN R, 1988, SOLID SURFACES
+   IIJIMA S, 1991, NATURE, V354, P56, DOI 10.1038/354056a0
+   Kondo Y, 2000, SCIENCE, V289, P606, DOI 10.1126/science.289.5479.606
+   LANDRUM GA, 1996, YAEHMOP YET ANOTHER
+   MULLER E, TABLES PARAMETERS EX
+   Ohnishi H, 1998, NATURE, V395, P780, DOI 10.1038/27399
+   OLESEN L, 1994, PHYS REV LETT, V72, P2251, DOI 10.1103/PhysRevLett.72.2251
+   PASCUAL JI, 1995, SCIENCE, V267, P1793, DOI 10.1126/science.267.5205.1793
+   PYYKKO P, 1981, INORG CHEM, V20, P1950, DOI 10.1021/ic50221a002
+NR 12
+TC 17
+Z9 19
+U1 0
+U2 4
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0009-2614
+J9 CHEM PHYS LETT
+JI Chem. Phys. Lett.
+PD SEP 21
+PY 2001
+VL 345
+IS 5-6
+BP 367
+EP 371
+DI 10.1016/S0009-2614(01)00900-9
+PG 5
+WC Chemistry, Physical; Physics, Atomic, Molecular & Chemical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Physics
+GA 476GP
+UT WOS:000171218100002
+DA 2022-10-21
+ER
+
+EF

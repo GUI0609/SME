@@ -1,0 +1,451 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Jin, X
+   Zhang, YY
+   Pantelides, ST
+   Du, SX
+AF Jin, Xin
+   Zhang, Yu-Yang
+   Pantelides, Sokrates T.
+   Du, Shixuan
+TI Integration of graphene and two-dimensional ferroelectrics: properties
+   and related functional devices
+SO NANOSCALE HORIZONS
+LA English
+DT Article
+ID INITIO MOLECULAR-DYNAMICS; MONOLAYER; INPLANE; FILMS
+AB Ferroelectric (FE) thin films have been investigated for many years due to their broad applications in electronic devices. It was recently demonstrated that FE functionality persists in ultrathin films, possibly even in monolayers of two-dimensional (2D) FEs. However, the feasibility of 2D-based FE functional devices remains an open challenge. Here, we employ density-functional-theory calculations to propose and document the possible integration of graphene with 2D FE materials on metal substrates in the form of functional FE devices. We show that monolayers of proposed M2O3 (M = Al, Y) in the quintuple layer (QL) In2Se3 structure are stable 2D FE materials and that QL-M2O3 is a functional tunnel barrier in a graphene/QL-M2O3/Ru heterostructure. The QL-M2O3 barrier width can be modulated by its polarization direction, whereby the heterostructure can function as a prototype ferroelectric tunnel junction. Moreover, alternating the polarization of QL-M2O3 modulates the doping type of graphene, enabling the fabrication of graphene p-n junctions. By design, the proposed heterostructures can in principle be fabricated by intercalation, which is known to produce high-quality, large-scale 2D-based heterostructures.
+C1 [Jin, Xin; Zhang, Yu-Yang; Pantelides, Sokrates T.; Du, Shixuan] Inst Phys, Beijing 100190, Peoples R China.
+   [Jin, Xin; Zhang, Yu-Yang; Pantelides, Sokrates T.; Du, Shixuan] Univ Chinese Acad Sci, Chinese Acad Sci, Beijing 100190, Peoples R China.
+   [Zhang, Yu-Yang; Du, Shixuan] CAS Ctr Excellence Topol Quantum Computat, Beijing 100190, Peoples R China.
+   [Pantelides, Sokrates T.] Vanderbilt Univ, Dept Phys & Astron, Nashville, TN 37235 USA.
+   [Pantelides, Sokrates T.] Vanderbilt Univ, Dept Elect Engn & Comp Sci, Nashville, TN 37235 USA.
+   [Du, Shixuan] Songshan Lake Mat Lab, Dongguan 523808, Peoples R China.
+RP Zhang, YY; Du, SX (corresponding author), Inst Phys, Beijing 100190, Peoples R China.; Zhang, YY; Du, SX (corresponding author), Univ Chinese Acad Sci, Chinese Acad Sci, Beijing 100190, Peoples R China.; Zhang, YY; Du, SX (corresponding author), CAS Ctr Excellence Topol Quantum Computat, Beijing 100190, Peoples R China.; Du, SX (corresponding author), Songshan Lake Mat Lab, Dongguan 523808, Peoples R China.
+EM zhangyuyang@ucas.ac.cn; sxdu@iphy.ac.cn
+OI Du, Shixuan/0000-0001-9323-1307; Pantelides,
+   Sokrates/0000-0002-2963-7545
+FU National Natural Science Foundation of China [51922011, 61888102];
+   National Key Research & Development Projects Program of China
+   [2016YFA0202300, 2018YFA0305800, 2019YFA0308500]; K. C. Wong Education
+   Foundation; Strategic Priority Research Program of Chinese Academy of
+   Sciences [XDB30000000]; McMinn Endowment
+FX Work in China is supported by the National Natural Science Foundation of
+   China (Grants No. 51922011 and 61888102), the National Key Research &
+   Development Projects Program of China (No. 2016YFA0202300,
+   2018YFA0305800, and 2019YFA0308500), K. C. Wong Education Foundation,
+   the Strategic Priority Research Program of Chinese Academy of Sciences
+   (No. XDB30000000). A portion of the research was performed in CAS Key
+   Laboratory of Vacuum Physics. Work at Vanderbilt was supported in part
+   by the McMinn Endowment.
+CR Ahn CH, 2004, SCIENCE, V303, P488, DOI 10.1126/science.1092508
+   Al Balushi ZY, 2016, NAT MATER, V15, P1166, DOI [10.1038/NMAT4742, 10.1038/nmat4742]
+   Baeumer C, 2015, NAT COMMUN, V6, DOI 10.1038/ncomms7136
+   BLOCHL PE, 1994, PHYS REV B, V50, P17953, DOI 10.1103/PhysRevB.50.17953
+   Bolzan AA, 1997, ACTA CRYSTALLOGR B, V53, P373, DOI 10.1107/S0108768197001468
+   Chang K, 2016, SCIENCE, V353, P274, DOI 10.1126/science.aad8609
+   Cui CJ, 2018, NANO LETT, V18, P1253, DOI 10.1021/acs.nanolett.7b04852
+   Ding WJ, 2017, NAT COMMUN, V8, DOI 10.1038/ncomms14956
+   Garcia V, 2014, NAT COMMUN, V5, DOI 10.1038/ncomms5289
+   Grimme S, 2010, J CHEM PHYS, V132, DOI 10.1063/1.3382344
+   Guo H, 2019, 2D MATER, V6, DOI 10.1088/2053-1583/ab3e9c
+   Ji DX, 2019, NATURE, V570, P87, DOI 10.1038/s41586-019-1255-7
+   Junquera J, 2003, NATURE, V422, P506, DOI 10.1038/nature01501
+   Kakekhani A, 2016, J MATER CHEM A, V4, P5235, DOI 10.1039/c6ta00513f
+   Koppens FHL, 2014, NAT NANOTECHNOL, V9, P780, DOI [10.1038/nnano.2014.215, 10.1038/NNANO.2014.215]
+   KRESSE G, 1993, PHYS REV B, V47, P558, DOI 10.1103/PhysRevB.47.558
+   Kresse G, 1996, COMP MATER SCI, V6, P15, DOI 10.1016/0927-0256(96)00008-0
+   KRESSE G, 1993, PHYS REV B, V48, P13115, DOI 10.1103/PhysRevB.48.13115
+   Li G, 2018, ADV MATER, V30, DOI 10.1002/adma.201804650
+   Liu FC, 2016, NAT COMMUN, V7, DOI 10.1038/ncomms12357
+   Liu XH, 2016, PHYS REV LETT, V116, DOI 10.1103/PhysRevLett.116.197602
+   Liu Y, 2018, NATURE, V557, P696, DOI 10.1038/s41586-018-0129-8
+   Lizzit S, 2012, NANO LETT, V12, P4503, DOI 10.1021/nl301614j
+   Loffler D, 2010, PHYS REV LETT, V105, DOI 10.1103/PhysRevLett.105.146104
+   Mao JH, 2012, APPL PHYS LETT, V100, DOI 10.1063/1.3687190
+   MEHTA RR, 1973, J APPL PHYS, V44, P3379, DOI 10.1063/1.1662770
+   Omiciuolo L, 2014, NAT COMMUN, V5, DOI 10.1038/ncomms6062
+   Paillard C, 2016, ADV MATER, V28, P5153, DOI 10.1002/adma.201505215
+   Pan Y, 2009, ADV MATER, V21, P2777, DOI 10.1002/adma.200800761
+   Parlinski K, 1997, PHYS REV LETT, V78, P4063, DOI 10.1103/PhysRevLett.78.4063
+   Perdew JP, 1996, PHYS REV LETT, V77, P3865, DOI 10.1103/PhysRevLett.77.3865
+   Poh SM, 2018, NANO LETT, V18, P6340, DOI 10.1021/acs.nanolett.8b02688
+   Quindeau A, 2015, PHYS REV B, V92, DOI 10.1103/PhysRevB.92.035130
+   Si MW, 2018, ACS NANO, V12, P6700, DOI 10.1021/acsnano.8b01810
+   Sohlberg K, 1999, J AM CHEM SOC, V121, P7493, DOI 10.1021/ja991098o
+   Song TT, 2016, SCI REP-UK, V6, DOI 10.1038/srep29221
+   Togo A, 2015, SCRIPTA MATER, V108, P1, DOI 10.1016/j.scriptamat.2015.07.021
+   Togo A, 2008, PHYS REV B, V78, DOI 10.1103/PhysRevB.78.134106
+   Wang G, 2018, NAT COMMUN, V9, DOI 10.1038/s41467-018-07555-6
+   Xiao J, 2018, PHYS REV LETT, V120, DOI 10.1103/PhysRevLett.120.227601
+   Yang B, 2012, PHYS CHEM CHEM PHYS, V14, P11344, DOI 10.1039/c2cp41355h
+   Yuan SG, 2016, ADV MATER, V28, P10048, DOI 10.1002/adma.201601489
+   Zhang Y, 2011, APPL PHYS LETT, V99, DOI 10.1063/1.3666856
+NR 43
+TC 4
+Z9 4
+U1 8
+U2 75
+PU ROYAL SOC CHEMISTRY
+PI CAMBRIDGE
+PA THOMAS GRAHAM HOUSE, SCIENCE PARK, MILTON RD, CAMBRIDGE CB4 0WF, CAMBS,
+   ENGLAND
+SN 2055-6756
+EI 2055-6764
+J9 NANOSCALE HORIZ
+JI Nanoscale Horiz.
+PD SEP 1
+PY 2020
+VL 5
+IS 9
+BP 1303
+EP 1308
+DI 10.1039/d0nh00255k
+PG 6
+WC Chemistry, Physical; Nanoscience & Nanotechnology; Materials Science,
+   Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Science & Technology - Other Topics; Materials Science
+GA NE0HQ
+UT WOS:000562279500006
+PM 32613986
+DA 2022-10-19
+ER
+
+PT J
+AU Kondo, K
+   Ishibashi, A
+AF Kondo, Kenji
+   Ishibashi, Akira
+TI Energy spectrum of two-dimensional electron gas to be used in quantum
+   cross structures
+SO JAPANESE JOURNAL OF APPLIED PHYSICS PART 1-REGULAR PAPERS BRIEF
+   COMMUNICATIONS & REVIEW PAPERS
+LA English
+DT Article
+DE many-body theory; quasiparticle; electron correlation; nano-technology
+AB A quantum cross system consisting of the edge-to-edge configuration of two-dimensional (2D) conductors is expected to serve as an ideal platform for molecular electronic devices. As the first step, we have calculated the electron energy spectrum of 2D electron gas at a GaAs/AlGaAs heterointerface as a candidate for the 2D conductor in the quantum cross, taking into consideration the electron correlation for the 2D electron system. As a result, we have confirmed that a plasmaron can exist stably. This means that we will observe the broadening of the conductance peak due to the scattering induced by plasmons when we measure the current-voltage characteristics of the quantum cross device.
+C1 Hokkaido Univ, Lab Quantum Elect, Res Inst Elect Sci, Sapporo, Hokkaido 0600812, Japan.
+RP Kondo, K (corresponding author), Hokkaido Univ, Lab Quantum Elect, Res Inst Elect Sci, Sapporo, Hokkaido 0600812, Japan.
+RI Kondo, Kenji/N-2375-2019; Ishibashi, Akira/A-7469-2012
+OI Kondo, Kenji/0000-0003-3447-0038; Ishibashi, Akira/0000-0002-9964-1451
+CR ALLMEN P, 1992, PHYS REV B, V46, P13345
+   DASSARMA S, 1990, PHYS REV B, V41, P8288, DOI 10.1103/PhysRevB.41.8288
+   HEDIN L, 1965, PHYS REV, V139, pA796, DOI 10.1103/PhysRev.139.A796
+   Ishibashi A, 2004, ELECTRON LETT, V40, P1268, DOI 10.1049/el:20046226
+   ISHIBASHI A, 2004, P INT S NAN SCI TECH, P44
+   KONDO K, 2004, 3 ADV SCI I AGENDA B, P2
+   MAHAN GD, 1993, MANY PARTICLE PHYS, P379
+   TING CS, 1975, PHYS REV LETT, V34, P870, DOI 10.1103/PhysRevLett.34.870
+NR 8
+TC 11
+Z9 11
+U1 0
+U2 4
+PU JAPAN SOC APPLIED PHYSICS
+PI TOKYO
+PA KUDAN-KITA BUILDING 5TH FLOOR, 1-12-3 KUDAN-KITA, CHIYODA-KU, TOKYO,
+   102-0073, JAPAN
+SN 0021-4922
+J9 JPN J APPL PHYS 1
+JI Jpn. J. Appl. Phys. Part 1 - Regul. Pap. Brief Commun. Rev. Pap.
+PD DEC
+PY 2006
+VL 45
+IS 12
+BP 9137
+EP 9139
+DI 10.1143/JJAP.45.9137
+PG 3
+WC Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Physics
+GA 133BZ
+UT WOS:000243987900028
+DA 2022-10-19
+ER
+
+PT J
+AU Chen, FF
+   Athreya, N
+   Zhao, CX
+   Xiong, MY
+   Tan, HJ
+   Leburton, JP
+   Feng, JD
+AF Chen, Fanfan
+   Athreya, Nagendra
+   Zhao, Chunxiao
+   Xiong, Mingye
+   Tan, Haojing
+   Leburton, Jean-Pierre
+   Feng, Jiandong
+TI Ion Density-Dependent Dynamic Conductance Switching inBiomimetic
+   Graphene Nanopores
+SO JOURNAL OF PHYSICAL CHEMISTRY LETTERS
+LA English
+DT Article
+ID CHANNEL; TRANSPORT; MECHANISM
+AB Gating in ion transport is at the center of many vital living-substancetransmission processes, and understanding how gating works at an atomic level is essentialbut intricate. However, our understanding andfinite experimentalfindings of subcontinuumion transport in subnanometer nanopores are still limited, which is out of reach of theclassical continuum nanofluidics. Moreover, the influence of ion density on subcontinuumion transport is poorly understood. Here we report the ion density-dependent dynamicconductance switching process in biomimetic graphene nanopores and explain thephenomenon by a reversible ion absorption mechanism. Our molecular dynamics simulationsdemonstrate that the cations near the graphene nanopore can interact with the surfacecharges on the nanopore, thereby realizing the switching of high- and low-conductancestates. This work has deepened the understanding of gating in ion transport
+C1 [Chen, Fanfan; Zhao, Chunxiao; Tan, Haojing; Feng, Jiandong] Zhejiang Univ, Dept Chem, Lab Expt Phys Biol, Hangzhou 310027, Peoples R China.
+   [Feng, Jiandong] Zhejiang Lab, Hangzhou 310000, Peoples R China.
+   [Athreya, Nagendra; Xiong, Mingye; Leburton, Jean-Pierre] Univ Illinois, Dept Elect & Comp Engn, Urbana, IL 61801 USA.
+   [Athreya, Nagendra; Xiong, Mingye; Leburton, Jean-Pierre] Univ Illinois, N Holonyak Jr Micro & Nanotechnol Lab, Urbana, IL 61801 USA.
+   [Athreya, Nagendra; Xiong, Mingye; Leburton, Jean-Pierre] Univ Illinois, Dept Phys, Urbana, IL 61801 USA.
+RP Feng, JD (corresponding author), Zhejiang Univ, Dept Chem, Lab Expt Phys Biol, Hangzhou 310027, Peoples R China.; Feng, JD (corresponding author), Zhejiang Lab, Hangzhou 310000, Peoples R China.
+EM jiandong.feng@zju.edu.cn
+OI Xiong, Mingye/0000-0003-0826-4118
+FU National Key R&D Program of China [2020YFA0211200]; Natural Science
+   Foundation of Zhejiang Province [LR20B050002]; National Natural Science
+   Foundation of China [21974123]; Hundreds Program of Zhejiang University;
+   Extreme Science and Engineering Discovery Environment (XSEDE)
+   [TG-MCB170052]; Blue Waters grant (BAXI)
+FX This work was financially supported by the National Key R&D Program of
+   China (2020YFA0211200), the Natural Science Foundation of Zhejiang
+   Province (LR20B050002), and the National Natural Science Foundation of
+   China (21974123). J.F. acknowledges support from the Hundreds Program of
+   Zhejiang University. N.A., M.X., and J.-P.L. gratefully acknowledge
+   supercomputing resources offered by an Extreme Science and Engineering
+   Discovery Environment (XSEDE) grant (TG-MCB170052) and a Blue Waters
+   grant (BAXI).
+CR ALZHEIMER C, 1993, J NEUROSCI, V13, P660
+   Athreya NBM, 2018, ACS SENSORS, V3, P1032, DOI 10.1021/acssensors.8b00192
+   Beckstein O, 2003, P NATL ACAD SCI USA, V100, P7063, DOI 10.1073/pnas.1136844100
+   BEZRUKOV SM, 1993, PHYS REV LETT, V70, P2352, DOI 10.1103/PhysRevLett.70.2352
+   Bondaz L, 2021, J CHEM PHYS, V154, DOI 10.1063/5.0044041
+   Chen FF, 2021, MATTER-US, V4, P2378, DOI 10.1016/j.matt.2021.05.017
+   Eaton D. C., 1985, J NEUROSCI RES, V13, P599
+   Feng J, 2015, NANO LETT, V15, P3431, DOI 10.1021/acs.nanolett.5b00768
+   Feng JD, 2016, NATURE, V536, P197, DOI 10.1038/nature18593
+   Feng JD, 2016, NAT MATER, V15, P850, DOI [10.1038/nmat4607, 10.1038/NMAT4607]
+   Goychuk I, 2002, P NATL ACAD SCI USA, V99, P3552, DOI 10.1073/pnas.052015699
+   Ho C, 2005, P NATL ACAD SCI USA, V102, P10445, DOI 10.1073/pnas.0500796102
+   Howorka S, 2009, CHEM SOC REV, V38, P2360, DOI 10.1039/b813796j
+   Jain T, 2015, NAT NANOTECHNOL, V10, P1053, DOI [10.1038/nnano.2015.222, 10.1038/NNANO.2015.222]
+   Jensen MO, 2012, SCIENCE, V336, P229, DOI 10.1126/science.1216533
+   KASIANOWICZ JJ, 1995, BIOPHYS J, V69, P94, DOI 10.1016/S0006-3495(95)79879-4
+   Lee CY, 2010, SCIENCE, V329, P1320, DOI 10.1126/science.1193383
+   Lin KB, 2020, J AM CHEM SOC, V142, P2925, DOI 10.1021/jacs.9b11537
+   Lu T, 2001, NAT NEUROSCI, V4, P239, DOI 10.1038/85080
+   Mannuzzu LM, 1996, SCIENCE, V271, P213, DOI 10.1126/science.271.5246.213
+   Miller C, 2013, ION CHANNEL RECONSTI
+   Paulus GLC, 2014, SCI REP-UK, V4, DOI 10.1038/srep06865
+   Polster JW, 2020, ACS NANO, V14, P4306, DOI 10.1021/acsnano.9b09777
+   Powell MR, 2008, NAT NANOTECHNOL, V3, P51, DOI 10.1038/nnano.2007.420
+   Powell MR, 2011, NAT NANOTECHNOL, V6, P798, DOI [10.1038/NNANO.2011.189, 10.1038/nnano.2011.189]
+   Sahu S, 2019, SCI ADV, V5, DOI 10.1126/sciadv.aaw5478
+   Sarathy A, 2018, J PHYS CHEM LETT, V9, P5718, DOI 10.1021/acs.jpclett.8b02200
+   Sathe C, 2011, ACS NANO, V5, P8842, DOI 10.1021/nn202989w
+   Secchi E, 2016, PHYS REV LETT, V116, DOI 10.1103/PhysRevLett.116.154501
+   Shen J, 2021, NAT REV MATER, V6, P294, DOI 10.1038/s41578-020-00268-7
+   Smirnov SN, 2011, ACS NANO, V5, P7453, DOI 10.1021/nn202392d
+   Tao X, 2010, SCIENCE, V328, P67, DOI 10.1126/science.1185954
+   Xiong MY, 2020, ACS NANO, V14, P16131, DOI 10.1021/acsnano.0c08382
+   Xue L, 2020, NAT REV MATER, V5, P931, DOI 10.1038/s41578-020-0229-6
+   Zhu ZP, 2019, J AM CHEM SOC, V141, P8658, DOI 10.1021/jacs.9b00086
+NR 35
+TC 0
+Z9 0
+U1 9
+U2 9
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 1948-7185
+J9 J PHYS CHEM LETT
+JI J. Phys. Chem. Lett.
+PD APR 28
+PY 2022
+VL 13
+IS 16
+BP 3602
+EP 3608
+DI 10.1021/acs.jpclett.2c00715
+PG 7
+WC Chemistry, Physical; Nanoscience & Nanotechnology; Materials Science,
+   Multidisciplinary; Physics, Atomic, Molecular & Chemical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Science & Technology - Other Topics; Materials Science;
+   Physics
+GA 1G5HR
+UT WOS:000795879200011
+PM 35426690
+DA 2022-10-19
+ER
+
+PT J
+AU Dong, Y
+   Feenstra, RM
+   Semtsiv, MP
+   Masselink, WT
+AF Dong, Y.
+   Feenstra, R. M.
+   Semtsiv, M. P.
+   Masselink, W. T.
+TI Band offsets of InGaP/GaAs heterojunctions by scanning tunneling
+   spectroscopy
+SO JOURNAL OF APPLIED PHYSICS
+LA English
+DT Article
+ID MOLECULAR-BEAM EPITAXY; III-V SEMICONDUCTORS; CURRENT-VOLTAGE;
+   QUANTUM-WELL; MICROSCOPY; SURFACE; GAINP/GAAS; ALLOYS; GAP;
+   PHOTOEMISSION
+AB Scanning tunneling microscopy and spectroscopy are used to study InGaP/GaAs heterojunctions with InGaAs-like interfaces. Band offsets are probed using conductance spectra, with tip-induced band bending accounted for using three-dimensional electrostatic potential simulations together with a planar computation of the tunnel current. Curve fitting of theory to experiment is performed. Using an InGaP band gap of 1.90 eV, which is appropriate to the disordered InGaP alloy, a valence band offset of 0.38 +/- 0.01 eV is deduced along with the corresponding conduction band offset of 0.10 +/- 0.01 eV (type I band alignment). (c) 2008 American Institute of Physics.
+C1 [Dong, Y.; Feenstra, R. M.] Carnegie Mellon Univ, Dept Phys, Pittsburgh, PA 15213 USA.
+   [Semtsiv, M. P.; Masselink, W. T.] Humboldt Univ, Dept Phys, D-10115 Berlin, Germany.
+RP Feenstra, RM (corresponding author), Carnegie Mellon Univ, Dept Phys, Pittsburgh, PA 15213 USA.
+EM feenstra@andrew.cmu.edu
+RI Feenstra, Randall M/P-2530-2014
+OI Feenstra, Randall M/0000-0001-7120-5685
+CR ALVES JLA, 1991, PHYS REV B, V44, P6188, DOI 10.1103/PhysRevB.44.6188
+   BARDEEN J, 1961, PHYS REV LETT, V6, P57, DOI 10.1103/PhysRevLett.6.57
+   Bevington PR, 2003, DATA REDUCTION ERROR, P146
+   BINNIG G, 1984, PHYS REV B, V30, P4816, DOI 10.1103/PhysRevB.30.4816
+   BONO J, 1986, SURF SCI, V175, P415, DOI 10.1016/0039-6028(86)90243-8
+   Cai C, 1999, APPL PHYS LETT, V74, P720, DOI 10.1063/1.123102
+   CHANG YC, 1982, PHYS REV B, V25, P605, DOI 10.1103/PhysRevB.25.605
+   Chen HJ, 1999, APPL PHYS LETT, V75, P79, DOI 10.1063/1.124282
+   CHEN JH, 1991, APPL PHYS LETT, V58, P744, DOI 10.1063/1.104534
+   Davies JH, 2002, J APPL PHYS, V91, P4171, DOI 10.1063/1.1459100
+   Dombrowski R, 1999, PHYS REV B, V59, P8043, DOI 10.1103/PhysRevB.59.8043
+   Dong Y, 2004, APPL PHYS LETT, V84, P227, DOI 10.1063/1.1638637
+   DUKE CB, 1969, TUNNELING SOLIDS, P219
+   Feenstra RM, 2007, NANOTECHNOLOGY, V18, DOI 10.1088/0957-4484/18/4/044015
+   Feenstra RM, 1999, PHYSICA B, V273-4, P796, DOI 10.1016/S0921-4526(99)00507-4
+   Feenstra RM, 2006, PHYS REV B, V73, DOI 10.1103/PhysRevB.73.035310
+   Feenstra RM, 2005, PHYS REV B, V71, DOI 10.1103/PhysRevB.71.125316
+   Feenstra RM, 2003, J VAC SCI TECHNOL B, V21, P2080, DOI 10.1116/1.1606466
+   FEENSTRA RM, 1994, PHYS REV B, V50, P4561, DOI 10.1103/PhysRevB.50.4561
+   Franciosi A, 1996, SURF SCI REP, V25, P1, DOI 10.1016/0167-5729(95)00008-9
+   Froyen S, 1996, APPL PHYS LETT, V68, P2852, DOI 10.1063/1.116346
+   HAASE MA, 1991, APPL PHYS LETT, V58, P616, DOI 10.1063/1.104574
+   HASHIM KI, 1994, THIN SOLID FILMS, V245, P64, DOI 10.1016/0040-6090(94)90879-6
+   HUANG ZH, 1993, PHYS REV B, V48, P15068, DOI 10.1103/PhysRevB.48.15068
+   HYBERTSEN M, 2003, COMMUNICATION   0722
+   HYBERTSEN MS, 1992, MAT SCI ENG B-SOLID, V14, P254, DOI 10.1016/0921-5107(92)90307-U
+   Jager ND, 2003, PHYS REV B, V67, DOI 10.1103/PhysRevB.67.165307
+   Jelen C, 1997, APPL PHYS LETT, V70, P360, DOI 10.1063/1.118390
+   KOBAYASHI T, 1989, J APPL PHYS, V65, P4898, DOI 10.1063/1.343205
+   KROEMER H, 1983, J VAC SCI TECHNOL B, V1, P126, DOI 10.1116/1.582513
+   LAMBRECHT WRL, 1990, PHYS REV B, V41, P2832, DOI 10.1103/PhysRevB.41.2832
+   LAUTERBACH J, 1994, SURF SCI, V313, P52, DOI 10.1016/0039-6028(94)91156-8
+   LEE TW, 1992, APPL PHYS LETT, V60, P474, DOI 10.1063/1.106639
+   Liu N, 1998, APPL PHYS LETT, V73, P1979, DOI 10.1063/1.122341
+   Madelung O., 1991, SEMICONDUCTORS GROUP
+   MASSELINK WT, 1992, J VAC SCI TECHNOL B, V10, P966, DOI 10.1116/1.586102
+   MERZBACHER E, 1970, QUANTUM MECHANICS, P88
+   NOZAKI C, 1988, J CRYST GROWTH, V93, P406, DOI 10.1016/0022-0248(88)90560-X
+   OShea JJ, 1996, APPL PHYS LETT, V69, P3022, DOI 10.1063/1.116826
+   SALEMINK HWM, 1992, PHYS REV B, V45, P6946, DOI 10.1103/PhysRevB.45.6946
+   TERSOFF J, 1985, PHYS REV B, V31, P805, DOI 10.1103/PhysRevB.31.805
+   TING DZY, 1992, PHYS REV B, V45, P3583, DOI 10.1103/PhysRevB.45.3583
+   TOET SE, 1987, APPL PHYS A-MATER, V43, P85, DOI 10.1007/BF00617957
+   Tracy KM, 2003, J APPL PHYS, V94, P3939, DOI 10.1063/1.1598630
+   VANLAAR J, 1977, J VAC SCI TECHNOL, V14, P894, DOI 10.1116/1.569324
+   Vurgaftman I, 2001, J APPL PHYS, V89, P5815, DOI 10.1063/1.1368156
+   WATANABE MO, 1987, APPL PHYS LETT, V50, P906, DOI 10.1063/1.98028
+   ZACHAU M, 1992, APPL PHYS LETT, V60, P2098, DOI 10.1063/1.107101
+NR 48
+TC 30
+Z9 30
+U1 0
+U2 26
+PU AMER INST PHYSICS
+PI MELVILLE
+PA 1305 WALT WHITMAN RD, STE 300, MELVILLE, NY 11747-4501 USA
+SN 0021-8979
+EI 1089-7550
+J9 J APPL PHYS
+JI J. Appl. Phys.
+PD APR 1
+PY 2008
+VL 103
+IS 7
+AR 073704
+DI 10.1063/1.2902828
+PG 12
+WC Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Physics
+GA 289GO
+UT WOS:000255043200035
+OA Green Submitted
+DA 2022-10-19
+ER
+
+PT J
+AU Li, YQ
+   Wang, YQ
+   Chen, LL
+   Li, XL
+   Han, WH
+   Xie, EQ
+AF Li, Yiqun
+   Wang, Youqing
+   Chen, Lulu
+   Li, Xiulei
+   Han, Weihua
+   Xie, Erqing
+TI Controlled Synthesis on Ag Nanowires for Conductive Transparent
+   Electrodes
+SO MATERIALS AND MANUFACTURING PROCESSES
+LA English
+DT Article
+DE Microscopy; Controlling; Silver; Nanowires; Synthesis; Chemical;
+   Optical; Electric
+ID CRYSTALLINE SILVER NANOWIRES; RAPID SYNTHESIS
+AB One-dimensional silver nanomaterials, nanorods, and nanowires (NWs) were achieved by a solution-phase method. The geometry of the silver nanostructures was successfully tuned by adding polyvinylpyrrolidone (PVP) of different molecular weights. A possible mechanism, involving the suppression effect from PVP on the growth rates at different crystal facets, is used to explain the PVP-dependent morphology of the Ag nanowires achieved in this experiment. To evaluate its potential application in transparent electrodes, we also investigated the electrical conductance and optical transmittance after NWs were transferred to transparent polyethylene terephthalate substrates. Our findings indicated a possible and simple approach to control the morphology and then the functional properties of nanostructured silvers.
+C1 [Li, Yiqun; Wang, Youqing; Chen, Lulu; Li, Xiulei; Han, Weihua; Xie, Erqing] Lanzhou Univ, Sch Phys Sci & Technol, Lanzhou 730000, Peoples R China.
+RP Han, WH (corresponding author), Lanzhou Univ, Sch Phys Sci & Technol, Lanzhou 730000, Peoples R China.
+EM xieeq@lzu.edu.cn
+RI Han, Weihua/D-6547-2019; Han, Weihua/E-7163-2012
+OI Xie, Erqing/0000-0001-5647-6938
+FU National Science Foundation of China [61404066]; Scientific Research
+   Foundation for the Returned Overseas Chinese Scholars, State Education
+   Ministry of China
+FX This research was supported by the National Science Foundation of China
+   under grant number 61404066 and the Scientific Research Foundation for
+   the Returned Overseas Chinese Scholars, State Education Ministry of
+   China.
+CR Gou LF, 2007, CHEM MATER, V19, P1755, DOI 10.1021/cm070160a
+   Kong H, 2006, CHEM COMMUN, P3010, DOI 10.1039/b605286j
+   Korte KE, 2008, J MATER CHEM, V18, P437, DOI 10.1039/b714072j
+   Lazzara TD, 2009, CHEM MATER, V21, P2020, DOI 10.1021/cm802481v
+   Lee J, 2013, ADV FUNCT MATER, V23, P4171, DOI 10.1002/adfm.201203802
+   Lim GH, 2014, CHEM PHYS LETT, V602, P10, DOI 10.1016/j.cplett.2014.04.012
+   Lin JY, 2014, J SOLID STATE CHEM, V214, P2, DOI 10.1016/j.jssc.2013.12.017
+   Liu Y, 2005, MATER RES BULL, V40, P1796, DOI 10.1016/j.materresbull.2005.05.005
+   Sun YG, 2002, NANO LETT, V2, P165, DOI 10.1021/nl010093y
+   Xie SY, 2013, OPT EXPRESS, V21, pA355, DOI 10.1364/OE.21.00A355
+   Yang XJ, 2012, MATER MANUF PROCESS, V28, P1, DOI 10.1080/10426914.2012.709344
+   Zhang DH, 2014, J MOL STRUCT, V1060, P1, DOI 10.1016/j.molstruc.2013.12.045
+NR 12
+TC 8
+Z9 8
+U1 1
+U2 106
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 1042-6914
+EI 1532-2475
+J9 MATER MANUF PROCESS
+JI Mater. Manuf. Process.
+PD JAN 2
+PY 2015
+VL 30
+IS 1
+BP 30
+EP 33
+DI 10.1080/10426914.2014.965318
+PG 4
+WC Engineering, Manufacturing; Materials Science, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Materials Science
+GA AT7XH
+UT WOS:000345147200002
+DA 2022-10-19
+ER
+
+EFF

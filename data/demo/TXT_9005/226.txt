@@ -1,0 +1,340 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Martin, JDD
+   Hepburn, JW
+AF Martin, JDD
+   Hepburn, JW
+TI Electric field induced dissociation of molecules in Rydberg-like highly
+   vibrationally excited ion-pair states
+SO PHYSICAL REVIEW LETTERS
+LA English
+DT Article
+ID PHOTOELECTRON-SPECTROSCOPY; VACUUM-ULTRAVIOLET; HIGH-RESOLUTION; ENERGY
+AB The energetic thresholds for ion-pair photodissociation of diatomic oxygen [O-2 + h nu --> O+ + O-(P-2(3/2), P-2(1/2))] were measured using a novel technique. The technique depends on the production and selective detection of highly vibrationally excited ion-pair states which last for at least 5 mu s following single photon excitation from the ground electronic state of O-2. These ion-pair states are analogous to Rydberg states, and they may be dissociated by an electric field in a similar manner to the field ionization of high principal quantum number Rydberg states, allowing for their selective detection. [S0031-9007(97)04265-8].
+RP Martin, JDD (corresponding author), UNIV WATERLOO,CTR MOL BEAMS & LASER CHEM,WATERLOO,ON N2L 3G1,CANADA.
+CR Amiot C, 1981, CAN J PHYS, V59, P1391, DOI 10.1139/p81-183
+   BERKOWITZ J, 1994, J PHYS CHEM-US, V98, P2744, DOI 10.1021/j100062a009
+   BERKOWITZ J, 1996, VUV SOFT XRAY PHOTOI
+   Chase, 1986, JANAF THERMOCHEMICAL
+   COSBY PC, 1992, J CHEM PHYS, V97, P6108, DOI 10.1063/1.463720
+   DEHMER PM, 1975, J CHEM PHYS, V62, P4525, DOI 10.1063/1.430359
+   EYLER EE, 1995, HIGH RESOLUTION LASE, P437
+   FABRE C, 1983, J PHYS B-AT MOL OPT, V16, pL671, DOI 10.1088/0022-3700/16/21/009
+   HEPBURN JW, 1995, LASER TECHNIQUES CHE, P149
+   Herzberg G., 1989, MOL SPECTRA MOL STRU, VI
+   Hilbig R., 1986, Comments on Atomic and Molecular Physics, V18, P157
+   KONG W, 1993, J CHEM PHYS, V99, P8571, DOI 10.1063/1.465580
+   Leroy RJ, 1970, CHEM PHYS LETT, V5, P42
+   LIPSON RH, 1989, J CHEM PHYS, V90, P6821, DOI 10.1063/1.456254
+   MULLERDETHLEFS K, 1991, ANNU REV PHYS CHEM, V42, P109, DOI 10.1146/annurev.pc.42.100191.000545
+   MUNAKATA T, 1989, CHEM PHYS LETT, V154, P604, DOI 10.1016/0009-2614(89)87161-1
+   NEUMARK DM, 1985, PHYS REV A, V32, P1890, DOI 10.1103/PhysRevA.32.1890
+   PAN SH, 1988, J CHEM PHYS, V89, P3096, DOI 10.1063/1.454966
+   Powis I, 1995, HIGH RESOLUTION LASE
+   PRATT ST, 1992, PHYS REV LETT, V68, P584, DOI 10.1103/PhysRevLett.68.584
+   WILEY WC, 1955, REV SCI INSTRUM, V26, P1150, DOI 10.1063/1.1715212
+   ZHU LC, 1991, J CHEM PHYS, V94, P5769, DOI 10.1063/1.460460
+NR 22
+TC 69
+Z9 69
+U1 1
+U2 14
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0031-9007
+J9 PHYS REV LETT
+JI Phys. Rev. Lett.
+PD OCT 27
+PY 1997
+VL 79
+IS 17
+BP 3154
+EP 3157
+DI 10.1103/PhysRevLett.79.3154
+PG 4
+WC Physics, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Physics
+GA YC782
+UT WOS:A1997YC78200015
+OA Green Submitted
+DA 2022-10-21
+ER
+
+PT J
+AU Macchia, E
+   Manoli, K
+   Di Franco, C
+   Picca, RA
+   Osterbacka, R
+   Palazzo, G
+   Torricelli, F
+   Scamarcio, G
+   Torsi, L
+AF Macchia, Eleonora
+   Manoli, Kyriaki
+   Di Franco, Cinzia
+   Picca, Rosaria Anna
+   Osterbacka, Ronald
+   Palazzo, Gerardo
+   Torricelli, Fabrizio
+   Scamarcio, Gaetano
+   Torsi, Luisa
+TI Organic Field-Effect Transistor Platform for Label-Free, Single-Molecule
+   Detection of Genomic Biomarkers
+SO ACS SENSORS
+LA English
+DT Article
+DE electrolyte-gated organic thin-film transistor; single molecule with a
+   large transistor (SiMoT); genomic markers; biosensors; early diagnosis;
+   DNA detection; miRNAs; multiple sclerosis
+ID SELF-ASSEMBLED MONOLAYERS; PROFILES; MICRORNA; SENSORS; CANCER
+AB The increasing interest in technologies capable of tracking a biomarker down to the physical limit points toward new opportunities in early diagnostics of progressive diseases. Indeed, single-molecule detection technologies are foreseen to enable clinicians to associate the tiniest increase in a biomarker with the progression of a disease, particularly at its early stage. Bioelectronic organic transistors represent an extremely powerful tool to achieve label-free and single-molecule detection of clinically relevant biomarkers. These electronic devices are millimetric in size and in the future could be mass-produced at low cost. The core of the single molecule with a large transistor (SiMoT) platform, based on an electrolyte-gated field-effect transistor, is a gold gate electrode biofunctionalized with a self-assembled monolayer, a densely packed layer of recognition elements. So far, only the SiMoT detection of proteins, using the corresponding antibodies as recognition elements, has been reported. In this study, the SiMoT sensing response toward genomic biomarkers is proposed. Herein, the gate is functionalized with a genomic biomarker for multiple sclerosis (miR-182). This is relevant, not only because a limit of detection of a single molecule is achieved but also because it proves that the SiMoT label-free, single-molecule detection principle is the only one of its kind that can detect, by means of the same platform, both protein and genomic markers.
+C1 [Macchia, Eleonora; Osterbacka, Ronald; Torsi, Luisa] Abo Akad Univ, Fac Sci & Engn, Turku 20500, Finland.
+   [Manoli, Kyriaki; Di Franco, Cinzia; Picca, Rosaria Anna; Palazzo, Gerardo; Torsi, Luisa] Univ Bari Aldo Moro, Dipartimento Chim, I-70125 Bari, Italy.
+   [Palazzo, Gerardo; Torsi, Luisa] CSGI Ctr Colloid & Surface Sci, I-70125 Bari, Italy.
+   [Di Franco, Cinzia; Scamarcio, Gaetano] CNR, Ist Foton & Nanotecnol, I-70125 Bari, Italy.
+   [Torricelli, Fabrizio] Univ Brescia, Dipartimento Ingn Informaz, I-25121 Brescia, Italy.
+   [Scamarcio, Gaetano] Univ Bari Aldo Moro, Dipartimento Interateneo Fis M Merlin, I-70125 Bari, Italy.
+RP Torsi, L (corresponding author), Abo Akad Univ, Fac Sci & Engn, Turku 20500, Finland.; Torsi, L (corresponding author), Univ Bari Aldo Moro, Dipartimento Chim, I-70125 Bari, Italy.; Torsi, L (corresponding author), CSGI Ctr Colloid & Surface Sci, I-70125 Bari, Italy.
+EM luisa.torsi@uniba.it
+RI Österbacka, Ronald/N-7773-2019; Palazzo, Gerardo/G-9030-2011; Palazzo,
+   Gerardo/AAC-7246-2022; Picca, Rosaria Anna/E-7341-2015; Scamarcio,
+   Gaetano/I-7674-2014
+OI Österbacka, Ronald/0000-0003-0656-2592; Palazzo,
+   Gerardo/0000-0001-5504-2177; Palazzo, Gerardo/0000-0001-5504-2177;
+   Torsi, Luisa/0000-0002-0798-0780; Picca, Rosaria
+   Anna/0000-0001-8033-098X; Scamarcio, Gaetano/0000-0003-0808-4336;
+   Manoli, Kyriaki/0000-0002-7600-0977; Macchia,
+   eleonora/0000-0002-1534-7336
+FU "OrgBIO" Organic Bioelectronics [PITN-GA-2013-607896]; PON SISTEMA
+   (MIUR); H2020-Electronic Smart Systems-SiMBiT: Single molecule
+   bio-electronic smart system array for clinical testing [824946]; Future
+   in Research APQ Ricerca Regione Puglia "Programma regionale a sostegno
+   della specializzazione intelligente e della sostenibilita sociale ed
+   ambientale-FutureInResearch"-"BEND" Biosensori elettronici intelligenti
+   per la diagnosi precoce di malattie n [B164PG8]; PMGB-Sviluppo di
+   piattaforme meccatroniche, genomiche e bioinformatiche per l'oncologia
+   di precisione "RICERCA E INNOVAZIONE" 2014-2020 projects
+   [ARS01_01195-PON]; CSGI
+FX "OrgBIO" Organic Bioelectronics (PITN-GA-2013-607896), PON SISTEMA
+   (MIUR), H2020-Electronic Smart Systems-SiMBiT: Single molecule
+   bio-electronic smart system array for clinical testing (Grant agreement
+   no. 824946), Future in Research APQ Ricerca Regione Puglia "Programma
+   regionale a sostegno della specializzazione intelligente e della
+   sostenibilita sociale ed ambientale-FutureInResearch"-"BEND" Biosensori
+   elettronici intelligenti per la diagnosi precoce di malattie
+   neurodegenerative (B164PG8), "PMGB-Sviluppo di piattaforme
+   meccatroniche, genomiche e bioinformatiche per l'oncologia di
+   precisione"-ARS01_01195-PON "RICERCA E INNOVAZIONE" 2014-2020 projects
+   and CSGI are acknowledged for partial financial support.
+CR [Anonymous], 2018, NATURE
+   Atkinson AJ, 2001, CLIN PHARMACOL THER, V69, P89, DOI 10.1067/mcp.2000.113989
+   BADIA A, 1994, ANGEW CHEM INT EDIT, V33, P2332, DOI 10.1002/anie.199423321
+   Badia A, 2000, ACCOUNTS CHEM RES, V33, P475, DOI 10.1021/ar9702841
+   Bartel DP, 2009, CELL, V136, P215, DOI 10.1016/j.cell.2009.01.002
+   Bidoky FZ, 2018, APPL PHYS LETT, V113, DOI 10.1063/1.5025475
+   Chen C, 2018, FRONT IMMUNOL, V9, DOI 10.3389/fimmu.2018.01256
+   Compston A, 2002, LANCET, V359, P1221, DOI 10.1016/S0140-6736(02)08220-X
+   Esposito I, 2015, PANCREATOLOGY, V15, P598, DOI 10.1016/j.pan.2015.08.007
+   Freiesleben S, 2016, SCI REP-UK, V6, DOI 10.1038/srep34512
+   Giljohann DA, 2009, NATURE, V462, P461, DOI 10.1038/nature08605
+   Ginsburg GS, 2006, EXPERT REV MOL DIAGN, V6, P179, DOI 10.1586/14737159.6.2.179
+   Golub TR, 1999, SCIENCE, V286, P531, DOI 10.1126/science.286.5439.531
+   Gooding JJ, 2016, ANGEW CHEM INT EDIT, V55, P11354, DOI 10.1002/anie.201600495
+   Harrison JG, 1998, NUCLEIC ACIDS RES, V26, P3136, DOI 10.1093/nar/26.13.3136
+   Heid CA, 1996, GENOME RES, V6, P986, DOI 10.1101/gr.6.10.986
+   Holzer B, 2017, ADV BIOSYST, V1, DOI 10.1002/adbi.201700055
+   Hong K, 2014, ACS APPL MATER INTER, V6, P18704, DOI 10.1021/am504171u
+   Hu N, 2005, CANCER RES, V65, P2542, DOI 10.1158/0008-5472.CAN-04-3247
+   Jung EM, 2018, ORG ELECTRON, V52, P123, DOI 10.1016/j.orgel.2017.10.013
+   Kanwar Jagat R, 2010, Front Biosci (Schol Ed), V2, P1113
+   Kawai T, 2010, NAT IMMUNOL, V11, P373, DOI 10.1038/ni.1863
+   Keller A, 2014, MULT SCLER J, V20, P295, DOI 10.1177/1352458513496343
+   Kergoat L, 2010, ADV MATER, V22, P2565, DOI 10.1002/adma.200904163
+   Lin Y, 2016, RSC ADV, V6, P40970, DOI 10.1039/c6ra02032a
+   Macchia E, 2020, MATER HORIZ, V7, P999, DOI 10.1039/c9mh01544b
+   Macchia E, 2020, ANAL BIOANAL CHEM, V412, P5005, DOI 10.1007/s00216-020-02540-9
+   Macchia E, 2020, ANAL BIOANAL CHEM, V412, P811, DOI 10.1007/s00216-019-02319-7
+   Macchia E, 2019, CHEM MATER, V31, P6476, DOI 10.1021/acs.chemmater.8b04414
+   Macchia E, 2019, ANAL BIOANAL CHEM, V411, P4899, DOI 10.1007/s00216-019-01778-2
+   Macchia E, 2018, NAT COMMUN, V9, DOI 10.1038/s41467-018-05235-z
+   Manoli K, 2014, ORG ELECTRON, V15, P2372, DOI 10.1016/j.orgel.2014.06.034
+   Northrup JE, 2007, PHYS REV B, V76, DOI 10.1103/PhysRevB.76.245202
+   Otaegui D, 2009, PLOS ONE, V4, DOI 10.1371/journal.pone.0006309
+   Picca RA, 2020, ADV FUNCT MATER, V30, DOI 10.1002/adfm.201904513
+   Quail MA, 2012, BMC GENOMICS, V13, DOI 10.1186/1471-2164-13-341
+   RAEYMAEKERS L, 1995, GENOME RES, V5, P91, DOI 10.1101/gr.5.1.91
+   Rivnay J, 2011, PHYS REV B, V83, DOI 10.1103/PhysRevB.83.121306
+   Sailapu SK, 2020, BIOSENS BIOELECTRON, V156, DOI 10.1016/j.bios.2020.112103
+   Schuster SC, 2008, NAT METHODS, V5, P16, DOI 10.1038/NMETH1156
+   Servati P, 2006, PHYS REV B, V74, DOI 10.1103/PhysRevB.74.245210
+   Siegel SR, 2012, MOL BIOL REP, V39, P6219, DOI 10.1007/s11033-011-1441-7
+   Sonntag KC, 2010, BRAIN RES, V1338, P48, DOI 10.1016/j.brainres.2010.03.106
+   Torricelli F, 2016, NAT COMMUN, V7, DOI 10.1038/ncomms10550
+   Torricelli F, 2012, IEEE T ELECTRON DEV, V59, P1514, DOI 10.1109/TED.2012.2187830
+   Torsi L, 2013, CHEM SOC REV, V42, P8612, DOI 10.1039/c3cs60127g
+   Tufekci KU, 2011, AUTOIMMUN DIS, V2011, DOI 10.4061/2011/807426
+   van de Vijver MJ, 2002, NEW ENGL J MED, V347, P1999, DOI 10.1056/NEJMoa021967
+   Wang CC, 2010, ADV MATER, V22, P697, DOI 10.1002/adma.200902303
+   Wano H, 2001, LANGMUIR, V17, P8224, DOI 10.1021/la010990h
+NR 50
+TC 29
+Z9 29
+U1 8
+U2 30
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 2379-3694
+J9 ACS SENSORS
+JI ACS Sens.
+PD JUN 26
+PY 2020
+VL 5
+IS 6
+BP 1822
+EP 1830
+DI 10.1021/acssensors.0c00694
+PG 9
+WC Chemistry, Multidisciplinary; Chemistry, Analytical; Nanoscience &
+   Nanotechnology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Science & Technology - Other Topics
+GA MF9YX
+UT WOS:000545694100039
+PM 32495625
+OA hybrid
+DA 2022-10-21
+ER
+
+PT J
+AU Thomas, AG
+   Syres, KL
+AF Thomas, Andrew G.
+   Syres, Karen L.
+TI Adsorption of organic molecules on rutile TiO2 and anatase TiO2 single
+   crystal surfaces
+SO CHEMICAL SOCIETY REVIEWS
+LA English
+DT Review
+ID BI-ISONICOTINIC ACID; ELECTRONIC-STRUCTURE; TIO2(110) SURFACE;
+   CARBOXYLIC-ACIDS; CHARGE-TRANSFER; FORMIC-ACID; AMINO-ACIDS; CATECHOL;
+   STM; PROLINE
+AB The interaction of organic molecules with titanium dioxide surfaces has been the subject of many studies over the last few decades. Numerous surface science techniques have been utilised to understand the often complex nature of these systems. The reasons for studying these systems are hugely diverse given that titanium dioxide has many technological and medical applications. Although surface science experiments investigating the adsorption of organic molecules on titanium dioxide surfaces is not a new area of research, the field continues to change and evolve as new potential applications are discovered and new techniques to study the systems are developed. This tutorial review aims to update previous reviews on the subject. It describes experimental and theoretical work on the adsorption of carboxylic acids, dye molecules, amino acids, alcohols, catechols and nitrogen containing compounds on single crystal TiO2 surfaces.
+C1 [Thomas, Andrew G.] Univ Manchester, Sch Phys & Astron, Manchester M13 9PL, Lancs, England.
+   [Thomas, Andrew G.] Univ Manchester, Photon Sci Inst, Manchester M13 9PL, Lancs, England.
+   [Syres, Karen L.] Univ Nottingham, Sch Chem, Nottingham NG7 2RD, England.
+RP Thomas, AG (corresponding author), Univ Manchester, Sch Phys & Astron, Oxford Rd, Manchester M13 9PL, Lancs, England.
+EM andrew.g.thomas@manchester.ac.uk; karen.syres@nottingham.ac.uk
+RI Thomas, Andrew/AAH-8270-2020; Pieper, Maja/AAN-8539-2020
+OI Thomas, Andrew/0000-0002-1900-6686
+CR Aizawa M, 2005, J PHYS CHEM B, V109, P18831, DOI 10.1021/jp0523773
+   Ashima H, 2007, SURF SCI, V601, P1822, DOI 10.1016/j.susc.2007.02.008
+   Bates SP, 1998, SURF SCI, V409, P336, DOI 10.1016/S0039-6028(98)00278-7
+   Beck T. J., 2004, PHYS REV LETT, V93, P4
+   Diebold U, 2003, SURF SCI REP, V48, P53, DOI 10.1016/S0167-5729(02)00100-0
+   Dimitrijevic NM, 2009, J AM CHEM SOC, V131, P2893, DOI 10.1021/ja807654k
+   Dimitrijevic NM, 2003, J PHYS CHEM B, V107, P7368, DOI 10.1021/jp034064i
+   Dolamic I, 2006, J PHYS CHEM B, V110, P14898, DOI 10.1021/jp0616967
+   Duncan WR, 2005, J PHYS CHEM B, V109, P365, DOI 10.1021/jp046342z
+   Fahmi A, 1995, SURF SCI, V343, P261, DOI 10.1016/0039-6028(95)00813-6
+   Farfan-Arribas E, 2003, J PHYS CHEM B, V107, P3225, DOI 10.1021/jp022344c
+   Fleming GJ, 2008, SURF SCI, V602, P2029, DOI 10.1016/j.susc.2008.04.010
+   Fleming GJ, 2007, SURF SCI, V601, P5726, DOI 10.1016/j.susc.2007.06.074
+   Fleming GJ, 2004, LANGMUIR, V20, P7540, DOI 10.1021/la049492+
+   Gong XQ, 2006, NAT MATER, V5, P665, DOI 10.1038/nmat1695
+   Grirrane A, 2008, SCIENCE, V322, P1661, DOI 10.1126/science.1166401
+   Guo Q, 1999, SURF SCI, V433, P322, DOI 10.1016/S0039-6028(99)00105-3
+   Guo Q, 1997, SURF SCI, V393, P1, DOI 10.1016/S0039-6028(97)00625-0
+   Gutierrez-Sosa A, 2001, SURF SCI, V471, P163, DOI 10.1016/S0039-6028(00)00902-X
+   Haukka M, 2002, SURF SCI, V511, P373, DOI 10.1016/S0039-6028(02)01543-1
+   He Y, 2009, PHYS REV LETT, V102, DOI 10.1103/PhysRevLett.102.020402
+   Hebenstreit W, 2000, PHYS REV B, V62, pR16334, DOI 10.1103/PhysRevB.62.R16334
+   Henderson MA, 2011, SURF SCI REP, V66, P185, DOI 10.1016/j.surfrep.2011.01.001
+   Hengerer R, 2000, SURF SCI, V460, P162, DOI 10.1016/S0039-6028(00)00527-6
+   Herman GS, 2000, PHYS REV LETT, V84, P3354, DOI 10.1103/PhysRevLett.84.3354
+   Herman GS, 2003, J PHYS CHEM B, V107, P2788, DOI 10.1021/jp0275544
+   Johansson EMJ, 2010, J PHYS CHEM C, V114, P15015, DOI 10.1021/jp104897k
+   Kalyanasundaram K, 2010, CURR OPIN BIOTECH, V21, P298, DOI 10.1016/j.copbio.2010.03.021
+   Kanie K, 2004, CHEM COMMUN, P1584, DOI 10.1039/b404220d
+   KASEMO B, 1986, CRIT REV BIOCOMPAT, V2, P335
+   Koppen S, 2008, J PHYS CHEM C, V112, P13600, DOI 10.1021/jp803354z
+   Kotsokechagia T, 2008, LANGMUIR, V24, P6988, DOI 10.1021/la800470e
+   Kruger P, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.055501
+   Lazzeri M., 2001, PHYS REV LETT, V87
+   Lazzeri M., 2002, PHYS REV B, V65, P1
+   Li SC, 2011, LANGMUIR, V27, P8600, DOI 10.1021/la201553k
+   Li SC, 2011, J PHYS CHEM C, V115, P10173, DOI 10.1021/jp202029a
+   Li SC, 2010, SCIENCE, V328, P882, DOI 10.1126/science.1188328
+   Li SC, 2010, J AM CHEM SOC, V132, P64, DOI 10.1021/ja907865t
+   Li SC, 2009, J AM CHEM SOC, V131, P980, DOI 10.1021/ja803595u
+   Liang Y., 2001, PHYS REV B, V63
+   Liu JQ, 2007, CHEM PHYS, V339, P154, DOI 10.1016/j.chemphys.2007.07.040
+   Mayor LC, 2008, J CHEM PHYS, V129, DOI 10.1063/1.2975339
+   McGill PR, 2008, SURF SCI, V602, P3688, DOI 10.1016/j.susc.2008.10.010
+   O'Shea JN, 2001, SURF SCI, V486, P157, DOI 10.1016/S0039-6028(01)01058-5
+   Onda K, 2005, SURF SCI, V593, P32, DOI 10.1016/j.susc.2005.06.044
+   OREGAN B, 1991, NATURE, V353, P737, DOI 10.1038/353737a0
+   Pang CL, 2008, CHEM SOC REV, V37, P2328, DOI 10.1039/b719085a
+   Patthey L, 1999, J CHEM PHYS, V110, P5913, DOI 10.1063/1.478491
+   Persson P, 2000, J PHYS CHEM B, V104, P10348, DOI 10.1021/jp002550p
+   Ramalho JPP, 2011, CHEM PHYS LETT, V501, P379, DOI 10.1016/j.cplett.2010.11.007
+   Qiu TZ, 2006, J COLLOID INTERF SCI, V303, P229, DOI 10.1016/j.jcis.2006.07.053
+   Quah EL, 2010, LANGMUIR, V26, P6411, DOI 10.1021/la9040985
+   Rajh T, 2004, NANO LETT, V4, P1017, DOI 10.1021/nl049684p
+   Redfern PC, 2003, J PHYS CHEM B, V107, P11419, DOI 10.1021/jp0303669
+   Sasahara A, 2006, J PHYS CHEM B, V110, P4751, DOI 10.1021/jp0562882
+   Schnadt J, 2003, SURF SCI, V544, P74, DOI 10.1016/j.susc.2003.08.013
+   Schnadt J, 2003, SURF SCI, V540, P39, DOI 10.1016/S0039-6028(03)00827-6
+   Schnadt J, 2002, NATURE, V418, P620, DOI 10.1038/nature00952
+   Smith MB, 2010, CHEM REV, V110, P6891, DOI 10.1021/cr1002613
+   Soria E, 1999, SURF SCI, V433, P543, DOI 10.1016/S0039-6028(99)00040-0
+   Soria E, 2000, SURF SCI, V451, P188, DOI 10.1016/S0039-6028(00)00026-1
+   Suzuki S, 1998, J CHEM SOC FARADAY T, V94, P161, DOI 10.1039/a705290a
+   Suzuki S, 1998, CATAL LETT, V50, P117, DOI 10.1023/A:1019087607068
+   Syres K, 2010, LANGMUIR, V26, P14548, DOI 10.1021/la1016092
+   Syres KL, 2012, SURF SCI, V606, P273, DOI 10.1016/j.susc.2011.10.005
+   Szieberth D, 2010, PHYS CHEM CHEM PHYS, V12, P11033, DOI 10.1039/c004155f
+   Tanner RE, 2002, SURF SCI, V506, P251, DOI 10.1016/S0039-6028(02)01388-2
+   Tao JG, 2011, J PHYS CHEM C, V115, P3434, DOI 10.1021/jp111270x
+   Thomas AG, 2007, PHYS REV B, V75, DOI 10.1103/PhysRevB.75.035105
+   Thomas AG, 2007, SURF SCI, V601, P3828, DOI 10.1016/j.susc.2007.04.085
+   Thomas AG, 2005, SURF SCI, V592, P159, DOI 10.1016/j.susc.2005.07.013
+   Tonner R, 2010, CHEMPHYSCHEM, V11, P1053, DOI 10.1002/cphc.200900902
+   Vega-Arroyo M, 2005, CHEM PHYS LETT, V406, P306, DOI 10.1016/j.cplett.2005.03.029
+   Wilson JN, 2011, SURF SCI, V605, P206, DOI 10.1016/j.susc.2010.10.020
+   Wilson JN, 2000, J VAC SCI TECHNOL A, V18, P1887, DOI 10.1116/1.582441
+   Xie Q, 2011, BIOMATERIALS, V32, P6588, DOI 10.1016/j.biomaterials.2011.05.055
+NR 78
+TC 184
+Z9 186
+U1 11
+U2 366
+PU ROYAL SOC CHEMISTRY
+PI CAMBRIDGE
+PA THOMAS GRAHAM HOUSE, SCIENCE PARK, MILTON RD, CAMBRIDGE CB4 0WF, CAMBS,
+   ENGLAND
+SN 0306-0012
+EI 1460-4744
+J9 CHEM SOC REV
+JI Chem. Soc. Rev.
+PY 2012
+VL 41
+IS 11
+BP 4207
+EP 4217
+DI 10.1039/c2cs35057b
+PG 11
+WC Chemistry, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry
+GA 941WV
+UT WOS:000303999800009
+PM 22517475
+DA 2022-10-21
+ER
+
+EF

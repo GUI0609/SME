@@ -1,0 +1,112 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Taqieddin, A
+   Aluru, NR
+AF Taqieddin, Amir
+   Aluru, N. R.
+TI Electronic Structure and Transport in Graphene Nanoribbon
+   Heterojunctions under Uniaxial Strain: Implications for Flexible
+   Electronics
+SO ACS APPLIED NANO MATERIALS
+LA English
+DT Article
+DE graphene nanoribbons; quantum electronic transport; electronic
+   structure; heterojunctions; nanoelectronics
+ID GROWTH
+AB Graphene nanoribbons (GNRs) are highly tunable electronic materials that can be assembled to form two-dimensional (2D) nanoarchitectures with unique electronic features. In this paper, we investigate 1D and 2D GNR-based heterojunctions by combining chevron and 9-armchair GNRs together. We then investigate the electronic structure and transport of GNR heterojunctions using first-principles simulations. The coupling of chevron and 9-armchair GNRs leads to the formation of emergent electronic states at the interface due to the geometric mismatch. These states strongly control the electronic structure of the heterojunction. Doping the heterojunction with nitrogen on the edges of the chevron segment shows that these emergent states could disappear from the lowest unoccupied molecular orbital due to the band alignment of the connected GNRs. We also investigate the effect of applying uniaxial strain on the electronic characteristics of the 1D and 2D nanoarchitectures. The results show a lower bandgap and higher electronic conductance as the compressive strain is increased. The nitrogen-doped 2D structure exhibits a lower bandgap and higher electronic currents due to higher transmission pathways. Overall, these fundamental insights could help in the development of 2D GNR-based flexible and wearable devices.
+C1 [Taqieddin, Amir; Aluru, N. R.] Univ Illinois, Dept Mech Sci & Engn, Urbana, IL 61801 USA.
+RP Aluru, NR (corresponding author), Univ Illinois, Dept Mech Sci & Engn, Urbana, IL 61801 USA.
+EM aluru@illinois.edu
+RI Taqieddin, Amir/AAG-4134-2020
+OI Taqieddin, Amir/0000-0002-5743-7110; Aluru, Narayana/0000-0002-9622-7837
+FU Office of Naval Research [N00014-19-1-2596]; NSF [OCI1053575,
+   OCI-0725070, ACI-1238993, OAC-1818253]; state of Illinois; National
+   GeospatialIntelligence Agency
+FX This research was supported by the Office of Naval Research (Grant
+   N00014-19-1-2596). The simulations were performed by using the Extreme
+   Science and Engineering Discovery Environment (XSEDE) (supported by NSF
+   Grant OCI1053575), Blue Waters (supported by NSF Awards OCI-0725070 and
+   ACI-1238993 and the state of Illinois and, as of December 2019,
+   supported by the National GeospatialIntelligence Agency), and the
+   Frontera computing project at the Texas Advanced Computing Center
+   (supported by NSF Grant OAC-1818253).
+CR Ahn GH, 2017, NAT COMMUN, V8, DOI 10.1038/s41467-017-00516-5
+   Balandin AA, 2011, NAT MATER, V10, P569, DOI [10.1038/NMAT3064, 10.1038/nmat3064]
+   Barin GB, 2019, ACS APPL NANO MATER, V2, P2184, DOI 10.1021/acsanm.9b00151
+   Bradlyn B, 2017, NATURE, V547, P298, DOI 10.1038/nature23268
+   Bronner C, 2018, ACS NANO, V12, P2193, DOI 10.1021/acsnano.7b08658
+   Cai JM, 2014, NAT NANOTECHNOL, V9, P896, DOI [10.1038/NNANO.2014.184, 10.1038/nnano.2014.184]
+   Cai JM, 2010, NATURE, V466, P470, DOI 10.1038/nature09211
+   Calogero G, 2019, J AM CHEM SOC, V141, P13081, DOI 10.1021/jacs.9b04649
+   Cao T, 2017, PHYS REV LETT, V119, DOI 10.1103/PhysRevLett.119.076401
+   Castro Neto AH, 2009, REV MOD PHYS, V81, P109, DOI 10.1103/RevModPhys.81.109
+   Cernevics K, 2020, PHYS REV B, V102, DOI 10.1103/PhysRevB.102.201406
+   Chen YC, 2015, NAT NANOTECHNOL, V10, P156, DOI [10.1038/NNANO.2014.307, 10.1038/nnano.2014.307]
+   Chen YC, 2013, ACS NANO, V7, P6123, DOI 10.1021/nn401948e
+   Di Giovannantonio M, 2018, ACS NANO, V12, P74, DOI 10.1021/acsnano.7b07077
+   El Abbassi M, 2020, ACS NANO, V14, P5754, DOI 10.1021/acsnano.0c00604
+   Fang A, 2019, NAT MATER, V18, P76, DOI 10.1038/s41563-018-0220-4
+   Giannozzi P, 2009, J PHYS-CONDENS MAT, V21, DOI 10.1088/0953-8984/21/39/395502
+   Groning O, 2018, NATURE, V560, P209, DOI 10.1038/s41586-018-0375-9
+   HOHENBERG P, 1964, PHYS REV B, V136, pB864, DOI 10.1103/PhysRev.136.B864
+   Hwang MT, 2020, NAT COMMUN, V11, DOI 10.1038/s41467-020-15330-9
+   Jacobse PH, 2020, J AM CHEM SOC, V142, P13507, DOI 10.1021/jacs.0c05235
+   Jiang DE, 2009, NANO LETT, V9, P4019, DOI 10.1021/nl9021946
+   Kim SJ, 2015, ANNU REV MATER RES, V45, P63, DOI 10.1146/annurev-matsci-070214-020901
+   Kimouche A, 2015, NAT COMMUN, V6, DOI 10.1038/ncomms10177
+   LANDAUER R, 1970, PHILOS MAG, V21, P863, DOI 10.1080/14786437008238472
+   Lee YL, 2018, NANO LETT, V18, P7247, DOI 10.1021/acs.nanolett.8b03416
+   Liang LB, 2015, J PHYS CHEM C, V119, P775, DOI 10.1021/jp510035e
+   Liu Y, 2017, NAT COMMUN, V8, DOI [10.1038/s41467-017-00698-y, 10.1038/s41467-017-00692-4]
+   Lv YW, 2019, J APPL PHYS, V125, DOI 10.1063/1.5048527
+   Martins TB, 2007, PHYS REV LETT, V98, DOI 10.1103/PhysRevLett.98.196803
+   Metzger C, 2010, NANO LETT, V10, P6, DOI 10.1021/nl901625v
+   Moreno C, 2018, SCIENCE, V360, P199, DOI 10.1126/science.aar2009
+   Novoselov KS, 2004, SCIENCE, V306, P666, DOI 10.1126/science.1102896
+   Papageorgiou DG, 2017, PROG MATER SCI, V90, P75, DOI 10.1016/j.pmatsci.2017.07.004
+   Perdew JP, 1996, PHYS REV LETT, V77, P3865, DOI 10.1103/PhysRevLett.77.3865
+   PERDEW JP, 1981, PHYS REV B, V23, P5048, DOI 10.1103/PhysRevB.23.5048
+   Pizzochero M., PHYS REV B CONDENS M
+   Radocea A, 2017, NANO LETT, V17, P170, DOI 10.1021/acs.nanolett.6b03709
+   Rizzo DJ, 2020, SCIENCE, V369, P1597, DOI 10.1126/science.aay3588
+   Rizzo DJ, 2019, NANO LETT, V19, P3221, DOI 10.1021/acs.nanolett.9b00758
+   Rizzo DJ, 2018, NATURE, V560, P204, DOI 10.1038/s41586-018-0376-8
+   Shekhirev M, 2018, ACS NANO, V12, P8662, DOI 10.1021/acsnano.8b04489
+   Shekhirev M, 2017, ACS APPL MATER INTER, V9, P693, DOI 10.1021/acsami.6b12508
+   Son YW, 2006, PHYS REV LETT, V97, DOI 10.1103/PhysRevLett.97.216803
+   Son YW, 2006, NATURE, V444, P347, DOI 10.1038/nature05180
+   Stokbro K, 2003, ANN NY ACAD SCI, V1006, P212, DOI 10.1196/annals.1292.014
+   Talirz L, 2017, ACS NANO, V11, P1380, DOI 10.1021/acsnano.6b06405
+   Trauzettel B, 2007, NAT PHYS, V3, P192, DOI 10.1038/nphys544
+   Yang L, 2007, PHYS REV LETT, V99, DOI 10.1103/PhysRevLett.99.186801
+   Zhou GQ, 2019, J PHYS CHEM LETT, V10, P7179, DOI 10.1021/acs.jpclett.9b02874
+NR 50
+TC 3
+Z9 3
+U1 3
+U2 11
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+EI 2574-0970
+J9 ACS APPL NANO MATER
+JI ACS Appl. Nano Mater.
+PD JUN 25
+PY 2021
+VL 4
+IS 6
+BP 5816
+EP 5824
+DI 10.1021/acsanm.1c00659
+EA JUN 2021
+PG 9
+WC Nanoscience & Nanotechnology; Materials Science, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics; Materials Science
+GA TC0WV
+UT WOS:000668366800023
+DA 2022-10-19
+ER
+
+EFF

@@ -1,0 +1,178 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Hilty, FW
+   Kuhlman, AK
+   Pauly, F
+   Zayak, AT
+AF Hilty, Floyd W.
+   Kuhlman, Andrew K.
+   Pauly, Fabian
+   Zayak, Alexey T.
+TI Raman Scattering from a Molecule-Semiconductor Interface Tuned by an
+   Electric Field: Density Functional Theory Approach
+SO JOURNAL OF PHYSICAL CHEMISTRY C
+LA English
+DT Article
+ID ENHANCED RAMAN; SILVER ELECTRODE; SURFACE; SERS; SPECTRA
+AB Spectroscopic chemical characterization of atomic-scale interfaces is a challenging scientific problem. In the search for new spectroscopic capabilities, we investigate nonresonant Raman interactions that occur at the interface between organic adsorbates and inorganic surfaces. Our system is a trans-1,2-bis(4-pyridyl)ethylene molecule adsorbed to a semiconductor PbSe surface. We employ first-principles density functional methods to investigate the vibrational dynamics and Raman spectra of this absorbate surface motif; and use an external electric bias to tune the degree of the interfacial chemical coupling. As a result, changes in the Raman spectra reveal a continuous transition between the weak and the strong coupling regimes. The strong coupling is associated with the vibration-induced charge transfer, which appears to be a damping mechanism that caps the chemical enhancement (CE) of the Raman spectra. This effect reduces the potential of CE to be used as merely an enhancing mechanism, but shows the potential of Raman scattering to probe changes in the interfacial electronic structure.
+C1 [Hilty, Floyd W.; Kuhlman, Andrew K.; Zayak, Alexey T.] Bowling Green State Univ, Ctr Photochem Sci, Dept Phys & Astron, Bowling Green, OH 43403 USA.
+   [Kuhlman, Andrew K.; Pauly, Fabian] Univ Konstanz, Dept Phys, D-78457 Constance, Germany.
+RP Zayak, AT (corresponding author), Bowling Green State Univ, Ctr Photochem Sci, Dept Phys & Astron, Bowling Green, OH 43403 USA.
+EM azayak@bgsu.edu
+RI Pauly, Fabian/I-8965-2012; Zayak, Alexey/J-7367-2018; Hilty,
+   Floyd/AAB-7805-2019
+OI Pauly, Fabian/0000-0001-8017-2379; Zayak, Alexey/0000-0002-5741-3864;
+   Hilty, Floyd/0000-0002-4677-5026
+FU Bowling Green State University (BGSU); Collaborative Research Center
+   [SFB 767]; Center for Applied Photonics (CAP); Carl Zeiss Foundation
+FX We thank Dr. Lasse Jensen, Dr. Stephen Cronin, and Elena Liskova for
+   stimulating discussions and Bowling Green State University (BGSU) for
+   the BGSU Building Strength grant. Computational resources were provided
+   by the Texas Advanced Computer Center (XSEDE) and Ohio Supercomputer
+   Center (OSC). F.P. and A.K.K. acknowledge support through Collaborative
+   Research Center SFB 767, the Center for Applied Photonics (CAP), and the
+   Carl Zeiss Foundation.
+CR Abdelsalam M, 2008, LANGMUIR, V24, P7018, DOI 10.1021/la800410x
+   ADRIAN FJ, 1982, J CHEM PHYS, V77, P5302, DOI 10.1063/1.443800
+   Campion A, 1998, CHEM SOC REV, V27, P241, DOI 10.1039/a827241z
+   FLEISCHMANN M, 1974, CHEM PHYS LETT, V26, P163, DOI 10.1016/0009-2614(74)85388-1
+   Haas P, 2009, PHYS REV B, V79, DOI 10.1103/PhysRevB.79.085104
+   Islam SK, 2013, J PHYS CHEM C, V117, P23372, DOI 10.1021/jp407647f
+   JEANMAIRE DL, 1977, J ELECTROANAL CHEM, V84, P1, DOI 10.1016/S0022-0728(77)80224-6
+   Kneipp K, 1997, PHYS REV LETT, V78, P1667, DOI 10.1103/PhysRevLett.78.1667
+   Kronik L, 2010, MRS BULL, V35, P417, DOI 10.1557/mrs2010.578
+   Kuhlman AK, 2014, J PHYS CHEM LETT, V5, P964, DOI 10.1021/jz500024x
+   Lombardi JR, 2014, J PHYS CHEM C, V118, P11120, DOI 10.1021/jp5020675
+   Moore JE, 2012, J PHYS CHEM LETT, V3, P2470, DOI 10.1021/jz300492p
+   Morton SM, 2009, J AM CHEM SOC, V131, P4090, DOI 10.1021/ja809143c
+   MOSKOVITS M, 1985, REV MOD PHYS, V57, P783, DOI 10.1103/RevModPhys.57.783
+   Moskovits M, 2013, PHYS CHEM CHEM PHYS, V15, P5301, DOI 10.1039/c2cp44030j
+   Neaton JB, 2006, PHYS REV LETT, V97, DOI 10.1103/PhysRevLett.97.216405
+   Perdew JP, 1996, PHYS REV LETT, V77, P3865, DOI 10.1103/PhysRevLett.77.3865
+   Postnikov AV, 2005, PHYS REV B, V71, DOI 10.1103/PhysRevB.71.115206
+   Ramasamy K, 2011, EUR J INORG CHEM, P5196, DOI 10.1002/ejic.201100829
+   Saikin SK, 2010, J PHYS CHEM LETT, V1, P2740, DOI 10.1021/jz1008714
+   Soler JM, 2002, J PHYS-CONDENS MAT, V14, P2745, DOI 10.1088/0953-8984/14/11/302
+   Yang WH, 1996, J CHEM PHYS, V104, P4313, DOI 10.1063/1.471241
+   Yu M, 2013, J PHYS CHEM LETT, V4, P1701, DOI 10.1021/jz400601t
+   Zayak AT, 2011, PHYS REV LETT, V106, DOI 10.1103/PhysRevLett.106.083003
+   Zayak AT, 2012, J PHYS CHEM LETT, V3, P1357, DOI 10.1021/jz300374d
+NR 25
+TC 8
+Z9 8
+U1 2
+U2 47
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 1932-7447
+J9 J PHYS CHEM C
+JI J. Phys. Chem. C
+PD OCT 8
+PY 2015
+VL 119
+IS 40
+BP 23113
+EP 23118
+DI 10.1021/acs.jpcc.5b08089
+PG 6
+WC Chemistry, Physical; Nanoscience & Nanotechnology; Materials Science,
+   Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Science & Technology - Other Topics; Materials Science
+GA CT3JD
+UT WOS:000362702100041
+DA 2022-10-21
+ER
+
+PT J
+AU Chakarawet, K
+   Bunting, PC
+   Long, JR
+AF Chakarawet, Khetpakorn
+   Bunting, Philip C.
+   Long, Jeffrey R.
+TI Large Anisotropy Barrier in a Tetranuclear Single-Molecule Magnet
+   Featuring Low-Coordinate Cobalt Centers
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+LA English
+DT Article
+ID SPIN-LATTICE-RELAXATION; LINEAR IRON(I); COMPLEXES; MAGNETIZATION;
+   CLUSTERS; FIELD
+AB The tetranuclear cobalt cluster compound [Co-4(mu-NPtBu3)(4)][B(C6F(5))(4)] (tBu = tert-butyl) was synthesized by chemical oxidation of Co-4(NPtBu3)(4) with [FeCp2][B(C6F5)(4)] and magnetically characterized to study the effect of electronic communication between low-coordinate metal centers on slow magnetic relaxation in a transition metal cluster. The dc magnetic susceptibility data reveal that the complex exhibits a well-isolated S = 9/2 ground state, which persists even to 300 K and is attributed to the existence of direct metal-metal orbital overlap. The ac magnetic susceptibility data further reveals that the complex exhibits slow magnetic relaxation in the absence of an applied field, and that the relaxation dynamics can be fit with a combination of Orbach, quantum tunneling, and Raman relaxation processes. The effective spin reversal barrier for this molecule is 87 cm(-1), the largest reported to date for a transition metal cluster, and arises due to the presence of a large easy-axis magnetic anisotropy. The complex additionally exhibits waist-restricted magnetic hysteresis and magnetic blocking below 3.6 K. Taken together, these results indicate that coupling of low-coordinate metal centers is a promising strategy to enhance magnetic anisotropy and slow magnetic relaxation in transition metal cluster compounds.
+C1 [Chakarawet, Khetpakorn; Bunting, Philip C.; Long, Jeffrey R.] Univ Calif Berkeley, Dept Chem, Berkeley, CA 94720 USA.
+   [Long, Jeffrey R.] Univ Calif Berkeley, Dept Chem & Biomol Engn, Berkeley, CA 94720 USA.
+   [Long, Jeffrey R.] Lawrence Berkeley Natl Lab, Div Mat Sci, Berkeley, CA 94720 USA.
+RP Long, JR (corresponding author), Univ Calif Berkeley, Dept Chem, Berkeley, CA 94720 USA.; Long, JR (corresponding author), Univ Calif Berkeley, Dept Chem & Biomol Engn, Berkeley, CA 94720 USA.; Long, JR (corresponding author), Lawrence Berkeley Natl Lab, Div Mat Sci, Berkeley, CA 94720 USA.
+EM jrlong@berkeley.edu
+FU NSF [CHE-1464841]; government of Thailand through a Development and
+   Promotion of Science and Technology (DPST) scholarship; Office of
+   Science, Office of Basic Energy Sciences, of the U.S. Department of
+   Energy [DE-AC-02-05CH11231]; Direct For Mathematical & Physical Scien
+   [1464841] Funding Source: National Science Foundation
+FX This work was funded by NSF Grant CHE-1464841. We thank the government
+   of Thailand for support of K.C. through a Development and Promotion of
+   Science and Technology (DPST) scholarship. Single-crystal X-ray
+   diffraction data were collected on Beamline 11.3.1 at the Advanced Light
+   Source, which is supported by the Director, Office of Science, Office of
+   Basic Energy Sciences, of the U.S. Department of Energy under Contract
+   no. DE-AC-02-05CH11231. We additionally thank Dr. Rodolphe Clerac for
+   valuable discussions, Lucy E. Darago for assistance with the paper
+   revision, and Dr. Katie R. Meihaus for editorial assistance.
+CR Bogani L, 2008, NAT MATER, V7, P179, DOI 10.1038/nmat2133
+   Camacho-Bunquin J, 2013, J AM CHEM SOC, V135, P5537, DOI 10.1021/ja401579x
+   Carl E, 2015, CHEM-EUR J, V21, P10109, DOI 10.1002/chem.201406083
+   Cotton FA, 1997, INORG CHIM ACTA, V256, P277, DOI 10.1016/S0020-1693(96)05470-9
+   Gatteschi D, 2003, ANGEW CHEM INT EDIT, V42, P268, DOI 10.1002/anie.200390099
+   Gatteschi D, 2006, MESOSCOPIC PHYS NANO, P1
+   Goodwin CAP, 2017, NATURE, V548, P439, DOI 10.1038/nature23447
+   Guo FS, 2017, ANGEW CHEM INT EDIT, V56, P11445, DOI 10.1002/anie.201705426
+   Harman WH, 2010, J AM CHEM SOC, V132, P18115, DOI 10.1021/ja105291x
+   Leuenberger MN, 2001, NATURE, V410, P789, DOI 10.1038/35071024
+   Mannini M, 2009, NAT MATER, V8, P194, DOI [10.1038/NMAT2374, 10.1038/nmat2374]
+   Milios CJ, 2007, J AM CHEM SOC, V129, P2754, DOI 10.1021/ja068961m
+   Neese F, 2011, FARADAY DISCUSS, V148, P229, DOI 10.1039/c005256f
+   ORBACH R, 1961, PROC R SOC LON SER-A, V264, P458, DOI 10.1098/rspa.1961.0211
+   Rechkemmer Y, 2016, NAT COMMUN, V7, DOI 10.1038/ncomms10467
+   Rinehart JD, 2011, CHEM SCI, V2, P2078, DOI 10.1039/c1sc00513h
+   Ruiz E, 2008, CHEM COMMUN, P52, DOI 10.1039/b714715e
+   Sanchez RH, 2015, J AM CHEM SOC, V137, P13949, DOI 10.1021/jacs.5b08962
+   Sanchez RH, 2015, J AM CHEM SOC, V137, P11126, DOI 10.1021/jacs.5b06453
+   SESSOLI R, 1993, NATURE, V365, P141, DOI 10.1038/365141a0
+   SESSOLI R, 1993, J AM CHEM SOC, V115, P1804, DOI 10.1021/ja00058a027
+   SHRIVASTAVA KN, 1983, PHYS STATUS SOLIDI B, V117, P437, DOI 10.1002/pssb.2221170202
+   Yao XN, 2017, J AM CHEM SOC, V139, P373, DOI 10.1021/jacs.6b11043
+   Yoshihara D, 2011, POLYHEDRON, V30, P3211, DOI 10.1016/j.poly.2011.04.013
+   Zadrozny JM, 2013, INORG CHEM, V52, P13123, DOI 10.1021/ic402013n
+   Zadrozny JM, 2013, NAT CHEM, V5, P577, DOI [10.1038/NCHEM.1630, 10.1038/nchem.1630]
+   Zadrozny JM, 2013, CHEM SCI, V4, P125, DOI 10.1039/c2sc20801f
+NR 27
+TC 38
+Z9 38
+U1 1
+U2 67
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0002-7863
+J9 J AM CHEM SOC
+JI J. Am. Chem. Soc.
+PD FEB 14
+PY 2018
+VL 140
+IS 6
+BP 2058
+EP 2061
+DI 10.1021/jacs.7b13394
+PG 4
+WC Chemistry, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry
+GA FW7BX
+UT WOS:000425475300019
+PM 29359930
+DA 2022-10-21
+ER
+
+EF

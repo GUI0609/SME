@@ -1,0 +1,248 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Xu, BQ
+   Xiao, XY
+   Yang, XM
+   Zang, L
+   Tao, NJ
+AF Xu, BQ
+   Xiao, XY
+   Yang, XM
+   Zang, L
+   Tao, NJ
+TI Large gate modulation in the current of a room temperature single
+   molecule transistor
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+LA English
+DT Article
+ID SCANNING-TUNNELING-MICROSCOPY; CURRENT-VOLTAGE CHARACTERISTICS; CARBON
+   NANOTUBE; SEMICONDUCTORS; ELECTRONICS; RECTIFIERS; RESISTANCE; DEVICES;
+   VAPOR
+C1 Arizona State Univ, Ctr Solid State Elect Res, Tempe, AZ 85287 USA.
+   So Illinois Univ, Dept Chem & Biochem, Carbondale, IL 62901 USA.
+RP Zang, L (corresponding author), Arizona State Univ, Ctr Solid State Elect Res, Tempe, AZ 85287 USA.
+EM lzang@chem.siu.edu; ntao1@mainex1.asu.edu
+RI Tao, NJ/B-1628-2008; Zang, Ling/ABA-7323-2021
+OI Zang, Ling/0000-0002-4299-0992
+CR AVIRAM A, 1974, CHEM PHYS LETT, V29, P277, DOI 10.1016/0009-2614(74)85031-1
+   Carroll RL, 2002, ANGEW CHEM INT EDIT, V41, P4379, DOI 10.1002/1521-3773(20021202)41:23<4378::AID-ANIE4378>3.0.CO;2-A
+   Chen J, 1999, SCIENCE, V286, P1550, DOI 10.1126/science.286.5444.1550
+   Collier CP, 1999, SCIENCE, V285, P391, DOI 10.1126/science.285.5426.391
+   Collins PC, 2001, SCIENCE, V292, P706, DOI 10.1126/science.1058782
+   Cui Y, 2001, SCIENCE, V291, P851, DOI 10.1126/science.291.5505.851
+   Damle P, 2002, IEEE T NANOTECHNOL, V1, P145, DOI 10.1109/TNANO.2002.806825
+   Datta S, 1997, PHYS REV LETT, V79, P2530, DOI 10.1103/PhysRevLett.79.2530
+   Di Ventra M, 2000, APPL PHYS LETT, V76, P3448, DOI 10.1063/1.126673
+   Gittins DI, 2000, NATURE, V408, P67, DOI 10.1038/35040518
+   Gregg BA, 2001, J AM CHEM SOC, V123, P7959, DOI 10.1021/ja016410k
+   Haiss W, 2003, J AM CHEM SOC, V125, P15294, DOI 10.1021/ja038214e
+   Javey A, 2003, NATURE, V424, P654, DOI 10.1038/nature01797
+   Joachim C, 2000, NATURE, V408, P541, DOI 10.1038/35046000
+   Katz HE, 2000, NATURE, V404, P478, DOI 10.1038/35006603
+   Kubatkin S, 2003, NATURE, V425, P698, DOI 10.1038/nature02010
+   Kuznetsov AM, 2000, J PHYS CHEM A, V104, P11531, DOI 10.1021/jp993635x
+   Kuznetsov AN, 2002, CHEM PHYS, V282, P371, DOI 10.1016/S0301-0104(02)00763-2
+   Liang WJ, 2002, NATURE, V417, P725, DOI 10.1038/nature00790
+   Metzger RM, 2003, CHEM REV, V103, P3803, DOI 10.1021/cr020413d
+   Newman CR, 2004, CHEM MATER, V16, P4436, DOI 10.1021/cm049391x
+   Park H, 2000, NATURE, V407, P57, DOI 10.1038/35024031
+   Park J, 2002, NATURE, V417, P722, DOI 10.1038/nature00791
+   SCHMICKLER W, 1992, J ELECTROANAL CHEM, V336, P213, DOI 10.1016/0022-0728(92)80272-6
+   Schmidt-Mende L, 2001, SCIENCE, V293, P1119, DOI 10.1126/science.293.5532.1119
+   Scudiero L, 2001, J AM CHEM SOC, V123, P4073, DOI 10.1021/ja0100726
+   Tans SJ, 1998, NATURE, V393, P49
+   Tao NJ, 1996, PHYS REV LETT, V76, P4066, DOI 10.1103/PhysRevLett.76.4066
+   Thelakkat M, 2002, ADV MATER, V14, P577, DOI 10.1002/1521-4095(20020418)14:8<577::AID-ADMA577>3.0.CO;2-S
+   Tran E, 2004, ANGEW CHEM INT EDIT, V43, P3835, DOI 10.1002/anie.200453945
+   Xu BQ, 2003, SCIENCE, V301, P1221, DOI 10.1126/science.1087481
+NR 31
+TC 260
+Z9 265
+U1 5
+U2 102
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0002-7863
+J9 J AM CHEM SOC
+JI J. Am. Chem. Soc.
+PD MAR 2
+PY 2005
+VL 127
+IS 8
+BP 2386
+EP 2387
+DI 10.1021/ja042385h
+PG 2
+WC Chemistry, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED); Index Chemicus (IC)
+SC Chemistry
+GA 901UR
+UT WOS:000227308100010
+PM 15724981
+DA 2022-10-21
+ER
+
+PT J
+AU Zhang, HQ
+   Boussaad, S
+   Ly, N
+   Tao, NJJ
+AF Zhang, HQ
+   Boussaad, S
+   Ly, N
+   Tao, NJJ
+TI Magnetic-field-assisted assembly of metal/polymer/metal junction sensors
+SO APPLIED PHYSICS LETTERS
+LA English
+DT Article
+ID NANOWIRES; CONDUCTANCE; OXIDATION; POLYMERS; FILMS
+AB We present a method to assemble Au/polyaniline/Au junctions and demonstrate a chemical sensor application. The building blocks consist of an array of microelectrodes on a silicon chip, microfabricated metallic bars, and a thin polyaniline layer deposited on the microelectrodes or on the bars. The individual bars suspended in solution are placed, with the help of a magnetic field, across the microelectrodes to form the junctions. The polyaniline layer is similar to30 nm thick and modified with glycine-glycine-histidine oligopeptides. Strong binding of Cu2+ to the oligopeptide is converted into a conductance change of the junctions, allowing selective detection of trace amounts of Cu+2 ions. (C) 2004 American Institute of Physics.
+C1 Arizona State Univ, Dept Elect Engn, Tempe, AZ 85287 USA.
+   Arizona State Univ, Ctr Solid State Elect Res, Tempe, AZ 85287 USA.
+RP Zhang, HQ (corresponding author), Arizona State Univ, Dept Elect Engn, Tempe, AZ 85287 USA.
+EM nongjian.tao@asu.edu
+RI Tao, NJ/B-1628-2008
+CR Amlani I, 2002, APPL PHYS LETT, V80, P2761, DOI 10.1063/1.1469655
+   Bartlett PN, 2000, CHEM COMMUN, P105, DOI 10.1039/a902905b
+   Bartlett PN, 2000, PHYS CHEM CHEM PHYS, V2, P2599, DOI 10.1039/b001107j
+   Bogozi A, 2001, J AM CHEM SOC, V123, P4585, DOI 10.1021/ja004335s
+   Brousseau LC, 1998, J AM CHEM SOC, V120, P7645, DOI 10.1021/ja981262s
+   Chien CL, 2002, J MAGN MAGN MATER, V249, P146, DOI 10.1016/S0304-8853(02)00523-1
+   Collins PG, 2000, SCIENCE, V287, P1801, DOI 10.1126/science.287.5459.1801
+   Cui Y, 2001, SCIENCE, V293, P1289, DOI 10.1126/science.1062711
+   Favier F, 2001, SCIENCE, V293, P2227, DOI 10.1126/science.1063189
+   Gerard M, 2002, BIOSENS BIOELECTRON, V17, P345, DOI 10.1016/S0956-5663(01)00312-8
+   Gracias DH, 2000, SCIENCE, V289, P1170, DOI 10.1126/science.289.5482.1170
+   He HX, 2001, APPL PHYS LETT, V78, P811, DOI 10.1063/1.1335551
+   Huang JX, 2003, J AM CHEM SOC, V125, P314, DOI 10.1021/ja028371y
+   Kong J, 2000, SCIENCE, V287, P622, DOI 10.1126/science.287.5453.622
+   Li C, 2003, APPL PHYS LETT, V82, P1613, DOI 10.1063/1.1559438
+   Li CZ, 2000, APPL PHYS LETT, V76, P1333, DOI 10.1063/1.126025
+   Raitman OA, 2002, J AM CHEM SOC, V124, P6487, DOI 10.1021/ja012680r
+   Shiraishi N, 2000, BIOCHEM BIOPH RES CO, V267, P398, DOI 10.1006/bbrc.1999.1944
+   Smith PA, 2000, APPL PHYS LETT, V77, P1399, DOI 10.1063/1.1290272
+   Walker AK, 1999, ANAL BIOCHEM, V271, P123, DOI 10.1006/abio.1999.4141
+   Wallace GG, 2002, ADV MATER, V14, P953, DOI 10.1002/1521-4095(20020705)14:13/14<953::AID-ADMA953>3.0.CO;2-T
+   Wolfe DB, 2003, LANGMUIR, V19, P2206, DOI 10.1021/la0264973
+   Yang WR, 2001, CHEM COMMUN, P1982, DOI 10.1039/b106730n
+   Zheng YJ, 2002, CHEM COMMUN, P2350, DOI 10.1039/b208012e
+NR 24
+TC 22
+Z9 22
+U1 1
+U2 9
+PU AMER INST PHYSICS
+PI MELVILLE
+PA 1305 WALT WHITMAN RD, STE 300, MELVILLE, NY 11747-4501 USA
+SN 0003-6951
+EI 1077-3118
+J9 APPL PHYS LETT
+JI Appl. Phys. Lett.
+PD JAN 5
+PY 2004
+VL 84
+IS 1
+BP 133
+EP 135
+DI 10.1063/1.1633678
+PG 3
+WC Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Physics
+GA 759BH
+UT WOS:000187717600045
+DA 2022-10-21
+ER
+
+PT J
+AU Boussaad, S
+   Xu, BQ
+   Nagahara, LA
+   Amlani, I
+   Schmickler, W
+   Tsui, R
+   Tao, NJ
+AF Boussaad, S
+   Xu, BQ
+   Nagahara, LA
+   Amlani, I
+   Schmickler, W
+   Tsui, R
+   Tao, NJ
+TI Discrete tunneling current fluctuations in metal-water-metal tunnel
+   junctions
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+ID STM; SURFACES; NOISE; FABRICATION; ELECTRODES; NANOWIRES; STATES
+AB We have studied electron tunneling through water between two metal electrodes supported on a solid substrate and observed random fluctuations in the tunneling current between two discrete levels. The two-level fluctuations persist when changing the concentration and the valency of the ions, and pH of the water solutions. A given two-level fluctuation is, in general, not affected by the applied bias voltage, but it is usually disrupted by changing the width of the tunnel gap. We attribute the discrete conductance fluctuations to random trapping or escaping of a single electron in or from a localized state in the tunnel gap. (C) 2003 American Institute of Physics.
+C1 Arizona State Univ, Dept Elect Engn, Tempe, AZ 85287 USA.
+   Arizona State Univ, Ctr Solid State Elect Res, Tempe, AZ 85287 USA.
+   Motorola Labs, Phys Sci Res Labs, Tempe, AZ 85284 USA.
+   Univ Ulm, Abt Elektrochem, D-89069 Ulm, Germany.
+RP Boussaad, S (corresponding author), Arizona State Univ, Dept Elect Engn, Tempe, AZ 85287 USA.
+RI Tao, NJ/B-1628-2008
+CR BINGGELI M, 1991, J VAC SCI TECHNOL B, V9, P1985, DOI 10.1116/1.585393
+   Boussaad S, 2002, APPL PHYS LETT, V80, P2398, DOI 10.1063/1.1465128
+   Clark BK, 2002, SURF SCI, V498, P285, DOI 10.1016/S0039-6028(01)01766-6
+   FARMER KR, 1987, PHYS REV LETT, V58, P2255, DOI 10.1103/PhysRevLett.58.2255
+   Gahl C, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.107402
+   Galperin M, 2002, J PHYS CHEM A, V106, P10790, DOI 10.1021/jp025813j
+   Ge NH, 1998, SCIENCE, V279, P202, DOI 10.1126/science.279.5348.202
+   GORMER R, 1986, APPL PHYS A, V39, P1
+   HALBRITTER J, 1995, ELECTROCHIM ACTA, V40, P1385, DOI 10.1016/0013-4686(95)00038-G
+   HE HJ, UNPUB
+   He HX, 2001, J AM CHEM SOC, V123, P7730, DOI 10.1021/ja016264i
+   Hong YA, 1998, J CHEM PHYS, V108, P4367, DOI 10.1063/1.475847
+   JIANG XG, 1990, PHYS REV B, V42, P5427, DOI 10.1103/PhysRevB.42.5427
+   Li CZ, 1998, APPL PHYS LETT, V72, P894, DOI 10.1063/1.120928
+   Li CZ, 1999, NANOTECHNOLOGY, V10, P221, DOI 10.1088/0957-4484/10/2/320
+   Li CZ, 2000, APPL PHYS LETT, V77, P3995, DOI 10.1063/1.1332406
+   MACHLUP S, 1954, J APPL PHYS, V25, P341, DOI 10.1063/1.1721637
+   MARCUS RA, 1956, J CHEM PHYS, V24, P966, DOI 10.1063/1.1742723
+   Memmel N, 1998, SURF SCI REP, V32, P91, DOI 10.1016/S0167-5729(98)00006-5
+   Miller AD, 2002, SCIENCE, V297, P1163, DOI 10.1126/science.1073571
+   Morpurgo AF, 1999, APPL PHYS LETT, V74, P2084, DOI 10.1063/1.123765
+   Nagy G, 1997, J ELECTROANAL CHEM, V437, P37, DOI 10.1016/S0022-0728(97)00061-2
+   NAGY G, 1995, ELECTROCHIM ACTA, V40, P1417, DOI 10.1016/0013-4686(95)00043-E
+   PAN J, 1994, J PHYS CHEM-US, V98, P4205, DOI 10.1021/j100067a001
+   Peskin U, 1999, J CHEM PHYS, V111, P7558, DOI 10.1063/1.480082
+   PORTER JD, 1993, J PHYS CHEM-US, V97, P1190, DOI 10.1021/j100108a015
+   ROGERS CT, 1985, PHYS REV LETT, V55, P859, DOI 10.1103/PhysRevLett.55.859
+   SCHMICKLER W, 1995, SURF SCI, V335, P416, DOI 10.1016/0039-6028(95)00451-3
+   SCHMIDLIN FW, 1966, J APPL PHYS, V37, P2823, DOI 10.1063/1.1782131
+   SPOHR E, IN PRESS SOLID STATE
+   SUMETSKII M, 1994, SURF SCI, V307, P23, DOI 10.1016/0039-6028(94)90364-6
+   SUMETSKII M, 1993, PHYS REV B, V48, P17493, DOI 10.1103/PhysRevB.48.17493
+   VAUGHT A, 1995, CHEM PHYS LETT, V236, P306, DOI 10.1016/0009-2614(95)00223-Q
+NR 33
+TC 21
+Z9 21
+U1 2
+U2 15
+PU AMER INST PHYSICS
+PI MELVILLE
+PA 1305 WALT WHITMAN RD, STE 300, MELVILLE, NY 11747-4501 USA
+SN 0021-9606
+EI 1089-7690
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PD MAY 15
+PY 2003
+VL 118
+IS 19
+BP 8891
+EP 8897
+DI 10.1063/1.1566933
+PG 7
+WC Chemistry, Physical; Physics, Atomic, Molecular & Chemical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Physics
+GA 673WJ
+UT WOS:000182603000039
+DA 2022-10-21
+ER
+
+EF

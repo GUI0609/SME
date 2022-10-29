@@ -1,0 +1,70 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Godunov, IA
+   Yakovlev, NN
+   Maslov, DV
+   Bokarev, SI
+AF Godunov, I. A.
+   Yakovlev, N. N.
+   Maslov, D. V.
+   Bokarev, S. I.
+TI Vibronic spectra, ab initio calculations, and structures of
+   conformationally non-rigid molecules of oxalyl halides in the ground and
+   lowest excited electronic states. Part IV: Analysis of the absorption
+   spectra of oxalyl fluoride in the gas phase
+SO JOURNAL OF MOLECULAR SPECTROSCOPY
+LA English
+DT Article
+DE Oxalyl fluoride, Vibronic spectra; Internal rotation
+ID SINGLE ROTATIONAL LEVELS; EXTERNAL MAGNETIC-FIELD; (A)OVER-TILDE(1)A(U)
+   STATE; EXCITATION; STABILITY; CHLORIDE; SRLS
+AB The gas phase absorption spectrum of oxalyl fluoride in the region of 37 000-29 300 cm(-1) has been examined at high resolution. Singlet-singlet (A) over tilde (1)A(u) <-- <(X)over tilde>(1)A(g) and singlet-triplet (a) over tilde (3)A(u) <-- <(X)over tilde>(1)A(g) electronic transitions of the trans-conformer were found in the spectrum. The fundamental frequencies of trans-oxalyl fluoride in the (A) over tilde (1)A(u) and (a) over tilde (3)A(u) electronic states were determined.
+   In the low resolution ultraviolet absorption spectrum of oxalyl fluoride in the gas phase the (A) over tilde (1)B(1) <-- <(X)over tilde>(1)A(1) transition of the cis-conformer (roan) was found to be shifted to the blue by about 6000 cm(-1) relative to the (A) over tilde (1)A(u) <-- <(X)over tilde>(1)A(g) transition of the trans-conformer. (C) 2010 Elsevier Inc. All rights reserved.
+C1 [Godunov, I. A.; Yakovlev, N. N.; Maslov, D. V.; Bokarev, S. I.] Moscow MV Lomonosov State Univ, Dept Chem, Moscow 119991, Russia.
+RP Godunov, IA (corresponding author), Moscow MV Lomonosov State Univ, Dept Chem, Leninskie Gory 1-3, Moscow 119991, Russia.
+EM godunov@phys.chem.msu.ru
+RI Yakovlev, Nikolay/I-8272-2012; Godunov, Igor/E-6082-2012; Bokarev,
+   Sergey I./S-8682-2017; Godunov, Igor/H-8839-2012
+OI Bokarev, Sergey I./0000-0003-0779-5013; 
+CR BALFOUR WJ, 1968, J MOL SPECTROSC, V25, P130, DOI 10.1016/S0022-2852(68)80041-4
+   BALFOUR WJ, 1977, J CHEM PHYS, V67, P4286
+   Bokarev SI, 2010, J MOL SPECTROSC, V260, P50, DOI 10.1016/j.jms.2009.12.006
+   Bokarev SI, 2009, J MOL SPECTROSC, V256, P247, DOI 10.1016/j.jms.2009.05.004
+   Durig JR, 1996, J RAMAN SPECTROSC, V27, P841, DOI 10.1002/(SICI)1097-4555(199611)27:11<841::AID-JRS41>3.0.CO;2-0
+   Friesen DT, 2006, J PHYS CHEM A, V110, P12986, DOI 10.1021/jp062575+
+   Godunov IA, 2009, J MOL SPECTROSC, V255, P39, DOI 10.1016/j.jms.2009.02.019
+   HOLLAS JM, 1990, J CHEM SOC FARADAY T, V86, P2015, DOI 10.1039/ft9908602015
+   Makarov VI, 2002, CHEM PHYS, V281, P71, DOI 10.1016/S0301-0104(02)00573-6
+   Makarov VI, 2002, J CHEM PHYS, V117, P1567, DOI 10.1063/1.1486212
+   Makarov VI, 2006, MOL PHYS, V104, P2497, DOI 10.1080/00268970600795190
+   MARSTOKK KM, 1995, ACTA CHEM SCAND, V49, P172, DOI 10.3891/acta.chem.scand.49-0172
+   Western C. M., PGOPHER PROGRAM SIMU
+NR 13
+TC 6
+Z9 6
+U1 0
+U2 4
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0022-2852
+J9 J MOL SPECTROSC
+JI J. Mol. Spectrosc.
+PD APR
+PY 2010
+VL 260
+IS 2
+BP 124
+EP 129
+DI 10.1016/j.jms.2010.02.002
+PG 6
+WC Physics, Atomic, Molecular & Chemical; Spectroscopy
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Physics; Spectroscopy
+GA 587IH
+UT WOS:000276983600006
+DA 2022-10-21
+ER
+
+EF

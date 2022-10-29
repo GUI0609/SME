@@ -1,0 +1,493 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Hou, CF
+   Xu, J
+   Ge, W
+   Li, JH
+AF Hou, Chaofeng
+   Xu, Ji
+   Ge, Wei
+   Li, Jinghai
+TI Molecular dynamics simulation overcoming the finite size effects of
+   thermal conductivity of bulk silicon and silicon nanowires
+SO MODELLING AND SIMULATION IN MATERIALS SCIENCE AND ENGINEERING
+LA English
+DT Article
+DE molecular dynamics simulation; size effect; thermal conductivity;
+   silicon nanowires; bulk silicon
+ID CONDUCTANCE
+AB Nonequilibrium molecular dynamics simulation has been a powerful tool for studying the thermophysical properties of bulk silicon and silicon nanowires. Nevertheless, usually limited by the capacity and capability of computational resources, the traditional longitudinal and transverse simulation sizes are evidently restricted in a narrow range much less than the experimental scales, which seriously hinders the exploration of the thermal properties. In this research, based on a powerful and efficient molecular dynamics (MD) simulation method, the computation of thermal conductivity beyond the known Casimir size limits is realized. The longitudinal dimensions of the simulations significantly exceed the micrometer scale. More importantly, the lateral characteristic sizes are much larger than 10 nanometers, explicitly comparable with the silicon nanowires fabricated and measured experimentally, whereas the traditional simulation size is several nanometers. The powerful virtual experimental measurement provided in our simulations achieves the direct prediction of the thermal conductivity of bulk silicon and real-scale silicon nanowires, and delineates the complete longitudinal size dependence of their thermal conductivities, especially at the elusive mesoscopic scale. Furthermore, the presented measurement paves an exciting and promising way to explore in depth the thermophysical properties of other bulk covalent solids and their low-dimensional structures, such as nanowires and nanosheets.
+C1 [Hou, Chaofeng; Xu, Ji; Ge, Wei; Li, Jinghai] Chinese Acad Sci, Inst Proc Engn, POB 353, Beijing 100190, Peoples R China.
+RP Hou, CF; Ge, W (corresponding author), Chinese Acad Sci, Inst Proc Engn, POB 353, Beijing 100190, Peoples R China.
+EM cfhou@ipe.ac.cn; wge@ipe.ac.cn
+RI Li, Jinghai/L-4066-2013
+FU Ministry of Finance [ZDYZ2008-2]; National Natural Science Foundation of
+   China (NSFC) [21106147, 11272312, 21225628, 91434201]; Chinese Academy
+   of Sciences (CAS) [XDA07080100]; CAS Interdisciplinary Innovation Team
+FX The authors are grateful to Dr Wenlai Huang of the Institute of Process
+   Engineering of the Chinese Academy of Sciences and Dr Peng Wang of the
+   NVIDIA Corporation for their valuable help. This work is financed by the
+   Ministry of Finance under grant No. ZDYZ2008-2, the National Natural
+   Science Foundation of China (NSFC) under grant Nos. 21106147, 11272312,
+   21225628, and 91434201, the Chinese Academy of Sciences (CAS) under
+   grant No. XDA07080100, and the CAS Interdisciplinary Innovation Team.
+CR Anderson CVDR, 2004, INT J NUMER METHOD H, V14, P12, DOI 10.1108/09615530410511621
+   Anderson JA, 2008, J COMPUT PHYS, V227, P5342, DOI 10.1016/j.jcp.2008.01.047
+   Boukai AI, 2008, NATURE, V451, P168, DOI 10.1038/nature06458
+   Chan CK, 2010, ACS NANO, V4, P1443, DOI 10.1021/nn901409q
+   Chantrenne P, 2004, J HEAT TRANS-T ASME, V126, P577, DOI 10.1115/1.1777582
+   Chen R, 2008, PHYS REV LETT, V101, DOI 10.1103/PhysRevLett.101.105501
+   Cruz H, 2011, J APPL PHYS, V109, DOI 10.1063/1.3573485
+   Donadio D, 2010, NANO LETT, V10, P847, DOI 10.1021/nl903268y
+   Donadio D, 2009, PHYS REV LETT, V102, DOI 10.1103/PhysRevLett.102.195901
+   Friedrichs MS, 2009, J COMPUT CHEM, V30, P864, DOI 10.1002/jcc.21209
+   He YP, 2012, PHYS CHEM CHEM PHYS, V14, P16209, DOI 10.1039/c2cp42394d
+   He YP, 2012, PHYS REV LETT, V108, DOI 10.1103/PhysRevLett.108.215901
+   Heron JS, 2009, NANO LETT, V9, P1861, DOI 10.1021/nl803844j
+   Hou CF, 2013, INT J HIGH PERFORM C, V27, P307, DOI 10.1177/1094342012456047
+   Hou CF, 2013, COMPUT PHYS COMMUN, V184, P1364, DOI 10.1016/j.cpc.2013.01.001
+   Hou CF, 2012, MOL SIMULAT, V38, P8, DOI 10.1080/08927022.2011.597396
+   Korgel BA, 2009, CHEM ENG PROG, V105, P5
+   Li DY, 2003, APPL PHYS LETT, V83, P2934, DOI 10.1063/1.1616981
+   Lim JW, 2012, NANO LETT, V12, P2475, DOI 10.1021/nl3005868
+   Markussen T, 2008, NANO LETT, V8, P3771, DOI 10.1021/nl8020889
+   McGaughey AJ, 2006, ADV HEAT TRANSFER, V39, P169, DOI [10.1016/s0065- 2717(06)39002-8, DOI 10.1016/S0065-2717(06)39002-8]
+   McGaughey AJH, 2004, PHYS REV B, V69, DOI 10.1103/PhysRevB.69.094303
+   Murphy PG, 2007, PHYS REV B, V76, DOI 10.1103/PhysRevB.76.155313
+   Park M, 2014, J APPL PHYS, V116, DOI 10.1063/1.4891500
+   Pascual-Gutierrez JA, 2007, J APPL PHYS, V102, P8
+   Ponomareva I, 2007, NANO LETT, V7, P1155, DOI 10.1021/nl062823d
+   Schelling PK, 2002, PHYS REV B, V65, DOI 10.1103/PhysRevB.65.144306
+   STILLINGER FH, 1985, PHYS REV B, V31, P5262, DOI 10.1103/PhysRevB.31.5262
+   Stone JE, 2007, J COMPUT CHEM, V28, P2618, DOI 10.1002/jcc.20829
+   TERSOFF J, 1986, PHYS REV LETT, V56, P632, DOI 10.1103/PhysRevLett.56.632
+   TERSOFF J, 1988, PHYS REV B, V38, P9902, DOI 10.1103/PhysRevB.38.9902
+   TERSOFF J, 1988, PHYS REV B, V37, P6991, DOI 10.1103/PhysRevB.37.6991
+   Tian B, 2009, CHEM SOC REV, V38, P16, DOI 10.1039/b718703n
+   Volz SG, 2000, PHYS REV B, V61, P2651, DOI 10.1103/PhysRevB.61.2651
+   Volz SG, 1999, APPL PHYS LETT, V75, P2056, DOI 10.1063/1.124914
+   Wang MR, 2012, PHYS LETT A, V376, P3514, DOI 10.1016/j.physleta.2012.10.017
+   Wang SC, 2009, J APPL PHYS, V105, DOI 10.1063/1.3063692
+   Yang N, 2010, NANO TODAY, V5, P85, DOI 10.1016/j.nantod.2010.02.002
+   Yang X M, 2010, NANOTECHNOLOGY, V21, P6
+   Ziman J.M., 2001, ELECT PHONONS THEORY
+NR 40
+TC 15
+Z9 16
+U1 1
+U2 26
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TEMPLE CIRCUS, TEMPLE WAY, BRISTOL BS1 6BE, ENGLAND
+SN 0965-0393
+EI 1361-651X
+J9 MODEL SIMUL MATER SC
+JI Model. Simul. Mater. Sci. Eng.
+PD MAY
+PY 2016
+VL 24
+IS 4
+AR 045005
+DI 10.1088/0965-0393/24/4/045005
+PG 9
+WC Materials Science, Multidisciplinary; Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Materials Science; Physics
+GA DL4IA
+UT WOS:000375596400005
+DA 2022-10-19
+ER
+
+PT J
+AU Ness, H
+   Shevlin, SA
+   Fisher, AJ
+AF Ness, H
+   Shevlin, SA
+   Fisher, AJ
+TI Coherent electron-phonon coupling and polaronlike transport in molecular
+   wires
+SO PHYSICAL REVIEW B
+LA English
+DT Review
+ID CURRENT-VOLTAGE CHARACTERISTICS; SCANNING-TUNNELING SPECTROSCOPY;
+   VIBRATIONAL-MODES; LATTICE FLUCTUATIONS; TRAVERSAL TIME; MATRIX-METHOD;
+   CONDUCTANCE; SOLITON; ENERGY; PI
+AB We present a technique to calculate the transport properties through one-dimensional models of molecular wires. The calculations include inelastic electron scattering due to electron-lattice interaction. The coupling between the electron and the lattice is crucial to determine the transport properties in one-dimensional systems subject to Peierls transition since it drives the transition itself. The electron-phonon coupling is treated as a quantum coherent process, in the sense that no random dephasing due to electron-phonon interactions is introduced in the scattering wave functions. We show that charge-carrier injection, even in the tunneling regime, induces lattice distortions localized around the tunneling electron. The transport in the molecular wire is due to polaronlike propagation. We show typical examples of the lattice distortions induced by charge injection into the wire. In the tunneling regime, the electron transmission is strongly enhanced in comparison with the case of elastic scattering through the undistorted molecular wire. We also show that although lattice fluctuations modify the electron transmission through the wire, the modifications are qualitatively different from those obtained by the quantum electron-phonon inelastic scattering technique. Our results should hold in principle for other one-dimensional atomic-scale wires subject to Peierls transitions.
+C1 UCL, Dept Phys & Astron, London WC1E 6BT, England.
+RP Ness, H (corresponding author), UCL, Dept Phys & Astron, Gower St, London WC1E 6BT, England.
+EM h.ness@ucl.ac.uk; andrew.fisher@ucla.ac.uk
+RI Shevlin, Stephen/G-9269-2011; Fisher, Andrew J/A-4723-2012
+OI Shevlin, Stephen/0000-0001-5896-0301; Fisher, Andrew
+   J/0000-0001-6411-1840
+CR Anda E. V., 1994, Brazilian Journal of Physics, V24, P330
+   ANDA EV, 1991, J PHYS-CONDENS MAT, V3, P9087, DOI 10.1088/0953-8984/3/46/010
+   AVIRAM A, 1974, CHEM PHYS LETT, V29, P277, DOI 10.1016/0009-2614(74)85031-1
+   Bockrath M, 1997, SCIENCE, V275, P1922, DOI 10.1126/science.275.5308.1922
+   BONCA J, 1995, PHYS REV LETT, V75, P2566, DOI 10.1103/PhysRevLett.75.2566
+   Bonca J, 1997, PHYS REV LETT, V79, P4874, DOI 10.1103/PhysRevLett.79.4874
+   Bowler DR, 2001, PHYS REV B, V63, DOI 10.1103/PhysRevB.63.035310
+   BOWLER DR, CONDMAT0005415
+   Bredas JL, 1996, ADV MATER, V8, P447, DOI 10.1002/adma.19960080517
+   Bumm LA, 1996, SCIENCE, V271, P1705, DOI 10.1126/science.271.5256.1705
+   Bumm LA, 1999, J PHYS CHEM B, V103, P8122, DOI 10.1021/jp9921699
+   BUTTIKER M, 1985, PHYS SCRIPTA, V32, P429, DOI 10.1088/0031-8949/32/4/031
+   BUTTIKER M, 1982, PHYS REV LETT, V49, P1739, DOI 10.1103/PhysRevLett.49.1739
+   Campbell IH, 1996, PHYS REV LETT, V76, P1900, DOI 10.1103/PhysRevLett.76.1900
+   CAROLI C, 1971, J PHYS PART C SOLID, V4, P916, DOI 10.1088/0022-3719/4/8/018
+   Castiglioni C, 1996, PHYS REV B, V53, P13319, DOI 10.1103/PhysRevB.53.13319
+   CHAO KA, 1985, J PHYS C SOLID STATE, V18, P1127, DOI 10.1088/0022-3719/18/36/003
+   Conwell EM, 1997, APPL PHYS LETT, V70, P1867, DOI 10.1063/1.118716
+   Datta S, 1997, PHYS REV B, V55, pR1914, DOI 10.1103/PhysRevB.55.R1914
+   Datta S, 1997, PHYS REV LETT, V79, P2530, DOI 10.1103/PhysRevLett.79.2530
+   DATTA S, 1995, ELECT TRANSPORT MESO, P145
+   Di Ventra M, 2000, PHYS REV LETT, V84, P979, DOI 10.1103/PhysRevLett.84.979
+   Doumergue P, 1999, PHYS REV B, V59, P15910, DOI 10.1103/PhysRevB.59.15910
+   Emberly E, 1999, NANOTECHNOLOGY, V10, P285, DOI 10.1088/0957-4484/10/3/311
+   Emberly E, 1998, PHYS REV LETT, V81, P5205, DOI 10.1103/PhysRevLett.81.5205
+   Emberly EG, 1999, J PHYS-CONDENS MAT, V11, P6911, DOI 10.1088/0953-8984/11/36/308
+   Emberly EG, 1998, PHYS REV B, V58, P10911, DOI 10.1103/PhysRevB.58.10911
+   English RA, 1998, J PHYS-CONDENS MAT, V10, P4423, DOI 10.1088/0953-8984/10/20/010
+   Frank S, 1998, SCIENCE, V280, P1744, DOI 10.1126/science.280.5370.1744
+   GALLI L, 1995, PHYS REV B, V51, P6863, DOI 10.1103/PhysRevB.51.6863
+   GRABERT H, 1992, NATO ADV SCI I B, V294
+   Hall LE, 2000, J CHEM PHYS, V112, P1510, DOI 10.1063/1.480696
+   Haule K, 1999, PHYS REV B, V59, P13087, DOI 10.1103/PhysRevB.59.13087
+   HEEGER AJ, 1988, REV MOD PHYS, V60, P781, DOI 10.1103/RevModPhys.60.781
+   HERNANDEZ V, 1994, PHYS REV B, V50, P9815, DOI 10.1103/PhysRevB.50.9815
+   Hitosugi T, 1999, PHYS REV LETT, V82, P4034, DOI 10.1103/PhysRevLett.82.4034
+   HITOSUGI T, 1998, J SURF ANAL, V3, P312
+   HUANG K, 1950, PROC R SOC LON SER-A, V204, P406, DOI 10.1098/rspa.1950.0184
+   INGLESFIELD JE, 1981, J PHYS C SOLID STATE, V14, P3795, DOI 10.1088/0022-3719/14/26/015
+   Joachim C, 1997, CHEM PHYS LETT, V265, P353, DOI 10.1016/S0009-2614(97)00014-6
+   Joachim C, 1996, EUROPHYS LETT, V33, P635, DOI 10.1209/epl/i1996-00391-2
+   JOACHIM C, 1991, NEW J CHEM, V15, P223
+   JOACHIM C, 1995, PHYS REV LETT, V74, P2102, DOI 10.1103/PhysRevLett.74.2102
+   JOACHIM C, 1997, NATO ADV SCI I E, V341
+   JOACHIM C, UNPUB
+   Johansson A, 2000, CHEM PHYS LETT, V322, P301, DOI 10.1016/S0009-2614(00)00468-1
+   Kergueris C, 1999, NANOTECHNOLOGY, V10, P8, DOI 10.1088/0957-4484/10/1/003
+   Kergueris C, 1999, PHYS REV B, V59, P12505, DOI 10.1103/PhysRevB.59.12505
+   KIRKMAN PD, 1984, J PHYS C SOLID STATE, V17, P4327, DOI 10.1088/0022-3719/17/24/014
+   KIRKMAN PD, 1984, J PHYS C SOLID STATE, V17, P5707, DOI 10.1088/0022-3719/17/32/007
+   KNJPFER M, 2000, PHYS REV B, V61, P1662
+   LANDAUER R, 1994, REV MOD PHYS, V66, P217, DOI 10.1103/RevModPhys.66.217
+   Langlais VJ, 1999, PHYS REV LETT, V83, P2809, DOI 10.1103/PhysRevLett.83.2809
+   Loan C. F. V., 1996, MATRIX COMPUTATIONS, P520
+   LOWDIN PO, 1962, J MATH PHYS, V3, P969, DOI 10.1063/1.1724312
+   Lu Y., 1988, SOLITONS POLARONS CO
+   Magoga M, 1999, PHYS REV B, V59, P16011, DOI 10.1103/PhysRevB.59.16011
+   Magoga M, 1997, PHYS REV B, V56, P4722, DOI 10.1103/PhysRevB.56.4722
+   Magoga M, 1998, PHYS REV B, V57, P1820, DOI 10.1103/PhysRevB.57.1820
+   Makler SS, 2000, J PHYS-CONDENS MAT, V12, P3149, DOI 10.1088/0953-8984/12/13/322
+   MARKOS P, 1993, ANN PHYS-BERLIN, V2, P339
+   MCKENZIE RH, 1992, PHYS REV LETT, V69, P1085, DOI 10.1103/PhysRevLett.69.1085
+   MEIR Y, 1992, PHYS REV LETT, V68, P2512, DOI 10.1103/PhysRevLett.68.2512
+   Mikrajuddin, 2000, PHYS REV B, V61, P8224, DOI 10.1103/PhysRevB.61.8224
+   Mingo N, 1999, SURF SCI, V438, P261, DOI 10.1016/S0039-6028(99)00579-8
+   Mingo N, 2000, PHYS REV LETT, V84, P3694, DOI 10.1103/PhysRevLett.84.3694
+   Mujica V, 1996, J CHEM PHYS, V104, P7296, DOI 10.1063/1.471396
+   Mujica V, 2000, J CHEM PHYS, V112, P6834, DOI 10.1063/1.481258
+   Nakanishi S, 1999, SURF SCI, V438, P305, DOI 10.1016/S0039-6028(99)00595-6
+   Nakanishi S, 1998, JPN J APPL PHYS 1, V37, P3805, DOI 10.1143/JJAP.37.3805
+   Nakanishi S, 1998, JPN J APPL PHYS 2, V37, pL1400, DOI 10.1143/JJAP.37.L1400
+   Ness H, 1998, APPL PHYS A-MATER, V66, pS919, DOI 10.1007/s003390051268
+   Ness H, 1998, J PHYS-CONDENS MAT, V10, P3697, DOI 10.1088/0953-8984/10/17/004
+   Ness H, 1999, PHYS REV LETT, V83, P452, DOI 10.1103/PhysRevLett.83.452
+   Ness H., UNPUB
+   Olson M, 1998, J PHYS CHEM B, V102, P941, DOI 10.1021/jp972940k
+   Onipko A, 1998, J LUMIN, V76-7, P658, DOI 10.1016/S0022-2313(97)00264-0
+   Onipko A, 1999, PHYS REV B, V59, P9995, DOI 10.1103/PhysRevB.59.9995
+   Onipko A, 1998, SOLID STATE COMMUN, V108, P555, DOI 10.1016/S0038-1098(98)00411-6
+   Onipko AI, 2000, PHYS REV B, V61, P11118, DOI 10.1103/PhysRevB.61.11118
+   Orellana P, 1996, PHYS REV B, V53, P12967, DOI 10.1103/PhysRevB.53.12967
+   Pazy E, 1999, PHYS REV B, V59, P15854, DOI 10.1103/PhysRevB.59.15854
+   PEIERLS RE, 1955, QUANTUM THEORY SOLID, P110
+   Porath D, 2000, NATURE, V403, P635, DOI 10.1038/35001029
+   Reed MA, 1997, SCIENCE, V278, P252, DOI 10.1126/science.278.5336.252
+   Samanta MP, 1996, PHYS REV B, V53, pR7626, DOI 10.1103/PhysRevB.53.R7626
+   SAUTET P, 1988, PHYS REV B, V38, P12238, DOI 10.1103/PhysRevB.38.12238
+   Sautet P, 1997, CHEM REV, V97, P1097, DOI 10.1021/cr9600823
+   STAFSTROM S, 1984, PHYS REV B, V29, P7010, DOI 10.1103/PhysRevB.29.7010
+   STAFSTROM S, 1984, PHYS REV B, V30, P2098, DOI 10.1103/PhysRevB.30.2098
+   Stoneham A. M., 2001, THEORY DEFECTS SOLID
+   SU WP, 1983, PHYS REV B, V28, P1138, DOI 10.1103/PhysRevB.28.1138
+   SU WP, 1980, PHYS REV B, V22, P2099, DOI 10.1103/PhysRevB.22.2099
+   SU WP, 1979, PHYS REV LETT, V42, P1698, DOI 10.1103/PhysRevLett.42.1698
+   SUN X, 1987, PHYS REV B, V35, P4102, DOI 10.1103/PhysRevB.35.4102
+   TAKAHASHI A, 1992, PHYS REV B, V46, P11550, DOI 10.1103/PhysRevB.46.11550
+   TAKAYAMA H, 1980, PHYS REV B, V21, P2388, DOI 10.1103/PhysRevB.21.2388
+   Tans SJ, 1998, NATURE, V393, P49
+   Tian WD, 1997, PHYSICA E, V1, P304, DOI 10.1016/S1386-9477(97)00065-9
+   Tian WD, 1998, J CHEM PHYS, V109, P2874, DOI 10.1063/1.476841
+   Tsukada M, 2000, PROG SURF SCI, V64, P139, DOI 10.1016/S0079-6816(00)00014-9
+   Venema LC, 1999, SCIENCE, V283, P52, DOI 10.1126/science.283.5398.52
+   WALLACE DS, 1989, THESIS U OXFORD
+   WILLIAMS AR, 1982, PHYS REV B, V26, P5433, DOI 10.1103/PhysRevB.26.5433
+   WINGREEN NS, 1988, PHYS REV LETT, V61, P1396, DOI 10.1103/PhysRevLett.61.1396
+   Wolkow RA, 1999, ANNU REV PHYS CHEM, V50, P413, DOI 10.1146/annurev.physchem.50.1.413
+   XIE SJ, 1993, PHYS REV B, V47, P14905, DOI 10.1103/PhysRevB.47.14905
+   Xue YQ, 1999, PHYS REV B, V59, pR7852, DOI 10.1103/PhysRevB.59.R7852
+   Yaliraki SN, 1998, J CHEM PHYS, V109, P5036, DOI 10.1063/1.477116
+   Yaliraki SN, 1999, J CHEM PHYS, V111, P6997, DOI 10.1063/1.480096
+   Yu ZG, 1997, PHYS REV B, V56, P6494, DOI 10.1103/PhysRevB.56.6494
+   Yu ZG, 1999, J PHYS-CONDENS MAT, V11, pL7, DOI 10.1088/0953-8984/11/2/001
+   Yu ZG, 1999, PHYS REV B, V59, P16001, DOI 10.1103/PhysRevB.59.16001
+   Zhou CW, 2000, PHYS REV LETT, V84, P5604, DOI 10.1103/PhysRevLett.84.5604
+NR 114
+TC 106
+Z9 108
+U1 0
+U2 21
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 2469-9950
+EI 2469-9969
+J9 PHYS REV B
+JI Phys. Rev. B
+PD MAR 15
+PY 2001
+VL 63
+IS 12
+AR 125422
+DI 10.1103/PhysRevB.63.125422
+PG 16
+WC Materials Science, Multidisciplinary; Physics, Applied; Physics,
+   Condensed Matter
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Materials Science; Physics
+GA 416XW
+UT WOS:000167806600130
+OA Green Submitted
+DA 2022-10-19
+ER
+
+PT J
+AU Giri, A
+   Braun, JL
+   Hopkins, PE
+AF Giri, Ashutosh
+   Braun, Jeffrey L.
+   Hopkins, Patrick E.
+TI Implications of Interfacial Bond Strength on the Spectral Contributions
+   to Thermal Boundary Conductance across Solid, Liquid, and Gas
+   Interfaces: A Molecular Dynamics Study
+SO JOURNAL OF PHYSICAL CHEMISTRY C
+LA English
+DT Article
+ID ORGANIC RANKINE-CYCLE; WORKING FLUIDS; TRANSPORT; RESISTANCE; ENERGY;
+   TEMPERATURE; SURFACES; ACCOMMODATION; MISMATCH
+AB The modal contributions to interfacial heat flow across Lennard-Jones based solid/solid, solid/liquid, and solid/gas interfaces are predicted via molecular dynamics simulations. It is found that the spectral contributions to the total heat flux from the solid that comprises the interface are highly dependent on the phase of the adjoining matter and the interfacial bond driving the interaction between the solid and the adjacent matter. For solid/solid interfaces, along with low temperatures, weak cross-species interaction strength can severely limit the conductance owing to the inhibition of inelastic channels that otherwise facilitate heat flow across the interface via anharmonic interactions. The increase in the cross-species interaction strength is shown to shift the modal contributions to higher frequencies, and most of the inelastic energy exchange is due to the longitudinal vibrational coupling across the interface. For solid/liquid interfaces, the increase in the cross-species interaction enhances the coupling of transverse vibrational frequencies in the interfacial solid region, which leads to an increase in the total heat current across the interface. Our modal analysis suggests that very high frequency vibrations (with frequencies greater than 80% of the maximum frequency in the bulk of the solid) have negligible contribution to heat flow across solid/liquid interfaces, even for a strongly bonded interface. In the limit of weakly interacting solid/gas interfaces, the modes coupling in the solid to the gas have signatures of reduced dimensionality, as evident by the surface-like density-of-states in the solid. Increasing the interfacial interaction shows similar trends to the solid/liquid case up to the limit in which gas atoms adsorb to the surface, enhancing the contribution of transverse phonons coupling at the solid interface. Our work elucidates general similarities in the influence of interfacial bond strength to thermal boundary conductance across solid/solid, solid/liquid, and solid/gas interfaces. In general, we find that the mode softening with a decrease in interfacial bond strength is more pronounced in the longitudinal modes as compared to transverse modes, and we consistently observe a decrease in the transverse mode contribution from the solid across the interface as the interfacial bond strength is decreased, regardless of the phase of matter on the other side.
+C1 [Giri, Ashutosh; Braun, Jeffrey L.; Hopkins, Patrick E.] Univ Virginia, Dept Mech & Aerosp Engn, Charlottesville, VA 22904 USA.
+RP Hopkins, PE (corresponding author), Univ Virginia, Dept Mech & Aerosp Engn, Charlottesville, VA 22904 USA.
+EM phopkins@virginia.edu
+RI giri, Ashutosh/Y-7272-2019
+FU Office of Naval research [N00014-15-12769]
+FX We would like to thank the Office of Naval research for support
+   (N00014-15-12769).
+CR Acharya H, 2012, IND ENG CHEM RES, V51, P1767, DOI 10.1021/ie2010274
+   Barrat JL, 2003, MOL PHYS, V101, P1605, DOI 10.1080/0026897031000068578
+   BERENDSEN HJC, 1984, J CHEM PHYS, V81, P3684, DOI 10.1063/1.448118
+   Bruch V.L., 1994, ASSESSMENT RES DEV L
+   Cahill DG, 2014, APPL PHYS REV, V1, DOI 10.1063/1.4832615
+   Cahill DG, 2003, J APPL PHYS, V93, P793, DOI 10.1063/1.1524305
+   Caplan ME, 2014, J CHEM PHYS, V140, DOI 10.1063/1.4870778
+   Chalopin Y, 2013, APPL PHYS LETT, V103, DOI 10.1063/1.4816738
+   Chalopin Y, 2012, APPL PHYS LETT, V101, DOI 10.1063/1.4766266
+   Chaudhry HN, 2012, RENEW SUST ENERG REV, V16, P2249, DOI 10.1016/j.rser.2012.01.038
+   Domingues G, 2005, PHYS REV LETT, V94, DOI 10.1103/PhysRevLett.94.085901
+   Duda JC, 2011, PHYS REV B, V84, DOI 10.1103/PhysRevB.84.193301
+   Duda JC, 2011, J HEAT TRANS-T ASME, V133, DOI 10.1115/1.4003575
+   Duda JC, 2010, SUPERLATTICE MICROST, V47, P550, DOI 10.1016/j.spmi.2010.01.001
+   Duda JC, 2010, NANOSC MICROSC THERM, V14, P21, DOI 10.1080/15567260903530379
+   English TS, 2012, PHYS REV B, V85, DOI 10.1103/PhysRevB.85.035438
+   Garg J, 2011, PHYS REV LETT, V106, DOI 10.1103/PhysRevLett.106.045901
+   Giri A, 2016, J CHEM PHYS, V144, DOI 10.1063/1.4942432
+   Giri A, 2014, APPL PHYS LETT, V105, DOI 10.1063/1.4891332
+   Goodman F.O., 1976, DYNAMICS GAS SURFACE
+   GOODMAN FO, 1967, J CHEM PHYS, V46, P2376, DOI 10.1063/1.1841046
+   Gordiz K, 2016, APPL PHYS LETT, V108, DOI 10.1063/1.4948520
+   Gordiz K, 2016, SCI REP-UK, V6, DOI 10.1038/srep23139
+   Gordiz K, 2016, J APPL PHYS, V119, DOI 10.1063/1.4939207
+   Gordiz K, 2015, NEW J PHYS, V17, DOI 10.1088/1367-2630/17/10/103002
+   He C, 2012, ENERGY, V38, P136, DOI 10.1016/j.energy.2011.12.022
+   Hettiarachchia HDM, 2007, ENERGY, V32, P1698, DOI 10.1016/j.energy.2007.01.005
+   HOOVER WG, 1985, PHYS REV A, V31, P1695, DOI 10.1103/PhysRevA.31.1695
+   Hopkins P. E., 2009, J HEAT TRANSFER, V131
+   Hopkins P. E., 2008, J HEAT TRANSFER, V130
+   Hopkins P E, 2013, ISRN MECH ENG, V2013, DOI [DOI 10.1155/2013/682586, 10.1155/2013/682586]
+   Hopkins PE, 2011, PHYS REV B, V84, DOI 10.1103/PhysRevB.84.125408
+   Hopkins PE, 2011, J HEAT TRANS-T ASME, V133, DOI 10.1115/1.4003549
+   Hopkins PE, 2009, J APPL PHYS, V106, DOI 10.1063/1.3169515
+   Hung TC, 2010, ENERGY, V35, P1403, DOI 10.1016/j.energy.2009.11.025
+   Kane RS, 2003, LANGMUIR, V19, P2388, DOI 10.1021/la020737x
+   Kim BH, 2008, J CHEM PHYS, V129, DOI 10.1063/1.3001926
+   Kruger CH, 1986, INTRO PHYS GAS DYNAM
+   Landry ES, 2010, J APPL PHYS, V107, DOI 10.1063/1.3275506
+   Landry ES, 2009, PHYS REV B, V80, DOI 10.1103/PhysRevB.80.165304
+   Liang Z, 2014, INT J HEAT MASS TRAN, V78, P161, DOI 10.1016/j.ijheatmasstransfer.2014.06.038
+   Liang Z, 2014, PHYS REV B, V90, DOI 10.1103/PhysRevB.90.075411
+   Liang Z, 2013, APPL PHYS LETT, V102, DOI 10.1063/1.4792530
+   Liang Z, 2013, PHYS REV E, V87, DOI 10.1103/PhysRevE.87.022119
+   Lv W, 2016, APPL PHYS LETT, V108, DOI 10.1063/1.4948605
+   Lv W, 2016, NEW J PHYS, V18, DOI 10.1088/1367-2630/18/1/013028
+   Lyeo HK, 2006, PHYS REV B, V73, DOI 10.1103/PhysRevB.73.144301
+   Majumdar S, 2015, NANO LETT, V15, P2985, DOI 10.1021/nl504844d
+   MullerPlathe F, 1997, J CHEM PHYS, V106, P6082, DOI 10.1063/1.473271
+   Ohara T, 2005, J CHEM PHYS, V122, DOI 10.1063/1.1902950
+   Ong ZY, 2010, J APPL PHYS, V108, DOI 10.1063/1.3484494
+   Oshman C, 2012, J MICROMECH MICROENG, V22, DOI 10.1088/0960-1317/22/4/045018
+   Pham A, 2013, J CHEM PHYS, V139, DOI 10.1063/1.4851395
+   PLIMPTON S, 1995, J COMPUT PHYS, V117, P1, DOI 10.1006/jcph.1995.1039
+   Pop E, 2010, NANO RES, V3, P147, DOI 10.1007/s12274-010-1019-z
+   Reddy P, 2005, APPL PHYS LETT, V87, DOI 10.1063/1.2133890
+   Reed SJ, 1997, INT J HEAT MASS TRAN, V40, P2379, DOI 10.1016/S0017-9310(96)00286-4
+   Saaskilahti K, 2016, PHYS REV E, V93, DOI 10.1103/PhysRevE.93.052141
+   Saaskilahti K, 2015, PHYS REV B, V91, DOI 10.1103/PhysRevB.91.115426
+   Saaskilahti K, 2014, PHYS REV B, V90, DOI 10.1103/PhysRevB.90.134312
+   Saaskilahti K, 2012, PHYS REV E, V86, DOI 10.1103/PhysRevE.86.031107
+   Sigal GB, 1998, J AM CHEM SOC, V120, P3464, DOI 10.1021/ja970819l
+   Somorjai G.A., 2010, INTRO SURFACE CHEM C
+   Song G, 2013, MOL PHYS, V111, P903, DOI 10.1080/00268976.2012.756990
+   Springer G., 1971, ADV HEAT TRANSFER, V7, P163
+   SWARTZ ET, 1989, REV MOD PHYS, V61, P605, DOI 10.1103/RevModPhys.61.605
+   Torii D., 2009, J HEAT TRANSFER, V132
+   Turney JE, 2009, PHYS REV B, V79, DOI 10.1103/PhysRevB.79.064301
+   Wang Y, 2011, APPL PHYS LETT, V99, DOI 10.1063/1.3626850
+   Xue L, 2004, INT J HEAT MASS TRAN, V47, P4277, DOI 10.1016/j.ijheatmasstransfer.2004.05.016
+   Xue L, 2003, J CHEM PHYS, V118, P337, DOI 10.1063/1.1525806
+   Zhou YG, 2015, PHYS REV B, V92, DOI 10.1103/PhysRevB.92.195205
+   Zhou YG, 2015, PHYS REV B, V92, DOI 10.1103/PhysRevB.92.195204
+NR 73
+TC 32
+Z9 32
+U1 6
+U2 43
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 1932-7447
+J9 J PHYS CHEM C
+JI J. Phys. Chem. C
+PD NOV 3
+PY 2016
+VL 120
+IS 43
+BP 24847
+EP 24856
+DI 10.1021/acs.jpcc.6b08124
+PG 10
+WC Chemistry, Physical; Nanoscience & Nanotechnology; Materials Science,
+   Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Science & Technology - Other Topics; Materials Science
+GA EB2NF
+UT WOS:000387198400038
+DA 2022-10-19
+ER
+
+PT J
+AU Graaf, H
+   Michaelis, W
+   Schnurpfeil, G
+   Jaeger, N
+   Schlettwein, D
+AF Graaf, H
+   Michaelis, W
+   Schnurpfeil, G
+   Jaeger, N
+   Schlettwein, D
+TI Consequences of twisting the aromatic core of N,N
+   '-dimethylperylene-3,4,9,10-biscarboximide by chemical substitution for
+   the electronic coupling and electric transport in thin films
+SO ORGANIC ELECTRONICS
+LA English
+DT Article
+DE organic semiconductor; perylene pigment; field effect; seebeck
+   coefficient; mobility; hopping transport
+ID FIELD-EFFECT TRANSISTORS; CHARGE-TRANSPORT; MOLECULAR SEMICONDUCTORS;
+   SOLAR-CELLS; HEXADECAFLUOROPHTHALOCYANINATOZINC; ALIGNMENT; SURFACES;
+   MOBILITY; DIIMIDE; MEPTCDI
+AB Thin films of 1,6,7,12-tetrachloro-N,N-'-dimethylperylene-3,4,9,10-biscarboximide (Cl4MePTCDI) prepared by physical vapor deposition (PVD) were compared to thin films of the unchlorinated N,N'-dimethylperylene-3,4,9,10-biscarboximide (MePTCDI) to investigate the influence of a changed molecular structure on the electrical properties of the materials. The films were prepared on microstructured Si/SiO2 substrates with interdigitated Au electrode arrays of 2 mum electrode distance or on quartz glass with electrode distances in the mm range. The films were investigated by conductance measurements, thermoelectric power, electric field effect, ultraviolet photoelectron spectroscopy (UPS) and atomic force microscopy (AFM). The thickness-dependence of the conductance measured during film growth (in situ) indicated a growth mode in islands (Volmer-Weber), which was confirmed by subsequent AFM. As expected, Cl4MePTCDI was characterized as an organic n-type semiconductor. Charge transport occurred by a hopping mechanism as revealed by temperature-dependent thermopower and field-effect measurements. Effective electron mobilities at room temperature were found around 10(-5) cm(2) V-1 s(-1) considerably lower than the values for MePTCDI. A rather constant concentration of mobile electrons of (1-2)x10(18) cm(-3) was determined for both materials. The morphology of Cl4MePTCDI islands indicated amorphous growth as opposed to crystals obtained for MePTCDI, as also revealed earlier by optical spectroscopy and the role of crystallinity in the electrical conduction is discussed. (C) 2004 Elsevier B.V. All rights reserved.
+C1 Univ Oldenburg, Sch Math & Nat Sci, D-26111 Oldenburg, Germany.
+   Univ Bremen, Dept Chem, D-28334 Bremen, Germany.
+RP Schlettwein, D (corresponding author), Univ Giessen, Inst Appl Phys, Heinrich Buff Ring 16, D-35392 Giessen, Germany.
+EM schlettwein@uni-giessen.de
+RI Schlettwein, Derck/R-8974-2019
+OI Schlettwein, Derck/0000-0002-3446-196X
+CR Bohm W, 1997, PHYS STATUS SOLIDI A, V160, P81, DOI 10.1002/1521-396X(199703)160:1<81::AID-PSSA81>3.0.CO;2-S
+   BORSENBERGER PM, 1995, PHYS STATUS SOLIDI B, V190, P555, DOI 10.1002/pssb.2221900226
+   Brabec CJ, 2001, ADV FUNCT MATER, V11, P15, DOI 10.1002/1616-3028(200102)11:1<15::AID-ADFM15>3.0.CO;2-A
+   Dimitrakopoulos CD, 2002, ADV MATER, V14, P99, DOI 10.1002/1521-4095(20020116)14:2<99::AID-ADMA99>3.0.CO;2-9
+   Emin D., 1980, Polycrystalline and amorphous thin films and devices, P17
+   Facchetti A, 2000, ANGEW CHEM INT EDIT, V39, P4547, DOI 10.1002/1521-3773(20001215)39:24<4547::AID-ANIE4547>3.0.CO;2-J
+   FORREST SR, 1997, CHEM REV, V57, P11793
+   Garnier F, 1999, ACCOUNTS CHEM RES, V32, P209, DOI 10.1021/ar9800340
+   Graaf H, 1999, PHYS CHEM CHEM PHYS, V1, P1801, DOI 10.1039/a808586b
+   Graaf H, 2000, SYNTHETIC MET, V109, P151, DOI 10.1016/S0379-6779(99)00217-9
+   GRAFF H, UNPUB
+   HALLS JJM, 1995, NATURE, V376, P498, DOI 10.1038/376498a0
+   Hill IG, 1999, J APPL PHYS, V86, P2116, DOI 10.1063/1.371018
+   Hiller S, 1998, J MATER CHEM, V8, P945, DOI 10.1039/a707485i
+   Hirose Y, 1997, APPL SURF SCI, V113, P291, DOI 10.1016/S0169-4332(96)00886-0
+   Horowitz G, 2000, ADV MATER, V12, P1046, DOI 10.1002/1521-4095(200007)12:14<1046::AID-ADMA1046>3.0.CO;2-W
+   Horowitz G, 1998, ADV MATER, V10, P365, DOI 10.1002/(SICI)1521-4095(199803)10:5<365::AID-ADMA365>3.0.CO;2-U
+   Ishii H, 1999, ADV MATER, V11, P605, DOI 10.1002/(SICI)1521-4095(199906)11:8<605::AID-ADMA605>3.0.CO;2-Q
+   Karl N, 2003, SYNTHETIC MET, V133, P649, DOI 10.1016/S0379-6779(02)00398-3
+   KLEBE G, 1989, ACTA CRYSTALLOGR B, V45, P69, DOI 10.1107/S0108768188010407
+   MAGIN EH, 1993, J APPL PHYS, V73, P787, DOI 10.1063/1.353339
+   Malenfant PRL, 2002, APPL PHYS LETT, V80, P2517, DOI 10.1063/1.1467706
+   MEYER JP, 1995, THIN SOLID FILMS, V258, P317, DOI 10.1016/0040-6090(94)06369-9
+   MEYER JP, 1997, THESIS U BREMEN
+   MIZUGUCHI J, 1995, J PHYS CHEM-US, V99, P16217, DOI 10.1021/j100044a004
+   Nalwa, 2001, SUPRAMOLECULAR PHOTO, P211
+   Pfeiffer M, 2000, SOL ENERG MAT SOL C, V63, P83, DOI 10.1016/S0927-0248(00)00022-2
+   Ranke P, 1997, APPL PHYS LETT, V71, P1332, DOI 10.1063/1.119929
+   REICHELT K, 1990, THIN SOLID FILMS, V191, P91, DOI 10.1016/0040-6090(90)90277-K
+   SADRAI M, 1990, ACTA CRYSTALLOGR C, V46, P637, DOI 10.1107/S0108270189008437
+   SADRAI M, 1992, J PHYS CHEM-US, V96, P7988, DOI 10.1021/j100199a032
+   Sato N, 2000, J MATER CHEM, V10, P85
+   Schlaf R, 1999, J PHYS CHEM B, V103, P2984, DOI 10.1021/jp982834y
+   Schlettwein D, 1999, J PHYS CHEM B, V103, P3078, DOI 10.1021/jp983111h
+   Schlettwein D, 2000, CHEM MATER, V12, P989, DOI 10.1021/cm9905388
+   Schlettwein D, 2001, J PHYS CHEM B, V105, P4791, DOI 10.1021/jp001912q
+   Schlettwein D, 1998, CHEM MATER, V10, P601, DOI 10.1021/cm970589+
+   SCHLETTWEIN D, 1994, J PHYS CHEM-US, V98, P11771, DOI 10.1021/j100096a023
+   SCHMIDT AH, COMMUNICATION
+   Simon J., 1985, MOL SEMICONDUCTORS P
+   STORM U, 2001, THESIS U BREMEN
+   Suga T, 1999, SYNTHETIC MET, V102, P1050, DOI 10.1016/S0379-6779(98)01295-8
+   VANDERAUWERAER M, 1994, ADV MATER, V6, P199, DOI 10.1002/adma.19940060304
+   WOHRLE D, 1991, ADV MATER, V3, P129, DOI 10.1002/adma.19910030303
+   1999, CAMBRIDGE STRUCTURAL
+NR 45
+TC 18
+Z9 20
+U1 2
+U2 28
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1566-1199
+EI 1878-5530
+J9 ORG ELECTRON
+JI Org. Electron.
+PD SEP
+PY 2004
+VL 5
+IS 5
+BP 237
+EP 249
+DI 10.1016/j.orgel.2004.02.003
+PG 13
+WC Materials Science, Multidisciplinary; Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Materials Science; Physics
+GA 866EM
+UT WOS:000224756600003
+DA 2022-10-19
+ER
+
+EFF

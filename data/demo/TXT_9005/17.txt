@@ -1,0 +1,283 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Isshiki, Y
+   Li, DZ
+   Kiguchi, M
+   Nishino, T
+   Pauly, F
+   Fujii, S
+AF Isshiki, Yuji
+   Li, Dongzhe
+   Kiguchi, Manabu
+   Nishino, Tomoaki
+   Pauly, Fabian
+   Fujii, Shintaro
+TI Structural Asymmetry of Metallic Single-Atom Contacts Detected by
+   Current-Voltage Characteristics
+SO ACS APPLIED MATERIALS & INTERFACES
+LA English
+DT Article
+DE electrical conductance; metallic atomic contacts; break junctions;
+   current-voltage characteristics; structural asymmetry; density
+   functional theory; Landauer-Buttiker scattering theory
+ID CONDUCTANCE FLUCTUATIONS; GOLD; TRANSPORT; TRANSMISSION; QUANTIZATION;
+   CURVES
+AB The complex behavior of the simplest atomic-scale conductors indicates that the electrode structure itself is significant in the design of future nanoscale devices. In this study, the structural asymmetry of metallic atomic contacts formed between two macroscopic Au electrodes at room temperature was investigated. Characteristic signatures of the structural asymmetries were detected by fast current-voltage (I-V) measurements with a time resolution of approximately 100 mu s. Statistical analysis of more than 300,000 I-V curves obtained from more than 1000 contact-stretching processes demonstrates that the current rectification properties are correlated with the conductance of the nanocontacts. A substantial suppression of the variation in current rectification was observed for the atomic contacts with integer multiples of the conductance quantum. Statistical analysis of the time-resolved I-V curves revealed that the current rectification variations increased significantly from 500 mu s onward before the breakage of the atomic contacts. Ab initio atomistic simulations of the stretching processes and corresponding I-V characteristics confirmed the magnitude of the rectification and related it to the structural asymmetries in the breakdown process of the junctions. Overall, we provide a better understanding of the interplay between geometric and electronic structures at atomically defined metal-metal interfaces by probing charge transport properties in extremely sensitive nanocontacts.
+C1 [Isshiki, Yuji; Kiguchi, Manabu; Nishino, Tomoaki; Fujii, Shintaro] Tokyo Inst Technol, Sch Sci, Dept Chem, Tokyo 1528551, Japan.
+   [Li, Dongzhe] Univ Toulouse, CEMES, CNRS, 29 Rue Jeanne Marvig, F-31055 Toulouse, France.
+   [Pauly, Fabian] Univ Augsburg, Inst Phys, D-86135 Augsburg, Germany.
+RP Fujii, S (corresponding author), Tokyo Inst Technol, Sch Sci, Dept Chem, Tokyo 1528551, Japan.; Pauly, F (corresponding author), Univ Augsburg, Inst Phys, D-86135 Augsburg, Germany.
+EM fabian.pauly@uni-a.de; fujii.s.af@m.titech.ac.jp
+RI Fujii, Shintaro/B-4779-2011; Pauly, Fabian/I-8965-2012; Li,
+   Dongzhe/J-3300-2015
+OI Fujii, Shintaro/0000-0003-2869-7674; Pauly, Fabian/0000-0001-8017-2379;
+   Li, Dongzhe/0000-0003-0929-8125; Isshiki, Yuji/0000-0001-5800-8935
+FU JST CREST [20K05245, JPMJCR18I4]; JSPS from MEXT, Japan [19J21186];
+   CALMIP [2021-P21008]
+FX This work was financially supported by Grants-in-Aid for Scientific
+   Research (no. 20K05245), JST CREST (no. JPMJCR18I4), JSPS Fellows
+   (19J21186) from MEXT, Japan, and the Precise Measurement Technology
+   Promotion Foundation (PMTPF). This work was performed using HPC
+   resources from CALMIP (Grant 2021-P21008).
+CR Agrait N, 2003, PHYS REP, V377, P81, DOI 10.1016/S0370-1573(02)00633-6
+   Brandbyge M, 2002, PHYS REV B, V65, DOI 10.1103/PhysRevB.65.165401
+   CostaKramer JL, 1997, PHYS REV B, V55, P5416, DOI 10.1103/PhysRevB.55.5416
+   Cui LJ, 2017, SCIENCE, V355, P1192, DOI 10.1126/science.aam6622
+   Dreher M, 2005, PHYS REV B, V72, DOI 10.1103/physRevB.72.075435
+   Evangeli C, 2015, NANO LETT, V15, P1006, DOI 10.1021/nl503853v
+   Giannozzi P, 2009, J PHYS-CONDENS MAT, V21, DOI 10.1088/0953-8984/21/39/395502
+   Hansen K, 2000, APPL PHYS LETT, V77, P708, DOI 10.1063/1.127093
+   Hansen K, 2000, REV SCI INSTRUM, V71, P1793, DOI 10.1063/1.1150539
+   Kizuka T, 1998, PHYS REV LETT, V81, P4448, DOI 10.1103/PhysRevLett.81.4448
+   Kizuka T, 2008, PHYS REV B, V77, DOI 10.1103/PhysRevB.77.155401
+   Liu P, 2019, ACTA MATER, V165, P99, DOI 10.1016/j.actamat.2018.11.022
+   Ludoph B, 1999, PHYS REV LETT, V82, P1530, DOI 10.1103/PhysRevLett.82.1530
+   Ludoph B, 2000, PHYS REV B, V61, P2273, DOI 10.1103/PhysRevB.61.2273
+   Mares AI, 2004, PHYS REV B, V70, DOI 10.1103/PhysRevB.70.073401
+   Mosso N, 2019, APPL PHYS LETT, V114, DOI 10.1063/1.5086483
+   Mosso N, 2017, NAT NANOTECHNOL, V12, P430, DOI [10.1038/nnano.2016.302, 10.1038/NNANO.2016.302]
+   Muller CJ, 1996, PHYS REV B, V53, P1022, DOI 10.1103/PhysRevB.53.1022
+   Papior N., 2020, **DATA OBJECT**, DOI [10.5281/zenodo. 597181, 10.5281/zenodo.597181, DOI 10.5281/ZENODO.597181]
+   Papior N, 2017, COMPUT PHYS COMMUN, V212, P8, DOI 10.1016/j.cpc.2016.09.022
+   Pauly F, 2011, PHYS REV B, V84, DOI 10.1103/PhysRevB.84.195420
+   Perdew JP, 1996, PHYS REV LETT, V77, P3865, DOI 10.1103/PhysRevLett.77.3865
+   Rubio G, 1996, PHYS REV LETT, V76, P2302, DOI 10.1103/PhysRevLett.76.2302
+   Smit RHM, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.076805
+   Tewari S, 2018, NANO LETT, V18, P5217, DOI 10.1021/acs.nanolett.8b02176
+   Tsutsui M, 2008, NANO LETT, V8, P345, DOI 10.1021/nl073003j
+   Tsutsui M, 2019, SCI REP-UK, V9, DOI 10.1038/s41598-019-55048-3
+   van Ruitenbeek J. M, 2000, CONDUCTANCE QUANTIZA
+   VANDERBILT D, 1990, PHYS REV B, V41, P7892, DOI 10.1103/PhysRevB.41.7892
+   Yanson AI, 1998, NATURE, V395, P783, DOI 10.1038/27405
+   Yanson AI, 1999, NATURE, V400, P144, DOI 10.1038/22074
+   Yoshida M, 2005, APPL PHYS LETT, V87, DOI 10.1063/1.2037874
+NR 32
+TC 0
+Z9 0
+U1 2
+U2 3
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 1944-8244
+EI 1944-8252
+J9 ACS APPL MATER INTER
+JI ACS Appl. Mater. Interfaces
+PD MAR 9
+PY 2022
+VL 14
+IS 9
+BP 11919
+EP 11926
+DI 10.1021/acsami.1c24096
+PG 8
+WC Nanoscience & Nanotechnology; Materials Science, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics; Materials Science
+GA 0U3HI
+UT WOS:000787543300085
+PM 35225596
+OA Green Submitted
+DA 2022-10-19
+ER
+
+PT J
+AU Mahapatro, AK
+   Jeong, KJ
+   Lee, GU
+   Janes, DB
+AF Mahapatro, Ajit K.
+   Jeong, Kyung J.
+   Lee, Gil U.
+   Janes, David B.
+TI Sequence specific electronic conduction through polyion-stabilized
+   double-stranded DNA in nanoscale break junctions
+SO NANOTECHNOLOGY
+LA English
+DT Article
+ID CHARGE-TRANSFER; INSULATING BEHAVIOR; HOLE TRANSFER; NUCLEIC-ACID;
+   LAMBDA-DNA; TRANSPORT; BASES; HYBRIDIZATION; MOLECULES; CROSSOVER
+AB This paper presents a study of sequence specific electronic conduction through short (15-base- pair) double-stranded (ds) DNA molecules, measured by immobilizing 3'-thiol-derivatized DNAs in nanometre scale gaps between gold electrodes. The polycation spermidine was used to stabilize the ds-DNA structure, allowing electrical measurements to be performed in a dry state. For specific sequences, the conductivity was observed to scale with the surface density of immobilized DNA, which can be controlled by the buffer concentration. A series of 15-base DNA oligonucleotide pairs, in which the centre sequence of five base pairs was changed from G: C to A: T pairs, has been studied. The conductivity per molecule is observed to decrease exponentially with the number of adjacent A: T pairs replacing G: C pairs, consistent with a barrier at the A: T sites. Conductance-based devices for short DNA sequences could provide sensing approaches with direct electrical readout, as well as label-free detection.
+C1 Purdue Univ, Sch Elect & Comp Engn, Birck Nanotechnol Ctr, W Lafayette, IN 47907 USA.
+   Purdue Univ, Birck Nanotechnol Ctr, Dept Chem, W Lafayette, IN 47907 USA.
+   Purdue Univ, Birck Nanotechnol Ctr, Dept Biomed Engn, W Lafayette, IN 47907 USA.
+RP Janes, DB (corresponding author), Purdue Univ, Sch Elect & Comp Engn, Birck Nanotechnol Ctr, W Lafayette, IN 47907 USA.
+EM ajit@ecn.purdue.edu; gl@purdue.edu; janes@ecn.purdue.edu
+RI Lee, Gil U/P-8696-2016
+OI Lee, Gil U/0000-0002-7949-5848
+CR Adessi C, 2003, APPL PHYS LETT, V82, P2353, DOI 10.1063/1.1563811
+   Armitage NP, 2004, PHYS STATUS SOLIDI B, V241, P69, DOI 10.1002/pssb.200303603
+   Berlin YA, 2000, J PHYS CHEM A, V104, P443, DOI 10.1021/jp9933323
+   Cai LT, 2000, APPL PHYS LETT, V77, P3105, DOI 10.1063/1.1323546
+   de Pablo PJ, 2000, PHYS REV LETT, V85, P4992, DOI 10.1103/PhysRevLett.85.4992
+   Dekker C, 2001, PHYS WORLD, V14, P29
+   Demers LM, 2000, ANAL CHEM, V72, P5535, DOI 10.1021/ac0006627
+   Deng H, 2000, NUCLEIC ACIDS RES, V28, P3379, DOI 10.1093/nar/28.17.3379
+   Drummond TG, 2003, NAT BIOTECHNOL, V21, P1192, DOI 10.1038/nbt873
+   ELEY DD, 1962, T FARADAY SOC, V58, P411, DOI 10.1039/tf9625800411
+   Emberly EG, 1998, PHYS REV B, V58, P10911, DOI 10.1103/PhysRevB.58.10911
+   Endres RG, 2004, REV MOD PHYS, V76, P195, DOI 10.1103/RevModPhys.76.195
+   Ghosh S, 2005, APPL PHYS LETT, V87, DOI 10.1063/1.2140470
+   Giese B, 2001, NATURE, V412, P318, DOI 10.1038/35085542
+   GOSULE LC, 1978, J MOL BIOL, V121, P311, DOI 10.1016/0022-2836(78)90366-2
+   GOSULE LC, 1976, NATURE, V259, P333, DOI 10.1038/259333a0
+   Gu JH, 2002, J APPL PHYS, V92, P2816, DOI 10.1063/1.1498959
+   Ha DH, 2002, CHEM PHYS LETT, V355, P405, DOI 10.1016/S0009-2614(02)00142-2
+   Herne TM, 1997, J AM CHEM SOC, V119, P8916, DOI 10.1021/ja9719586
+   Huang ML, 2005, APPL PHYS LETT, V86, DOI 10.1063/1.1925317
+   HUSH NS, 1975, CHEM PHYS LETT, V34, P11, DOI 10.1016/0009-2614(75)80190-4
+   Iqbal SM, 2005, APPL PHYS LETT, V86, DOI 10.1063/1.1900315
+   Kelley SO, 1999, SCIENCE, V283, P375, DOI 10.1126/science.283.5400.375
+   LaBean TH, 2000, J AM CHEM SOC, V122, P1848, DOI 10.1021/ja993393e
+   Lewis FD, 2000, NATURE, V406, P51, DOI 10.1038/35017524
+   Lewis FD, 2006, J AM CHEM SOC, V128, P791, DOI 10.1021/ja0540831
+   Lewis JP, 1997, PHYS REV B, V55, P6880, DOI 10.1103/PhysRevB.55.6880
+   Mahapatro AK, 2006, IEEE T NANOTECHNOL, V5, P232, DOI 10.1109/TNANO.2006.874053
+   MAHAPATRO AK, UNPUB
+   Mao YD, 2004, NUCLEIC ACIDS RES, V32, DOI 10.1093/nar/gnh145
+   Mehrez H, 2005, PHYS REV B, V71, DOI 10.1103/PhysRevB.71.115405
+   MURPHY CJ, 1993, SCIENCE, V262, P1025, DOI 10.1126/science.7802858
+   Okahata Y, 1998, J AM CHEM SOC, V120, P6165, DOI 10.1021/ja980165w
+   Peterlinz KA, 1997, J AM CHEM SOC, V119, P3401, DOI 10.1021/ja964326c
+   Rakitin A, 2001, PHYS REV LETT, V86, P3670, DOI 10.1103/PhysRevLett.86.3670
+   Rinaldi R, 2003, APPL PHYS LETT, V82, P472, DOI 10.1063/1.1530748
+   Rivas GA, 2005, ANAL LETT, V38, P2653, DOI 10.1080/00032710500371121
+   Seeman NC, 2005, TRENDS BIOCHEM SCI, V30, P119, DOI 10.1016/j.tibs.2005.01.007
+   Shigematsu T, 2003, J CHEM PHYS, V118, P4245, DOI 10.1063/1.1541608
+   Steel AB, 1998, ANAL CHEM, V70, P4670, DOI 10.1021/ac980037q
+   Steel AB, 1999, BIOCONJUGATE CHEM, V10, P419, DOI 10.1021/bc980115g
+   Steel AB, 2000, BIOPHYS J, V79, P975, DOI 10.1016/S0006-3495(00)76351-X
+   Storm AJ, 2001, APPL PHYS LETT, V79, P3881, DOI 10.1063/1.1421086
+   Tran P, 2000, PHYS REV LETT, V85, P1564, DOI 10.1103/PhysRevLett.85.1564
+   Voityuk AA, 2000, J PHYS CHEM B, V104, P9740, DOI 10.1021/jp001109w
+   Voityuk AA, 2000, CHEM PHYS LETT, V324, P430, DOI 10.1016/S0009-2614(00)00638-2
+   Warman JM, 1996, CHEM PHYS LETT, V249, P319, DOI 10.1016/0009-2614(95)01429-2
+   Watanabe H, 2001, APPL PHYS LETT, V79, P2462, DOI 10.1063/1.1408604
+   Xu BQ, 2004, NANO LETT, V4, P1105, DOI 10.1021/nl0494295
+   Yaliraki SN, 1999, J AM CHEM SOC, V121, P3428, DOI 10.1021/ja982918k
+   Zhang Y, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.198102
+NR 51
+TC 25
+Z9 25
+U1 2
+U2 19
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TEMPLE CIRCUS, TEMPLE WAY, BRISTOL BS1 6BE, ENGLAND
+SN 0957-4484
+EI 1361-6528
+J9 NANOTECHNOLOGY
+JI Nanotechnology
+PD MAY 16
+PY 2007
+VL 18
+IS 19
+AR 195202
+DI 10.1088/0957-4484/18/19/195202
+PG 6
+WC Nanoscience & Nanotechnology; Materials Science, Multidisciplinary;
+   Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics; Materials Science; Physics
+GA 169KA
+UT WOS:000246589900007
+OA Green Published
+DA 2022-10-19
+ER
+
+PT J
+AU Sawtelle, SD
+   Kobos, ZA
+   Reed, MA
+AF Sawtelle, Sonya D.
+   Kobos, Zachary A.
+   Reed, Mark A.
+TI Electromigration in gold nanowires under AC driving
+SO APPLIED PHYSICS LETTERS
+LA English
+DT Article
+AB We investigate the relationship between temperature and electron wind force in electromigration (EM) of ultrathin gold nanowires by monitoring power and current density at breakdown under a generalized AC bias (AC with a DC offset). Based on model calculations, our driving frequency of 10 MHz is low enough to maintain steady state self-heating behavior of our wires but high enough that the direction of the wind force switches quickly relative to the time-scale of atomic motion through the junction. The maximum and time-average of the squared current density (which dictate the temperature) both exhibit a minimum in DC offset (which dictates the wind force). This is explained by wind force driven annealing of the wire under long-range atomic displacements. Our hypothesis is supported by observations of changing device resistance on the voltage ramp prior to EM onset and by subsequent SEM inspection of electromigrated devices. The frequency dependence of pure AC EM breaking is also presented and interpreted in terms of the effectiveness of damage healing upon current reversal and the degree of wind force driven annealing. Published by AIP Publishing.
+C1 [Sawtelle, Sonya D.] Yale Univ, Dept Appl Phys, New Haven, CT 06520 USA.
+   Yale Univ, Dept Elect Engn, New Haven, CT 06520 USA.
+RP Sawtelle, SD (corresponding author), Yale Univ, Dept Appl Phys, New Haven, CT 06520 USA.
+EM sonya.sawtelle@yale.edu
+RI Reed, Mark/A-9970-2011
+OI Reed, Mark/0000-0001-6479-7256; Sawtelle, Sonya/0000-0002-8720-0800;
+   Kobos, Zachary/0000-0002-1636-2095
+FU National Science Foundation [1309898]
+FX This research was supported by the National Science Foundation (Grant
+   No. 1309898). We wish to acknowledge the help of M. Rooks at Yale YINQE
+   and the Yale SEAS cleanroom staff in fabricating out devices.
+CR Aref T, 2011, NANOTECHNOLOGY, V22, DOI 10.1088/0957-4484/22/39/395302
+   Black J. R., 1967, 2005 IEEE INT REL PH, P1
+   Brynsvold RR, 2007, IEEE T DEVICE MAT RE, V7, P259, DOI 10.1109/TDMR.2007.901178
+   Dames C, 2005, REV SCI INSTRUM, V76, DOI 10.1063/1.2130718
+   Heersche HB, 2007, APPL PHYS LETT, V91, DOI 10.1063/1.2767149
+   Hummelgard M, 2010, NANOTECHNOLOGY, V21, DOI 10.1088/0957-4484/21/16/165704
+   Ilyas A, 2012, NANOTECHNOLOGY, V23, DOI 10.1088/0957-4484/23/27/275502
+   Johnson SL, 2010, NANOTECHNOLOGY, V21, DOI 10.1088/0957-4484/21/12/125204
+   Kim MJ, 2014, SCRIPTA MATER, V75, P58, DOI 10.1016/j.scriptamat.2013.11.019
+   Kozlova T, 2013, NANOTECHNOLOGY, V24, DOI 10.1088/0957-4484/24/50/505708
+   Lee KD, 2012, 2012 IEEE INTERNATIONAL RELIABILITY PHYSICS SYMPOSIUM (IRPS)
+   Liang WJ, 2002, NATURE, V417, P725, DOI 10.1038/nature00790
+   Luo XM, 2014, J APPL PHYS, V116, DOI 10.1063/1.4894825
+   Naitoh Y, 2006, NANOTECHNOLOGY, V17, P5669, DOI 10.1088/0957-4484/17/22/022
+   Ringler IJ, 2016, AIP ADV, V6, DOI 10.1063/1.4963669
+   Song H, 2009, NATURE, V462, P1039, DOI 10.1038/nature08639
+   Tan C. M., 2011, CHANGING PHYS METAL, P415
+   Tao J, 1998, MICROELECTRON RELIAB, V38, P295, DOI 10.1016/S0026-2714(97)00057-7
+   Tao J, 1996, 1996 IEEE INTERNATIONAL RELIABILITY PHYSICS PROCEEDINGS, 34TH ANNUAL, P180, DOI 10.1109/RELPHY.1996.492079
+   Taychatanapat T, 2007, NANO LETT, V7, P652, DOI 10.1021/nl062631i
+   Umeno A, 2009, APPL PHYS LETT, V94, DOI 10.1063/1.3124654
+   Yao W, 2013, J APPL PHYS, V114, DOI 10.1063/1.4821015
+   Yao W, 2012, J APPL PHYS, V111, DOI 10.1063/1.3693532
+   You GF, 2010, NANOTECHNOLOGY, V21, DOI 10.1088/0957-4484/21/19/195701
+NR 24
+TC 1
+Z9 1
+U1 1
+U2 25
+PU AMER INST PHYSICS
+PI MELVILLE
+PA 1305 WALT WHITMAN RD, STE 300, MELVILLE, NY 11747-4501 USA
+SN 0003-6951
+EI 1077-3118
+J9 APPL PHYS LETT
+JI Appl. Phys. Lett.
+PD NOV 5
+PY 2018
+VL 113
+IS 19
+AR 193104
+DI 10.1063/1.5051638
+PG 5
+WC Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Physics
+GA GZ8CK
+UT WOS:000449713800029
+DA 2022-10-19
+ER
+
+EFF

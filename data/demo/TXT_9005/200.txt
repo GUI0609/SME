@@ -1,0 +1,89 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU van der Molen, SJ
+   Naaman, R
+   Scheer, E
+   Neaton, JB
+   Nitzan, A
+   Natelson, D
+   Tao, NJ
+   van der Zant, H
+   Mayor, M
+   Ruben, M
+   Reed, M
+   Calame, M
+AF van der Molen, Sense Jan
+   Naaman, Ron
+   Scheer, Elke
+   Neaton, Jeffrey B.
+   Nitzan, Abraham
+   Natelson, Douglas
+   Tao, N. J.
+   van der Zant, Herre
+   Mayor, Marcel
+   Ruben, Mario
+   Reed, Mark
+   Calame, Michel
+TI Visions for a molecular future
+SO NATURE NANOTECHNOLOGY
+LA English
+DT Editorial Material
+AB Leading researchers in molecular electronics discuss the motivation behind their work and what they consider to be the grand challenges for the field.
+C1 [van der Molen, Sense Jan] Leiden Univ, Kamerlingh Onnes Lab, NL-2300 RA Leiden, Netherlands.
+   [Naaman, Ron] Weizmann Inst Sci, Dept Chem Phys, IL-76100 Rehovot, Israel.
+   [Scheer, Elke] Univ Konstanz, Dept Phys, D-78457 Constance, Germany.
+   [Neaton, Jeffrey B.] Univ Calif Berkeley, Lawrence Berkeley Natl Lab, Div Mat Sci, Mol Foundry, Berkeley, CA 94720 USA.
+   [Nitzan, Abraham] Tel Aviv Univ, Sch Chem, IL-69978 Tel Aviv, Israel.
+   [Natelson, Douglas] Rice Univ, Dept Phys & Astron, Houston, TX 77005 USA.
+   [Natelson, Douglas] Rice Univ, Dept Elect & Comp Engn, Houston, TX 77005 USA.
+   [Tao, N. J.] Arizona State Univ, Tempe, AZ 85287 USA.
+   [van der Zant, Herre] Delft Univ Technol, Kavli Inst Nanosci, NL-2628 CJ Delft, Netherlands.
+   [Mayor, Marcel] Univ Basel, Dept Chem, CH-4056 Basel, Switzerland.
+   [Ruben, Mario] Karlsruhe Inst Technol, Helmholtz Soc, D-76344 Eggenstein Leopoldshafen, Germany.
+   [Ruben, Mario] Univ Strasbourg, Inst Phys & Chim Mat, F-67034 Strasbourg, France.
+   [Reed, Mark] Yale Univ, Sch Engn & Appl Sci, New Haven, CT 06520 USA.
+   [Calame, Michel] Univ Basel, Dept Phys, CH-4056 Basel, Switzerland.
+   [Calame, Michel] Univ Basel, Swiss Nanosci Inst, CH-4056 Basel, Switzerland.
+RP van der Molen, SJ (corresponding author), Leiden Univ, Kamerlingh Onnes Lab, POB 9504, NL-2300 RA Leiden, Netherlands.
+EM Molen@Physics.LeidenUniv.nl; ron.naaman@weizmann.ac.il;
+   elke.scheer@uni-konstanz.de; jbneaton@lbl.gov; nitzan@post.tau.ac.il;
+   natelson@rice.edu; njtao@asu.edu; H.S.J.vanderZant@tudelft.nl;
+   marcel.mayor@unibas.ch; mario.ruben@kit.edu; mark.reed@yale.edu;
+   michel.calame@unibas.ch
+RI Calame, Michel/O-8818-2019; van der Zant, Herre S.J./J-9467-2016;
+   Calame, Michel/A-5037-2008; Reed, Mark/A-9970-2011; van der Molen, Sense
+   J/F-3035-2014; Neaton, Jeffrey/F-8578-2015; Ruben, Mario/C-6816-2008
+OI Calame, Michel/0000-0001-7467-9915; van der Zant, Herre
+   S.J./0000-0002-5385-0282; Calame, Michel/0000-0001-7467-9915; Reed,
+   Mark/0000-0001-6479-7256; Neaton, Jeffrey/0000-0001-7585-6135; Ruben,
+   Mario/0000-0002-7718-7016; van der Molen, Sense Jan/0000-0003-3181-2055
+NR 0
+TC 67
+Z9 68
+U1 3
+U2 161
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1748-3387
+J9 NAT NANOTECHNOL
+JI Nat. Nanotechnol.
+PD JUN
+PY 2013
+VL 8
+IS 6
+BP 385
+EP 389
+DI 10.1038/nnano.2013.101
+PG 5
+WC Nanoscience & Nanotechnology; Materials Science, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics; Materials Science
+GA 158NS
+UT WOS:000319979400004
+PM 23736209
+DA 2022-10-21
+ER
+
+EF

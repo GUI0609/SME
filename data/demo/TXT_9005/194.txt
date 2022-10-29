@@ -1,0 +1,129 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU El-Sonbati, AZ
+   El-Mogazy, MA
+   Nozha, SG
+   Diab, MA
+   Abou-Dobara, MI
+   Eldesoky, AM
+   Morgan, SM
+AF El-Sonbati, A. Z.
+   El-Mogazy, M. A.
+   Nozha, S. G.
+   Diab, M. A.
+   Abou-Dobara, M. I.
+   Eldesoky, A. M.
+   Morgan, Sh. M.
+TI Mixed ligand transition metal(II) complexes: Characterization, spectral,
+   electrochemical studies, molecular docking and bacteriological
+   application
+SO JOURNAL OF MOLECULAR STRUCTURE
+LA English
+DT Article
+DE Mixed ligand complexes; X-ray diffraction analysis; Thermal analysis;
+   Molecular docking; Antimicrobial activity, P355 carbon steel
+ID SCHIFF-BASE COMPLEXES; THERMAL-PROPERTIES; ELECTRICAL-CONDUCTIVITY;
+   SUPRAMOLECULAR STRUCTURE; ANTIMICROBIAL ACTIVITY; CORROSION-INHIBITORS;
+   IONIC RADIUS; CARBON-STEEL; DERIVATIVES; PARAMETERS
+AB Mixed ligand complexes of Cu(II), Co(II), Ni(II), Mn(II) and Cd(II) with N,N'-1,4-phenylene (2-hyboxynaphthaliden imine) (H2L) as primary ligand and 4-aminoantipyrine (4-AAp) as secondary ligand have been prepared. The newly formed complexes were characterized using elemental analysis, magnetic susceptibility, molar conductance, H-1 NMR, UV-Vis., FTIR, X-ray diffraction, mass, thermal analysis and ESR techniques. The elemental analysis, data reveal the formation of [2:1:2] [M: H2L: 4-AAP] complexes. The mode of bonding between Cu(II), Ni(II), Co(Il), Mn(II) and Cd(II) and ligands has been studied by IR spectrophotometry. Electronic absorption spectra and magnetic moment measurements of the mixed-ligand complexes suggest a distorted octahedral geometry around the central metal ion and the anions X- are in the axial positions, for all compounds. The ligands are found to behave in a neutral bidentate manner, through nitrogen atom and oxygen atom of carbonyl group (secondary ligand), whereas H2L (primary ligand) coordinated through nitrogen and OH group as a neutral ligand. FT-IR spectral data shows that the ligand acted as bis-bidentate coordination through ON-NO donor system. The XRD patterns of the ligand and its mixed ligand complexes showed the polycrystalline natures. The ligand and its mixed complexes were studied for their microbial activity against some bacteria and fungi. The ligand in comparison to its mixed ligand complexes (1-5) was screened for their antibacterial activity against Klebsiella pneumoniae, Escherichia coli, Pseudomonas sp., Staphylococcus aureus and Bacillus cereus. Antifungal activities of ligand in comparison to its mixed ligand complexes (1-5) were determined against Fusarium oxysporum, Aspergillus niger and Candida albicans. It was found that the mixed ligand complex (5) is more active than other mixed ligand complexes and penicillin G against Bacillus cereus, Staphylococcus aureus, Klebsiella pneumoniae and Pseudomonas sp. The mixed ligand complex (5) is more active than the ligand and other mixed ligand complexes and miconazole against Aspergillus niger. The inhibition efficiency of the prepared ligand (H2L) against the corrosion of P355 carbon steel in HCl (2 M) solution was determined by various electrochemical methods are found to be in reasonable agreement. The morphology of protected P355 carbon steel was test by energy dispersive X-ray and scanning electron microscope (EDX-SEM). (C) 2021 Elsevier B.V. All rights reserved.
+C1 [El-Sonbati, A. Z.; El-Mogazy, M. A.; Diab, M. A.] Damietta Univ, Chem Dept, Fac Sci, Dumyat, Egypt.
+   [Nozha, S. G.] Domyat Lab, Minist Hlth, Dumyat, Egypt.
+   [Abou-Dobara, M. I.] Damietta Univ, Dept Bot & Microbiol, Fac Sci, Dumyat, Egypt.
+   [Eldesoky, A. M.] High Inst Engn & Technol New Damietta, Chem Engn Dept, Damietta Governorate, Egypt.
+   [Eldesoky, A. M.] Umm Al Qura Univ, Al Qunfudah Univ Coll, Chem Dept, Al Qunfudah Ctr Sci Res QCSR, Mecca, Saudi Arabia.
+   [Morgan, Sh. M.] Environm Monitoring Lab, Minist Hlth, Port Said, Egypt.
+RP Nozha, SG (corresponding author), Domyat Lab, Minist Hlth, Dumyat, Egypt.
+EM samar.nozha@gmail.com
+RI Morgan, Shaimaa/Q-1494-2019
+OI el-sonbati, Adel/0000-0003-0845-5125
+CR Abou-Dobara MI, 2019, MAT SCI ENG C-MATER, V103, DOI 10.1016/j.msec.2019.05.012
+   Abou-Dobara MI, 2013, WORLD J MICROB BIOT, V29, P119, DOI 10.1007/s11274-012-1164-5
+   Abou-Dobara MI, 2019, J CELL BIOCHEM, V120, P1667, DOI 10.1002/jcb.27473
+   Anjana N., 2012, INT J PHARM BIO SCI, V3, P338
+   [Anonymous], 2019, SUPRAMOLECULAR STRUC
+   [Anonymous], 2000, USERS MANUAL
+   Antonov L, 2000, J CHEM SOC PERK T 2, V6, P1173
+   Ashassi-Sorkhabi H, 2006, ELECTROCHIM ACTA, V51, P3848, DOI 10.1016/j.electacta.2005.11.002
+   Ballhausen C.J., 1962, INTRO LIGAND FIELD T, P129
+   BARRAL G, 1991, J APPL ELECTROCHEM, V21, P991, DOI 10.1007/BF01077585
+   COATS AW, 1964, NATURE, V201, P68, DOI 10.1038/201068a0
+   Crundwell FK, 2014, HYDROMETALLURGY, V149, P265, DOI 10.1016/j.hydromet.2014.07.003
+   Diab MA, 2019, APPL ORGANOMET CHEM, V33, DOI 10.1002/aoc.5153
+   Diab MA, 2019, APPL ORGANOMET CHEM, V33, DOI 10.1002/aoc.4945
+   Diab MA, 2019, EUR POLYM J, V115, P268, DOI 10.1016/j.eurpolymj.2019.03.036
+   Diab MA, 2018, APPL ORGANOMET CHEM, V32, DOI 10.1002/aoc.4378
+   DUBEY KP, 1979, J CHIN CHEM SOC-TAIP, V26, P37, DOI 10.1002/jccs.197900008
+   El-Ghamaz NA, 2017, CHEM PAP, V71, P2417, DOI 10.1007/s11696-017-0236-2
+   El-Ghamaz NA, 2012, J MOL STRUCT, V1027, P92, DOI 10.1016/j.molstruc.2012.06.004
+   El-Sonbati AZ, 2022, J IRAN CHEM SOC, V19, P979, DOI 10.1007/s13738-021-02354-1
+   El-Sonbati AZ, 2021, J MOL STRUCT, V1239, DOI 10.1016/j.molstruc.2021.130481
+   El-Sonbati AZ, 2020, J MOL STRUCT, V1200, DOI 10.1016/j.molstruc.2019.127065
+   El-Sonbati AZ, 2019, APPL ORGANOMET CHEM, V33, DOI 10.1002/aoc.5048
+   El-Sonbati AZ, 2019, APPL ORGANOMET CHEM, V33, DOI 10.1002/aoc.4973
+   El-Sonbati AZ, 2018, APPL ORGANOMET CHEM, V32, DOI 10.1002/aoc.4530
+   El-Sonbati AZ, 2018, APPL ORGANOMET CHEM, V32, DOI 10.1002/aoc.4207
+   El-Sonbati AZ, 2018, APPL ORGANOMET CHEM, V32, DOI 10.1002/aoc.4059
+   El-Sonbati AZ, 2018, J MOL STRUCT, V1154, P354, DOI 10.1016/j.molstruc.2017.10.020
+   El-Sonbati AZ, 2017, J MOL LIQ, V225, P195, DOI 10.1016/j.molliq.2016.11.047
+   El-Sonbati AZ, 2013, INORG CHIM ACTA, V404, P175, DOI 10.1016/j.ica.2013.04.001
+   El-Sonbati AZ, 2012, SPECTROCHIM ACTA A, V99, P353, DOI 10.1016/j.saa.2012.08.059
+   El-Sonbati AZ, 2012, SPECTROCHIM ACTA A, V95, P627, DOI 10.1016/j.saa.2012.04.066
+   El-Sonbati AZ, 2019, APPL ORGANOMET CHEM, V33, DOI 10.1002/aoc.4839
+   El-Sonbaty AA, 2021, EGYPT J CHEM, V64, P807, DOI [10.21608/EJCHEM.2020.41579.2842, 10.21608/ejchem.2020.41579.2842]
+   Figgs B.N, 1976, INTRO LIGAND FIELD, P163
+   Fouda AS, 2014, INT J ELECTROCHEM SC, V9, P1867
+   Fouda A.S., 2015, J PHARM CHEM, V7, P183
+   Hegazy MA, 2010, CORROS SCI, V52, P2897, DOI 10.1016/j.corsci.2010.04.034
+   Holm R.H., 1966, PROGR INORGANIC CHEM, V7, P83, DOI [DOI 10.1002/9780470166086.CH3, 10.1002/9780470166086.ch3]
+   HOROWITZ HH, 1963, ANAL CHEM, V35, P1464, DOI 10.1021/ac60203a013
+   John RP, 2003, SPECTROCHIM ACTA A, V59, P1349, DOI 10.1016/S1386-1425(02)00332-3
+   Khaled KF, 2008, MATER CHEM PHYS, V112, P290, DOI 10.1016/j.matchemphys.2008.05.056
+   Laugier J., LMGP SUITE SUITE PRO, P38042
+   Mahdavian M, 2006, CORROS SCI, V48, P4152, DOI 10.1016/j.corsci.2006.03.012
+   Mansour R.A., 2017, INT J EMER TRENDS EN, V7, P81
+   Mohamed GG, 2016, J MOL LIQ, V223, P1311, DOI 10.1016/j.molliq.2016.09.065
+   Morgan SM, 2018, APPL ORGANOMET CHEM, V32, DOI 10.1002/aoc.4504
+   Morgan SM, 2018, APPL ORGANOMET CHEM, V32, DOI 10.1002/aoc.4281
+   Morgan SM, 2018, APPL ORGANOMET CHEM, V32, DOI 10.1002/aoc.4305
+   Morgan SM, 2018, APPL ORGANOMET CHEM, V32, DOI 10.1002/aoc.4264
+   Morgan SM, 2018, J MOL STRUCT, V1160, P227, DOI 10.1016/j.molstruc.2018.01.079
+   Morgan SM, 2017, J MOL LIQ, V240, P752, DOI 10.1016/j.molliq.2017.05.114
+   Nakamoto K., 2008, INFRARED RAMAN SPE B, DOI DOI 10.1002/9780470405888
+   Nozha SG, 2021, J MOL STRUCT, V1227, DOI 10.1016/j.molstruc.2020.129525
+   PARASHAR RK, 1988, INORG CHIM A-BIOINOR, V151, P201, DOI 10.1016/S0020-1693(00)83468-4
+   Raman A.A., 2012, J PHARM SCI INNOV, V1, P67
+   Raman N., 2007, Mycobiology, V35, P150, DOI 10.4489/MYCO.2007.35.3.150
+   Refaat HM, 2016, J MOL LIQ, V220, P802, DOI 10.1016/j.molliq.2016.04.124
+   Salehi M, 2016, INORG CHIM ACTA, V443, P28, DOI 10.1016/j.ica.2015.12.016
+   Samie F, 2005, ATMOS ENVIRON, V39, P7362, DOI 10.1016/j.atmosenv.2005.09.022
+   Unver H, 2001, J CHEM CRYSTALLOGR, V31, P203, DOI 10.1023/A:1014395132751
+   Yaday D.K., 2010, J CORROS SCI, V52, P3586
+NR 62
+TC 10
+Z9 10
+U1 1
+U2 12
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0022-2860
+EI 1872-8014
+J9 J MOL STRUCT
+JI J. Mol. Struct.
+PD JAN 15
+PY 2022
+VL 1248
+AR 131498
+DI 10.1016/j.molstruc.2021.131498
+EA SEP 2021
+PG 22
+WC Chemistry, Physical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry
+GA WC6HH
+UT WOS:000704356700012
+DA 2022-10-19
+ER
+
+EFF

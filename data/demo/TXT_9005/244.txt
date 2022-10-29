@@ -1,0 +1,150 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Varadwaj, PR
+   Varadwaj, A
+   Peslherbe, GH
+AF Varadwaj, Pradeep R.
+   Varadwaj, Arpita
+   Peslherbe, Gilles H.
+TI An electronic structure theory investigation of the physical chemistry
+   of the intermolecular complexes of cyclopropenylidene with hydrogen
+   halides
+SO JOURNAL OF COMPUTATIONAL CHEMISTRY
+LA English
+DT Article
+DE cyclopropenylidene hydrogen halide complexes; hydrogen bonding; proton
+   transfer; potential energy surface; electronic; vibrational and
+   topological properties; electronic structure calculations
+ID ION-MOLECULE REACTIONS; PROTON-TRANSFER; SELECTIVE LIGANDS; RATIONAL
+   DESIGN; HARTREE-FOCK; BASIS-SETS; BOND; C3H2; ABSORPTION; CL
+AB The proton accepting and donating abilities of cyclopropenylidene (c-C3H2) on its complexation with hydrogen halides H?X (X = F, Cl, Br) are analyzed using density-functional theory with three functionals (PBE0, B3LYP, and B3LYP-D) and benchmarked against second-order MollerPlesset (MP2) theory. Standard signatures including, inter alia, dipole moment enhancement, charge transfer from the carbenic lone pair to the antibonding sigma*(H?X) orbital, and H?X bond elongation are examined to ascertain the presence of hydrogen bonding in these complexes. The latter property is found to be accompanied with a pronounced red shift in the bond stretching frequency and with a substantial increase in the infrared intensity of the band on complex formation. The MP2/aug-cc-pVTZ c-C3H2 center dot center dot center dot H?F complex potential energy surface turns out to be an asymmetric deep single well, while asymmetric double wells are found for the c-C3H2 center dot center dot center dot H-Cl and c-C3H2 center dot center dot center dot H?Br complexes, with an energy barrier of 4.1 kcal mol-1 for proton transfer along the hydrogen bond in the latter complex. Hydrogen-bond energy decomposition, with the reduced variational space self-consistent field approach, indicates that there are large polarization and charge-transfer interactions between the interacting partners in c-C3H2 center dot center dot center dot H?Br compared to the other two complexes. The C center dot center dot center dot H bonds are found to be predominantly ionic with partial covalent character, unveiled by the quantum theory of atoms in molecules. The present results reveal that the c-C3H2 carbene divalent carbon can act as a proton acceptor and is responsible for the formation of hydrogen bonds in the complexes investigated. (c) 2012 Wiley Periodicals, Inc.
+C1 [Varadwaj, Pradeep R.; Varadwaj, Arpita; Peslherbe, Gilles H.] Concordia Univ, Dept Chem & Biochem, Ctr Res Mol Modeling, Montreal, PQ H4B 1R6, Canada.
+RP Varadwaj, PR (corresponding author), Concordia Univ, Dept Chem & Biochem, Ctr Res Mol Modeling, 7141 Sherbrooke St W, Montreal, PQ H4B 1R6, Canada.
+EM pradeep@cermm.concordia.ca
+RI Varadwaj, Pradeep R/M-6198-2018; Varadwaj, Arpita/AAA-1762-2019
+OI Varadwaj, Pradeep R/0000-0002-7102-3133; Varadwaj,
+   Arpita/0000-0001-8779-789X
+FU Japan Society for the Promotion of Science (JSPS); PBEEE Quebec Merit
+   Postdoctoral Scholarship; Natural Sciences and Engineering Research
+   Council (NSERC) of Canada
+FX P.R.V. acknowledges the Japan Society for the Promotion of Science
+   (JSPS) for the award of a Postdoctoral Fellowship and financial support
+   received during a significant part of this work for conducting research
+   at the Department of Chemistry of Okayama University, Okayama, Japan,
+   and thanks to Osaka University and Concordia University for providing
+   high-performance computing resources for GAUSSIAN and GAMESS
+   calculations. P.R.V. is currently the recipient of a PBEEE Quebec Merit
+   Postdoctoral Scholarship. G.H.P. is the recipient of a Concordia
+   University Research Chair. Partial funding for this work was provided by
+   the Natural Sciences and Engineering Research Council (NSERC) of Canada.
+CR Adamo C, 1999, J CHEM PHYS, V110, P6158, DOI 10.1063/1.478522
+   Adams N. G., 1987, ASTROPHYS J, V317, pL25
+   Alkorta I, 2001, J PHYS CHEM A, V105, P7481, DOI 10.1021/jp0116407
+   Araujo RCMU, 1998, J BRAZIL CHEM SOC, V9, P499, DOI 10.1590/S0103-50531998000500016
+   Bader R.F.W., 1990, ATOMS MOL QUANTUM TH
+   Bader RFW, 2004, J PHYS CHEM A, V108, P8385, DOI 10.1021/jp0482666
+   BECKE AD, 1993, J CHEM PHYS, V98, P1372, DOI 10.1063/1.464304
+   Cemicharo J., 1988, ASTRON ASTROPHYS, V189, pL1
+   Cernicharo J, 1999, ASTRON ASTROPHYS, V351, P341
+   CERNICHARO J, 1991, ASTROPHYS J, V368, pL39, DOI 10.1086/185943
+   Chen W, 1996, J PHYS CHEM-US, V100, P14316, DOI 10.1021/jp960694r
+   CHENEY BV, 1988, J AM CHEM SOC, V110, P4195, DOI 10.1021/ja00221a016
+   Crittenden DL, 2005, J PHYS CHEM A, V109, P2971, DOI 10.1021/jp045233h
+   DUNNING TH, 1989, J CHEM PHYS, V90, P1007, DOI 10.1063/1.456153
+   Eckert J, 2001, J PHYS CHEM B, V105, P19, DOI 10.1021/jp000267k
+   Espinosa E, 2002, J CHEM PHYS, V117, P5529, DOI 10.1063/1.1501133
+   FISCHER EO, 1964, ANGEW CHEM INT EDIT, V3, P580, DOI 10.1002/anie.196405801
+   Fosse D, 2001, ASTROPHYS J, V552, P168, DOI 10.1086/320471
+   Frisch M. J., 2016, GAUSSIAN 16, V16
+   Glendening E.D., NBO VERSION 3 1
+   Grimme S, 2006, J COMPUT CHEM, V27, P1787, DOI 10.1002/jcc.20495
+   Hay BP, 1996, INORG CHEM, V35, P2650, DOI 10.1021/ic9514760
+   HAY BP, 1994, J AM CHEM SOC, V116, P6316, DOI 10.1021/ja00093a035
+   Hodges JA, 2000, ASTROPHYS J, V544, P838, DOI 10.1086/317251
+   IGAU A, 1988, J AM CHEM SOC, V110, P6463, DOI 10.1021/ja00227a028
+   Johnson LE, 2008, J PHYS CHEM A, V112, P7448, DOI 10.1021/jp802214u
+   KEARLEY GJ, 1994, SCIENCE, V264, P1285, DOI 10.1126/science.264.5163.1285
+   Keith T. A., 2011, AIMALL VERSION 11 03
+   KENDALL RA, 1992, J CHEM PHYS, V96, P6796, DOI 10.1063/1.462569
+   KITAURA K, 1976, INT J QUANTUM CHEM, V10, P325, DOI 10.1002/qua.560100211
+   Lavallo V, 2006, SCIENCE, V312, P722, DOI 10.1126/science.1126675
+   LEE TJ, 1985, J AM CHEM SOC, V107, P137, DOI 10.1021/ja00287a025
+   LEGON AC, 1993, CHEM SOC REV, V22, P153, DOI 10.1039/cs9932200153
+   LEVITT M, 1988, J MOL BIOL, V201, P751, DOI 10.1016/0022-2836(88)90471-8
+   MACDOUGALL PJ, 1986, CAN J CHEM, V64, P1496, DOI 10.1139/v86-246
+   MADDEN SC, 1989, ASTRON J, V97, P1403, DOI 10.1086/115081
+   MAIER G, 1986, PURE APPL CHEM, V58, P95, DOI 10.1351/pac198658010095
+   Maksyutenko P, 2011, PHYS CHEM CHEM PHYS, V13, P240, DOI 10.1039/c0cp01529f
+   Marx D, 2006, CHEMPHYSCHEM, V7, P1848, DOI 10.1002/cphc.200600128
+   McDowell SAC, 2006, CHEM PHYS LETT, V424, P239, DOI 10.1016/j.cplett.2006.04.047
+   Mohajeri A, 2007, J MOL STRUC-THEOCHEM, V820, P65, DOI 10.1016/j.theochem.2007.06.005
+   Moller C, 1934, PHYS REV, V46, P0618, DOI 10.1103/PhysRev.46.618
+   Moss R. A., 2004, REACTIVE INTERMEDIAT
+   MYHER JJ, 1968, CAN J CHEMISTRY, V46, P1755, DOI 10.1139/v68-291
+   NOVOA JJ, 1995, J PHYS CHEM-US, V99, P15837, DOI 10.1021/j100043a023
+   Ogliaro F., 2009, GAUSSIAN 09 REVISION
+   Paizs B, 1998, J COMPUT CHEM, V19, P575, DOI 10.1002/(SICI)1096-987X(19980430)19:6<575::AID-JCC1>3.0.CO;2-O
+   Perrin CL, 2010, ACCOUNTS CHEM RES, V43, P1550, DOI 10.1021/ar100097j
+   POLLEY CW, 1978, INT J MASS SPECTROM, V26, P49, DOI 10.1016/0020-7381(78)80004-7
+   POPLE JA, 1982, FARADAY DISCUSS, V73, P7, DOI 10.1039/dc9827300007
+   Ramirez-Ramirez JZ, 2010, J PHYS CHEM A, V114, P7945, DOI 10.1021/jp100309c
+   Redondo JR, 2003, J PHYS CHEM A, V107, P5844, DOI 10.1021/jp034730f
+   Redondo JR, 2002, J PHYS CHEM A, V106, P6346, DOI 10.1021/jp013248z
+   Roscioli JR, 2006, J PHYS CHEM A, V110, P4943, DOI 10.1021/jp056022v
+   Santra B, 2007, J CHEM PHYS, V127, DOI 10.1063/1.2790009
+   Scherer W, 2008, INORG CHIM ACTA, V361, P513, DOI 10.1016/j.ica.2007.05.050
+   SCHMIDT MW, 1993, J COMPUT CHEM, V14, P1347, DOI 10.1002/jcc.540141112
+   Sheu WS, 2011, J PHYS CHEM A, V115, P99, DOI 10.1021/jp110264x
+   Siegbahn PEM, 2010, J CHEM THEORY COMPUT, V6, P2040, DOI 10.1021/ct100213e
+   STEPHENS PJ, 1994, J PHYS CHEM-US, V98, P11623, DOI 10.1021/j100096a001
+   Tanaka H., 1987, CHEM PHYS LETT, V140, P221
+   Tenenbaum ED, 2009, ASTROPHYS J LETT, V704, pL108, DOI 10.1088/0004-637X/704/2/L108
+   Timerghazin QK, 2007, J CHEM PHYS, V127, DOI 10.1063/1.2747250
+   Timerghazin QK, 2008, J PHYS CHEM B, V112, P520, DOI 10.1021/jp0774948
+   Timerghazin QK, 2011, J PHYS CHEM A, V115, P13201, DOI 10.1021/jp207381t
+   Tomioka H, 1997, ACCOUNTS CHEM RES, V30, P315, DOI 10.1021/ar9602157
+   Tuma C, 1999, PHYS CHEM CHEM PHYS, V1, P3939, DOI 10.1039/a904357h
+   UMEYAMA H, 1977, J AM CHEM SOC, V99, P1316, DOI 10.1021/ja00447a007
+   Varadwaj PR, 2007, INT J QUANTUM CHEM, V107, P1194, DOI 10.1002/qua.21238
+   Varadwaj PR, 2011, J PHYS CHEM A, V115, P13180, DOI 10.1021/jp206484m
+   Varadwaj PR, 2011, J PHYS CHEM A, V115, P8458, DOI 10.1021/jp204068w
+   Varadwaj PR, 2011, J PHYS CHEM A, V115, P5592, DOI 10.1021/jp2001157
+   Varadwaj PR, 2010, THEOR CHEM ACC, V127, P711, DOI 10.1007/s00214-010-0781-z
+   Varadwaj PR, 2010, PHYS CHEM CHEM PHYS, V12, P2126, DOI 10.1039/b919953e
+   Varadwaj PR, 2009, J MOL STRUC-THEOCHEM, V915, P20, DOI 10.1016/j.theochem.2009.08.009
+   Varadwaj PR, 2010, J MOL MODEL, V16, P965, DOI 10.1007/s00894-009-0603-1
+   VRTILEK JM, 1987, ASTROPHYS J, V314, P716, DOI 10.1086/165099
+   WONG MW, 1993, J AM CHEM SOC, V115, P1507, DOI 10.1021/ja00057a042
+   Xie XH, 2009, CHINESE J CHEM, V27, P49, DOI 10.1002/cjoc.200990025
+   Zhao Y, 2005, J CHEM THEORY COMPUT, V1, P415, DOI 10.1021/ct049851d
+NR 80
+TC 11
+Z9 11
+U1 0
+U2 12
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0192-8651
+EI 1096-987X
+J9 J COMPUT CHEM
+JI J. Comput. Chem.
+PD OCT 5
+PY 2012
+VL 33
+IS 26
+BP 2073
+EP 2082
+DI 10.1002/jcc.23043
+PG 10
+WC Chemistry, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry
+GA 003DP
+UT WOS:000308588700004
+PM 22696309
+DA 2022-10-21
+ER
+
+EF

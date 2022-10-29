@@ -1,0 +1,193 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Carter, S
+   Handy, NC
+   Yamaguchi, Y
+   Turney, JM
+   Schaefer, HF
+AF Carter, Stuart
+   Handy, Nicholas C.
+   Yamaguchi, Yukio
+   Turney, Justin M.
+   Schaefer, Henry F., III
+TI Vibrational energy levels for the electronic ground state of the
+   diazocarbene (CNN) molecule
+SO MOLECULAR PHYSICS
+LA English
+DT Article
+DE vibrational energy levels; electronic ground state; diazocarbene;
+   ICMRCI; CASSCF
+ID COUPLED-CLUSTER METHOD; FREE RADICAL NCN; SPACE SCF METHOD;
+   CONFIGURATION-INTERACTION; MATRIX-ISOLATION; AB-INITIO; ULTRAVIOLET
+   SPECTRA; INFRARED-SPECTRUM; SPECTROSCOPY; SINN
+AB The vibrational energy levels of diazocarbene (diazomethylene) in its electronic ground state, (X) over tilde (3) Sigma(-) CNN, have been predicted using the variational method. The potential energy surfaces of (X) over tilde (3) A" CNN were determined by employing ab initio single reference coupled cluster with single and double excitations (CCSD), CCSD with perturbative triple excitations [CCSD(T)], multi-reference complete active space self-consistent-field (CASSCF), and internally contracted multi-reference configuration interaction (ICMRCI) methods. The correlation-consistent polarised valence quadruple zeta (cc-pVQZ) basis set was used. Four sets of vibrational energy levels determined from the four distinct analytical potential functions have been compared with the experimental values from the laser-induced fluorescence measurements of Wurfel et al. obtained in 1992. The CCSD, CCSD(T), and CASSCF potentials have not provided satisfactory agreement with the experimental observations. In this light, the importance of both non-dynamic (static) and dynamic correlation effects in describing the ground state of CNN is emphasised. Our best theoretical fundamental frequencies at the cc-pVQZ ICMRCI level of theory, v(1) = 1230, v(2) = 394, and v(3) = 1420 cm(-1) are in excellent agreement with the experimental values of v(1) = 1235, v(2) = 396, and v(3) = 1419cm(-1) and the mean absolute deviation between the 23 calculated and experimental vibrational energy levels is only 7.4 cm(-1). It is shown that the previously suggested observation of the v(3) frequency at about 2847cm(-1) was in fact the first overtone 2v(3).
+C1 [Yamaguchi, Yukio; Turney, Justin M.; Schaefer, Henry F., III] Univ Georgia, Ctr Computat Chem, Athens, GA 30602 USA.
+   [Carter, Stuart] Univ Reading, Dept Chem, Reading RG6 2AD, Berks, England.
+   [Handy, Nicholas C.] Univ Cambridge, Dept Chem, Cambridge CB2 1EW, England.
+RP Yamaguchi, Y (corresponding author), Univ Georgia, Ctr Computat Chem, Athens, GA 30602 USA.
+EM longhorn@ccqc.uga.edu
+RI Turney, Justin M/G-5390-2014
+OI Turney, Justin M/0000-0003-3659-0711
+CR BONDYBEY VE, 1977, J CHEM PHYS, V67, P664, DOI 10.1063/1.434869
+   CAI ZL, 1992, J MOL STRUC-THEOCHEM, V253, P303
+   Carter S, 2000, MOL PHYS, V98, P1697, DOI 10.1080/00268970009483375
+   CARTER S, 1986, MOL PHYS, V57, P175, DOI 10.1080/00268978600100131
+   Clifford EP, 1998, J PHYS CHEM A, V102, P7100, DOI 10.1021/jp9802735
+   Crawford TD, 2007, J COMPUT CHEM, V28, P1610, DOI 10.1002/jcc.20573
+   DEKOCK RL, 1971, J AM CHEM SOC, V93, P7106, DOI 10.1021/ja00754a081
+   DEKOCK RL, 1988, J CHEM PHYS, V89, P3016, DOI 10.1063/1.454957
+   DIXON DA, 1992, J CHEM PHYS, V97, P1157, DOI 10.1063/1.463243
+   DUNNING TH, 1989, J CHEM PHYS, V90, P1007, DOI 10.1063/1.456153
+   HANDY NC, 1987, MOL PHYS, V61, P207, DOI 10.1080/00268978700101081
+   HANDY NC, 1986, COMPUT PHYS REP, V5, P117
+   Handy NC, 2006, CHEM PHYS LETT, V427, P14, DOI 10.1016/j.cplett.2006.06.025
+   HERZBERG G, 1966, MOL SPECTRA MOL STRU, V3, P74
+   JACOX M, 1994, J PHYS CHEM REF DATA
+   JACOX ME, 1965, J CHEM PHYS, V43, P3734, DOI 10.1063/1.1696543
+   KNOWLES PJ, 1988, CHEM PHYS LETT, V145, P514, DOI 10.1016/0009-2614(88)87412-8
+   Koput J, 2002, J CHEM PHYS, V117, P1529, DOI 10.1063/1.1485721
+   LEE TJ, 1985, J AM CHEM SOC, V107, P137, DOI 10.1021/ja00287a025
+   MARTIN JML, 1994, CHEM PHYS LETT, V226, P475, DOI 10.1016/0009-2614(94)00758-6
+   MILLIGAN DE, 1965, J CHEM PHYS, V43, P756, DOI 10.1063/1.1696802
+   MILLIGAN DE, 1966, J CHEM PHYS, V44, P2850, DOI 10.1063/1.1727144
+   MILLIGAN DE, 1965, J CHEM PHYS, V43, P3149, DOI 10.1063/1.1697289
+   MOLL NG, 1966, J CHEM PHYS, V44, P2684, DOI 10.1063/1.1727111
+   MURRAY CW, 1993, J PHYS CHEM-US, V97, P1868, DOI 10.1021/j100111a025
+   Pd R, 2001, J CHEM PHYS, V114, P1589, DOI 10.1063/1.1333701
+   PURVIS GD, 1982, J CHEM PHYS, V76, P1910, DOI 10.1063/1.443164
+   RAGHAVACHARI K, 1989, CHEM PHYS LETT, V157, P479, DOI 10.1016/S0009-2614(89)87395-6
+   REISENAUER HP, 1984, ANGEW CHEM INT EDIT, V23, P641, DOI 10.1002/anie.198406411
+   RITTBY M, 1988, J PHYS CHEM-US, V92, P3033, DOI 10.1021/j100322a004
+   Roos B. O., 1980, INT J QUANTUM CHEM S, V14, P175
+   ROOS BO, 1980, CHEM PHYS, V48, P157, DOI 10.1016/0301-0104(80)80045-0
+   SCUSERIA GE, 1991, CHEM PHYS LETT, V176, P27, DOI 10.1016/0009-2614(91)90005-T
+   SIEGBAHN P, 1980, PHYS SCRIPTA, V21, P323, DOI 10.1088/0031-8949/21/3-4/014
+   SIMONS G, 1973, J CHEM PHYS, V59, P3229, DOI 10.1063/1.1680464
+   SUTER HU, 1994, J CHEM PHYS, V101, P7686, DOI 10.1063/1.468262
+   THOMSON C, 1973, J CHEM PHYS, V58, P841, DOI 10.1063/1.1679335
+   WASSERMAN E, 1965, J AM CHEM SOC, V87, P2075, DOI 10.1021/ja01087a058
+   WENDT HR, 1979, J CHEM PHYS, V70, P4044, DOI 10.1063/1.438026
+   WERNER HJ, 1988, J CHEM PHYS, V89, P5803, DOI 10.1063/1.455556
+   WERNER HJ, 1982, J CHEM PHYS, V76, P3144, DOI 10.1063/1.443357
+   WERNER HJ, 2003, MOLPRO VERSION 2002
+   WERNER HJ, 1987, ADV CHEM PHYS, V59, P1
+   WETMORE RW, 1978, J CHEM PHYS, V69, P1648, DOI 10.1063/1.436740
+   WURFEL BE, 1992, CHEM PHYS LETT, V190, P119, DOI 10.1016/0009-2614(92)86113-V
+   Yamaguchi Y, 2004, J CHEM PHYS, V120, P9536, DOI 10.1063/1.1707014
+NR 46
+TC 2
+Z9 2
+U1 0
+U2 5
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 0026-8976
+EI 1362-3028
+J9 MOL PHYS
+JI Mol. Phys.
+PY 2008
+VL 106
+IS 2-4
+BP 357
+EP 365
+DI 10.1080/00268970701834658
+PG 9
+WC Chemistry, Physical; Physics, Atomic, Molecular & Chemical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Physics
+GA 303RO
+UT WOS:000256058400018
+DA 2022-10-21
+ER
+
+PT J
+AU Mitrasinovic, PM
+AF Mitrasinovic, PM
+TI Electron delocalization in atomic and molecular systems
+SO JOURNAL OF PHYSICAL CHEMISTRY A
+LA English
+DT Article
+ID COVALENT BOND ORDERS; SHELL STRUCTURE; TOPOLOGICAL THEORY; BASIS-SETS;
+   DENSITY; INDEXES; LOCALIZATION; LAPLACIAN; FERMI; HOLE
+AB Electron delocalization in atomic and molecular systems in terms of the single particle delocalization index (Fulton, R. L. J. Phys. Chem. 1993, 97, 7516) is analyzed. The single particle delocalization index is a quantitative measure of the degree of sharing of an electron between two disjoint regions in a many electron system. The overall focus of this paper is the determination of spatial regions in atoms from which electrons are greatly delocalized. The delocalization indices from spherical volumes of various radii centered on the nucleus of interest to the volumes outside those regions show remarkably well-defined shell structure. The delocalization shell structure exhibits spatial regions in atoms, determined by the intershell. minima, in which electrons are essentially localized. The delocalization shell structure of the electrons is apparent in all the atoms in the last column, of the periodic table of the elements (Ne S-1(0), Ar S-1(0), Kr S-1(0), Xe S-1(0), and Rn S-1(0)), even in heavy atoms such as gold (Au S-2(1/2)) where by traditional methods the shell structure is not clear. The delocalization shell structure of the electrons in zinc (Zn S-1(0)) is also displayed because the expected shell structure, corresponding to principal quantum number n = 4, was not firmly established by previous indicators until atomic number 32 was reached. The values of distinct maxima of the delocalization. indices, corresponding to regions within inner shells, are quite remarkable and related to the number of the electrons in each shell quantitatively. The physical meaning of these values is that the sharing of the core electrons in each shell does not extend to outer regions. The core shell structures in carbon (C P-3(0)) and silicon (Si P-3(0)) are mimicked by means of a set of the simulated natural orbitals (based on Slater's rules) used to construct the delocaliztaion index as a function of the distance from the nucleus. The separation of the contributions of definite angular momenta to the delocalization index for Ne S-1(0), Ar S-1(0), Zn S-1(0), Xe S-1(0), and Au S-2(1/2) is carried out. Interference effects between these contributions are substantially restricted to the valence region. The values of the maxima of the contributions of definite, angular momenta to the delocalization index are in agreement with the number of the s-, p-, d-, and f-electrons in each shell quantitatively. This is in agreement with well-known fact that the valence electrons only tend to be chemically active. The delocalization shell structures around the heavy atoms in the molecules LiH, H2O, CH4, SiH4, NH3, and PH3 are also displayed and compared to those around the single atoms Li S-2(1/2), O P-3(2), C P-3(0), Si P-3(0) N S-4(3/2), and P S-4(3/2). The delocalization of the core electrons remains essentially unchanged by incorporating the atoms into the molecules. The modifications of electron delocalization in the valence region are clear, and the chemically active regions in the molecules are nicely visible.
+C1 Florida State Univ, Dept Chem & Biochem, Tallahassee, FL 32306 USA.
+RP Mitrasinovic, PM (corresponding author), Florida State Univ, Dept Chem & Biochem, Tallahassee, FL 32306 USA.
+EM pmitrasi68@yahoo.com
+OI Mitrasinovic, Petar M./0000-0002-0987-4893
+CR ANGYAN JG, 1994, J PHYS CHEM-US, V98, P5244, DOI 10.1021/j100071a013
+   BADER RFW, 1984, J CHEM PHYS, V80, P1943, DOI 10.1063/1.446956
+   BADER RFW, 1984, J AM CHEM SOC, V106, P1594, DOI 10.1021/ja00318a009
+   BADER RFW, 1975, J AM CHEM SOC, V97, P7391, DOI 10.1021/ja00859a001
+   BECKE AD, 1990, J CHEM PHYS, V92, P5397, DOI 10.1063/1.458517
+   BIEGLERKONIG FW, 1982, J COMPUT CHEM, V3, P317, DOI 10.1002/jcc.540030306
+   BOYD RJ, 1977, J CHEM PHYS, V66, P356, DOI 10.1063/1.433635
+   CIOSLOWSKI J, 1991, J AM CHEM SOC, V113, P4142, DOI 10.1021/ja00011a014
+   CIOSLOWSKI J, 1993, CHEM PHYS LETT, V203, P137, DOI 10.1016/0009-2614(93)85377-Z
+   COULSON CA, 1938, P ROY SOC LOND A MAT, V169, P413
+   DOBBS KD, 1986, J COMPUT CHEM, V7, P359, DOI 10.1002/jcc.540070313
+   Fradera X, 1999, J PHYS CHEM A, V103, P304, DOI 10.1021/jp983362q
+   Frisch M. J., 1992, GAUSSIAN 92 REVISION
+   FULTON RL, 1993, J PHYS CHEM-US, V97, P7516, DOI 10.1021/j100131a021
+   FULTON RL, 1995, J PHYS CHEM-US, V99, P9768, DOI 10.1021/j100024a019
+   Fulton RL, 1998, J PHYS CHEM A, V102, P8988, DOI 10.1021/jp982121f
+   FULTON RL, 1993, J PHYS CHEM-US, V97, P7530, DOI 10.1021/j100131a022
+   Fulton RL, 1998, J PHYS CHEM A, V102, P9001, DOI 10.1021/jp9821228
+   Gillespie R. J., 1972, MOL GEOMETRY
+   GLENDENING ED, 1995, J PHYS CHEM-US, V99, P3060, DOI 10.1021/j100010a015
+   GROPEN O, 1987, J COMPUT CHEM, V8, P982, DOI 10.1002/jcc.540080708
+   Herzberg G, 1994, ATOMIC SPECTRA ATOMI
+   HUNTER G, 1986, INT J QUANTUM CHEM, V29, P197, DOI 10.1002/qua.560290209
+   JANSEN G, 1989, CHEM PHYS LETT, V160, P507, DOI 10.1016/0009-2614(89)80054-5
+   LEVINE IN, 1991, QUANTUM CHEM, P544
+   Lewis G.N, 1923, VALENCE STRUCTURE AT, P79
+   Lewis GN, 1916, J AM CHEM SOC, V38, P762, DOI 10.1021/ja02261a002
+   LOWDIN PO, 1955, PHYS REV, V97, P1474, DOI 10.1103/PhysRev.97.1474
+   LUKEN WL, 1984, CROAT CHEM ACTA, V57, P1283
+   MASLEN VW, 1956, P PHYS SOC LOND A, V69, P734, DOI 10.1088/0370-1298/69/10/302
+   MCWEENY R, 1960, REV MOD PHYS, V32, P335, DOI 10.1103/RevModPhys.32.335
+   MITRASINOVIC PM, 2000, P 2000 INT CHEM C PA
+   Pauling L, 1935, J AM CHEM SOC, V57, P2705, DOI 10.1021/ja01315a105
+   Rassolov VA, 1998, J CHEM PHYS, V109, P1223, DOI 10.1063/1.476673
+   RUEDENBERG K, 1962, REV MOD PHYS, V34, P326, DOI 10.1103/RevModPhys.34.326
+   SAGAR RP, 1988, CAN J CHEM, V66, P1005, DOI 10.1139/v88-167
+   SAGAR RP, 1988, J CHEM PHYS, V88, P4367, DOI 10.1063/1.453796
+   SHI Z, 1988, J CHEM PHYS, V88, P4375, DOI 10.1063/1.454711
+   SIMAS AM, 1988, CAN J CHEM, V66, P1923, DOI 10.1139/v88-310
+   Slater JC, 1934, REV MOD PHYS, V4, P0209, DOI 10.1103/RevModPhys.6.209
+   STEINER E, 1976, DETERMINATION INTERP, P145
+   Szabo A., 1996, MODERN QUANTUM CHEM, P121
+   TAL Y, 1978, INT J QUANTUM CHEM, V12, P153
+   WANG WP, 1977, PHYS REV A, V16, P891, DOI 10.1103/PhysRevA.16.891
+   Wigner E, 1933, PHYS REV, V43, P0804, DOI 10.1103/PhysRev.43.804
+   WILLIAMS T, 1999, GNUPLOT MS WINDOWS 3
+NR 46
+TC 1
+Z9 1
+U1 0
+U2 13
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 1089-5639
+EI 1520-5215
+J9 J PHYS CHEM A
+JI J. Phys. Chem. A
+PD NOV 21
+PY 2002
+VL 106
+IS 46
+BP 11262
+EP 11270
+DI 10.1021/jp025980j
+PG 9
+WC Chemistry, Physical; Physics, Atomic, Molecular & Chemical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Physics
+GA 617AD
+UT WOS:000179336100041
+DA 2022-10-21
+ER
+
+EF

@@ -1,0 +1,78 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Kollias, AC
+   Lester, WA
+AF Kollias, AC
+   Lester, WA
+TI Quantum Monte Carlo and electron localization function study of the
+   electronic structure of CO2+
+SO JOURNAL OF MOLECULAR STRUCTURE-THEOCHEM
+LA English
+DT Article
+DE quantum Monte Carlo; CO2+ heat of formation; CS2+; electron localization
+   function; quantum-chemical calculations
+AB The atomization energy and heat of formation of CO2+ are computed using the diffusion Monte Carlo (DMC) variant of quantum Monte Carlo (QMC) and compared with values determined at the Moller-Plesset second order (MP2), a generalized gradient approximation density functional theory (B3LYP-DFT), the coupled-cluster singles-doubles with perturbative triples [CCSD(T)] levels of theory. Hartree-Fock (HF) and complete active space self-consistent field (CASSCF) trial functions were used in the DMC calculations. A CASSCF trial function (TF) was found to yield an 8.1 kcal/mol improvement for both properties relative to the HF TF value. The DMC calculation with the HF TF gave an atomization energy of 374.0 kcal/mol, while the DMC result with the CASSCF TF yielded 382.1 kcal/mol; the experimental atomization energy is 381 kcal/mol. The DMC heat of formation is: 234.7 kcal/mol using the HF TF and 226.7 kcal/mol using the CASSCF TF. These values lie closer to experiment than results obtained from the MP2, DFT, and CCSD(T) methods, all at the complete basis set limit.
+   The bonding character of CO2+ and CS2+ was examined using the electron localization function (ELF) method. The HF, MP2, and B3LYP-DFT wave functions were projected onto the single-triple and double-double resonance forms of the molecules to determine the relative contribution of the two forms to the ground state geometry. The double-double resonance form was found to be the larger contributor to the ground state for both systems. (C) 2003 Elsevier B.V. All rights reserved.
+C1 Univ Calif Berkeley, Lawrence Berkeley Natl Lab, Div Chem Sci, Berkeley, CA 94720 USA.
+   Univ Calif Berkeley, Kenneth S Pitzer Ctr Theoret Chem, Dept Chem, Berkeley, CA 94720 USA.
+RP Lester, WA (corresponding author), Univ Calif Berkeley, Lawrence Berkeley Natl Lab, Div Chem Sci, Berkeley, CA 94720 USA.
+EM walester@cchem.berkeley.edu
+CR ASPURUGUZIK A, 2002, DEVIATION MINIMIZATI
+   BALFOUR WJ, 1976, CAN J PHYS, V1969, P54
+   BECKE AD, 1993, J CHEM PHYS, V98, P5648, DOI 10.1063/1.464913
+   BECKE AD, 1990, J CHEM PHYS, V5397, P92
+   BOYS SF, 1969, P ROY SOC LOND A MAT, V43, P310
+   CARTER S, 1990, MOL PHYS, V605, P71
+   Chase M. W., 1986, JANAF THERMOCHEMICAL, V1
+   Dunning T.H., 1989, J PHYS CHEM A, VA 1007, P90
+   FRISCH MJ, 1998, GUASSIAN98
+   FRYE JM, 1987, MOL PHYS, V919, P62
+   GELLENE GI, 1998, CHEM PHYS LETT, V315, P287
+   GELLENE GI, 1996, J CHEM PHYS, P100
+   GORDON MS, 1999, J CHEM PHYS, V4199, P110
+   Hammond B. L., 1994, WORLD SCI LECT NOTES, V1
+   HARKLESS JAW, 2000, J CHEM PHYS, V2680, P113
+   Herzberg G., 1966, MOL SPECTRA MOL STRU
+   JASTROW RJ, 1955, PHYS REV, V1484, P98
+   JASTROW RJ, 1956, PHYSICA, V1161, P22
+   JOHNSON MA, 1995, MOL SPECTRA MOL STRU, V839, P85
+   KAWAGUCHI K, 1995, J CHEM PHYS, V1174, P82
+   KRAUSS M, 1984, ANN REW PHYS CHEM, V357, P35
+   KROKIDIS X, 1999, CHEM PHYS LETT, V534, P314
+   KROKIDIS X, 1997, J PHYS CHEM A, V7277, P101
+   KROKIDIS X, 1998, J PHYS CHEM A, V5065, P102
+   LINDSTROM PJ, 2001, NIST CHEM WEB BO JUL
+   NOURY S, 1999, COMP CHEM, V597, P23
+   SCHMIDT KE, 1990, J CHEM PHYS, V4172, P93
+   SCHMIDT MW, 1993, J COMPUT CHEM, V14, P1347, DOI 10.1002/jcc.540141112
+   SILVI B, 1994, NATURE, V683, P371
+   STEVENS WJ, 1984, J CHEM PHYS, V6026, P81
+   WANG LS, 1988, J ELECTRON SPECTROSC, V167, P47
+NR 31
+TC 1
+Z9 1
+U1 0
+U2 7
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0166-1280
+J9 J MOL STRUC-THEOCHEM
+JI Theochem-J. Mol. Struct.
+PD SEP 5
+PY 2003
+VL 634
+BP 1
+EP 9
+DI 10.1016/S0166-1280(03)00332-4
+PG 9
+WC Chemistry, Physical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry
+GA 722MZ
+UT WOS:000185380800001
+DA 2022-10-21
+ER
+
+EF
