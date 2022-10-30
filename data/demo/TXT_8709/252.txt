@@ -1,0 +1,109 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Santana, RC
+   Cunha, RO
+   Carvalho, JF
+   Vencato, I
+   Calvo, R
+AF Santana, RC
+   Cunha, RO
+   Carvalho, JF
+   Vencato, I
+   Calvo, R
+TI Single crystal EPR study of electronic structure and exchange
+   interactions for copper(II)(L-arginine)(2)(SO4) center dot (H2O)(6): a
+   model system to study exchange interactions between unpaired spins in
+   proteins
+SO JOURNAL OF INORGANIC BIOCHEMISTRY
+LA English
+DT Article
+DE EPR spectroscopy; exchange interaction; copper complexes; model systems;
+   biomolecules
+ID PHOTOSYNTHETIC REACTION CENTERS; AMINO-ACID; PARAMAGNETIC-RESONANCE;
+   COPPER(II) COMPLEXES; HYDROGEN-BOND; CARBOXYLATE; CHEMISTRY; SYMMETRY;
+   HEAT; IONS
+AB We report EPR measurements at 9.77 and 34.1 GHz in powder and single crystal samples of the ternary copper amino acid complex Cu(L-arginine)(2)(SO4).(H2O)(6). The single crystal Electron Paramagnetic Resonance spectra display a single resonance for all magnetic field orientations in the ca and cb crystal planes. In the ab plane they display two resonances for most orientations of the magnetic field, and only one resonance for orientations close to the crystal axes. This behavior is a result of the selective collapse of the resonances corresponding to the four copper sites in the unit cell produced by the exchange interactions between copper ions. From the characteristics of the collapse and the angular dependences of the position and width of the resonances we evaluate the g-tensors of the copper molecules and estimate exchange interactions \J(1)/k(B)\ = 0.9 K and \J(2)/k(B)\ = 0.009 K between copper neighbors at 5.908 Angstrom and at 15.684 Angstrom, respectively. J(1) is assigned to a syn-anti equatorial-apical carboxylate bridge with a total bond length of 7.133 Angstrom. J(2) is assigned to a long bridge of 12 atoms with a total bond length of 19.789 Angstrom, that includes two hydrogen bonds. The results are discussed in terms of the crystal and electronic structure of Cu(L-arginine)(2)(SO4).(H2O)(6). We show that J(2) is in excellent agreement with the observed magnetic interaction between the reduced quinone acceptors in the photosynthetic reaction center protein of the bacterium Rb. sphaeroides, which is transmitted along a similar chemical path containing two hydrogen bonds. Our findings indicate that it is valid to estimate values for the exchange interactions between redox centers in proteins transmitted along long chemical paths containing sigma and H-bonds, from data obtained in model systems, and emphasize the importance of measuring exchange interactions in biologically relevant model systems. (C) 2004 Elsevier Inc. All rights reserved.
+C1 Univ Fed Goias, Inst Fis, BR-74001970 Goiania, Go, Brazil.
+   Univ Nacl Litoral, Dept Fis, Fac Bioquim & Ciencias Biol, RA-3000 Santa Fe, Argentina.
+   UNL, CONICET, INTEC, RA-3000 Santa Fe, Argentina.
+RP Santana, RC (corresponding author), Univ Fed Goias, Inst Fis, CP 131, BR-74001970 Goiania, Go, Brazil.
+EM santana@if.ufg.br
+RI Cunha, Rafael O/G-4582-2014; Calvo, Rafael/B-3419-2009; Carvalho, Jesiel
+   F/L-6088-2016; de Santana, Ricardo Costa/H-1579-2012; Santana, Ricardo
+   George Souza/AAG-5736-2019
+OI Cunha, Rafael O/0000-0002-6039-3892; Calvo, Rafael/0000-0003-2864-0467;
+   Carvalho, Jesiel F/0000-0002-2784-4129; de Santana, Ricardo
+   Costa/0000-0002-6484-7484; 
+CR Abe H., 1956, Journal of the Physical Society of Japan, V11, P947, DOI 10.1143/JPSJ.11.947
+   Abragam A., 1970, Electron Paramagnetic Resonance of Transition Ions
+   ANDERSON PW, 1954, J PHYS SOC JPN, V9, P316, DOI 10.1143/JPSJ.9.316
+   [Anonymous], 1997, INTRO HYDROGEN BONDI
+   Bencini A, 1990, ELECT PARAMAGNETIC R
+   BILLING DE, 1969, J CHEM PHYS, V50, P1476, DOI 10.1063/1.1671216
+   BRONDINO CD, 1993, INORG CHEM, V32, P2078, DOI 10.1021/ic00062a033
+   CALVO R, 1983, PHYS REV B, V28, P1244, DOI 10.1103/PhysRevB.28.1244
+   CALVO R, 1980, J CHEM PHYS, V72, P760, DOI 10.1063/1.438913
+   Calvo R, 2002, BIOPHYS J, V83, P2440, DOI 10.1016/S0006-3495(02)75256-9
+   Calvo R, 2001, J PHYS CHEM B, V105, P4053, DOI 10.1021/jp0102670
+   Calvo R, 2000, J AM CHEM SOC, V122, P7327, DOI 10.1021/ja000399r
+   COLACIO E, 1992, INORG CHEM, V31, P774, DOI 10.1021/ic00031a016
+   Costa AJ, 2004, J PHYS CHEM B, V108, P9549, DOI 10.1021/jp037271r
+   Costa AJ, 2001, J PHYS CHEM B, V105, P5039, DOI 10.1021/jp0045742
+   DEVAULT DC, 1984, QUANTUM MECH TUNNELI, P118
+   Dougherty DA, 1996, SCIENCE, V271, P163, DOI 10.1126/science.271.5246.163
+   FISCHER BE, 1980, J AM CHEM SOC, V102, P2998, DOI 10.1021/ja00529a021
+   FREEMAN HC, 1973, INORGANIC BIOCH, V1, pCH4
+   Hahn T., 1983, INT TABLES XRAY CRYS
+   HOFFMANN SK, 1994, APPL MAGN RESON, V7, P289, DOI 10.1007/BF03162617
+   JEFFREY GA, 1991, H BONDING BIOL MOL
+   Kahn O., 1993, MOL MAGNETISM
+   Kobori Y, 2004, J PHYS CHEM B, V108, P10226, DOI 10.1021/jp036925t
+   LEVSTEIN PR, 1990, INORG CHEM, V29, P1581, DOI 10.1021/ic00333a028
+   Lippard S.J., 1994, PRINCIPLES BIOINORGA
+   Ma JC, 1997, CHEM REV, V97, P1303, DOI 10.1021/cr9603744
+   MASUDA H, 1993, INORG CHEM, V32, P1111, DOI 10.1021/ic00059a015
+   NISHIO M, 1998, CH INTERACTIONS
+   Ohata N, 2000, INORG CHIM ACTA, V300, P749, DOI 10.1016/S0020-1693(00)00013-X
+   Ohata N, 1999, INORG CHIM ACTA, V286, P37, DOI 10.1016/S0020-1693(98)00375-2
+   Ohata N, 1996, ANGEW CHEM INT EDIT, V35, P531, DOI 10.1002/anie.199605311
+   Okamura M., 1979, TUNNELING BIOL SYSTE, P729
+   PASSEGGI MCG, 1995, J MAGN RESON SER A, V114, P1, DOI 10.1006/jmra.1995.1099
+   PERUTZ MF, 1993, PHILOS T R SOC A, V345, P105, DOI 10.1098/rsta.1993.0122
+   RAPP RE, 1995, J PHYS-CONDENS MAT, V7, P9595, DOI 10.1088/0953-8984/7/49/021
+   SIQUEIRA ML, 1993, PHYS REV B, V48, P3257, DOI 10.1103/PhysRevB.48.3257
+   Steiner T, 2002, ANGEW CHEM INT EDIT, V41, P48, DOI 10.1002/1521-3773(20020104)41:1<48::AID-ANIE48>3.0.CO;2-U
+   Stowell MHB, 1997, SCIENCE, V276, P812, DOI 10.1126/science.276.5313.812
+   SUGIMORI T, 1993, INORG CHEM, V32, P4951, DOI 10.1021/ic00074a047
+   Yamauchi O, 2002, J CHEM SOC DALTON, P3411, DOI 10.1039/b202385g
+   ZWEIGER HJ, 1973, MAGNETIC INTERACTION
+NR 42
+TC 21
+Z9 21
+U1 0
+U2 8
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0162-0134
+EI 1873-3344
+J9 J INORG BIOCHEM
+JI J. Inorg. Biochem.
+PD FEB
+PY 2005
+VL 99
+IS 2
+BP 415
+EP 423
+DI 10.1016/j.jinorgbio.2004.10.014
+PG 9
+WC Biochemistry & Molecular Biology; Chemistry, Inorganic & Nuclear
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology; Chemistry
+GA 888RR
+UT WOS:000226392400007
+PM 15621273
+DA 2022-10-21
+ER
+
+EF

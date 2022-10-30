@@ -1,0 +1,102 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT C
+AU Partridge, J
+   Scott, S
+   Dunbar, A
+   Schulze, M
+   Brown, SA
+   Wurl, A
+   Blaikie, R
+AF Partridge, J
+   Scott, S
+   Dunbar, A
+   Schulze, M
+   Brown, SA
+   Wurl, A
+   Blaikie, R
+BE Vajtai, R
+   Aymerich, X
+   Kish, LB
+   Rubio, A
+TI Formation of electrically conducting mesoscale wires through
+   self-assembly of atomic clusters
+SO NANOTECHNOLOGY
+SE PROCEEDINGS OF THE SOCIETY OF PHOTO-OPTICAL INSTRUMENTATION ENGINEERS
+   (SPIE)
+LA English
+DT Proceedings Paper
+CT Conference on Nanotechnology
+CY MAY 19-21, 2003
+CL MASPALOMAS, SPAIN
+SP SPIE, Spanish Govt, Canary Govt, Canary Isl Special Zone, Res Inst Appl Microelect, Univ Las Palmas Gran Canaria, Sch Telecommun Engn, Univ Las Palmas Gran Canaria, Dept Elect Engn & Control
+DE atomic cluster; mesowire; self-assembly
+ID COULOMB-BLOCKADE; METAL-CLUSTERS; THIN-FILMS; NANOCLUSTERS; DEPOSITION;
+   NANOWIRES; SURFACE; FABRICATION; DIFFUSION
+AB Atomic clusters can be produced in a size range (100nm to 0.5nm) that bridges the gap between the limits of current lithographic fabrication technologies for integrated circuits and the atornic/molecular regime. The work presented here aims to combine established 'top-down' device processing with 'bottom-up' engineered cluster assembly.
+   Conducting cluster deposition and standard optical fabrication techniques have been used to produce wires on a textured (V-grooved) substrate. The lengths of the wires (ranging from 2mum to 1mm) are defined simply by the separation of NiCr/Au contacts. The deposited nanoparticles range in size from 20-100nm and in principle define the width of the nanowire. In-situ conductance measurement allows precise control of the deposition process and the onset of conduction in the wire is readily-monitored as a function of deposition time.
+   The effectiveness of the surface templating technique is demonstrated by SEM and AFM imaging carried out after deposition. The surface coverage is seen to vary from <20% on the unpatterned (normal-to-beam) surface (which is required to be non-conducting) to >100% at the apexes of the V-grooves used to promote growth of the wire. Self assembly of the nanoparticles leads to completion of a wire between the pre-formed contacts with no possibility of a parasitic conduction path. Wires formed through this technique currently have minimum widths of similar to1mum but straightforward extensions of the technique should soon allow nanowire formation.
+C1 Univ Canterbury, NEST Grp, Christchurch 1, New Zealand.
+RP Partridge, J (corresponding author), Univ Canterbury, NEST Grp, Christchurch 1, New Zealand.
+RI Blaikie, Richard/A-3453-2009; Dunbar, Alan/A-4780-2016; Brown, Simon
+   A/C-1014-2008; Dunbar, Alan/L-1870-2013
+OI Dunbar, Alan/0000-0002-2313-4234; Brown, Simon A/0000-0002-6041-4331;
+   Partridge, Jim/0000-0001-7432-6888; Blaikie, Richard/0000-0002-6991-835X
+CR Bardotti L, 2002, APPL SURF SCI, V191, P205, DOI 10.1016/S0169-4332(02)00178-2
+   Black MR, 2000, APPL PHYS LETT, V77, P4142, DOI 10.1063/1.1333402
+   Carroll SJ, 1998, APPL PHYS LETT, V72, P305, DOI 10.1063/1.120719
+   CHEN W, 1995, APPL PHYS LETT, V66, P3383, DOI 10.1063/1.113765
+   CHEN W, 1993, J VAC SCI TECHNOL B, V11, P2519, DOI 10.1116/1.586658
+   DEHEER WA, 1993, REV MOD PHYS, V65, P611, DOI 10.1103/RevModPhys.65.611
+   Favier F, 2001, SCIENCE, V293, P2227, DOI 10.1126/science.1063189
+   Francis GM, 1996, J APPL PHYS, V79, P2942, DOI 10.1063/1.361290
+   Goldby IM, 1997, REV SCI INSTRUM, V68, P3327, DOI 10.1063/1.1148292
+   Goldby IM, 1996, APPL PHYS LETT, V69, P2819, DOI 10.1063/1.116854
+   Gurevich L, 2000, APPL PHYS LETT, V76, P384, DOI 10.1063/1.125761
+   Hori M, 1998, APPL PHYS LETT, V73, P3223, DOI 10.1063/1.122725
+   JENSEN P, 1993, PHYS REV B, V47, P5008, DOI 10.1103/PhysRevB.47.5008
+   Jorritsma J, 1998, IEEE T MAGN, V34, P994, DOI 10.1109/20.706335
+   JORRITSMA J, 1995, APPL PHYS LETT, V67, P1489, DOI 10.1063/1.114504
+   KAPITULNIK A, 1982, PHYS REV LETT, V49, P1444, DOI 10.1103/PhysRevLett.49.1444
+   KAPON E, 1989, PHYS REV LETT, V63, P430, DOI 10.1103/PhysRevLett.63.430
+   Kapon E, 1999, SEMICONDUCTOR LASERS, V1
+   Klein DL, 1996, APPL PHYS LETT, V68, P2574, DOI 10.1063/1.116188
+   LAIBOWITZ RB, 1982, PHYS REV B, V25, P2965, DOI 10.1103/PhysRevB.25.2965
+   Liang WJ, 2002, NATURE, V417, P725, DOI 10.1038/nature00790
+   Liu J, 1998, APPL PHYS LETT, V73, P2030, DOI 10.1063/1.122358
+   MELINON P, 1991, PHYS REV B, V44, P12562, DOI 10.1103/PhysRevB.44.12562
+   Palmer R, 1997, NEW SCI, V153, P38
+   Park J, 2002, NATURE, V417, P722, DOI 10.1038/nature00791
+   Parker AJ, 1999, APPL PHYS LETT, V74, P2833, DOI 10.1063/1.124029
+   Schmelzer J, 2002, PHYS REV LETT, V88, DOI 10.1103/PhysRevLett.88.226802
+   SCHULZE M, 2003, IN PRESS EUR PHYS J
+   VOSS RF, 1982, PHYS REV LETT, V49, P1441, DOI 10.1103/PhysRevLett.49.1441
+   Wurl A, 2001, EUR PHYS J D, V16, P205, DOI 10.1007/s100530170093
+   Zach MP, 2000, SCIENCE, V290, P2120, DOI 10.1126/science.290.5499.2120
+NR 31
+TC 0
+Z9 0
+U1 0
+U2 4
+PU SPIE-INT SOC OPTICAL ENGINEERING
+PI BELLINGHAM
+PA 1000 20TH ST, PO BOX 10, BELLINGHAM, WA 98227-0010 USA
+SN 0277-786X
+BN 0-8194-4978-4
+J9 P SOC PHOTO-OPT INS
+PY 2003
+VL 5118
+BP 411
+EP 420
+DI 10.1117/12.498883
+PG 10
+WC Engineering, Electrical & Electronic; Materials Science,
+   Multidisciplinary; Optics; Physics, Condensed Matter
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Engineering; Materials Science; Optics; Physics
+GA BX04P
+UT WOS:000184049000046
+DA 2022-10-19
+ER
+
+EF

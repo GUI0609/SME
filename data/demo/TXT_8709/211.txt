@@ -1,0 +1,314 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Duan, S
+   Tian, GJ
+   Ji, YF
+   Shao, JS
+   Dong, ZC
+   Luo, Y
+AF Duan, Sai
+   Tian, Guangjun
+   Ji, Yongfei
+   Shao, Jiushu
+   Dong, Zhenchao
+   Luo, Yi
+TI Theoretical Modeling of Plasmon-Enhanced Raman Images of a Single
+   Molecule with Subnanometer Resolution
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+LA English
+DT Article
+ID ELECTRIC-FIELD GRADIENT; CHEMICAL-ANALYSIS; SPECTROSCOPY
+AB Under local plasmonic excitation, Raman images of single molecules can now surprisingly reach subnanometer resolution. However, its physical origin has not been fully understood. Here we report a quantum-mechanical description of the interaction between a molecule and a highly confined plasmonic field. We show that When the spatial distribution of the plasmonic field is comparable to the size of the molecule, the optical transition matrix of the molecule becomes dependent on the position and distribution of the plasmonic field, resulting in a spatially resolved high-resolution Raman image of the molecule. The resonant Raman image reflects the electronic transition density of the molecule. In combination with first-principles calculations, the simulated Raman linage of a porphyrin derivative adsorbed on a silver surface nicely reproduces its experimental counterpart. The present theory provides the basic framework for describing linear and nonlinear responses of molecules under highly confined plasmonic fields.
+C1 [Duan, Sai; Dong, Zhenchao; Luo, Yi] Univ Sci & Technol China, Hefei Natl Lab Phys Sci Microscale, Hefei 230026, Anhui, Peoples R China.
+   [Duan, Sai; Dong, Zhenchao; Luo, Yi] Univ Sci & Technol China, Synerget Innovat Ctr Quantum Informat & Quantum P, Hefei 230026, Anhui, Peoples R China.
+   [Duan, Sai; Tian, Guangjun; Ji, Yongfei; Luo, Yi] Royal Inst Technol, Sch Biotechnol, Dept Theoret Chem & Biol, S-10691 Stockholm, Sweden.
+   [Shao, Jiushu] Beijing Normal Univ, Coll Chem, Minist Educ, Key Lab Theoret Computat Photochem, Beijing 100875, Peoples R China.
+RP Luo, Y (corresponding author), Univ Sci & Technol China, Hefei Natl Lab Phys Sci Microscale, Hefei 230026, Anhui, Peoples R China.
+EM yiluo@ustc.edu.cn
+RI Luo, Yi/B-1449-2009; Tian, Guangjun/D-9109-2013; Duan, Sai/F-2420-2016
+OI Luo, Yi/0000-0003-0007-0394; Tian, Guangjun/0000-0002-3915-300X; Duan,
+   Sai/0000-0002-3282-0711
+FU Ministry of Science and Technology of China [2010CB923300]; National
+   Natural Science Foundation of China [21121003]; Strategic Priority
+   Research Program of the Chinese Academy of Sciences [XDB01020200]; Goran
+   Gustafsson Foundation for Research in Natural Sciences and Medicine;
+   Swedish Research Council (VR)
+FX This work was supported by the Ministry of Science and Technology of
+   China (2010CB923300), the National Natural Science Foundation of China
+   (21121003), the Strategic Priority Research Program of the Chinese
+   Academy of Sciences (XDB01020200), the Goran Gustafsson Foundation for
+   Research in Natural Sciences and Medicine, and the Swedish Research
+   Council (VR). Computer time from the Swedish National Infrastructure for
+   Computing (SNIC) is acknowledged.
+CR ALBRECHT AC, 1961, J CHEM PHYS, V34, P1476, DOI 10.1063/1.1701032
+   Anderson MS, 2000, APPL PHYS LETT, V76, P3130, DOI 10.1063/1.126546
+   Anderson N, 2005, J AM CHEM SOC, V127, P2533, DOI 10.1021/ja045190i
+   Archambault A, 2010, PHYS REV B, V82, DOI 10.1103/PhysRevB.82.035411
+   Atkin JM, 2013, NATURE, V498, P44, DOI 10.1038/498044a
+   Ayars EJ, 2000, PHYS REV LETT, V85, P4180, DOI 10.1103/PhysRevLett.85.4180
+   Aydin M, 2013, VIB SPECTROSC, V68, P141, DOI 10.1016/j.vibspec.2013.06.005
+   Chen C, 2014, NAT COMMUN, V5, DOI [10.1038/ncomms4312, 10.1038/ncomms4357]
+   Ditze S, 2014, J AM CHEM SOC, V136, P1609, DOI 10.1021/ja411884p
+   Fu Q, 2009, APPL PHYS LETT, V95, DOI 10.1063/1.3224186
+   Grimme S, 2006, J COMPUT CHEM, V27, P1787, DOI 10.1002/jcc.20495
+   Hartschuh A, 2003, PHYS REV LETT, V90, DOI 10.1103/PhysRevLett.90.095503
+   Hayazawa N, 2000, OPT COMMUN, V183, P333, DOI 10.1016/S0030-4018(00)00894-4
+   Ichimura T, 2009, PHYS REV LETT, V102, DOI 10.1103/PhysRevLett.102.186101
+   Iwasa T, 2009, PHYS REV A, V80, DOI 10.1103/PhysRevA.80.043409
+   Johansson P, 2005, PHYS REV B, V72, DOI 10.1103/PhysRevB.72.035427
+   Kelley AM, 2008, J PHYS CHEM A, V112, P11975, DOI 10.1021/jp805530y
+   Le Ru EC, 2009, PRINCIPLES OF SURFACE-ENHANCED RAMAN SPECTROSCOPY: AND RELATED PLASMONIC EFFECTS, P1
+   Lee SY, 2004, J CHEM PHYS, V121, P3632, DOI 10.1063/1.1777214
+   Long D.A., 2002, RAMAN EFFECT UNIFIED
+   Macak P, 2000, CHEM PHYS LETT, V330, P447, DOI 10.1016/S0009-2614(00)01096-4
+   Masiello DJ, 2008, PHYS REV A, V78, DOI 10.1103/PhysRevA.78.042505
+   Meng LY, 2015, SCI REP-UK, V5, DOI 10.1038/srep09240
+   Neugebauer J, 2002, J COMPUT CHEM, V23, P895, DOI 10.1002/jcc.10089
+   Pettinger B, 2000, ELECTROCHEMISTRY, V68, P942, DOI 10.5796/electrochemistry.68.942
+   Sakurai JJ, 1967, ADV QUANTUM MECH
+   SASS JK, 1981, J PHYS CHEM-US, V85, P621, DOI 10.1021/j150606a002
+   Scully M.O., 1997, QUANTUM OPT, DOI 10.1017/CBO9780511813993
+   Stadler J, 2010, NANO LETT, V10, P4514, DOI 10.1021/nl102423m
+   Steidtner J, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.236101
+   Stockle RM, 2000, CHEM PHYS LETT, V318, P131, DOI 10.1016/S0009-2614(99)01451-7
+   Sun MT, 2014, ADV OPT MATER, V2, P74, DOI 10.1002/adom.201300296
+   Tame MS, 2013, NAT PHYS, V9, P329, DOI [10.1038/NPHYS2615, 10.1038/nphys2615]
+   Xu HX, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.243002
+   Yano T, 2009, NAT PHOTONICS, V3, P473, DOI 10.1038/NPHOTON.2009.74
+   Zhang C, 2015, J PHYS CHEM C, V119, P11858, DOI 10.1021/acs.jpcc.5b02653
+   Zhang R, 2013, NATURE, V498, P82, DOI 10.1038/nature12151
+NR 37
+TC 75
+Z9 78
+U1 0
+U2 139
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0002-7863
+J9 J AM CHEM SOC
+JI J. Am. Chem. Soc.
+PD AUG 5
+PY 2015
+VL 137
+IS 30
+BP 9515
+EP 9518
+DI 10.1021/jacs.5b03741
+PG 4
+WC Chemistry, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry
+GA CO6PV
+UT WOS:000359279500004
+PM 26186284
+OA Green Submitted
+DA 2022-10-21
+ER
+
+PT C
+AU Cao, Z
+   Sun, LX
+   Zhou, T
+   Luo, YF
+   Zeng, JL
+   Long, S
+   Li, JS
+AF Cao, Zhong
+   Sun, Li-Xian
+   Zhou, Ting
+   Luo, Yong-Feng
+   Zeng, Ju-Lan
+   Long, Shu
+   Li, Ji-Shan
+BE Cao, Z
+   He, YH
+   Sun, L
+   Cao, XQ
+TI Investigation on Electronic Signals for Detection of Target DNA Molecule
+   Based on Extended Gate FET Sensing Chip
+SO APPLICATION OF CHEMICAL ENGINEERING, PTS 1-3
+SE Advanced Materials Research
+LA English
+DT Proceedings Paper
+CT International Conference on Chemical Engineering and Advanced Materials
+CY MAY 28-30, 2011
+CL Changsha, PEOPLES R CHINA
+SP Changsha Univ Sci & Technol, James Cook Univ, Hunan Univ, S Central Univ China, Hunan Normal Univ, Xiangtan Univ
+DE Extended gate FET; Electronic signal; Fast cyclic voltammetry; High
+   frequency; Biochip; DNA molecule
+AB An electronic detection method for DNA molecules based on an extended gate field effect transistor (EGFET) sensing chip has been presented in this paper, which consists of one gold plate electrode for molecule recognition and FET part for signal transduction. The DNA probe was prepared by first immobilization of a thiolated single-stranded oligonucleotide (T1) and then an alkanethiol such as 6-hydroxy-1-hexanethiol (6-HHT) on the gold plate. A fast cyclic voltammetry (FCV) was applied to quantification of DNA molecules by using a cathodic peak around -1.3 V at a electrode reaction, corresponding to reductive desorption in strong alkali solution. By using a 70.7 mV DC voltage onto a Ag/AgCl reference electrode, the electronic signals of EGFET were applied to detection of DNA molecules and its hybridization, and the corresponding hybridization efficient was estimated to be about 37.5%. About 1 similar to 4 DNA molecules per 100 nm(2) on the Au substrate of EGFET could be counted, showing a promising sensing technique for bio-molecule.
+C1 [Cao, Zhong; Sun, Li-Xian; Zhou, Ting; Luo, Yong-Feng; Zeng, Ju-Lan; Long, Shu; Li, Ji-Shan] Changsha Univ Sci & Technol, Sch Chem & Biol Engn, Hunan Prov Key Lab Mat Protect Elect Power & Tran, Changsha 410004, Hunan, Peoples R China.
+RP Cao, Z (corresponding author), Changsha Univ Sci & Technol, Sch Chem & Biol Engn, Hunan Prov Key Lab Mat Protect Elect Power & Tran, Changsha 410004, Hunan, Peoples R China.
+EM zhongcao04@yahoo.com.cn; lxsun@dicp.ac.cn; jishan_lili@hotmail.com
+RI Qiu, Shujun/I-4630-2012
+CR Cao Z, 2009, ANAL LETT, V42, P2820, DOI 10.1080/00032710903082820
+   Kamahori M, 2007, BIOSENS BIOELECTRON, V22, P3080, DOI 10.1016/j.bios.2007.01.011
+   Li L, 2011, ANAL CHIM ACTA, V685, P52, DOI 10.1016/j.aca.2010.11.012
+   Obeid PJ, 2004, CRIT REV CL LAB SCI, V41, P429, DOI 10.1080/10408360490497492
+   Pirrung MC, 2002, ANGEW CHEM INT EDIT, V41, P1277, DOI 10.1002/1521-3773(20020415)41:8<1276::AID-ANIE1276>3.0.CO;2-2
+   Sakata T, 2005, JPN J APPL PHYS 1, V44, P2854, DOI 10.1143/JJAP.44.2854
+NR 6
+TC 1
+Z9 1
+U1 0
+U2 8
+PU TRANS TECH PUBLICATIONS LTD
+PI DURNTEN-ZURICH
+PA KREUZSTRASSE 10, 8635 DURNTEN-ZURICH, SWITZERLAND
+SN 1022-6680
+BN 978-3-03785-121-0
+J9 ADV MATER RES-SWITZ
+PY 2011
+VL 236-238
+BP 1923
+EP 1926
+DI 10.4028/www.scientific.net/AMR.236-238.1923
+PN 1-3
+PG 4
+WC Engineering, Chemical; Materials Science, Multidisciplinary
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Engineering; Materials Science
+GA BZT82
+UT WOS:000302924100390
+DA 2022-10-21
+ER
+
+PT J
+AU Hapala, P
+   Svec, M
+   Stetsovych, O
+   van der Heijden, NJ
+   Ondracek, M
+   van der Lit, J
+   Mutombo, P
+   Swart, I
+   Jelinek, P
+AF Hapala, Prokop
+   Svec, Martin
+   Stetsovych, Oleksandr
+   van der Heijden, Nadine J.
+   Ondracek, Martin
+   van der Lit, Joost
+   Mutombo, Pingo
+   Swart, Ingmar
+   Jelinek, Pavel
+TI Mapping the electrostatic force field of single molecules from
+   high-resolution scanning probe images
+SO NATURE COMMUNICATIONS
+LA English
+DT Article
+ID GENERALIZED GRADIENT APPROXIMATION; SUBMOLECULAR RESOLUTION;
+   CHEMICAL-STRUCTURE; CO MOLECULES; MICROSCOPY; CONTRAST; MANIPULATION;
+   SURFACES; BONDS; TIPS
+AB How electronic charge is distributed over a molecule determines to a large extent its chemical properties. Here, we demonstrate how the electrostatic force field, originating from the inhomogeneous charge distribution in a molecule, can be measured with submolecular resolution. We exploit the fact that distortions typically observed in high-resolution atomic force microscopy images are for a significant part caused by the electrostatic force acting between charges of the tip and the molecule of interest. By finding a geometrical transformation between two high-resolution AFM images acquired with two different tips, the electrostatic force field or potential over individual molecules and self-assemblies thereof can be reconstructed with submolecular resolution.
+C1 [Hapala, Prokop; Svec, Martin; Stetsovych, Oleksandr; Ondracek, Martin; Mutombo, Pingo; Jelinek, Pavel] Acad Sci Czech Republ, Inst Phys, Dept Thin Films & Nanostruct, Vvi, Cukrovarnicka 10, Prague 16200, Czech Republic.
+   [van der Heijden, Nadine J.; van der Lit, Joost; Swart, Ingmar] Univ Utrecht, Debye Inst Nanomat Sci, Dept Chem Condensed Matter & Interfaces, POB 80 000, NL-3508 TA Utrecht, Netherlands.
+RP Jelinek, P (corresponding author), Acad Sci Czech Republ, Inst Phys, Dept Thin Films & Nanostruct, Vvi, Cukrovarnicka 10, Prague 16200, Czech Republic.; Swart, I (corresponding author), Univ Utrecht, Debye Inst Nanomat Sci, Dept Chem Condensed Matter & Interfaces, POB 80 000, NL-3508 TA Utrecht, Netherlands.
+EM i.swart@uu.nl; jelinekp@fzu.cz
+RI Hapala, Prokop/AAB-2261-2020; Švec, Martin/AAJ-1156-2020; Swart,
+   Ingmar/E-6977-2012; Švec, Martin/G-6645-2014; Jelinek,
+   Pavel/G-1542-2010; Ondráček, Martin/A-1871-2012; Hapala,
+   Prokop/ABF-9731-2020; Jelínek, Pavel/ABE-8589-2020; Stetsovych,
+   Oleksandr/G-5742-2014; Mutombo, Pingo/G-5266-2014
+OI Hapala, Prokop/0000-0003-4807-0326; Švec, Martin/0000-0003-0369-8144;
+   Swart, Ingmar/0000-0003-3201-7301; Švec, Martin/0000-0003-0369-8144;
+   Jelinek, Pavel/0000-0002-5645-8542; Ondráček,
+   Martin/0000-0002-8808-1487; Hapala, Prokop/0000-0003-4807-0326; Jelínek,
+   Pavel/0000-0002-5645-8542; Mutombo, Pingo/0000-0002-8175-7587;
+   Stetsovych, Oleksandr/0000-0001-7788-1617
+FU Czech Science Foundation [14-16963J]; Ministry of Education of the Czech
+   Republic grant [LM2015087]; Netherlands Organization for Scientific
+   Research (ECHO-STIP grant) [717.013.003]
+FX This work was financially supported by grants from the Czech Science
+   Foundation (grant no. 14-16963J), the Ministry of Education of the Czech
+   Republic grant no. LM2015087 and the Netherlands Organization for
+   Scientific Research (ECHO-STIP grant no. 717.013.003).
+CR Albrecht F, 2015, PHYS REV LETT, V115, DOI 10.1103/PhysRevLett.115.076101
+   Baier R, 2012, PHYS REV B, V85, DOI 10.1103/PhysRevB.85.165436
+   Bartels L, 1998, PHYS REV LETT, V80, P2004, DOI 10.1103/PhysRevLett.80.2004
+   Bartels L, 1997, APPL PHYS LETT, V71, P213, DOI 10.1063/1.119503
+   Blum V, 2009, COMPUT PHYS COMMUN, V180, P2175, DOI 10.1016/j.cpc.2009.06.022
+   Boneschanscher MP, 2014, ACS NANO, V8, P3006, DOI 10.1021/nn500317r
+   Chiang CL, 2014, SCIENCE, V344, P885, DOI 10.1126/science.1253405
+   Corso M, 2015, PHYS REV LETT, V115, DOI 10.1103/PhysRevLett.115.136101
+   de Oteyza DG, 2013, SCIENCE, V340, P1434, DOI 10.1126/science.1238187
+   Dienel T, 2015, NANO LETT, V15, P5185, DOI 10.1021/acs.nanolett.5b01403
+   EIGLER DM, 1991, NATURE, V352, P600, DOI 10.1038/352600a0
+   Ellner M, 2016, NANO LETT, V16, P1974, DOI 10.1021/acs.nanolett.5b05251
+   Emmrich M, 2015, SCIENCE, V348, P308, DOI 10.1126/science.aaa5329
+   Enevoldsen GH, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.236104
+   Gao DZ, 2014, ACS NANO, V8, P5339, DOI 10.1021/nn501785q
+   Giessibl FJ, 2003, REV MOD PHYS, V75, P949, DOI 10.1103/RevModPhys.75.949
+   Gross L, 2014, PHYS REV B, V90, DOI 10.1103/PhysRevB.90.155455
+   Gross L, 2012, SCIENCE, V337, P1326, DOI 10.1126/science.1225621
+   Gross L, 2011, NAT CHEM, V3, P273, DOI [10.1038/nchem.1008, 10.1038/NCHEM.1008]
+   Gross L, 2009, SCIENCE, V325, P1110, DOI 10.1126/science.1176210
+   Guo CS, 2015, J PHYS CHEM C, V119, P14195, DOI 10.1021/acs.jpcc.5b02649
+   Hamalainen SK, 2014, PHYS REV LETT, V113, DOI 10.1103/PhysRevLett.113.186102
+   Hapala P, 2014, PHYS REV LETT, V113, DOI 10.1103/PhysRevLett.113.226101
+   Hapala P, 2014, PHYS REV B, V90, DOI 10.1103/PhysRevB.90.085421
+   Huber F, 2015, PHYS REV LETT, V115, DOI 10.1103/PhysRevLett.115.066101
+   Iwata K, 2015, NAT COMMUN, V6, DOI 10.1038/ncomms8766
+   Jarvis SP, 2015, PHYS REV B, V92, DOI 10.1103/PhysRevB.92.241405
+   Kawai S, 2015, ACS NANO, V9, P2574, DOI 10.1021/nn505876n
+   Kawai S, 2013, ACS NANO, V7, P9098, DOI 10.1021/nn403672m
+   Kresse G, 1996, PHYS REV B, V54, P11169, DOI 10.1103/PhysRevB.54.11169
+   Kresse G, 1999, PHYS REV B, V59, P1758, DOI 10.1103/PhysRevB.59.1758
+   Mohn F, 2013, APPL PHYS LETT, V102, DOI 10.1063/1.4793200
+   Mohn F, 2012, NAT NANOTECHNOL, V7, P227, DOI [10.1038/nnano.2012.20, 10.1038/NNANO.2012.20]
+   Moll N, 2014, NANO LETT, V14, P6127, DOI 10.1021/nl502113z
+   Moll N, 2010, NEW J PHYS, V12, DOI 10.1088/1367-2630/12/12/125020
+   Moreno C, 2015, NANO LETT, V15, P2257, DOI 10.1021/nl504182w
+   Neff JL, 2015, PHYS REV B, V91, DOI 10.1103/PhysRevB.91.085424
+   Neu M, 2014, PHYS REV B, V89, DOI 10.1103/PhysRevB.89.205407
+   NONNENMACHER M, 1991, APPL PHYS LETT, V58, P2921, DOI 10.1063/1.105227
+   Pavlicek N, 2015, NAT CHEM, V7, P623, DOI [10.1038/NCHEM.2300, 10.1038/nchem.2300]
+   Pavlicek N, 2012, PHYS REV LETT, V108, DOI 10.1103/PhysRevLett.108.086101
+   PERDEW JP, 1992, PHYS REV B, V46, P6671, DOI 10.1103/PhysRevB.46.6671
+   Perdew JP, 1996, PHYS REV LETT, V77, P3865, DOI 10.1103/PhysRevLett.77.3865
+   Repp J, 2005, PHYS REV LETT, V94, DOI 10.1103/PhysRevLett.94.026803
+   Rohlfing M, 2007, PHYS REV B, V76, DOI 10.1103/PhysRevB.76.115421
+   Sadewasser S, 2009, PHYS REV LETT, V103, DOI 10.1103/PhysRevLett.103.266103
+   Schuler B, 2015, J AM CHEM SOC, V137, P9870, DOI 10.1021/jacs.5b04056
+   Schuler B, 2014, NANO LETT, V14, P3342, DOI 10.1021/nl500805x
+   Sun ZX, 2011, PHYS REV LETT, V106, DOI 10.1103/PhysRevLett.106.046104
+   Sweetman AM, 2014, NAT COMMUN, V5, DOI 10.1038/ncomms4931
+   Sweetman A, 2014, PHYS REV B, V90, DOI 10.1103/PhysRevB.90.165425
+   Temirov R, 2008, NEW J PHYS, V10, DOI 10.1088/1367-2630/10/5/053012
+   Tkatchenko A, 2009, PHYS REV LETT, V102, DOI 10.1103/PhysRevLett.102.073005
+   van der Lit J, 2016, PHYS REV LETT, V116, DOI 10.1103/PhysRevLett.116.096102
+   Wagner C, 2015, PHYS REV LETT, V115, DOI 10.1103/PhysRevLett.115.026101
+   Welker J, 2012, SCIENCE, V336, P444, DOI 10.1126/science.1219850
+   Weymouth AJ, 2011, PHYS REV LETT, V106, DOI 10.1103/PhysRevLett.106.226801
+   Weymouth AJ, 2014, SCIENCE, V343, P1120, DOI 10.1126/science.1249502
+   Zhang J, 2013, SCIENCE, V342, P611, DOI 10.1126/science.1242603
+NR 60
+TC 77
+Z9 79
+U1 5
+U2 112
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 2041-1723
+J9 NAT COMMUN
+JI Nat. Commun.
+PD MAY
+PY 2016
+VL 7
+AR 11560
+DI 10.1038/ncomms11560
+PG 8
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA DM9DX
+UT WOS:000376666100001
+PM 27230940
+OA Green Published, Green Submitted, gold
+DA 2022-10-21
+ER
+
+EF

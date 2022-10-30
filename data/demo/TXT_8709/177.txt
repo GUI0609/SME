@@ -1,0 +1,125 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Husain, MM
+   Kumar, M
+AF Husain, Mudassir M.
+   Kumar, Maneesh
+TI Negative differential resistance, rectifying performance and switching
+   behaviour in carbon-chain based molecular devices
+SO ORGANIC ELECTRONICS
+LA English
+DT Article
+DE Mono atomic carbon chains; I-V characteristics; Transmission spectrum;
+   NEGF-DFT; Rectification ratio; Multi switching
+ID ELECTRONIC TRANSPORT-PROPERTIES; CONDUCTANCE; 1ST-PRINCIPLES
+AB Using non equilibrium Green's function formalism coupled with density functional theory, we carry out electronic transport calculation in two types of molecular devices, one constructed by linear monoatomic carbon chain (center dot center dot center dot C-C-C center dot center dot center dot) and the other by two carbon chains capped with a phenyl ring (center dot center dot center dot C-C-Ph-C-C center dot center dot center dot), sandwiched between two z-shape electrodes, constructed by zigzag-armchair-zigzag (zzac-zz) graphene nanoribbons (GNRs). The potential difference between the z-shape contacts can be varied by employing an external d.c. voltage source. Thus, one may observe the variation of conductivity through the channels. The current voltage (I-V) characteristics of the proposed resistors show N-type negative differential resistance (NDR), within a particular voltage region. The figure of merit or PVR (peak to valley) ratio (I-peak/I-valley) gets significantly increased, on capping the chains with phenyl ring. A higher value of PVR in I-V characteristics enhances the possibility of applications utilizing NDR. The calculated I-V characteristic is asymmetric and the rectification ratio is found to be 7, in case of the linear carbon chain.
+   The rectification ratio R(V) = I(V)/I(V) is an important parameter which determines, its suitability as rectifying device. It has been demonstrated that on varying the conformation of the phenyl ring with respect to the plane of electrodes, the transport properties of the system can be modulated. Interestingly, I-V characteristics are asymmetric and show dual NDR peaks in perpendicular conformation of the phenyl ring, with respect to the electrodes in the (center dot center dot center dot C-C-Ph-C-C center dot center dot center dot) system. The figure of merit is found to be respectively 8 and 51 for the first and second NDR regions. The later value is extremely high, making it an excellent candidate for potential applications. Moreover, the multi peak NDR device may be widely used in multiple-valued logics. Only a limited number of multiple NDR peak molecular-based nano systems have so far been reported, which are quite complex; by contrast the present system seems to be quite simple. The physical phenomenon of NDR was explained in the light of molecular projected self-consistent Hamiltonian (MPSH) and also the evolution of the frontier molecular orbitals (HOMO-LUMO) as well as transmission under various external bias voltages. (C) 2015 Elsevier B.V. All rights reserved.
+C1 [Husain, Mudassir M.; Kumar, Maneesh] Jamia Millia Islamia, Fac Engn & Technol, Dept Appl Sci & Humanities, Phys Sect, New Delhi 110025, India.
+RP Husain, MM (corresponding author), Jamia Millia Islamia, Fac Engn & Technol, Dept Appl Sci & Humanities, Phys Sect, New Delhi 110025, India.
+EM mmhusain@jmi.ac.in
+RI kumar, maneesh/V-4578-2019
+OI Husain, Mudassir/0000-0002-9802-7097
+CR An YP, 2011, J CHEM PHYS, V135, DOI 10.1063/1.3615492
+   Andrews DQ, 2006, J CHEM PHYS, V125, DOI 10.1063/1.2363182
+   AVIRAM A, 1974, CHEM PHYS LETT, V29, P277, DOI 10.1016/0009-2614(74)85031-1
+   Bauschlicher CW, 2003, CHEM PHYS LETT, V372, P723, DOI 10.1016/S0009-2614(03)00486-X
+   Brandbyge M, 2002, PHYS REV B, V65, DOI 10.1103/PhysRevB.65.165401
+   Bratkovsky AM, 2003, PHYS REV B, V67, DOI 10.1103/PhysRevB.67.115307
+   BRENNER DW, 1990, PHYS REV B, V42, P9458, DOI 10.1103/PhysRevB.42.9458
+   BUTTIKER M, 1986, PHYS REV LETT, V57, P1761, DOI 10.1103/PhysRevLett.57.1761
+   Cai YQ, 2011, J CHEM PHYS, V135, DOI 10.1063/1.3657435
+   CARTER FL, 1983, J VAC SCI TECHNOL B, V1, P959, DOI 10.1116/1.582717
+   Cornil J, 2002, J AM CHEM SOC, V124, P3516, DOI 10.1021/ja017475q
+   Datta S, 2000, SUPERLATTICE MICROST, V28, P253, DOI 10.1006/spmi.2000.0920
+   Datta S., 2005, QUANTUM TRANSPORT AT, DOI 10.1017/CBO9781139164313
+   Derosa PA, 2001, J PHYS CHEM B, V105, P471, DOI 10.1021/jp003033+
+   Di Carlo A, 2002, PHYSICA B, V314, P86, DOI 10.1016/S0921-4526(01)01445-4
+   Di Ventra M, 2000, PHYS REV LETT, V84, P979, DOI 10.1103/PhysRevLett.84.979
+   Elstner M, 1998, PHYS REV B, V58, P7260, DOI 10.1103/PhysRevB.58.7260
+   Evers F, 2004, PHYS REV B, V69, DOI 10.1103/PhysRevB.69.235411
+   Fan ZQ, 2010, J APPL PHYS, V107, DOI 10.1063/1.3446294
+   Furst JA, 2009, PHYS REV B, V80, DOI 10.1103/PhysRevB.80.035427
+   Garcia-Suarez VM, 2008, NANOTECHNOLOGY, V19, DOI 10.1088/0957-4484/19/45/455203
+   Georgiev VP, 2010, INORG CHEM, V49, P5591, DOI 10.1021/ic100493t
+   Gittins DI, 2000, NATURE, V408, P67, DOI 10.1038/35040518
+   Huag H., 2008, QUANTUM KINETICS TRA, V2
+   Jianwei Z., 2010, J PHYS CHEM C, V114, P4135
+   Jin CH, 2009, PHYS REV LETT, V102, DOI 10.1103/PhysRevLett.102.205501
+   Joachim C, 2000, NATURE, V408, P541, DOI 10.1038/35046000
+   Lakshmi S, 2008, J PHYS CHEM C, V112, P14718, DOI 10.1021/jp800187e
+   LANDAUER R, 1970, PHILOS MAG, V21, P863, DOI 10.1080/14786437008238472
+   LARSSON S, 1981, J AM CHEM SOC, V103, P4034, DOI 10.1021/ja00404a010
+   Lee SU, 2010, NANOSCALE, V2, P2758, DOI 10.1039/c0nr00411a
+   Li XF, 2007, APPL PHYS LETT, V91, DOI 10.1063/1.2790839
+   Li XF, 2009, APPL PHYS LETT, V95, DOI 10.1063/1.3273867
+   Liu CL, 2011, J PHYS CHEM C, V115, P5930, DOI 10.1021/jp108737e
+   Long MQ, 2007, APPL PHYS LETT, V91, DOI 10.1063/1.2822423
+   Luo Y, 2002, J CHEM PHYS, V117, P10283, DOI 10.1063/1.1518962
+   Mahmoud A, 2013, APPL PHYS LETT, V103, DOI 10.1063/1.4813844
+   Martins TB, 2009, PHYS REV B, V79, DOI 10.1103/PhysRevB.79.115413
+   Matin V.V., 2008, INTRO NANOELECTRONIC, P252
+   Mishchenko A, 2010, NANO LETT, V10, P156, DOI 10.1021/nl903084b
+   MONKHORST HJ, 1976, PHYS REV B, V13, P5188, DOI 10.1103/PhysRevB.13.5188
+   Ning X.U., 2011, ACTA PHYS-CHIM SIN, V27, P559
+   Pan JB, 2010, APPL PHYS LETT, V97, DOI 10.1063/1.3515904
+   Pan Z, 2009, CHINESE J CHEM PHYS, V22, P7, DOI 10.1088/1674-0068/22/01/7-12
+   POREZAG D, 1995, PHYS REV B, V51, P12947, DOI 10.1103/PhysRevB.51.12947
+   Qi YH, 2006, APPL PHYS LETT, V89, DOI 10.1063/1.2382744
+   Rao R.S., 2012, SOLID STATE DEVICES, P431
+   Reed MA, 1997, SCIENCE, V278, P252, DOI 10.1126/science.278.5336.252
+   Selzer Y, 2006, ANNU REV PHYS CHEM, V57, P593, DOI 10.1146/annurev.physchem.57.032905.104709
+   Sen S, 2008, J PHYS CHEM C, V112, P1685, DOI 10.1021/jp075979q
+   Stadler R, 2008, J PHYS-CONDENS MAT, V20, DOI 10.1088/0953-8984/20/37/374105
+   Stokbro K, 2003, COMP MATER SCI, V27, P151, DOI 10.1016/S0927-0256(02)00439-1
+   Tang GP, 2009, J PHYS D APPL PHYS, V42, DOI 10.1088/0022-3727/42/17/175104
+   Taylor J, 2001, PHYS REV B, V63, DOI 10.1103/PhysRevB.63.245407
+   Taylor J, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.138301
+   TROULLIER N, 1991, PHYS REV B, V43, P1993, DOI 10.1103/PhysRevB.43.1993
+   Tsai MH, 2010, NANOTECHNOLOGY, V21, DOI 10.1088/0957-4484/21/6/065203
+   Vergniory MG, 2010, APPL PHYS LETT, V97, DOI 10.1063/1.3533383
+   Wan HQ, 2012, J CHEM PHYS, V136, DOI 10.1063/1.4712615
+   Wan HQ, 2012, J PHYS CHEM C, V116, P2570, DOI 10.1021/jp2092576
+   Wang CK, 2001, PHYS CHEM CHEM PHYS, V3, P5017, DOI 10.1039/b105279a
+   Xia CJ, 2011, PHYSICA E, V43, P1518, DOI 10.1016/j.physe.2011.04.020
+   Xui Y., 2001, CHEM PHYS, V115, P4292
+   Yaliraki SN, 1999, J CHEM PHYS, V111, P6997, DOI 10.1063/1.480096
+   Yi-Peng A., 2010, CURR APPL PHYS, V10, P260, DOI DOI 10.1016/J.CAP.2009.06.003
+   Yin X, 2006, J CHEM PHYS, V125, DOI 10.1063/1.2345061
+   Zhao H, 2014, PHYSICA B, V437, P41, DOI 10.1016/j.physb.2013.12.027
+   Zhao P, 2012, PHYSICA B, V407, P73, DOI 10.1016/j.physb.2011.09.123
+   Zhao P, 2008, APPL PHYS LETT, V93, DOI 10.1063/1.2938415
+   Zhao P, 2009, PHYSICA E, V41, P474, DOI 10.1016/j.physe.2008.09.008
+   Zhao P, 2011, SOLID STATE COMMUN, V151, P1424, DOI 10.1016/j.ssc.2011.07.007
+   Zhao P, 2009, CURR APPL PHYS, V9, P1213, DOI 10.1016/j.cap.2009.01.018
+   Zhao P, 2009, SOLID STATE COMMUN, V149, P928, DOI 10.1016/j.ssc.2009.03.027
+   Zheng XH, 2009, J PHYS-CONDENS MAT, V21, DOI 10.1088/0953-8984/21/14/145502
+   Zhou QS, 2010, J APPL PHYS, V107, DOI 10.1063/1.3452387
+NR 75
+TC 19
+Z9 19
+U1 0
+U2 41
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1566-1199
+EI 1878-5530
+J9 ORG ELECTRON
+JI Org. Electron.
+PD DEC
+PY 2015
+VL 27
+BP 92
+EP 100
+DI 10.1016/j.orgel.2015.09.014
+PG 9
+WC Materials Science, Multidisciplinary; Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Materials Science; Physics
+GA CW2BV
+UT WOS:000364797000015
+DA 2022-10-19
+ER
+
+EF

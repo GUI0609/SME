@@ -1,0 +1,273 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Guo, XX
+   Sata, N
+   Maier, J
+AF Guo, XX
+   Sata, N
+   Maier, J
+TI Effects of orientation and substrate on ion transport in fluoride
+   heterostructures grown by molecular beam epitaxy
+SO ELECTROCHIMICA ACTA
+LA English
+DT Article
+DE molecular beam epitaxy; ion transport; CaF2/BaF2 heterostructures;
+   orientation; substrate effects; space charges
+ID CONDUCTIVITY; CAF2; BAF2; CRYSTALS
+AB Ion conductor heterostructures of BaF2 and CaF2 with various spacings have been prepared by molecular beam epitaxy (MBE) technique as reported previously by Sata et al. [Nature 408 (2000) 946]. In this paper, we are especially interested in the effects of orientation and substrate on the conductivity. Four kinds of substrates have been investigated (Al2O3(0 1 2), Al2O3(0 0 6), MgO(1 1 1), and MgO(1 1 0)), generating [1 1 1] and [1 0 0] oriented heterostructures with smooth surfaces. The samples have been investigated by ac impedance, dc polarization techniques, X-ray diffraction (XRD) and atomic force microscopy (AFM). The polarization measurements confirm that electronic effects are minor and the conductivity is ionic. The substrate itself causes a space charge effect which adds to the overall conductance as a constant contribution and is of the order of the effect of a single CaF2/BaF2 interface (or less), and hence totally negligible if the number of CaF2/BaF2 interfaces is high. Variation of the substrate's surface chemistry leads to a conductivity variation that is exactly opposite to the case of cation adsorption, and thus suggests F- adsorption as defect inducing mechanism at the Al2O3/BaF2 interface. The dominating contribution of the CaF2/BaF2 interfaces is approximately independent of the orientation, hence, favoring a fluoride ion transfer from one to the other phase rather than a charge accumulation at the interfacial core, in full agreement with the conclusions of Sata et al. [Nature 408 (2000) 946]. (C) 2003 Elsevier Ltd. All rights reserved.
+C1 Max Planck Inst Festkorperforsch, D-70569 Stuttgart, Germany.
+   Tohoku Univ, Dept Machine Intelligence & Syst Engn, Sendai, Miyagi 9808579, Japan.
+RP Maier, J (corresponding author), Max Planck Inst Festkorperforsch, Heisenbergstr 1, D-70569 Stuttgart, Germany.
+EM sofia.weiglein@fkf.mpg.de
+CR AZIMI A, 1984, J PHYS CHEM SOLIDS, V45, P23, DOI 10.1016/0022-3697(84)90097-0
+   BOLLMANN W, 1973, PHYS STATUS SOLIDI A, V16, P187, DOI 10.1002/pssa.2210160120
+   BOLLMANN W, 1973, PHYS STATUS SOLIDI A, V18, P313, DOI 10.1002/pssa.2210180132
+   DELCET J, 1978, J ELECTROCHEM SOC, V125, P755, DOI 10.1149/1.2131542
+   GRYAZNOV D, UNPUB
+   GUO XC, IN PRESS SURF SCI
+   Hagenmuller P., 1985, INORGANIC SOLID FLUO
+   HAILE SM, UNPUB
+   JINPHILLIPP NY, IN PRESS J CHEM PHYS
+   Maier J, 2003, Z PHYS CHEM, V217, P415, DOI 10.1524/zpch.217.4.415.20385
+   MAIER J, 1995, PROG SOLID STATE CH, V23, P171, DOI 10.1016/0079-6786(95)00004-E
+   OBERSCHMIDT J, 1980, PHYS REV B, V21, P5823, DOI 10.1103/PhysRevB.21.5823
+   REDDY SNS, 1979, J ELECTROCHEM SOC, V126, P2023, DOI 10.1149/1.2128847
+   Riedel U., 1992, Journal of the European Ceramic Society, V9, P205, DOI 10.1016/0955-2219(92)90006-Y
+   SAITO Y, 1995, J ELECTROCHEM SOC, V142, P3078, DOI 10.1149/1.2048691
+   Sata N, 2000, NATURE, V408, P946, DOI 10.1038/35050047
+   Sata N, 2002, SOLID STATE IONICS, V154, P497, DOI 10.1016/S0167-2738(02)00488-5
+   Schoonman J., 1979, Fast ion transport in solids. Electrodes and electrolytes, P631
+   Wagner C., 1957, P 7 M INT COMM EL TH
+NR 19
+TC 20
+Z9 23
+U1 0
+U2 20
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0013-4686
+EI 1873-3859
+J9 ELECTROCHIM ACTA
+JI Electrochim. Acta
+PD MAR 15
+PY 2004
+VL 49
+IS 7
+BP 1091
+EP 1096
+DI 10.1016/j.electacta.2003.10.020
+PG 6
+WC Electrochemistry
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Electrochemistry
+GA 778EH
+UT WOS:000189226100010
+DA 2022-10-19
+ER
+
+PT J
+AU Gorelik, LY
+   Voinova, MV
+AF Gorelik, L. Yu.
+   Voinova, M. V.
+TI Mechanically mediated electron transfer in model metallo-enzyme
+   interfaces
+SO BIOSENSORS & BIOELECTRONICS
+LA English
+DT Article; Proceedings Paper
+CT 2nd World Congress on Synthetic Receptors
+CY SEP 07-09, 2005
+CL Salzburg, AUSTRIA
+DE gold nanoparticle; electron transfer; metallo-enzyme; bioelectronics
+ID TRANSDUCTION
+AB In this paper, we develop a physical analysis of charge transfer in the model 'metallo-enzyme' complex which consists of a synthetic redox-addressed assembly (a 'reaction center') hybridized with a quantum dot (a gold nanoparticle) and attached via molecular bridge (a spacer) to the electrode. This artificial system allows us to model electronic transduction in experimental redox ezyme-gold nanoparticle hybrid structure recently reported by Xiao et al. [Xiao, Y., Patolsky, F., Katz, E., Hainfeid, J.F., Willner, I., 2003. Science 299, 1877-1881]. We consider a photosensitive spacer that allows us to control the conductivity of the bridge by light. In this paper we will focus on a special type of nanoelectro-mechanical processes in this system and investigate single electronic effects in there. (c) 2006 Elsevier B.V. All rights reserved.
+C1 Chalmers Univ Technol, Dept Appl Phys, S-41296 Gothenburg, Sweden.
+RP Voinova, MV (corresponding author), Chalmers Univ Technol, Dept Appl Phys, S-41296 Gothenburg, Sweden.
+EM voinova@fy.chalmers.se
+CR Dulic D, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.207402
+   Gittins DI, 2000, NATURE, V408, P67, DOI 10.1038/35040518
+   Gorelik LY, 1998, PHYS REV LETT, V80, P4526, DOI 10.1103/PhysRevLett.80.4526
+   Kubatkin S, 2003, NATURE, V425, P698, DOI 10.1038/nature02010
+   Lahav M, 2000, J AM CHEM SOC, V122, P11480, DOI 10.1021/ja002568d
+   Muraoka T, 2006, NATURE, V440, P512, DOI 10.1038/nature04635
+   Shekhter RI, 2003, J PHYS-CONDENS MAT, V15, pR441, DOI 10.1088/0953-8984/15/12/201
+   Shimoboji T, 2002, P NATL ACAD SCI USA, V99, P16592, DOI 10.1073/pnas.262427799
+   Voinova A, 2004, BIOSENS BIOELECTRON, V20, P1106, DOI 10.1016/j.bios.2004.07.010
+   Willner I, 1999, BIOTECHNOL PROGR, V15, P991, DOI 10.1021/bp990115a
+   Xiao Y, 2003, SCIENCE, V299, P1877, DOI 10.1126/science.1080664
+NR 11
+TC 6
+Z9 6
+U1 0
+U2 8
+PU ELSEVIER ADVANCED TECHNOLOGY
+PI OXFORD
+PA OXFORD FULFILLMENT CENTRE THE BOULEVARD, LANGFORD LANE, KIDLINGTON,
+   OXFORD OX5 1GB, OXON, ENGLAND
+SN 0956-5663
+EI 1873-4235
+J9 BIOSENS BIOELECTRON
+JI Biosens. Bioelectron.
+PD SEP 15
+PY 2006
+VL 22
+IS 3
+BP 405
+EP 408
+DI 10.1016/j.bios.2006.06.032
+PG 4
+WC Biophysics; Biotechnology & Applied Microbiology; Chemistry, Analytical;
+   Electrochemistry; Nanoscience & Nanotechnology
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Biophysics; Biotechnology & Applied Microbiology; Chemistry;
+   Electrochemistry; Science & Technology - Other Topics
+GA 091JL
+UT WOS:000241023300011
+PM 16899359
+DA 2022-10-19
+ER
+
+PT J
+AU Galvez-Aranda, DE
+   Verma, A
+   Hankins, K
+   Seminario, JM
+   Mukherjee, PP
+   Balbuena, PB
+AF Galvez-Aranda, Diego E.
+   Verma, Ankit
+   Hankins, Kie
+   Seminario, Jorge M.
+   Mukherjee, Partha P.
+   Balbuena, Perla B.
+TI Chemical and mechanical degradation and mitigation strategies for Si
+   anodes
+SO JOURNAL OF POWER SOURCES
+LA English
+DT Article
+DE Atomistic and mesoscale modeling; Cracking; Fracture; SEI film; Si
+   anodes; Amorphization
+ID LITHIUM-ION-BATTERY; SOLID-ELECTROLYTE INTERPHASE; REDUCTION-MECHANISMS;
+   ETHYLENE CARBONATE; AMORPHOUS OXIDE; GRAPHITE ANODE; INDUCED DAMAGE;
+   SILICON; PERFORMANCE; LITHIATION
+AB Atomistic and mesoscopic models are used to analyze cracking and stresses produced during charge of Si nanoparticles covered by a thin SEI film. Mechanical stresses coupled to chemical effects are investigated with classical molecular dynamics simulations and with a mesoscopic model. Rupture of the surface film is the main cause of capacity fade and damage evolution is strongly influenced by the structure of the solid film. For example, high currents can cause rapid amorphization and help preserving the bond integrity. But large damage occurs after the current is above a threshold. In agreement with the atomistic results, mesoscopic modeling reveals that rupture of the surface film is the primary cause of capacity fading for amorphous silicon exhibiting single phase diffusion. It also suggests that conjugated silicon-film fracture in crystalline silicon with two-phase diffusion further exacerbates this deterioration. Fracture damage is slightly diminished by decreasing the Young's modulus of the brittle coating for both amorphous and crystalline silicon; however, controlling the large volumetric expansion induced stress on surface film is crucial towards improving silicon anodes. Mitigation strategies examined by ab initio molecular dynamics and electronic density functional theory simulations show passivation effects of graphene and graphene oxide on lithiated Si surfaces.
+C1 [Galvez-Aranda, Diego E.; Hankins, Kie; Seminario, Jorge M.; Balbuena, Perla B.] Texas A&M Univ, Dept Chem Engn, College Stn, TX 77843 USA.
+   [Galvez-Aranda, Diego E.; Seminario, Jorge M.] Texas A&M Univ, Dept Elect & Comp Engn, College Stn, TX 77843 USA.
+   [Seminario, Jorge M.; Balbuena, Perla B.] Texas A&M Univ, Dept Mat Sci & Engn, College Stn, TX 77843 USA.
+   [Balbuena, Perla B.] Texas A&M Univ, Dept Chem, College Stn, TX 77843 USA.
+   [Verma, Ankit; Mukherjee, Partha P.] Purdue Univ, Sch Mech Engn, W Lafayette, IN 47907 USA.
+RP Mukherjee, PP (corresponding author), Purdue Univ, Sch Mech Engn, W Lafayette, IN 47907 USA.; Seminario, JM; Balbuena, PB (corresponding author), TAMU, Dept Chem Engn, College Stn, TX 77843 USA.
+EM seminario@tamu.edu; pmukherjee@purdue.edu; balbuena@tamu.edu
+OI Verma, Ankit/0000-0002-7610-8574
+FU Assistant Secretary for Energy Efficiency and Renewable Energy,Vehicle
+   Technologies Office of the U.S. Department of Energy under the Advanced
+   Battery Materials Research (BMR) Program [DE-EE0007766]
+FX This work was supported by the Assistant Secretary for Energy Efficiency
+   and Renewable Energy,Vehicle Technologies Office of the U.S. Department
+   of Energy under Contract No. DE-EE0007766 under the Advanced Battery
+   Materials Research (BMR) Program. Supercomputer resources from Texas A&M
+   University High Performance Computer Center and Texas Advanced Computing
+   Center (TACC) are gratefully acknowledged.
+CR Agubra VA, 2014, J POWER SOURCES, V268, P153, DOI 10.1016/j.jpowsour.2014.06.024
+   An SJ, 2016, CARBON, V105, P52, DOI 10.1016/j.carbon.2016.04.008
+   Armand M, 2008, NATURE, V451, P652, DOI 10.1038/451652a
+   Aurbach D, 1998, J ELECTROCHEM SOC, V145, P3024, DOI 10.1149/1.1838758
+   Barai P, 2016, J ELECTROCHEM SOC, V163, pA1120, DOI 10.1149/2.01191606jes
+   Barai P, 2015, J ELECTROCHEM SOC, V162, pA1751, DOI 10.1149/2.0241509jes
+   Barai P, 2014, J ELECTROCHEM SOC, V161, pF3123, DOI 10.1149/2.0201411jes
+   Barai P, 2013, J ELECTROCHEM SOC, V160, pA955, DOI 10.1149/2.132306jes
+   Beattie SD, 2016, J POWER SOURCES, V302, P426, DOI 10.1016/j.jpowsour.2015.10.066
+   Benitez L, 2017, J ELECTROCHEM SOC, V164, pE3159, DOI 10.1149/2.0181711jes
+   BOUKAMP BA, 1981, J ELECTROCHEM SOC, V128, P725, DOI 10.1149/1.2127495
+   Burns LA, 2011, J CHEM PHYS, V134, DOI 10.1063/1.3545971
+   Cairns EJ, 2010, ANNU REV CHEM BIOMOL, V1, P299, DOI 10.1146/annurev-chembioeng-073009-100942
+   Chan CK, 2008, NAT NANOTECHNOL, V3, P31, DOI 10.1038/nnano.2007.411
+   Chen CF, 2016, CURR OPIN CHEM ENG, V13, P82, DOI 10.1016/j.coche.2016.08.008
+   Chen CF, 2016, ELECTROCHIM ACTA, V204, P31, DOI 10.1016/j.electacta.2016.03.106
+   Chen HL, 2002, ELECTROCHEM COMMUN, V4, P488, DOI 10.1016/S1388-2481(02)00357-0
+   Chen S.-R., 2012, SILICON CORE HOLLOW, V14
+   Cui LF, 2009, NANO LETT, V9, P3370, DOI 10.1021/nl901670t
+   Dalla Corte DA, 2016, ELECTROCHIM ACTA, V201, P70, DOI 10.1016/j.electacta.2016.03.105
+   de la Hoz JMM, 2014, PHYS CHEM CHEM PHYS, V16, P17091, DOI 10.1039/c4cp01948b
+   de la Hoz JMM, 2013, ACS APPL MATER INTER, V5, P13457, DOI 10.1021/am404365r
+   Fergus JW, 2010, J POWER SOURCES, V195, P939, DOI 10.1016/j.jpowsour.2009.08.089
+   Galvez-Aranda DE, 2018, J ELECTROCHEM SOC, V165, pA717, DOI 10.1149/2.0991803jes
+   Galvez-Aranda DE, 2017, J MOL MODEL, V23, DOI 10.1007/s00894-017-3283-2
+   Gao XF, 2015, ACS APPL MATER INTER, V7, P7855, DOI 10.1021/acsami.5b01230
+   Ge MY, 2012, NANO LETT, V12, P2318, DOI 10.1021/nl300206e
+   Hafner J, 2008, J COMPUT CHEM, V29, P2044, DOI 10.1002/jcc.21057
+   He Y, 2011, ADV MATER, V23, P4938, DOI 10.1002/adma.201102568
+   Idota Y, 1997, SCIENCE, V276, P1395, DOI 10.1126/science.276.5317.1395
+   Kresse G, 1996, PHYS REV B, V54, P11169, DOI 10.1103/PhysRevB.54.11169
+   Kresse G, 1999, PHYS REV B, V59, P1758, DOI 10.1103/PhysRevB.59.1758
+   Kumar N, 2016, J PHYS CHEM C, V120, P16322, DOI 10.1021/acs.jpcc.6b03709
+   Lee JK, 2014, SCI REP-UK, V4, DOI 10.1038/srep05682
+   Li JC, 2014, ACS APPL MATER INTER, V6, P10083, DOI 10.1021/am5009419
+   Li XL, 2012, J MATER CHEM, V22, P11014, DOI 10.1039/c2jm31286g
+   Li XW, 2015, ACS NANO, V9, P1858, DOI 10.1021/nn506760p
+   Limthongkul P, 2003, ACTA MATER, V51, P1103, DOI 10.1016/S1359-6454(02)00514-1
+   Liu H. W. Nian, 2012, NANO LETT, V12, P6
+   Liu N, 2014, NAT NANOTECHNOL, V9, P187, DOI [10.1038/nnano.2014.6, 10.1038/NNANO.2014.6]
+   Liu XH, 2012, NAT NANOTECHNOL, V7, P749, DOI [10.1038/nnano.2012.170, 10.1038/NNANO.2012.170]
+   Lu P, 2011, ELECTROCHEM COMMUN, V13, P1035, DOI 10.1016/j.elecom.2011.06.026
+   Marsh RA, 2001, J POWER SOURCES, V97-8, P25, DOI 10.1016/S0378-7753(01)00584-5
+   McAllister MJ, 2007, CHEM MATER, V19, P4396, DOI 10.1021/cm0630800
+   McDowell MT, 2012, ADV MATER, V24, P6034, DOI 10.1002/adma.201202744
+   PELED E, 1979, ISRAEL J CHEM, V18, P131
+   Peled E, 1996, J ELECTROCHEM SOC, V143, pL4, DOI 10.1149/1.1836372
+   Peng KQ, 2008, APPL PHYS LETT, V93, DOI 10.1063/1.2929373
+   Perdew JP, 1996, PHYS REV B, V54, P16533, DOI 10.1103/PhysRevB.54.16533
+   Ponce V, 2017, J PHYS CHEM C, V121, P12959, DOI 10.1021/acs.jpcc.7b04190
+   Ramos-Sanchez G, 2016, J ELECTROCHEM ENERGY, V13, DOI 10.1115/1.4034412
+   Seng K. H., 2012, ANGEW CHEM, V124, P5755, DOI [10.1002/ange.201201488, DOI 10.1002/ANGE.201201488]
+   Shen BH, 2018, SCI REP-UK, V8, DOI 10.1038/s41598-018-30000-z
+   Shi SQ, 2012, J AM CHEM SOC, V134, P15476, DOI 10.1021/ja305366r
+   Soto FA, 2016, CURR OPIN CHEM ENG, V13, P179, DOI 10.1016/j.coche.2016.08.017
+   Sun XL, 2015, CHEMELECTROCHEM, V2, P737, DOI 10.1002/celc.201402404
+   Tarascon J.-M., 2011, MAT SUSTAINABLE ENER, P171
+   Trill JH, 2011, J SOLID STATE ELECTR, V15, P349, DOI 10.1007/s10008-010-1260-0
+   Verma A, 2017, J ELECTROCHEM SOC, V164, pA3570, DOI 10.1149/2.0391714jes
+   Verma A, 2017, J ELECTROCHEM SOC, V164, pA3380, DOI 10.1149/2.1701713jes
+   Wang AP, 2018, NPJ COMPUT MATER, V4, DOI 10.1038/s41524-018-0064-0
+   Wang B, 2013, ACS NANO, V7, P1437, DOI 10.1021/nn3052023
+   Wang C, 2013, NAT CHEM, V5, P1042, DOI [10.1038/nchem.1802, 10.1038/NCHEM.1802]
+   Wu YP, 2003, J POWER SOURCES, V114, P228, DOI 10.1016/S0378-7753(02)00596-7
+   Xu YH, 2013, ADV ENERGY MATER, V3, P128, DOI 10.1002/aenm.201200346
+   Yang Y, 2016, MATER LETT, V184, P65, DOI 10.1016/j.matlet.2016.08.006
+   Yao Y, 2011, NANO LETT, V11, P2949, DOI 10.1021/nl201470j
+   Yu Y, 2007, ADV MATER, V19, P993, DOI 10.1002/adma.200601667
+   Zhang WJ, 2011, J POWER SOURCES, V196, P13, DOI 10.1016/j.jpowsour.2010.07.020
+   Zhang WM, 2008, ADV MATER, V20, P1160, DOI 10.1002/adma.200701364
+   Zhu HL, 2013, NANO LETT, V13, P3093, DOI 10.1021/nl400998t
+NR 71
+TC 16
+Z9 18
+U1 4
+U2 90
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-7753
+EI 1873-2755
+J9 J POWER SOURCES
+JI J. Power Sources
+PD APR 15
+PY 2019
+VL 419
+BP 208
+EP 218
+DI 10.1016/j.jpowsour.2019.02.054
+PG 11
+WC Chemistry, Physical; Electrochemistry; Energy & Fuels; Materials
+   Science, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Electrochemistry; Energy & Fuels; Materials Science
+GA HR7BC
+UT WOS:000463305900026
+OA Green Submitted
+DA 2022-10-19
+ER
+
+EF

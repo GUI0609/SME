@@ -1,0 +1,68 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Jia, L
+   Tang, DW
+   Zhang, X
+AF Jia Lin
+   Tang Da-Wei
+   Zhang Xing
+TI Experimental study of ultrafast carrier dynamics in polycrystalline ZnTe
+   nanofilm
+SO ACTA PHYSICA SINICA
+LA Chinese
+DT Article
+DE zinc telluride; polycrystalline; femtosecond laser; carrier
+AB Zinc telluride, due to its direct band gap and broadband light absorption, has the good application prospects in terahertz devices, solar cells, waveguide devices, and green light emitting diodes. In the photovoltaic field, it is possible to further improve the photoelectron conversion efficiency of multi-junction tandem solar cells by combining zinc telluride with III-V semiconductors. Ultrafast photo-excited carrier dynamics is fundamental to understand photoelectron conversion process of nanofilm solar cells. In this study, the ultrafast energy carrier dynamics of N-doped polycrystalline zinc telluride is investigated by using the femtosecond laser two-color pump-probe method at room temperature. The polycrystalline zinc telluride nanofilm is grown on a 500 mu m GaAs (001) substrate via molecular beam epitaxy and doped by using a nitrogen ratio frequency plasma cell. The laser pulses with a central wavelength of 800 nm are divided into pump beam and probe beam by a beam splitter, after which the pump beam passes through a bismuth triborate crystal and its frequency is doubled to 400 nm. The 400 nm pump beam and 800 nm probe beam are focused on the sample collinearly through the same objective lens. Photo-excited carriers will be generated since the excitation photon energy of 400 nm pump beam (3.1 eV) is higher than the band gap of zinc telluride (similar to 2.39 eV). The experimental data are analyzed by using the theoretical fitting model which includes energy relaxation processes of electrons and lattice, and the theoretical curves are consistent well with the experimental data. The fitted results show that the three dominated relaxation processes which affect the initial reflectivity recovery are in sub-picosecond time regime. The positive amplitude electron relaxation process is attributed to inter-band carrier cooling and carrier diffusion through electron-photon interactions, and the deduced decay time of this positive amplitude electron relaxation process is about 0.75 ps. The negative amplitude electron relaxation process is characterized as a photo-generated carrier trapping process induced by defects, and the decay time of this process is about 0.61 ps. The lattice heating process is realized through electron-phonon coupling process, and the calculated time constant of the lattice heating is about 0.86 ps.
+C1 [Jia Lin; Zhang Xing] Tsinghua Univ, Sch Aerosp, Minist Educ, Key Lab Thermal Sci & Power Engn, Beijing 100084, Peoples R China.
+   [Tang Da-Wei] Chinese Acad Sci, Inst Engn Thermophys, Beijing 100190, Peoples R China.
+RP Zhang, X (corresponding author), Tsinghua Univ, Sch Aerosp, Minist Educ, Key Lab Thermal Sci & Power Engn, Beijing 100084, Peoples R China.
+EM x-zhang@tsinghua.edu.cn
+FU National Natural Science Foundation of China [51206094, 51327001,
+   51336009]
+FX Project supported by the National Natural Science Foundation of China
+   (Grant Nos. 51206094, 51327001, 51336009).
+CR Chang JH, 2002, PHYS STATUS SOLIDI B, V229, P995, DOI 10.1002/1521-3951(200201)229:2<995::AID-PSSB995>3.0.CO;2-G
+   Collier CM, 2014, APPL PHYS LETT, V104, DOI 10.1063/1.4863217
+   Guo QX, 2007, SOLID STATE COMMUN, V141, P188, DOI 10.1016/j.ssc.2006.10.023
+   Hopkins PE, 2009, J APPL PHYS, V106, DOI 10.1063/1.3211310
+   Jia L, 2014, APPL PHYS LETT, V104, DOI 10.1063/1.4884941
+   Ma WG, 2011, ACTA PHYS SIN-CH ED, V60
+   Norris PM, 2003, REV SCI INSTRUM, V74, P400, DOI 10.1063/1.1517187
+   Qi J, 2010, APPL PHYS LETT, V97, DOI 10.1063/1.3513826
+   Rast S, 2001, PHYS REV B, V64, DOI 10.1103/PhysRevLett.87.214505
+   Wang HD, 2011, CHINESE PHYS B, V20, DOI 10.1088/1674-1056/20/4/040701
+   WRIGHT OB, 1995, APPL PHYS LETT, V66, P1190, DOI 10.1063/1.113853
+   Wu AQ, 2007, APPL PHYS LETT, V90, DOI 10.1063/1.2750401
+   Wu SN, 2010, PROG PHOTOVOLTAICS, V18, P328, DOI 10.1002/pip.962
+   Xia ZL, 2006, ACTA PHYS SIN-CH ED, V55, P3007
+   Zhu J, 2010, J APPL PHYS, V108, DOI 10.1063/1.3504213
+   Zhu LD, 2012, ACTA PHYS SIN-CH ED, V61
+NR 16
+TC 1
+Z9 1
+U1 3
+U2 30
+PU CHINESE PHYSICAL SOC
+PI BEIJING
+PA P O BOX 603, BEIJING 100080, PEOPLES R CHINA
+SN 1000-3290
+J9 ACTA PHYS SIN-CH ED
+JI Acta Phys. Sin.
+PD APR 20
+PY 2015
+VL 64
+IS 8
+AR 087802
+DI 10.7498/aps.64.087802
+PG 5
+WC Physics, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Physics
+GA CH5EX
+UT WOS:000354059200043
+OA hybrid
+DA 2022-10-19
+ER
+
+EF

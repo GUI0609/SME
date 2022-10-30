@@ -1,0 +1,99 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Lalik, E
+   Mordarski, G
+   Socha, RP
+   Drelinkiewicz, A
+AF Lalik, E.
+   Mordarski, G.
+   Socha, R. P.
+   Drelinkiewicz, A.
+TI Chaotic variations of electrical conductance in powdered Pd correlating
+   with oscillatory sorption of D-2
+SO PHYSICAL CHEMISTRY CHEMICAL PHYSICS
+LA English
+DT Article
+ID NEUTRON-DIFFRACTION; PALLADIUM-HYDROGEN; SURFACE-REACTION; ADSORPTION;
+   MICROSCOPY; ABSORPTION; TRANSITION; HYDRIDE; PD(100); ARRAYS
+AB A microcalorimetric method has been combined with a potentiostatic method to measure simultaneously the rate of heat evolution and the electrical current in a powdered sample of palladium during thermokinetic oscillations accompanying the sorption of deuterium in the metal. Deterministic chaos has been confirmed in the temporal variations in current (of ca. 1-4 mA) on the onset of both the sorption and the desorption of deuterium from Pd. It has been found that the first derivative of the current in time, dI/dt, turns out to be correlated precisely with the periodicity of thermokinetic oscillations. The dI/dt curves consist of regularly timed outbursts of aperiodic, high frequency (HF) fluctuations, interlinked by calm periods. The calm periods correlate with the descending slopes of thermokinetic oscillations (i.e., with decrease in the rate of heat evolution) and their lengths depend on the frequency of thermokinetic oscillations. In turn, the outbursts of aperiodic HF fluctuations in the dI/dt derivatives correlate with the ascending slopes of thermokinetic oscillations (i.e., with increasing rate of heat production), but their length is practically constant, irrespective of the thermokinetic frequency. We propose a periodic mechanism of sorption including a collective action of adsorbed deuterium taking place on the Pd surface. The periodicity of this mechanism arises from the temporal separation of its two sub-processes. The sub-process (1) involves only the adsorption of molecular D-2 on the Pd surface and proceeds with little heat evolution until a critical coverage of D-2 is achieved. The sub-process (2) initiates the dissociation of the adsorbed D-2 and the penetration of the dissociated atomic D species into the Pd lattice. It is the more energetic of the two, but it only begins after a threshold coverage of D-2 on the Pd surface has been achieved. We suggest that these sub-processes occurring alternatingly may provide a kernel for the oscillatory behavior observed in Pd/H(D) systems.
+C1 [Lalik, E.; Mordarski, G.; Socha, R. P.; Drelinkiewicz, A.] Polish Acad Sci, Jerzy Haber Inst Catalysis & Surface Chem, Niezapominajek 8, PL-30239 Krakow, Poland.
+RP Lalik, E (corresponding author), Polish Acad Sci, Jerzy Haber Inst Catalysis & Surface Chem, Niezapominajek 8, PL-30239 Krakow, Poland.
+EM nclalik@cyf-kr.edu.pl
+RI Socha, Robert P./J-4307-2012
+OI Socha, Robert P./0000-0003-4072-2393; Drelinkiewicz,
+   Alicja/0000-0001-7649-2118; Mordarski, Grzegorz/0000-0002-6832-2685;
+   Lalik, Erwin/0000-0003-4191-9710
+FU National Centre of Science (National Science Centre, Poland)
+   [2012/07/B/ST4/00518]; Microscal Energy Technology Ltd (Thatcham, UK)
+FX The authors acknowledge the financial support of the National Centre of
+   Science (National Science Centre, Poland, grant no. 2012/07/B/ST4/00518)
+   as well as the support and assistance of Microscal Energy Technology Ltd
+   (Thatcham, UK).
+CR BEHM RJ, 1980, SURF SCI, V99, P320, DOI 10.1016/0039-6028(80)90396-9
+   Beutl M, 2001, SURF SCI, V482, P353, DOI 10.1016/S0039-6028(01)00813-5
+   Busnengo HF, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.236103
+   CONRAD H, 1974, SURF SCI, V41, P435, DOI 10.1016/0039-6028(74)90060-0
+   Epstein IR, 2014, CHEM COMMUN, V50, P10758, DOI 10.1039/c4cc00290c
+   Favier F, 2001, SCIENCE, V293, P2227, DOI 10.1126/science.1063189
+   Forrester DM, 2015, SCI REP-UK, V5, DOI 10.1038/srep16994
+   Fournier C., 2008, ECS T, V16, P457
+   Harris L, 1933, P NATL ACAD SCI USA, V19, P991, DOI 10.1073/pnas.19.12.991
+   IMBIHL R, 1995, CHEM REV, V95, P697, DOI 10.1021/cr00035a012
+   JAKUBITH S, 1990, PHYS REV LETT, V65, P3013, DOI 10.1103/PhysRevLett.65.3013
+   Jewell LL, 2006, APPL CATAL A-GEN, V310, P1, DOI 10.1016/j.apcata.2006.05.012
+   Kiefer T, 2010, APPL PHYS LETT, V97, DOI 10.1063/1.3491263
+   Kobayashi H, 2008, J AM CHEM SOC, V130, P1828, DOI 10.1021/ja7102372
+   Lalik E, 2006, CATAL TODAY, V114, P242, DOI 10.1016/j.cattod.2006.01.006
+   Lalik E, 2014, J MATH CHEM, V52, P2183, DOI 10.1007/s10910-014-0374-5
+   Lalik E, 2011, J CHEM PHYS, V135, DOI 10.1063/1.3624355
+   Lalik E, 2008, J PHYS CHEM C, V112, P18483, DOI 10.1021/jp805414a
+   Lewis F., 1960, PLATIN MET REV, V4, P132
+   Lischka M, 2003, RECENT DEVELOPMENTS IN VACUUM SCIENCE AND TECHNOLOGY, P111
+   Lischka M, 2002, PHYS REV B, V65, DOI 10.1103/PhysRevB.65.075420
+   LYNCH JF, 1973, J PHYS CHEM-US, V77, P2628, DOI 10.1021/j100640a010
+   Mitsui T, 2003, NATURE, V422, P705, DOI 10.1038/nature01557
+   NELIN G, 1971, PHYS STATUS SOLIDI B, V45, P527, DOI 10.1002/pssb.2220450215
+   Nowakowski R, 2003, LANGMUIR, V19, P6750, DOI 10.1021/la020908y
+   Ohno S, 2014, J CHEM PHYS, V140, DOI 10.1063/1.4869544
+   Okuyama H, 1998, SURF SCI, V401, P344, DOI 10.1016/S0039-6028(98)00020-X
+   RIEDER KH, 1983, PHYS REV LETT, V51, P1799, DOI 10.1103/PhysRevLett.51.1799
+   ROTERMUND HH, 1989, J CHEM PHYS, V91, P4942, DOI 10.1063/1.456735
+   Schmidt PK, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.096103
+   Soundarrajan P, 2008, HYDROGEN FUEL, P624, DOI [10.1201/9781420045772.ch15., DOI 10.1201/9781420045772.CH15]
+   Toiya M, 2010, J PHYS CHEM LETT, V1, P1241, DOI 10.1021/jz100238u
+   Wicke E, 1978, HYDROGEN METALS, P73
+   WORSHAM JE, 1957, J PHYS CHEM SOLIDS, V3, P303, DOI 10.1016/0022-3697(57)90033-1
+   Zhang WS, 2002, J ELECTROANAL CHEM, V528, P1, DOI 10.1016/S0022-0728(02)00845-8
+   Zou JL, 2010, SMALL, V6, P2358, DOI 10.1002/smll.201001003
+NR 36
+TC 0
+Z9 0
+U1 1
+U2 7
+PU ROYAL SOC CHEMISTRY
+PI CAMBRIDGE
+PA THOMAS GRAHAM HOUSE, SCIENCE PARK, MILTON RD, CAMBRIDGE CB4 0WF, CAMBS,
+   ENGLAND
+SN 1463-9076
+EI 1463-9084
+J9 PHYS CHEM CHEM PHYS
+JI Phys. Chem. Chem. Phys.
+PD MAR 14
+PY 2017
+VL 19
+IS 10
+BP 7040
+EP 7053
+DI 10.1039/c6cp08274b
+PG 14
+WC Chemistry, Physical; Physics, Atomic, Molecular & Chemical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Physics
+GA EN6YF
+UT WOS:000396148600016
+PM 28224158
+DA 2022-10-19
+ER
+
+EF

@@ -1,0 +1,372 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Ke, SH
+   Baranger, HU
+   Yang, WT
+AF Ke, SH
+   Baranger, HU
+   Yang, WT
+TI Contact atomic structure and electron transport through molecules
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+ID METALLIC ELECTRODES; CHARGE-TRANSFER; VOLTAGE DROP; BAND LINEUP;
+   SEPARATION; DEVICES; CONDUCTANCE; FABRICATION; JUNCTION; WIRES
+AB Using benzene sandwiched between two Au leads as a model system, we investigate from first principles the change in molecular conductance caused by different atomic structures around the metal-molecule contact. Our motivation is the variable situations that may arise in break junction experiments; our approach is a combined density functional theory and Green function technique. We focus on effects caused by (1) the presence of an additional Au atom at the contact and (2) possible changes in the molecule-lead separation. The effects of contact atomic relaxation and two different lead orientations are fully considered. We find that the presence of an additional Au atom at each of the two contacts will increase the equilibrium conductance by up to two orders of magnitude regardless of either the lead orientation or different group-VI anchoring atoms. This is due to a resonance peak near the Fermi energy from the lowest energy unoccupied molecular orbital. In the nonequilibrium properties, the resonance peak manifests itself in a negative differential conductance. We find that the dependence of the equilibrium conductance on the molecule-lead separation can be quite subtle: either very weak or very strong depending on the separation regime. (C) 2005 American Institute of Physics.
+C1 Duke Univ, Dept Chem, Durham, NC 27708 USA.
+   Duke Univ, Dept Phys, Durham, NC 27708 USA.
+RP Ke, SH (corresponding author), Duke Univ, Dept Chem, Durham, NC 27708 USA.
+RI Ke, San-Huang/A-5866-2008; Baranger, Harold U/O-2370-2013; Yang,
+   Weitao/C-1109-2008
+OI Baranger, Harold U/0000-0002-1458-2756; Yang, Weitao/0000-0001-5576-2828
+CR Brandbyge M, 2002, PHYS REV B, V65, DOI 10.1103/PhysRevB.65.165401
+   Damle PS, 2001, PHYS REV B, V64, DOI 10.1103/PhysRevB.64.201403
+   Datta S., 1995, ELECT TRANSPORT MESC
+   Di Ventra M, 2002, CHEM PHYS, V281, P189, DOI 10.1016/S0301-0104(02)00530-X
+   Di Ventra M, 2000, PHYS REV LETT, V84, P979, DOI 10.1103/PhysRevLett.84.979
+   FUHRER MS, COMMUNICATION
+   Haug H., 2008, QUANTUM KINETICS TRA
+   Heath JR, 2003, PHYS TODAY, V56, P43, DOI 10.1063/1.1583533
+   *HIGH PERF COMP CH, 2002, COMP CHEM PACK PAR C
+   Joachim C, 2000, NATURE, V408, P541, DOI 10.1038/35046000
+   Kaun CC, 2003, PHYS REV B, V67, DOI 10.1103/PhysRevB.67.121411
+   Kaun CC, 2002, PHYS REV B, V65, DOI 10.1103/PhysRevB.65.205416
+   Ke SH, 2004, PHYS REV B, V70, DOI 10.1103/PhysRevB.70.085410
+   Kergueris C, 1999, PHYS REV B, V59, P12505, DOI 10.1103/PhysRevB.59.12505
+   Kervennic YV, 2002, APPL PHYS LETT, V80, P321, DOI 10.1063/1.1433914
+   KOHN W, 1965, PHYS REV, V140, P1133, DOI 10.1103/PhysRev.140.A1133
+   Lang ND, 2000, PHYS REV LETT, V84, P358, DOI 10.1103/PhysRevLett.84.358
+   Lang ND, 2001, PHYS REV B, V64, DOI 10.1103/PhysRevB.64.125323
+   LANG ND, 1995, PHYS REV B, V52, P5335, DOI 10.1103/PhysRevB.52.5335
+   Louis E, 2003, PHYS REV B, V67, DOI 10.1103/PhysRevB.67.155321
+   Lu WG, 2003, PHYS REV B, V68, DOI 10.1103/PhysRevB.68.075407
+   Mehrez H, 2002, PHYS REV B, V65, DOI 10.1103/PhysRevB.65.195419
+   Morpurgo AF, 1999, APPL PHYS LETT, V74, P2084, DOI 10.1063/1.123765
+   Nielsen SK, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.066804
+   Nitzan A, 2001, ANNU REV PHYS CHEM, V52, P681, DOI 10.1146/annurev.physchem.52.1.681
+   Palacios JJ, 2003, PHYS REV LETT, V90, DOI 10.1103/PhysRevLett.90.106801
+   Palacios JJ, 2002, PHYS REV B, V66, DOI 10.1103/PhysRevB.66.035322
+   Park H, 1999, APPL PHYS LETT, V75, P301, DOI 10.1063/1.124354
+   Parr R. G., 1989, DENSITY FUNCTIONAL T, DOI DOI 10.1002/QUA.560470107
+   Perdew JP, 1996, PHYS REV LETT, V77, P3865, DOI 10.1103/PhysRevLett.77.3865
+   Petty M. C., 1995, INTRO MOL ELECT
+   Reed MA, 1997, SCIENCE, V278, P252, DOI 10.1126/science.278.5336.252
+   Reichert J, 2002, PHYS REV LETT, V88, DOI 10.1103/PhysRevLett.88.176804
+   Rodrigo JG, 2002, PHYS REV LETT, V88, DOI 10.1103/PhysRevLett.88.246801
+   Roland C, 2002, PHYS REV B, V65, DOI 10.1103/PhysRevB.65.041401
+   Smit RHM, 2002, NATURE, V419, P906, DOI 10.1038/nature01103
+   Soler JM, 2002, J PHYS-CONDENS MAT, V14, P2745, DOI 10.1088/0953-8984/14/11/302
+   Taylor J, 2001, PHYS REV B, V63, DOI 10.1103/PhysRevB.63.245407
+   Taylor J, 2003, PHYS REV B, V68, DOI 10.1103/PhysRevB.68.121101
+   Taylor J, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.138301
+   Tour J. M., 2003, MOL ELECT
+   TROULLIER N, 1991, PHYS REV B, V43, P1993, DOI 10.1103/PhysRevB.43.1993
+   Xue YQ, 2003, PHYS REV B, V68, DOI 10.1103/PhysRevB.68.115406
+   Xue YQ, 2003, PHYS REV B, V68, DOI 10.1103/PhysRevB.68.115407
+   Xue YQ, 2002, CHEM PHYS, V281, P151, DOI 10.1016/S0301-0104(02)00446-9
+   Xue YQ, 2001, J CHEM PHYS, V115, P4292, DOI 10.1063/1.1391253
+NR 46
+TC 122
+Z9 123
+U1 1
+U2 26
+PU AMER INST PHYSICS
+PI MELVILLE
+PA 1305 WALT WHITMAN RD, STE 300, MELVILLE, NY 11747-4501 USA
+SN 0021-9606
+EI 1089-7690
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PD FEB 15
+PY 2005
+VL 122
+IS 7
+AR 074704
+DI 10.1063/1.1851496
+PG 8
+WC Chemistry, Physical; Physics, Atomic, Molecular & Chemical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Physics
+GA 899JF
+UT WOS:000227140000051
+PM 15743262
+OA Green Submitted
+DA 2022-10-19
+ER
+
+PT J
+AU Xia, CJ
+   Fang, CF
+   Zhao, P
+   Liu, HC
+AF Xia, C. J.
+   Fang, C. F.
+   Zhao, P.
+   Liu, H. C.
+TI Effects of contact atomic structure on the electron transport of
+   pyridine-substituted dithienylethene optical molecular switch
+SO EUROPEAN PHYSICAL JOURNAL D
+LA English
+DT Article
+ID CONDUCTANCE; NANOJUNCTIONS; SPECTROSCOPY; AU(111); THIOL
+AB By applying nonequilibrium Green's function formalism combined with first-principles density functional theory, we investigate the effects of contact atomic structure on the electron transport of pyridine-substituted dithienylethene optical molecules with open- and closed-ring forms. The motivation for this study is the variable situations that may arise in break junction experiments. Three kinds of molecule-metal interface conformations including the hollow, bridge and top sites are studied. Theoretical results show that the conductance of the closed-ring is always larger than that of open-ring for all three connecting sites. When the molecule is located at the hollow site, this will lead to negative differential resistance under applied bias, while it cannot be found in the bridge and top sites.
+C1 [Xia, C. J.; Liu, H. C.] Xian Polytech Univ, Sch Sci, Xian 710048, Peoples R China.
+   [Fang, C. F.; Zhao, P.] Shandong Univ, Sch Phys, State Key Lab Crystal Mat, Jinan 250100, Peoples R China.
+RP Xia, CJ (corresponding author), Xian Polytech Univ, Sch Sci, Xian 710048, Peoples R China.
+EM xiacaijuan@xpu.edu.cn
+FU National Natural Science Foundations of China [10574082]; Education
+   Department Foundation of Shaanxi Province, China [09JK461]; Xian
+   Polytechnic university [09XG09]
+FX This work was supported by the National Natural Science Foundations of
+   China (Grant No. 10574082), the Education Department Foundation of
+   Shaanxi Province, China (Grant No. 09JK461) and the fundament research
+   of Xian Polytechnic university (Grant No. 09XG09).
+CR Brandbyge M, 2002, PHYS REV B, V65, DOI 10.1103/PhysRevB.65.165401
+   Bratkovsky AM, 2003, PHYS REV B, V67, DOI 10.1103/PhysRevB.67.115307
+   Cao YP, 2003, J PHYS CHEM B, V107, P3803, DOI 10.1021/jp021989+
+   CEPERLEY DM, 1980, PHYS REV LETT, V45, P566, DOI 10.1103/PhysRevLett.45.566
+   Csonka S, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.016802
+   Dulic D, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.207402
+   Girard Y, 2006, CHEM PHYS, V327, P77, DOI 10.1016/j.chemphys.2006.03.039
+   Halbritter A, 2003, PHYS REV B, V68, DOI 10.1103/PhysRevB.68.035417
+   Heath JR, 2003, PHYS TODAY, V56, P43, DOI 10.1063/1.1583533
+   Ikeda M, 2007, CHEM COMMUN, P1355, DOI 10.1039/b617246f
+   Irie M, 2000, CHEM REV, V100, P1685, DOI 10.1021/cr980069d
+   Ke SH, 2005, J CHEM PHYS, V122, DOI 10.1063/1.1851496
+   Kondo M, 2004, J PHYS CHEM A, V108, P9143, DOI 10.1021/jp038018u
+   Kondoh H, 2003, PHYS REV LETT, V90, DOI 10.1103/PhysRevLett.90.066102
+   Kronemeijer AJ, 2008, ADV MATER, V20, P1467, DOI 10.1002/adma.200800053
+   Mendoza SM, 2007, J PHYS CHEM C, V111, P16533, DOI 10.1021/jp0751662
+   Moresco F, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.036601
+   Nazin GV, 2003, SCIENCE, V302, P77, DOI 10.1126/science.1088971
+   Nozaki D, 2004, CHEM PHYS LETT, V394, P194, DOI 10.1016/j.cplett.2004.06.131
+   Pasupathy AN, 2004, SCIENCE, V306, P86, DOI 10.1126/science.1102068
+   Reed MA, 1997, SCIENCE, V278, P252, DOI 10.1126/science.278.5336.252
+   Seminario JM, 2002, J AM CHEM SOC, V124, P10266, DOI 10.1021/ja0176090
+   Smit RHM, 2002, NATURE, V419, P906, DOI 10.1038/nature01103
+   Soler JM, 2002, J PHYS-CONDENS MAT, V14, P2745, DOI 10.1088/0953-8984/14/11/302
+   Staykov A, 2007, J PHYS CHEM C, V111, P3517, DOI 10.1021/jp067612b
+   Staykov A, 2009, J PHYS CHEM C, V113, P3826, DOI 10.1021/jp8066712
+   Stokbro K, 2003, COMP MATER SCI, V27, P151, DOI 10.1016/S0927-0256(02)00439-1
+   Taylor J, 2001, PHYS REV B, V63, DOI 10.1103/PhysRevB.63.245407
+   Taylor J, 2003, PHYS REV B, V68, DOI 10.1103/PhysRevB.68.121101
+   Tivanski AV, 2005, J PHYS CHEM B, V109, P5398, DOI 10.1021/jp050022d
+   Troullier N., 1991, PHYS REV B, V43, P1993
+   Xu BQ, 2003, SCIENCE, V301, P1221, DOI 10.1126/science.1087481
+   Yasutomi S, 2004, SCIENCE, V304, P1944, DOI 10.1126/science.1098489
+NR 33
+TC 5
+Z9 5
+U1 0
+U2 17
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1434-6060
+J9 EUR PHYS J D
+JI Eur. Phys. J. D
+PD SEP
+PY 2010
+VL 59
+IS 3
+BP 375
+EP 378
+DI 10.1140/epjd/e2010-00196-2
+PG 4
+WC Optics; Physics, Atomic, Molecular & Chemical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Optics; Physics
+GA 639CK
+UT WOS:000280948200005
+DA 2022-10-19
+ER
+
+PT J
+AU Lagos, MJ
+   Sato, F
+   Autreto, PAS
+   Galvao, DS
+   Rodrigues, V
+   Ugarte, D
+AF Lagos, M. J.
+   Sato, F.
+   Autreto, P. A. S.
+   Galvao, D. S.
+   Rodrigues, V.
+   Ugarte, D.
+TI Temperature effects on the atomic arrangement and conductance of
+   atomic-size gold nanowires generated by mechanical stretching
+SO NANOTECHNOLOGY
+LA English
+DT Article
+ID TRANSMISSION ELECTRON-MICROSCOPY; QUANTIZED CONDUCTANCE; METALLIC
+   CONTACTS; POINT-CONTACT; WIRES
+AB We have studied the changes induced by thermal effects in the structural and transport response of Au nanowires generated by mechanical elongation. We have used time-resolved atomic resolution transmission electron microscopy imaging and quantum conductance measurement using a mechanically controllable break junction. Our results showed remarkable differences in the NW evolution for experiments realized at 150 and 300 K, which modifies drastically the conductance response during elongation. Molecular dynamics and electronic transport calculations were used to consistently correlate the observed structural and conductance behavior. These results emphasize that it is essential to take into account the precise atomic arrangement of nanocontacts generated by mechanical stretching to understand electrical transport properties. Also, our study shows that much care must be taken when comparing results obtained in different experimental conditions, mainly different temperatures.
+C1 [Lagos, M. J.; Sato, F.; Autreto, P. A. S.; Galvao, D. S.; Rodrigues, V.; Ugarte, D.] Univ Estadual Campinas, Inst Fis Gleb Wataghin, UNICAMP, BR-13083970 Campinas, SP, Brazil.
+   [Lagos, M. J.] Lab Nacl Luz Sincrotron, BR-13084971 Campinas, SP, Brazil.
+   [Sato, F.] Univ Fed Juiz de Fora, Dept Fis, BR-36036330 Juiz De Fora, MG, Brazil.
+RP Lagos, MJ (corresponding author), Univ Estadual Campinas, Inst Fis Gleb Wataghin, UNICAMP, BR-13083970 Campinas, SP, Brazil.
+EM dmugarte@ifi.unicamp.br
+RI Autreto, Pedro/ABA-9689-2020; Ugarte, Daniel/C-2326-2012; Sato,
+   Fernando/B-3375-2016; Rodrigues, Varlei/E-3631-2016; Rodrigues,
+   Varlei/AAG-2647-2020; Galvao, Douglas/J-6017-2013
+OI Autreto, Pedro/0000-0002-3766-3778; Sato, Fernando/0000-0003-1956-1011;
+   Rodrigues, Varlei/0000-0003-0073-3186; Rodrigues,
+   Varlei/0000-0003-0073-3186; Ugarte, Daniel Mario/0000-0003-3332-9139;
+   Lagos, Maureen Joel/0000-0002-1452-5196; Galvao,
+   Douglas/0000-0003-0145-8358
+FU CNPq; FAPESP
+FX We are very grateful to P C Silva for providing assistance in the
+   preparation of gold thin films and J Bettini for providing assistance
+   during HRTEM experiments. This work was funded by CNPq and FAPESP.
+CR Agrait N, 2003, PHYS REP, V377, P81, DOI 10.1016/S0370-1573(02)00633-6
+   BRANDBYGE M, 1995, PHYS REV B, V52, P8499, DOI 10.1103/PhysRevB.52.8499
+   BRATKOVSKY AM, 1995, PHYS REV B, V52, P5036, DOI 10.1103/PhysRevB.52.5036
+   CLERI F, 1993, PHYS REV B, V48, P22, DOI 10.1103/PhysRevB.48.22
+   COSTAKRAMER JL, 1995, SURF SCI, V342, pL1144, DOI 10.1016/0039-6028(95)00967-1
+   Coura PZ, 2004, NANO LETT, V4, P1187, DOI 10.1021/nl049725h
+   Emberly EG, 1998, PHYS REV B, V58, P10911, DOI 10.1103/PhysRevB.58.10911
+   Emberly EG, 1999, PHYS REV B, V60, P6028, DOI 10.1103/PhysRevB.60.6028
+   Gonzalez JC, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.126103
+   Hansen K, 1997, PHYS REV B, V56, P2208, DOI 10.1103/PhysRevB.56.2208
+   Kizuka T, 1998, PHYS REV LETT, V81, P4448, DOI 10.1103/PhysRevLett.81.4448
+   Kizuka T, 1997, PHYS REV B, V55, pR7398, DOI 10.1103/PhysRevB.55.R7398
+   Kondo Y, 2000, SCIENCE, V289, P606, DOI 10.1126/science.289.5479.606
+   Kondo Y, 1997, PHYS REV LETT, V79, P3455, DOI 10.1103/PhysRevLett.79.3455
+   Lagos M, 2007, J ELECTRON SPECTROSC, V156, P20, DOI 10.1016/j.elspec.2006.12.063
+   Lagos MJ, 2009, NAT NANOTECHNOL, V4, P149, DOI [10.1038/NNANO.2008.414, 10.1038/nnano.2008.414]
+   Marszalek PE, 2000, P NATL ACAD SCI USA, V97, P6282, DOI 10.1073/pnas.97.12.6282
+   MULLER CJ, 1992, PHYS REV LETT, V69, P140, DOI 10.1103/PhysRevLett.69.140
+   Ohnishi H, 1998, NATURE, V395, P780, DOI 10.1038/27399
+   OLESEN L, 1994, PHYS REV LETT, V72, P2251, DOI 10.1103/PhysRevLett.72.2251
+   Oshima Y, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.205503
+   Reed MA, 1997, SCIENCE, V278, P252, DOI 10.1126/science.278.5336.252
+   Rego LGC, 2003, PHYS REV B, V67, DOI 10.1103/PhysRevB.67.045412
+   Rodrigues V, 2000, PHYS REV LETT, V85, P4124, DOI 10.1103/PhysRevLett.85.4124
+   Rodrigues V, 2002, PHYS REV B, V65, DOI 10.1103/PhysRevB.65.153402
+   Rodrigues V, 2001, PHYS REV B, V63, DOI 10.1103/PhysRevB.63.073405
+   Rubio G, 1996, PHYS REV LETT, V76, P2302, DOI 10.1103/PhysRevLett.76.2302
+   Sato F, 2006, PHYS REV B, V74, DOI 10.1103/PhysRevB.74.193401
+   Smit RHM, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.266102
+   TOMANEK D, 1985, PHYS REV B, V32, P5051, DOI 10.1103/PhysRevB.32.5051
+   Yanson AI, 2000, PHYS REV LETT, V84, P5832, DOI 10.1103/PhysRevLett.84.5832
+   Yanson AI, 1998, NATURE, V395, P783, DOI 10.1038/27405
+NR 32
+TC 15
+Z9 16
+U1 0
+U2 15
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA DIRAC HOUSE, TEMPLE BACK, BRISTOL BS1 6BE, ENGLAND
+SN 0957-4484
+J9 NANOTECHNOLOGY
+JI Nanotechnology
+PD DEC 3
+PY 2010
+VL 21
+IS 48
+AR 485702
+DI 10.1088/0957-4484/21/48/485702
+PG 7
+WC Nanoscience & Nanotechnology; Materials Science, Multidisciplinary;
+   Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics; Materials Science; Physics
+GA 678DU
+UT WOS:000284053500020
+PM 21063051
+DA 2022-10-19
+ER
+
+PT J
+AU Goker, A
+   Goyer, F
+   Ernzerhof, M
+AF Goker, Ali
+   Goyer, Francois
+   Ernzerhof, Matthias
+TI Bond dissociation and correlation effects in molecular electronic
+   devices
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+DE bonds (chemical); energy gap; magnetoelectronics; molecular electronics;
+   spin polarised transport; triplet state
+ID ASYMPTOTIC-BEHAVIOR; HYDROGEN MOLECULE; WAVE-FUNCTIONS; CONDUCTANCE;
+   SPINTRONICS; JUNCTIONS; WIRES; MODEL
+AB We present a simple model for a fundamental process in molecular electronics: The change in conductance upon bond breaking. In our model, a diatomic molecule is attached to spin-polarized contacts. Employing a Hubbard Hamiltonian, electron interaction is explicitly considered in the molecule and neglected in the contacts, enabling us to study the impact of electron interaction on the molecular conductance. In the limit where the electron repulsion is strong compared to the binding energy (as is the case upon dissociation), electron transmission is strongly suppressed compared to the noninteracting case. On the other hand, the spin-polarized contacts introduce a coupling between the molecular singlet and triplet states, as a consequence of which the energy gap between the lowest resonances is reduced.
+C1 [Goker, Ali; Goyer, Francois; Ernzerhof, Matthias] Univ Montreal, Dept Chim, Montreal, PQ H3C 3J7, Canada.
+   [Goker, Ali] Fatih Univ, Dept Phys, TR-34500 Istanbul, Turkey.
+RP Goker, A (corresponding author), Univ Montreal, Dept Chim, CP 6128,Succursale A, Montreal, PQ H3C 3J7, Canada.
+EM matthias.ernzerhof@umontreal.ca
+OI Goyer, Francois/0000-0002-7626-1026
+FU NSERC
+FX We gratefully acknowledge financial support provided by NSERC.
+CR Alvarez-Fernandez B, 2002, EUR J PHYS, V23, P11, DOI 10.1088/0143-0807/23/1/302
+   Brandbyge M, 2002, PHYS REV B, V65, DOI 10.1103/PhysRevB.65.165401
+   Bratkovsky AM, 2008, REP PROG PHYS, V71, DOI 10.1088/0034-4885/71/2/026502
+   Chen F, 2007, ANNU REV PHYS CHEM, V58, P535, DOI 10.1146/annurev.physchem.58.032806.104523
+   Chiappe G, 2007, PHYS REV B, V75, DOI 10.1103/PhysRevB.75.195104
+   Csonka S, 2006, PHYS REV B, V73, DOI 10.1103/PhysRevB.73.075405
+   Csonka S, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.016802
+   Datta S., 1997, ELECT TRANSPORT MESO
+   Dreizler RM., 1990, DENSITY FUNCTIONAL T
+   Ernzerhof M, 2005, INT J QUANTUM CHEM, V101, P557, DOI 10.1002/qua.20311
+   Ernzerhof M, 1996, J CHEM PHYS, V105, P2798, DOI 10.1063/1.472142
+   Ernzerhof M, 2007, J CHEM PHYS, V127, DOI 10.1063/1.2804867
+   Goyer F, 2007, J CHEM PHYS, V126, DOI 10.1063/1.2715932
+   Heath JR, 2003, PHYS TODAY, V56, P43, DOI 10.1063/1.1583533
+   Joachim C, 2000, NATURE, V408, P541, DOI 10.1038/35046000
+   KATRIEL J, 1980, P NATL ACAD SCI USA, V77, P4403, DOI 10.1073/pnas.77.8.4403
+   Ke SH, 2004, PHYS REV B, V70, DOI 10.1103/PhysRevB.70.085410
+   Koentopp M, 2006, PHYS REV B, V73, DOI 10.1103/PhysRevB.73.121403
+   LANG ND, 1995, PHYS REV B, V52, P5335, DOI 10.1103/PhysRevB.52.5335
+   Liu R, 2007, J CHEM PHYS, V127, DOI 10.1063/1.2796151
+   MEIR Y, 1992, PHYS REV LETT, V68, P2512, DOI 10.1103/PhysRevLett.68.2512
+   MORELAND J, 1985, J APPL PHYS, V58, P3888, DOI 10.1063/1.335608
+   MUJICA V, 1994, J CHEM PHYS, V101, P6849, DOI 10.1063/1.468314
+   Nitzan A, 2003, SCIENCE, V300, P1384, DOI 10.1126/science.1081572
+   Nitzan A, 2001, ANNU REV PHYS CHEM, V52, P681, DOI 10.1146/annurev.physchem.52.1.681
+   Parr R. G., 1989, DENSITY FUNCTIONAL T, DOI DOI 10.1002/QUA.560470107
+   Pickup BT, 2008, CHEM PHYS LETT, V459, P198, DOI 10.1016/j.cplett.2008.05.062
+   Rocha AR, 2005, NAT MATER, V4, P335, DOI 10.1038/nmat1349
+   Seneor P, 2007, J PHYS-CONDENS MAT, V19, DOI 10.1088/0953-8984/19/16/165222
+   Smit RHM, 2002, NATURE, V419, P906, DOI 10.1038/nature01103
+   Solomon GC, 2006, J CHEM PHYS, V125, DOI 10.1063/1.2363976
+   Taylor J, 2001, PHYS REV B, V63, DOI 10.1103/PhysRevB.63.121104
+   Thygesen KS, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.166804
+   vanRuitenbeek JM, 1996, REV SCI INSTRUM, V67, P108, DOI 10.1063/1.1146558
+   Xue YQ, 2001, J CHEM PHYS, V115, P4292, DOI 10.1063/1.1391253
+   Zhuang M, 2005, J CHEM PHYS, V122, DOI 10.1063/1.1878632
+   Zutic I, 2004, REV MOD PHYS, V76, P323, DOI 10.1103/RevModPhys.76.323
+NR 37
+TC 12
+Z9 12
+U1 0
+U2 14
+PU AMER INST PHYSICS
+PI MELVILLE
+PA CIRCULATION & FULFILLMENT DIV, 2 HUNTINGTON QUADRANGLE, STE 1 N O 1,
+   MELVILLE, NY 11747-4501 USA
+SN 0021-9606
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PD NOV 21
+PY 2008
+VL 129
+IS 19
+AR 194901
+DI 10.1063/1.3013815
+PG 6
+WC Chemistry, Physical; Physics, Atomic, Molecular & Chemical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Physics
+GA 375VG
+UT WOS:000261141300045
+PM 19026083
+DA 2022-10-19
+ER
+
+EF

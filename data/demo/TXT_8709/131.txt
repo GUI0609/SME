@@ -1,0 +1,63 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Caro, J
+   Garelik, S
+   Figueras, A
+AF Caro, J
+   Garelik, S
+   Figueras, A
+TI Anisotropic materials prepared by OCVD: Organic molecular conductors
+SO CHEMICAL VAPOR DEPOSITION
+LA English
+DT Article
+ID CHARGE-TRANSFER COMPLEX; TTF-TCNQ; THIN-FILMS; CONDUCTIVITY
+AB Organic compounds may play useful roles in future electronic devices. The preparation of thin films of molecular organic conductors will be an important step towards the development of organic-based systems This article reports on the preparation and characterization of TTF-TCNQ layers grown by organic CVD (OCVD), which is based on classical thermal Anisotropic Materials Prepared CVD. Highly oriented layers are deposited on glass substrates and the electrical properties are similar to those previously reported for films prepared under rather more complex high vacuum conditions.
+RP Caro, J (corresponding author), INST CIENCIA MAT BARCELONA,CAMPUS UAB,ES-08193 BELLATERRA,SPAIN.
+RI Caro, Juergen/G-9303-2016
+OI CARO, JAUME/0000-0001-9630-4778
+CR ARAKATO N, 1996, SYNTHETIC MET, V70, P1249
+   CHAUDHARI P, 1974, APPL PHYS LETT, V24, P439, DOI 10.1063/1.1655252
+   CHIANG CK, 1977, PHYS REV LETT, V39, P1098, DOI 10.1103/PhysRevLett.39.1098
+   COLEMAN LB, 1973, SOLID STATE COMMUN, V12, P1125, DOI 10.1016/0038-1098(73)90127-0
+   FERRARIS J, 1973, J AM CHEM SOC, V95, P948, DOI 10.1021/ja00784a066
+   FIGUERAS A, 1995, J PHYS IV, V5, P347, DOI 10.1051/jphyscol:1995541
+   FIGUERAS A, IN PRESS J CRYST GRO
+   Garelik S, 1996, SYNTHETIC MET, V76, P309, DOI 10.1016/0379-6779(95)03478-3
+   KRAUS HJ, 1913, J AM CHEM SOC, V34, P1732
+   McCoy HN, 1911, J AM CHEM SOC, V33, P273, DOI 10.1021/ja02216a003
+   PEIERLS RE, 1952, QUANTUM THEORY SOLID
+   SIMONYI EE, 1976, MATER RES BULL, V11, P347, DOI 10.1016/0025-5408(76)90201-4
+   SUMIMOTO T, 1995, SYNTHETIC MET, V70, P1251, DOI 10.1016/0379-6779(94)02842-M
+   TANNER DB, 1974, PHYS REV LETT, V32, P1301, DOI 10.1103/PhysRevLett.32.1301
+   VOLLMANN W, 1984, THIN SOLID FILMS, V111, P7, DOI 10.1016/0040-6090(84)90344-4
+   YASE K, 1994, MOL CRYST LIQ CRYS A, V247, P185, DOI 10.1080/10587259408039204
+NR 16
+TC 23
+Z9 24
+U1 0
+U2 5
+PU VCH PUBLISHERS INC
+PI DEERFIELD BEACH
+PA 303 NW 12TH AVE, DEERFIELD BEACH, FL 33442-1788
+SN 0948-1907
+J9 CHEM VAPOR DEPOS
+JI Chem. Vapor Depos.
+PD NOV
+PY 1996
+VL 2
+IS 6
+BP 251
+EP &
+DI 10.1002/cvde.19960020609
+PG 4
+WC Electrochemistry; Materials Science, Coatings & Films; Physics,
+   Condensed Matter
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Electrochemistry; Materials Science; Physics
+GA VU123
+UT WOS:A1996VU12300007
+DA 2022-10-19
+ER
+
+EF

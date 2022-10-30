@@ -1,0 +1,115 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Alen, S
+   Sajan, D
+   Vijayan, N
+   Chaitanya, K
+   Nemec, I
+   Jothy, VB
+AF Alen, S.
+   Sajan, D.
+   Vijayan, N.
+   Chaitanya, K.
+   Nemec, Ivan
+   Jothy, V. Bena
+TI Growth, electronic absorption and vibrational spectral analysis of
+   semiorganic nonlinear optical material potassium acid phthalate: A
+   scaled quantum mechanical force field study
+SO JOURNAL OF MOLECULAR STRUCTURE
+LA English
+DT Article
+DE ICT; NIR-FT Raman; FT-IR; NLO
+ID CRYSTAL-STRUCTURE; AB-INITIO; RAMAN-SPECTRA; SODIUM; SERIES; SALTS
+AB The spectroscopic properties of the crystallized semiorganic nonlinear optical molecule Potassium Acid Phthalate (RAP) have been recorded and analyzed by FT-IR, Raman and UV techniques. The spectra were interpreted with the aid of normal coordinate analysis following structure optimizations and force field calculations based on density functional theory (DFT) at the B3LYP/6-311+G(d,p) level of theory. Normal coordinate calculations were performed using the DFT force field corrected by a recommended set of scaling factors yielding fairly good agreement between the observed and calculated wavenumbers. RAP is thermally stable up to 275.0 degrees C and optically transparent in the visible region. (C) 2013 Elsevier B.V. All rights reserved.
+C1 [Alen, S.; Sajan, D.; Jothy, V. Bena] Bishop Moore Coll, Dept Phys, Alappuzha 690110, Kerala, India.
+   [Alen, S.] Womens Christian Coll, Dept Phys, Nagercoil 629001, India.
+   [Vijayan, N.] CSIR, Natl Phys Lab, New Delhi 110012, India.
+   [Chaitanya, K.] Nanjing Univ Sci & Technol, Dept Chem, Nanjing, Jiangsu, Peoples R China.
+   [Nemec, Ivan] Charles Univ Prague, Fac Sci, Dept Inorgan Chem, Prague 12840 2, Czech Republic.
+RP Sajan, D (corresponding author), Bishop Moore Coll, Dept Phys, Alappuzha 690110, Kerala, India.
+EM dsajand@gmail.com
+RI Němec, Ivan/ABF-6858-2021; Němec, Ivan/S-1734-2016; Němec,
+   Ivan/Y-3573-2019; D, Sajan/AAE-2101-2022; Narayanasamy,
+   Vijayan/G-6639-2011
+OI Němec, Ivan/0000-0001-9630-3169; Němec, Ivan/0000-0001-9630-3169; Němec,
+   Ivan/0000-0001-9630-3169; D, Sajan/0000-0002-0344-0744; 
+FU Council of Scientific and Industrial Research (CSIR), New Delhi, India
+   [03(1247)/12/EMR-II]
+FX D.S. (D. Sajan) thanks the Council of Scientific and Industrial Research
+   (CSIR), New Delhi-110012, India for the financial support (No.
+   03(1247)/12/EMR-II. The author is highly grateful to Prof. T. Sundius
+   for the Molvib program.
+CR [Anonymous], 2001, INFRARED RAMAN CHARA
+   Balamurugan N, 2007, MATER LETT, V61, P1896, DOI 10.1016/j.matlet.2006.07.184
+   Bellamy L.J., 1975, INFRARED SPECTRA COM, DOI DOI 10.1007/978-94-011-6520-4
+   BELYAEV LM, 1970, SOV PHYS CRYSTALLOGR, V14, P544
+   ECOLIVET C, 1992, J PHYS CHEM SOLIDS, V53, P511, DOI 10.1016/0022-3697(92)90095-U
+   FOGARASI G, 1992, J AM CHEM SOC, V114, P8191, DOI 10.1021/ja00047a032
+   Fogarasi G., 1985, VIBRATIONAL SPECTRA, V14
+   GEORGE J, 1981, J PHYS D APPL PHYS, V14, P1277, DOI 10.1088/0022-3727/14/7/015
+   Hu M., 2004, ACTA CRYSTALLOGR E, VE60, P1713
+   James C, 2006, J RAMAN SPECTROSC, V37, P1381, DOI 10.1002/jrs.1554
+   Kajzar F, 2003, ADV POLYM SCI, V161, P1
+   Kejalakshmy N, 2004, OPT MATER, V27, P389, DOI 10.1016/j.optmat.2004.09.005
+   KERESZTURY G, 1993, SPECTROCHIM ACTA A, V49, P2007, DOI 10.1016/S0584-8539(09)91012-1
+   KLEINMAN DA, 1962, PHYS REV, V126, P1977, DOI 10.1103/PhysRev.126.1977
+   Kumar RM, 2002, J CRYST GROWTH, V245, P297, DOI 10.1016/S0022-0248(02)01728-1
+   Lin-Vien D., 1991, HDB INFRARED RAMAN C
+   Liu Jun-na, 2005, J Zhejiang Univ Sci B, V6, P584, DOI 10.1631/jzus.2005.B0584
+   LOIACONO GM, 1978, J CRYST GROWTH, V43, P401, DOI 10.1016/0022-0248(78)90337-8
+   Marder SR, 1997, NATURE, V388, P845, DOI 10.1038/42190
+   MIERTUS S, 1982, CHEM PHYS, V65, P239, DOI 10.1016/0301-0104(82)85072-6
+   Miniewicz A., 1993, Molecular Crystals and Liquid Crystals, V229, P13, DOI 10.1080/10587259308032169
+   Nalwa H.S., 1997, NONLINEAR OPTICS ORG
+   OKAYA Y, 1965, ACTA CRYSTALLOGR, V19, P879, DOI 10.1107/S0365110X65004590
+   OKAYA Y, 1957, ACTA CRYSTALLOGR, V10, P324, DOI 10.1107/S0365110X57000936
+   OREL B, 1975, SPECTROCHIM ACTA A, VA 31, P169, DOI 10.1016/0584-8539(75)80228-5
+   Orel B., 1975, SPECTROCHIM ACTA A, V81, P189
+   Prasad PN, 1991, INTRO NONLINEAR OPTI
+   PULAY P, 1983, J AM CHEM SOC, V105, P7037, DOI 10.1021/ja00362a005
+   RAUHUT G, 1995, J PHYS CHEM-US, V99, P3093, DOI 10.1021/j100010a019
+   Ravikumar C, 2008, CHEM PHYS LETT, V460, P552, DOI 10.1016/j.cplett.2008.06.047
+   Ravikumar C, 2010, CHEM PHYS, V369, P1, DOI 10.1016/j.chemphys.2010.01.022
+   REED AE, 1988, CHEM REV, V88, P899, DOI 10.1021/cr00088a005
+   Roeges N. P. G., 1999, GUIDE COMPLETE INTER
+   SAWYER GA, 1963, PHYS REV, V131, P1891, DOI 10.1103/PhysRev.131.1891
+   Schlegel HB, 2013, GAUSSIAN 09 REV D 01
+   Shi YQ, 2000, SCIENCE, V288, P119, DOI 10.1126/science.288.5463.119
+   Silverstein RM, 1991, ORG MASS SPECTROM, V5
+   SMITH RA, 1975, ACTA CRYSTALLOGR B, V31, P2345, DOI 10.1107/S0567740875007546
+   SMITH RA, 1975, ACTA CRYSTALLOGR B, V31, P2347, DOI 10.1107/S0567740875007558
+   Socrates G, 1980, INFRARED CHARACTERIS
+   Sundius T, 2002, VIB SPECTROSC, V29, P89, DOI 10.1016/S0924-2031(01)00189-8
+   SUNDIUS T, 1990, J MOL STRUCT, V218, P321, DOI 10.1016/0022-2860(90)80287-T
+   Tietang G., 1994, J CRYST GROWTH, V142, P327
+   TREBOUX G, 1995, J PHYS CHEM-US, V99, P6417, DOI 10.1021/j100017a021
+   Varsanyi G., 1974, ASSIGNMENTS VIBRATIO
+NR 45
+TC 6
+Z9 6
+U1 1
+U2 18
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0022-2860
+EI 1872-8014
+J9 J MOL STRUCT
+JI J. Mol. Struct.
+PD MAY 22
+PY 2013
+VL 1040
+BP 155
+EP 163
+DI 10.1016/j.molstruc.2013.02.033
+PG 9
+WC Chemistry, Physical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry
+GA 144SP
+UT WOS:000318961000021
+DA 2022-10-21
+ER
+
+EF

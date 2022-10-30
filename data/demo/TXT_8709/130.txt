@@ -1,0 +1,108 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Subhramannia, M
+   Ramaiyan, K
+   Aslam, M
+   Pillai, VK
+AF Subhramannia, Mahima
+   Ramaiyan, Kannan
+   Aslam, Mohammed
+   Pillai, Vijayamohanan K.
+TI Y-junction nanostructures of palladium: Enhanced electrocatalytic
+   properties for fuel cell reactions
+SO JOURNAL OF ELECTROANALYTICAL CHEMISTRY
+LA English
+DT Article
+DE Porous alumina membrane; Hierarchical structures; Y-junctions;
+   Nanostructure; Fuel cells; Electrocatalysts
+ID HEXAGONAL PORE ARRAYS; FORMIC-ACID; CARBON NANOTUBES; NANOWIRE ARRAYS;
+   ANODIC ALUMINA; OXIDATION; NANOPARTICLES; TEMPLATE; BEHAVIOR;
+   ELECTRODEPOSITION
+AB Here we demonstrate the utility of hierarchically designed alumina templates for the formation of palladium Y-junction nanostructures through a chemical vapor deposition route. These structures exhibit enhanced electrocatalytic activity for the oxidation of formic acid (up to 1020%) compared to that of platinum Y-junction nanostructures, which could be of immense relevance to portable fuel cell technology, since designing a better electrocatalyst for fuel cell reactions continues to be an important challenge. Apart from the obvious applications in fuel cell electrocatalysis, these Y-junction nanostructures could also act as promising candidates for room temperature hydrogen separation and more importantly as interconnects in molecular scale electronic devices. The present method of fabrication of Y-junction nanostructures using hierarchical alumina templates could be extended to other metallic/semiconducting systems facilitating more general opportunities for such hierarchical designs in nanoelectronics. (C) 2008 Elsevier B.V. All rights reserved.
+C1 [Subhramannia, Mahima; Ramaiyan, Kannan; Pillai, Vijayamohanan K.] Natl Chem Lab, Phys & Mat Chem Div, Pune 411008, Maharashtra, India.
+   [Aslam, Mohammed] Indian Inst Technol, Bombay 400076, Maharashtra, India.
+RP Pillai, VK (corresponding author), Natl Chem Lab, Phys & Mat Chem Div, Pune 411008, Maharashtra, India.
+EM vk.pillai@ncl.res.in
+RI Ramaiyan, Kannan/AAF-9624-2019; Aslam, Mohammed/D-3958-2011; Ramaiyan,
+   Kannan/B-7542-2017; Pillai, Vijayamohanan/AAE-8407-2020
+OI Ramaiyan, Kannan/0000-0003-0204-7550; Ramaiyan,
+   Kannan/0000-0003-0204-7550; Pillai, Vijayamohanan/0000-0003-4839-4531
+FU CSIR; UGC
+FX We are grateful to CSIR for funding through a NMITLI programme to carry
+   out this work. We thank Mr. A. B. Gaikwad and Ms. Arti Harle for help in
+   SEM imaging. M. S. acknowledges CSIR and R.K. acknowledge UGC for
+   financial support. A part of SEM studies were performed in the EPIC
+   facility of NUANCE Center at Northwestern University.
+CR Andriotis AN, 2006, APPL PHYS LETT, V89, DOI 10.1063/1.2354014
+   AuBuchon JF, 2006, NANO LETT, V6, P324, DOI 10.1021/nl052037t
+   BAE IT, 1990, ANAL CHEM, V62, P45, DOI 10.1021/ac00200a009
+   Bandaru PR, 2005, NAT MATER, V4, P663, DOI 10.1038/nmat1450
+   Bauer JC, 2008, J MATER CHEM, V18, P275, DOI 10.1039/b712035d
+   CAPON A, 1973, J ELECTROANAL CHEM, V44, P239, DOI 10.1016/S0022-0728(73)80250-5
+   Cheng WL, 2007, J MATER CHEM, V17, P3493, DOI 10.1039/b709618f
+   CHERNOZATONSKII LA, 1992, PHYS LETT A, V170, P37, DOI 10.1016/0375-9601(92)90388-3
+   Choi J, 2003, CHEM MATER, V15, P776, DOI 10.1021/cm0208758
+   Chu YW, 2006, J PHYS CHEM B, V110, P3135, DOI 10.1021/jp056506r
+   Deepak FL, 2005, CHEM PHYS LETT, V411, P468, DOI 10.1016/j.cplett.2005.06.076
+   Gao T, 2002, APPL PHYS A-MATER, V74, P403, DOI 10.1007/s003390101136
+   Gothard N, 2004, NANO LETT, V4, P213, DOI 10.1021/nl0349294
+   Grimm D, 2003, PHYS REV B, V68, DOI 10.1103/PhysRevB.68.193407
+   Hoshi N, 2007, ELECTROCHEM COMMUN, V9, P279, DOI 10.1016/j.elecom.2006.09.023
+   Hulteen JC, 1997, J MATER CHEM, V7, P1075, DOI 10.1039/a700027h
+   Jessensky O, 1998, APPL PHYS LETT, V72, P1173, DOI 10.1063/1.121004
+   Kelley SC, 2000, ELECTROCHEM SOLID ST, V3, P407
+   Kim K, 2006, MATER CHEM PHYS, V96, P278, DOI 10.1016/j.matchemphys.2005.07.013
+   Lengke MF, 2007, LANGMUIR, V23, P8982, DOI 10.1021/la7012446
+   Li AP, 1998, J APPL PHYS, V84, P6023, DOI 10.1063/1.368911
+   Li J, 1999, NATURE, V402, P253, DOI 10.1038/46214
+   Lu GQ, 1999, J PHYS CHEM B, V103, P9700, DOI 10.1021/jp992297x
+   Masuda H, 1997, J ELECTROCHEM SOC, V144, pL127, DOI 10.1149/1.1837634
+   Meng GW, 2005, P NATL ACAD SCI USA, V102, P7074, DOI 10.1073/pnas.0502098102
+   Meunier V, 2002, APPL PHYS LETT, V81, P5234, DOI 10.1063/1.1533842
+   Ou FS, 2006, APPL PHYS LETT, V89, DOI 10.1063/1.2405390
+   Papadopoulos C, 2000, PHYS REV LETT, V85, P3476, DOI 10.1103/PhysRevLett.85.3476
+   Pattabiraman R, 1997, APPL CATAL A-GEN, V153, P9, DOI 10.1016/S0926-860X(96)00327-4
+   PAVESE AG, 1987, ELECTROCHIM ACTA, V32, P1213, DOI 10.1016/0013-4686(87)80037-3
+   Satishkumar BC, 2000, APPL PHYS LETT, V77, P2530, DOI 10.1063/1.1319185
+   Sau TK, 2004, J AM CHEM SOC, V126, P8648, DOI 10.1021/ja047846d
+   Schmidt TJ, 1998, J ELECTROCHEM SOC, V145, P2354, DOI 10.1149/1.1838642
+   Selvaraj V, 2007, APPL CATAL B-ENVIRON, V75, P129, DOI 10.1016/j.apcatb.2007.03.012
+   Sharon M, 2005, J NANOSCI NANOTECHNO, V5, P1718, DOI 10.1166/jnn.2005.191
+   Subhramannia M, 2008, CHEM MATER, V20, P601
+   Terrones M, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.075505
+   Tian N, 2007, SCIENCE, V316, P732, DOI 10.1126/science.1140484
+   Tian YT, 2004, APPL PHYS LETT, V85, P967, DOI 10.1063/1.1779956
+   Wei DC, 2007, ADV MATER, V19, P386, DOI 10.1002/adma.200600885
+   Xiao ZL, 2004, J AM CHEM SOC, V126, P2316, DOI 10.1021/ja0315154
+   Xu CW, 2007, ADV MATER, V19, P4256, DOI 10.1002/adma.200602911
+   Zhang DB, 2004, CHEM MATER, V16, P872, DOI 10.1021/cm0350737
+NR 43
+TC 5
+Z9 7
+U1 0
+U2 10
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 1572-6657
+EI 1873-2569
+J9 J ELECTROANAL CHEM
+JI J. Electroanal. Chem.
+PD MAR 1
+PY 2009
+VL 627
+IS 1-2
+BP 58
+EP 62
+DI 10.1016/j.jelechem.2008.12.021
+PG 5
+WC Chemistry, Analytical; Electrochemistry
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Electrochemistry
+GA 424BZ
+UT WOS:000264541800007
+DA 2022-10-19
+ER
+
+EF

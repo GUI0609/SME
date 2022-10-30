@@ -1,0 +1,102 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Megow, J
+   Kulesza, A
+   Qu, ZW
+   Ronneberg, T
+   Bonacic-Koutecky, V
+   May, V
+AF Megow, Joerg
+   Kulesza, Alexander
+   Qu, Zheng-wang
+   Ronneberg, Thomas
+   Bonacic-Koutecky, Vlasta
+   May, Volkhard
+TI A harmonic approximation of intramolecular vibrations in a mixed
+   quantum-classical methodology: Linear absorbance of a dissolved
+   Pheophorbid-a molecule as an example
+SO CHEMICAL PHYSICS
+LA English
+DT Article
+DE Pheophorbid-a; Mixed quantum-classical approach; Solvent solute
+   coupling; Harmonic approximation; DFT calculations; MD simulations
+ID ELECTRONIC EXCITATION-ENERGY; DAB DENDRIMER P-4; FORCE-FIELD; DENSITY;
+   SIMULATIONS; DYNAMICS
+AB Linear absorption spectra of a single Pheophorbid-a molecule (Pheo) dissolved in ethanol are calculated in a mixed quantum-classical approach. In this computational scheme the absorbance is mainly determined by the time-dependent fluctuations of the energy gap between the Pheo ground and excited electronic state. The actual magnitude of the energy gap is caused by the electrostatic solvent solute coupling as well as by contributions due to intra Pheo vibrations. For the latter a new approach is proposed which is based on precalculated potential energy surfaces (PES) described in a harmonic approximation. To get the respective nuclear equilibrium configurations and Hessian matrices of the two involved electronic states we carried out the necessary electronic structure calculations in a DFT-framework. Since the Pheo changes its spatial orientation in the course of a MD run, the nuclear equilibrium configurations change their spatial position, too. Introducing a particular averaging procedure, these configurations are determined from the actual MD trajectories. The usability of the approach is underlined by a perfect reproduction of experimental data. This also demonstrates that our proposed method is suitable for the description of more complex systems in future investigations. (C) 2010 Elsevier B.V. All rights reserved.
+C1 [Megow, Joerg; Qu, Zheng-wang; Ronneberg, Thomas; May, Volkhard] Humboldt Univ, Inst Phys, D-12489 Berlin, Germany.
+   [Kulesza, Alexander; Bonacic-Koutecky, Vlasta] Humboldt Univ, Inst Chem, D-12489 Berlin, Germany.
+RP May, V (corresponding author), Humboldt Univ, Inst Phys, Newtonstr 15, D-12489 Berlin, Germany.
+EM megow@physik.hu-berlin.de
+RI Kulesza, Alexander/A-3919-2010; Qu, Zheng-Wang/H-5873-2013; ,
+   Vlasta/AAK-2162-2021
+OI Kulesza, Alexander/0000-0002-8812-8548; , Vlasta/0000-0001-6142-5932
+FU Deutsche Forschungsgemeinschaft [MA 1356/8-2, 1356/10-2]
+FX This work has been supported by the Deutsche Forschungsgemeinschaft
+   through project MA 1356/8-2 and 1356/10-2 (J.M. and V. M.). Additional
+   support by the Collaborative Research Center (Sfb 450) is also
+   gratefully acknowledged (A. K., Z.-W.Q. and V.B.-K.).
+CR BAYLY CI, 1993, J PHYS CHEM-US, V97, P10269, DOI 10.1021/j100142a004
+   BECKE AD, 1993, J CHEM PHYS, V98, P5648, DOI 10.1063/1.464913
+   BECKE AD, 1988, PHYS REV A, V38, P3098, DOI 10.1103/PhysRevA.38.3098
+   BRENEMAN CM, 1990, J COMPUT CHEM, V11, P361, DOI 10.1002/jcc.540110311
+   Case D. A., 2004, AMBER 8, V8
+   CORNELL WD, 1995, J AM CHEM SOC, V117, P5179, DOI 10.1021/ja00124a002
+   Cossi M, 2001, J CHEM PHYS, V115, P4708, DOI 10.1063/1.1394921
+   DARDEN T, 1993, J CHEM PHYS, V98, P10089, DOI 10.1063/1.464397
+   Fox T, 1998, J PHYS CHEM B, V102, P8070, DOI 10.1021/jp9717655
+   Fujitsuka M, 2004, J PHYS CHEM B, V108, P11935, DOI 10.1021/jp047753i
+   Hackbarth S, 2005, OPT COMMUN, V248, P295, DOI 10.1016/j.optcom.2004.11.088
+   Helmreich M, 2005, J AM CHEM SOC, V127, P8376, DOI 10.1021/ja0503581
+   Hindin E, 2004, J PHYS CHEM B, V108, P12821, DOI 10.1021/jp047803j
+   KRISHNAN R, 1980, J CHEM PHYS, V72, P650, DOI 10.1063/1.438955
+   Kwon JS, 2009, J PHYS CHEM A, V113, P2715, DOI 10.1021/jp809573a
+   Larsen J, 2007, J PHYS CHEM A, V111, P10589, DOI 10.1021/jp070545g
+   LEE CT, 1988, PHYS REV B, V37, P785, DOI 10.1103/PhysRevB.37.785
+   Ma YZ, 2008, J PHYS CHEM B, V112, P6887, DOI 10.1021/jp8006393
+   MARTYNA GJ, 1994, J CHEM PHYS, V101, P4177, DOI 10.1063/1.467468
+   Masuo S, 2004, J PHYS CHEM B, V108, P16686, DOI 10.1021/jp047804b
+   Mayaan E, 2007, J COMPUT CHEM, V28, P495, DOI 10.1002/jcc.20474
+   Mukamel S, 2000, PRINCIPLES NONLINEAR
+   Ogliaro F., 2009, GAUSSIAN 09 REVISION
+   Paterlini MG, 1998, CHEM PHYS, V236, P243, DOI 10.1016/S0301-0104(98)00214-6
+   Phillips JC, 2005, J COMPUT CHEM, V26, P1781, DOI 10.1002/jcc.20289
+   Scalmani G, 2006, J CHEM PHYS, V124, DOI 10.1063/1.2173258
+   TIRADORIVES J, 2008, J CHEM THEORY COMPUT
+   Tomasi J, 2005, CHEM REV, V105, P2999, DOI 10.1021/cr9904009
+   Wang JM, 2004, J COMPUT CHEM, V25, P1157, DOI 10.1002/jcc.20035
+   Weibel JD, 2002, J CHEM PHYS, V117, P4245, DOI 10.1063/1.1496472
+   Zhu H, 2008, CHEM PHYS, V351, P117, DOI 10.1016/j.chemphys.2008.04.009
+   Zhu H, 2007, CHEM PHYS LETT, V444, P118, DOI 10.1016/j.cplett.2007.06.126
+   Zhu H, 2009, SPRINGER SER CHEM PH, V93, P35, DOI 10.1007/978-3-642-02306-4_2
+   Zhu H, 2009, CHEM PHYS, V362, P19, DOI 10.1016/j.chemphys.2009.05.022
+   Zhu H, 2008, J CHEM PHYS, V128, DOI 10.1063/1.2890721
+NR 35
+TC 16
+Z9 16
+U1 0
+U2 10
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0301-0104
+EI 1873-4421
+J9 CHEM PHYS
+JI Chem. Phys.
+PD NOV 25
+PY 2010
+VL 377
+IS 1-3
+BP 10
+EP 14
+DI 10.1016/j.chemphys.2010.08.008
+PG 5
+WC Chemistry, Physical; Physics, Atomic, Molecular & Chemical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Physics
+GA 683GD
+UT WOS:000284459400003
+DA 2022-10-21
+ER
+
+EF

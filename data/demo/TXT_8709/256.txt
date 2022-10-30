@@ -1,0 +1,71 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Li, ZG
+   Wang, Y
+   You, MH
+   Liu, GJ
+AF Li, Zhanguo
+   Wang, Yong
+   You, Minghui
+   Liu, Guojun
+TI High characteristic temperature 1.5 mu m wavelength laser diode via
+   Sb-based quantum dots in quantum wells
+SO JOURNAL OF MODERN OPTICS
+LA English
+DT Article
+DE Quantum dots (QDs); laser diodes (LDs); strain-engineered; antimony (Sb)
+AB The advent of laser diodes in the 1.55 mu m wavelength region is becoming a hot topic in the field of telecommunications. The growth of strain-engineered Sb-based multi-stacks quantum dots (QDs) on GaAs by molecular beam epitaxy (MBE) is advantageous to restrain its drawback of self-absorption and thus beneficial for preparing efficient laser diodes (LDs). Moreover, owing to a strong electronic coupling between the QDs layers and the quantum wells (QWs), strain-engineered QDs introducing antimony (Sb) with emission wavelength up to 1.5 mu m were achieved at room temperature. The p-type doping can substantially increase the QD laser's ground state gain at room temperature. Based on this simple process, high efficient LD was obtained. The LD was fabricated with a cavity length of 1000 mu m and a stripe width of 100 mu m. The output performance was achieved with threshold current densities of the device as low as 135 A/cm(2), and with high Characteristic Temperatures of 118 K or higher in the temperature range between 20 degrees C and 80 degrees C. The continuous wave operating up to 32 mW were achieved at room temperature (RT).
+C1 [Li, Zhanguo; Wang, Yong; Liu, Guojun] Changchun Univ Sci & Technol, Sch Optoelect Engn, Changchun, Jilin, Peoples R China.
+   [You, Minghui] Jilin Agr Univ, Informat Technol Coll, Changchun, Jilin, Peoples R China.
+RP Li, ZG (corresponding author), Changchun Univ Sci & Technol, Sch Optoelect Engn, Changchun, Jilin, Peoples R China.; You, MH (corresponding author), Jilin Agr Univ, Informat Technol Coll, Changchun, Jilin, Peoples R China.
+EM lzhg000@ciac.ac.cn; mhyou000@126.com
+FU National Natural Science Foundation (NSFC) of China [61774025, 61430037,
+   11474036]; Department of Jilin Provincial Science and Technology
+   [20140520139JH, 20170520157JH, 20170414016GH, 2015174, 201524]; Chinese
+   Postdoctoral Support [2016M60139]
+FX We acknowledge financial support from the National Natural Science
+   Foundation (NSFC) of China [grant numbers 61774025, 61430037, 11474036].
+   The financial support of the Department of Jilin Provincial Science and
+   Technology [grant numbers 20140520139JH, 20170520157JH, 20170414016GH,
+   2015174, 201524], and Chinese Postdoctoral Support [grant number
+   2016M60139] is also acknowledged.
+CR Fiore A, 2000, IEEE PHOTONIC TECH L, V12, P1601, DOI 10.1109/68.896320
+   He J, 2007, NANO LETT, V7, P802, DOI 10.1021/nl070132r
+   Liu HY, 2006, APPL PHYS LETT, V89, DOI 10.1063/1.2336998
+   Shchekin OB, 2002, IEEE PHOTONIC TECH L, V14, P1231, DOI 10.1109/LPT.2002.801597
+   Shchekin OB, 2002, APPL PHYS LETT, V80, P3277, DOI 10.1063/1.1476708
+   Sugawara M, 2000, IEEE J SEL TOP QUANT, V6, P462, DOI 10.1109/2944.865101
+   Sun HD, 2005, APPL PHYS LETT, V87, DOI [10.1063/1.2034119, 10.1063/1.2123383]
+   Vandervelde TE, 2008, IEEE J SEL TOP QUANT, V14, P1150, DOI 10.1109/JSTQE.2008.918246
+   Yamamoto N, 2005, APPL PHYS LETT, V86, DOI 10.1063/1.1931046
+   Zhang ZY, 2012, SCI REP-UK, V2, DOI 10.1038/srep00477
+NR 10
+TC 2
+Z9 2
+U1 3
+U2 27
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 0950-0340
+EI 1362-3044
+J9 J MOD OPTIC
+JI J. Mod. Opt.
+PD MAR 30
+PY 2019
+VL 66
+IS 6
+BP 643
+EP 646
+DI 10.1080/09500340.2018.1559952
+PG 4
+WC Optics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Optics
+GA HM5VA
+UT WOS:000459542100007
+DA 2022-10-21
+ER
+
+EF

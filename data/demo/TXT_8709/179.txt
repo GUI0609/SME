@@ -1,0 +1,261 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Kersevan, R
+   Pons, JL
+AF Kersevan, R.
+   Pons, J. -L.
+TI Introduction to MOLFLOW plus : New graphical processing unit-based Monte
+   Carlo code for simulating molecular flows and for calculating angular
+   coefficients in the compute unified device architecture environment
+SO JOURNAL OF VACUUM SCIENCE & TECHNOLOGY A
+LA English
+DT Article; Proceedings Paper
+CT 55th International Symposium of the American-Vacuum-Society
+CY OCT 19-24, 2008
+CL Boston, MA
+SP Amer Vacuum Soc
+ID CONDUCTANCE
+AB The authors present here the description of the main features of MOLFLOW+, a new software package that allows the calculation of several physical quantities of interest to vacuum engineers and scientists, such as pressure profiles, effective pumping speeds, adsorption distributions, angle of incidence or effusion profiles, and more. MOLFLOW+ is a follow up to the code MOLFLOW, which has been developed by one of us since 1991, and used for the analysis and design of many vacuum systems and components. MOLFLOW+ makes use of modern trends such as OpenGL graphic interface, multicore processors, graphical processing units (GPUs), and runs under different operating systems. In addition to implementing the test-particle Monte Carlo (TPMC) algorithm, as done previously in MOLFLOW, MOLFLOW+ also implements an alternate algorithm, the angular coefficient (AC) method. This article goes into some details of the TPMC and AC methods as implemented in MOLFLOW+, shows results of benchmark runs and comparisons with published numerical and analytical data, and discusses the advantages and disadvantages of the two methods. CUDA is the compute unified device architecture, a C++-like development environment for a class of GPUs. (C) 2009 American Vacuum Society. [DOI: 10.1116/1.3153280]
+C1 [Kersevan, R.; Pons, J. -L.] European Synchrotron Radiat Facil, F-38043 Grenoble, France.
+RP Kersevan, R (corresponding author), European Synchrotron Radiat Facil, BP 220, F-38043 Grenoble, France.
+EM kersevan@esrf.fr
+CR BERMAN AS, 1969, J APPL PHYS, V40, P4991, DOI 10.1063/1.1657335
+   COLE RJ, 1977, J I MATH APPL, V20, P107
+   Gomez-Goni J, 2003, J VAC SCI TECHNOL A, V21, P1452, DOI 10.1116/1.1568746
+   GRUBER A, COMMUNICATION
+   KERSEVAN R, 1991, STM9117
+   KERSEVAN R, 2008, P EPAC 08 C GE UNPUB
+   Mohan A, 2007, J VAC SCI TECHNOL A, V25, P758, DOI 10.1116/1.2746875
+   PHARR M, 2006, GPU GEMS PROGRAMMING
+   Saksaganskii G. L., 1988, MOL FLOW COMPLEX VAC
+   SMITH CG, 1966, J VAC SCI TECHNOL, V3, P92, DOI 10.1116/1.1492459
+NR 10
+TC 64
+Z9 69
+U1 1
+U2 15
+PU A V S AMER INST PHYSICS
+PI MELVILLE
+PA STE 1 NO 1, 2 HUNTINGTON QUADRANGLE, MELVILLE, NY 11747-4502 USA
+SN 0734-2101
+J9 J VAC SCI TECHNOL A
+JI J. Vac. Sci. Technol. A
+PD JUL
+PY 2009
+VL 27
+IS 4
+BP 1017
+EP 1023
+DI 10.1116/1.3153280
+PG 7
+WC Materials Science, Coatings & Films; Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Materials Science; Physics
+GA 465PT
+UT WOS:000267600000072
+DA 2022-10-19
+ER
+
+PT J
+AU Ashery, A
+   Farag, AAM
+   Moussa, MA
+   Turky, GM
+AF Ashery, A.
+   Farag, A. A. M.
+   Moussa, M. A.
+   Turky, G. M.
+TI Enhancement of electrical and dielectrically performance of
+   graphene-based promise electronic devices
+SO SYNTHETIC METALS
+LA English
+DT Article
+DE Graphene oxide; Dielectric properties; Negative capacitance; Temperature
+   sensor
+ID SCHOTTKY-BARRIER DIODES; NEGATIVE CAPACITANCE; THIN-FILMS; SOLVOTHERMAL
+   REDUCTION; TEMPERATURE-DEPENDENCE; SPRAY-PYROLYSIS; OXIDE; VOLTAGE;
+   PARAMETERS; FABRICATION
+AB The presented article findings indicate an efficient method for obtaining graphene oxide and its enhancement for electronic devices. The structural checking for confirming the molecular, crystalline and morphology characterization was carefully included. The measurement of the dielectric characteristics was considered in a wide range of voltage bias, temperature, and frequency for obtaining valuable evidence about the electrical storage and dissipation properties of the device for prospective applications. The measured dielectric parameters showed a dispersion attitude under the influence of all the studied factors. The results confirmed a reduction in both capacitance and conductance with increasing the applied frequency. Remarkably, a negative capacitance influence was also detected in the studied frequency range in wholly investigated devices. The deviations in the dielectric behavior could be attributed to the rearrange of charges at the GO/Si interface and to the influence of series resistance. Additionally, the current-density voltage characteristics were investigated under influence of temperature to provide the option for the diode as a temperature sensor. Accordingly, the GO-based heterojunction provided the projections to produce low cost with a wide scale of device applications.
+C1 [Ashery, A.] Natl Res Ctr, Solid State Phys Dept, Solid State Elect Lab, Phys Div, Giza 12622, Egypt.
+   [Farag, A. A. M.] Jouf Univ, Phys Dept, Fac Sci & Arts, Sakakah, Saudi Arabia.
+   [Farag, A. A. M.] Ain Shams Univ, Phys Dept, Thin Films Lab, Fac Educ, Cairo 11757, Egypt.
+   [Moussa, M. A.; Turky, G. M.] Natl Res Ctr, Microwave Phys & Dielect Dept, Giza 12622, Egypt.
+RP Farag, AAM (corresponding author), Jouf Univ, Phys Dept, Fac Sci & Arts, Sakakah, Saudi Arabia.; Farag, AAM (corresponding author), Ain Shams Univ, Phys Dept, Thin Films Lab, Fac Educ, Cairo 11757, Egypt.
+EM aamfaraj@ju.edu.sa
+RI ; elsnoty, mohammed/N-6669-2018
+OI Turky, Gamal/0000-0002-3501-7019; elsnoty, mohammed/0000-0001-7442-6934
+CR Abd Elhamid AM, 2019, SOLID STATE SCI, V94, P28, DOI 10.1016/j.solidstatesciences.2019.05.013
+   Alam MA, 2019, APPL PHYS LETT, V114, DOI 10.1063/1.5092684
+   Alamin AA, 2019, DIAM RELAT MATER, V96, P182, DOI 10.1016/j.diamond.2019.05.013
+   Alghunaim NS, 2019, SPECTROCHIM ACTA A, V216, P349, DOI 10.1016/j.saa.2019.03.053
+   Altindal S, 2011, J APPL PHYS, V109, DOI 10.1063/1.3554479
+   Arslan E, 2010, J NON-CRYST SOLIDS, V356, P1006, DOI 10.1016/j.jnoncrysol.2010.01.024
+   Bae S, 2010, NAT NANOTECHNOL, V5, P574, DOI [10.1038/NNANO.2010.132, 10.1038/nnano.2010.132]
+   Bilkan C, 2015, MAT SCI SEMICON PROC, V39, P484, DOI 10.1016/j.mssp.2015.05.044
+   Campos M, 2000, SENSOR ACTUAT A-PHYS, V87, P67, DOI 10.1016/S0924-4247(00)00465-9
+   Cetin H, 2010, PHYSICA B, V405, P559, DOI 10.1016/j.physb.2009.09.065
+   Cetinkaya HG, 2015, J MATER SCI-MATER EL, V26, P3186, DOI 10.1007/s10854-015-2816-7
+   Chen L, 2018, CHEM ENG J, V345, P536, DOI 10.1016/j.cej.2018.03.136
+   Chiolerio A, 2016, ADV ELECTRON MATER, V2, DOI 10.1002/aelm.201500312
+   Demircioglu O, 2011, MICROELECTRON ENG, V88, P2997, DOI 10.1016/j.mee.2011.04.060
+   Dey MK, 2016, ANAL LETT, V49, P2703, DOI 10.1080/00032719.2016.1154065
+   Fan GH, 2019, MATER LETT, V257, DOI 10.1016/j.matlet.2019.126683
+   Ferrari AC, 2006, PHYS REV LETT, V97, DOI 10.1103/PhysRevLett.97.187401
+   Filipovic L, 2014, MICROELECTRON ENG, V117, P57, DOI 10.1016/j.mee.2013.12.025
+   Gharbi R, 2006, SOLID STATE ELECTRON, V50, P367, DOI 10.1016/j.sse.2006.02.009
+   Grause G, 2017, J MATER CYCLES WASTE, V19, P612, DOI 10.1007/s10163-015-0457-9
+   Guild C, 2014, CATAL TODAY, V238, P87, DOI 10.1016/j.cattod.2014.03.056
+   Guler G, 2009, J ALLOY COMPD, V486, P343, DOI 10.1016/j.jallcom.2009.06.163
+   Gunduz B, 2012, MICROELECTRON ENG, V98, P41, DOI 10.1016/j.mee.2012.06.003
+   Huang HH, 2019, J MEMBRANE SCI, V572, P12, DOI 10.1016/j.memsci.2018.10.085
+   Hudait MK, 2001, SOLID STATE ELECTRON, V45, P133, DOI 10.1016/S0038-1101(00)00230-6
+   Hwang C. Sone, 2013, APPL PHYS LETT, V102
+   Jayatissa AH, 2005, MAT SCI ENG B-SOLID, V124, P331, DOI 10.1016/j.mseb.2005.08.041
+   Karatas S, 2003, APPL SURF SCI, V217, P250, DOI 10.1016/S0169-4332(03)00564-6
+   Kavei G, 2008, J MATER PROCESS TECH, V208, P514, DOI 10.1016/j.jmatprotec.2008.01.024
+   Korucu D, 2012, MAT SCI SEMICON PROC, V15, P480, DOI 10.1016/j.mssp.2012.03.005
+   Korucu D, 2013, CURR APPL PHYS, V13, P1101, DOI 10.1016/j.cap.2013.03.001
+   Kumar D, 2015, B MATER SCI, V38, P1507, DOI 10.1007/s12034-015-0966-0
+   Lin XY, 2013, J MATER CHEM C, V1, P6869, DOI 10.1039/c3tc31497a
+   Makhetha TA, 2018, J MEMBRANE SCI, V554, P195, DOI 10.1016/j.memsci.2018.03.003
+   Nasir M., 2012, OPEN J INORG NON MET, V2, P11
+   Nethravathi C, 2008, CARBON, V46, P1994, DOI 10.1016/j.carbon.2008.08.013
+   Pimenta MA, 2007, PHYS CHEM CHEM PHYS, V9, P1276, DOI 10.1039/b613962k
+   Sagadevan S, 2014, CHALCOGENIDE LETT, V11, P159
+   Sahoo M, 2013, AIP CONF PROC, V1512, P1262, DOI 10.1063/1.4791511
+   Salahuddin S, 2008, NANO LETT, V8, P405, DOI 10.1021/nl071804g
+   Shehata MM, 2018, J ALLOY COMPD, V736, P225, DOI 10.1016/j.jallcom.2017.11.097
+   Sudesh, 2013, SUPERCOND SCI TECH, V26, DOI 10.1088/0953-2048/26/9/095008
+   Sze S.M., 1981, PHYS SEMICONDUCTOR D
+   Viet HP, 2011, J MATER CHEM, V21, P3371, DOI 10.1039/c0jm02790a
+   Wang CC, 2008, APPL PHYS LETT, V92, DOI 10.1063/1.2840195
+   Wang XW, 2015, ADV MATER, V27, P1370, DOI 10.1002/adma.201404069
+   Yahia IS, 2011, SYNTHETIC MET, V161, P881, DOI 10.1016/j.synthmet.2011.02.016
+   Yalcin M, 2019, OPTIK, V183, P1099, DOI 10.1016/j.ijleo.2019.02.049
+   Zhu CY, 2006, SOLID STATE ELECTRON, V50, P821, DOI 10.1016/j.sse.2006.04.022
+   Zhu CY, 2009, SOLID STATE ELECTRON, V53, P324, DOI 10.1016/j.sse.2009.01.002
+NR 50
+TC 21
+Z9 21
+U1 1
+U2 8
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 0379-6779
+J9 SYNTHETIC MET
+JI Synth. Met.
+PD MAR
+PY 2020
+VL 261
+AR 116303
+DI 10.1016/j.synthmet.2020.116303
+PG 10
+WC Materials Science, Multidisciplinary; Physics, Condensed Matter; Polymer
+   Science
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Materials Science; Physics; Polymer Science
+GA KT2US
+UT WOS:000518871700020
+DA 2022-10-19
+ER
+
+PT C
+AU Yeh, NC
+   Teague, ML
+   Wu, RTP
+   Chu, H
+   Boyd, DA
+   Bockrath, MW
+   He, L
+   Xiu, FX
+   Wang, KL
+AF Yeh, N. -C.
+   Teague, M. L.
+   Wu, R. T. -P.
+   Chu, H.
+   Boyd, D. A.
+   Bockrath, M. W.
+   He, L.
+   Xiu, F. -X.
+   Wang, K. -L.
+BE Hakioglu, T
+   Yeh, NC
+   Choi, HY
+TI Scanning Tunnelling Spectroscopic Studies of Dirac Fermions in Graphene
+   and Topological Insulators
+SO EURASIA-PACIFIC SUMMER SCHOOL AND CONFERENCE ON CORRELATED ELECTRONS
+SE EPJ Web of Conferences
+LA English
+DT Proceedings Paper
+CT Eurasia-Pacific-Summer-School and Conference on Correlated Electrons
+CY JUL 04-14, 2011
+CL Marmaris, TURKEY
+SP Eurasia-Pacific Summer Sch
+ID PSEUDO-MAGNETIC FIELDS; BI2SE3
+AB We report novel properties derived from scanning tunnelling spectroscopic (STS) studies of Dirac fermions in graphene and the surface state (SS) of a strong topological insulator (STI), Bi2Se3. For mono-layer graphene grown on Cu by chemical vapour deposition (CVD), strain-induced scalar and gauge potentials are manifested by the charging effects and the tunnelling conductance peaks at quantized energies, respectively. Additionally, spontaneous time-reversal symmetry breaking is evidenced by the alternating anti-localization and localization spectra associated with the zero-mode of two sublattices while global time-reversal symmetry is preserved under the presence of pseudo-magnetic fields. For Bi2Se3 epitaxial films grown on Si(111) by molecular beam epitaxy (MBE), spatially localized unitary impurity resonances with sensitive dependence on the energy difference between the Fermi level and the Dirac point are observed for samples thicker than 6 quintuple layers (QL). These findings are characteristic of the SS of a STI and are direct manifestation of strong topological protection against impurities. For samples thinner than 6-QL, STS studies reveal the open-up of an energy gap in the SS due to overlaps of wave functions between the surface and interface layers. Additionally, spin-preserving quasiparticle interference wave-vectors are observed, which are consistent with the Rashba-like spin-orbit splitting.
+C1 [Yeh, N. -C.; Teague, M. L.; Wu, R. T. -P.] CALTECH, Dept Phys, Pasadena, CA 91125 USA.
+   [Chu, H.; Boyd, D. A.] CALTECH, Dept Appl Phys, Pasadena, CA 91125 USA.
+   [Bockrath, M. W.] Univ Calif Riverside, Dept Phys & Astronomy, Riverside, CA 92521 USA.
+   [He, L.; Wang, K. -L.] Univ Calif Los Angeles, Dept Elect & Engn, Los Angeles, CA 90095 USA.
+   [Xiu, F. -X.] Iowa State Univ, Dept Elect & Comp Engn, Ames, IA 50011 USA.
+RP Yeh, NC (corresponding author), CALTECH, Dept Phys, Pasadena, CA 91125 USA.
+RI Che, Renchao/AAA-7567-2022; He, Liang/E-5935-2012
+FU National Science Foundation; research on topological insulators at
+   Caltech; Center on Functional Engineered Nano Architectonics (FENA)
+FX The research on graphene at Caltech was supported by the National
+   Science Foundation, and the research on topological insulators at
+   Caltech and UCLA was supported by the Center on Functional Engineered
+   Nano Architectonics (FENA).
+CR Alpichshev Z, 2010, PHYS REV LETT, V104, DOI 10.1103/PhysRevLett.104.016401
+   BIRMINGHAM D, 1991, PHYS REP, V209, P129, DOI 10.1016/0370-1573(91)90117-5
+   Biswas RR, 2010, PHYS REV B, V81, DOI 10.1103/PhysRevB.81.233405
+   Castro Neto AH, 2009, REV MOD PHYS, V81, P109, DOI 10.1103/RevModPhys.81.109
+   Fu L, 2007, PHYS REV B, V76, DOI 10.1103/PhysRevB.76.045302
+   Guinea F, 2008, PHYS REV B, V77, DOI 10.1103/PhysRevB.77.075422
+   Guinea F, 2010, NAT PHYS, V6, P30, DOI 10.1038/NPHYS1420
+   He L, 2011, J APPL PHYS, V109, DOI 10.1063/1.3585673
+   Herbut IF, 2008, PHYS REV B, V78, DOI 10.1103/PhysRevB.78.205433
+   Levy N, 2010, SCIENCE, V329, P544, DOI 10.1126/science.1191700
+   Manes JL, 2007, PHYS REV B, V76, DOI 10.1103/PhysRevB.76.045430
+   Moore JE, 2007, PHYS REV B, V75, DOI 10.1103/PhysRevB.75.121306
+   Qi XL, 2010, PHYS TODAY, V63, P33, DOI 10.1063/1.3293411
+   Roushan P, 2009, NATURE, V460, P1106, DOI 10.1038/nature08308
+   Saha K, 2010, PHYS REV B, V81, DOI 10.1103/PhysRevB.81.165446
+   Schnyder AP, 2008, PHYS REV B, V78, DOI 10.1103/PhysRevB.78.195125
+   Shan WY, 2010, NEW J PHYS, V12, DOI 10.1088/1367-2630/12/4/043048
+   Solovyev IV, 1998, PHYS REV LETT, V80, P5758, DOI 10.1103/PhysRevLett.80.5758
+   Suzuura H, 2002, PHYS REV B, V65, DOI 10.1103/PhysRevB.65.235412
+   Teague M. L., 2011, EUROPHYS LETT UNPUB
+   Wen XG, 1995, ADV PHYS, V44, P405, DOI 10.1080/00018739500101566
+   Yeh NC, 2011, SURF SCI, V605, P1649, DOI 10.1016/j.susc.2011.03.025
+   Zhang HJ, 2009, NAT PHYS, V5, P438, DOI 10.1038/NPHYS1270
+   Zhang T, 2009, PHYS REV LETT, V103, DOI 10.1103/PhysRevLett.103.266803
+   Zhang Y, 2010, NAT PHYS, V6, P584, DOI 10.1038/NPHYS1689
+NR 25
+TC 4
+Z9 4
+U1 2
+U2 49
+PU E D P SCIENCES
+PI CEDEX A
+PA 17 AVE DU HOGGAR PARC D ACTIVITES COUTABOEUF BP 112, F-91944 CEDEX A,
+   FRANCE
+SN 2100-014X
+J9 EPJ WEB CONF
+PY 2012
+VL 23
+AR 00021
+DI 10.1051/epjconf/20122300021
+PG 7
+WC Physics, Applied; Physics, Multidisciplinary; Physics, Condensed Matter
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Physics
+GA BAX15
+UT WOS:000305912900020
+OA Green Published, Green Accepted, Green Submitted, gold
+DA 2022-10-19
+ER
+
+EF

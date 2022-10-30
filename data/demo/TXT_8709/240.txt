@@ -1,0 +1,92 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Pokrop, R
+   Verilhac, JM
+   Gasior, A
+   Wielgus, I
+   Zagorska, M
+   Travers, JP
+   Pron, A
+AF Pokrop, Rafal
+   Verilhac, Jean-Marie
+   Gasior, Anna
+   Wielgus, Ireneusz
+   Zagorska, Malgorzata
+   Travers, Jean-Pierre
+   Pron, Adam
+TI Effect of molecular weight on electronic, electrochemical and
+   spectroelectrochemical properties of poly(3,3 ''-dioctyl-2,2 ': 5 ',2
+   ''-terthiophene)
+SO JOURNAL OF MATERIALS CHEMISTRY
+LA English
+DT Article
+ID FIELD-EFFECT TRANSISTORS; REGIOREGULAR POLY(3-HEXYLTHIOPHENE);
+   ELECTRICAL-CONDUCTIVITY; EFFECT MOBILITY; POLYTHIOPHENE; TEMPERATURE;
+   PERFORMANCE; CELLS
+AB Poly(3,3 ''-dioctyl- 2,2': 5',2 ''-terthiophene), obtained from its corresponding monomer by oxidative polymerization with FeCl3, has been fractionated into five fractions of reduced polydispersity, covering the M-n range from 1.50 kDa to 10.50 kDa ( measured vs. polystyrene standards). The effect of Mn on spectroscopic, electrochemical, spectroelectrochemical and electrical transport properties has been investigated. Fractions of growing Mn show an increasing bathochromic shift of the band originating from the pi - pi* transition in the neutral polymer with the appearance of a clear vibrational structure for the two highest molecular fractions. The onset of oxidative doping determined from the cyclic voltammogram shifts towards lower potentials with increasing molecular weight. A similar trend is observed for doping induced near infrared bands, which shift towards lower energies ( higher wavelengths) with increasing molecular weight and appear at lower potentials in spectroelectrochemical experiments. Finally, a comparison of the FET mobility in two transistors fabricated under identical conditions from polymer fractions differing in their molecular weight shows that a ca. fourfold increase of M-n (from 2.40 kDa to 10.50 kDa) results in a two orders of magnitude increase in the carriers' mobility ( from mu(sat) = 4 x 10(-5) cm(2) V-1 s(-1) to mu(sat) = 2 x 10(-3) cm(2) V-1 s(-1)). The obtained results underline the importance of the control of the macromolecular parameters in the preparation of electronic and electrochemical devices from poly(3,3 ''-dioctyl-2,2': 5',2 ''- terthiophene).
+C1 Warsaw Univ Technol, Fac Chem, PL-00664 Warsaw, Poland.
+   CEA Liten, DTNM, LCH, F-38054 Grenoble 9, France.
+   Univ Grenoble 1, CNRS, CEA, SPrAM,UMR 5819,DRFMC, F-38054 Grenoble 9, France.
+RP Zagorska, M (corresponding author), Warsaw Univ Technol, Fac Chem, Noakowskiego 3, PL-00664 Warsaw, Poland.
+EM zagorska@ch.pw.edu.pl; adam.pron@cea.fr
+OI Pron, Adam/0000-0002-8267-4353; Wielgus, Ireneusz/0000-0003-4918-9433;
+   Zagorska, Malgorzata/0000-0002-8880-7217
+CR Bao Z, 1996, APPL PHYS LETT, V69, P4108, DOI 10.1063/1.117834
+   Barta P, 1998, J APPL PHYS, V84, P6279, DOI 10.1063/1.368949
+   Chang JF, 2004, CHEM MATER, V16, P4772, DOI 10.1021/cm049617w
+   CHEN TA, 1992, J AM CHEM SOC, V114, P10087, DOI 10.1021/ja00051a066
+   CHUNG TC, 1984, PHYS REV B, V30, P702, DOI 10.1103/PhysRevB.30.702
+   Demadrille R, 2003, MACROMOLECULES, V36, P7045, DOI 10.1021/ma030171z
+   Fichou D., 1999, HDB OLIGO POLYTHIOPH
+   Fix W, 2002, APPL PHYS LETT, V81, P1735, DOI 10.1063/1.1501450
+   FURUKAWA Y, 1987, SYNTHETIC MET, V18, P151, DOI 10.1016/0379-6779(87)90870-8
+   GALLAZZI MC, 1993, J POLYM SCI POL CHEM, V31, P3339, DOI 10.1002/pola.1993.080311322
+   Hamadani BH, 2004, APPL PHYS LETT, V84, P443, DOI 10.1063/1.1639945
+   Horowitz G, 1998, ADV MATER, V10, P365, DOI 10.1002/(SICI)1521-4095(199803)10:5<365::AID-ADMA365>3.0.CO;2-U
+   Izumi T, 2003, J AM CHEM SOC, V125, P5286, DOI 10.1021/ja034333i
+   Kline RJ, 2005, MACROMOLECULES, V38, P3312, DOI 10.1021/ma047415f
+   Kline RJ, 2003, ADV MATER, V15, P1519, DOI 10.1002/adma.200305275
+   Li G, 2005, NAT MATER, V4, P864, DOI 10.1038/nmat1500
+   Liu JS, 1999, MACROMOLECULES, V32, P5777, DOI 10.1021/ma9905324
+   Mairo Souto R. M., 1990, MACROMOLECULES, V23, P1268
+   McCulloch I, 2005, CHEM MATER, V17, P1381, DOI 10.1021/cm047754n
+   MCCULLOUGH RD, 1992, J CHEM SOC CHEM COMM, P70, DOI 10.1039/c39920000070
+   Nalwa HS, 1997, HDB CONDUCTIVE MOL P, V1-4
+   Schilinsky P, 2005, CHEM MATER, V17, P2175, DOI 10.1021/cm047811c
+   Sirringhaus H, 2005, ADV MATER, V17, P2411, DOI 10.1002/adma.200501152
+   Sirringhaus H, 1998, SCIENCE, V280, P1741, DOI 10.1126/science.280.5370.1741
+   Trznadel M, 1998, MACROMOLECULES, V31, P5051, DOI 10.1021/ma970627a
+   VERILHAC JM, IN PRESS SYNTH MET
+   Wu YL, 2005, CHEM MATER, V17, P221, DOI 10.1021/cm048678r
+   ZAGORSKA M, 1990, POLYMER, V31, P1379, DOI 10.1016/0032-3861(90)90234-P
+   Zen A, 2006, MACROMOLECULES, V39, P2162, DOI 10.1021/ma0521349
+   Zen A, 2004, ADV FUNCT MATER, V14, P757, DOI 10.1002/adfm.200400017
+NR 30
+TC 43
+Z9 43
+U1 0
+U2 15
+PU ROYAL SOC CHEMISTRY
+PI CAMBRIDGE
+PA THOMAS GRAHAM HOUSE, SCIENCE PARK, MILTON RD, CAMBRIDGE CB4 0WF, CAMBS,
+   ENGLAND
+SN 0959-9428
+J9 J MATER CHEM
+JI J. Mater. Chem.
+PY 2006
+VL 16
+IS 30
+BP 3099
+EP 3106
+DI 10.1039/b605504d
+PG 8
+WC Chemistry, Physical; Materials Science, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Materials Science
+GA 066SS
+UT WOS:000239251000005
+DA 2022-10-21
+ER
+
+EF

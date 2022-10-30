@@ -1,0 +1,347 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Chesnel, JY
+   Hajaji, A
+   Barrachina, RO
+   Fremont, F
+AF Chesnel, J. -Y.
+   Hajaji, A.
+   Barrachina, R. O.
+   Fremont, F.
+TI Young-type experiment using a single-electron source and an independent
+   atomic-size two-center interferometer
+SO PHYSICAL REVIEW LETTERS
+LA English
+DT Article
+ID INTERFERENCE; COLLISIONS; H+
+AB Evidence is given for Young-type interferences caused by a single electron acting on a given double-center scatterer analogous to an atomic-size double-slit system. The electron is provided by autoionization of a doubly excited He atom following the capture of the electrons of H-2 by a He2+ incoming ion. The autoionizing projectile is a single-electron source, independent of the interferometer provided by the two H+ centers of the fully ionized H-2 molecule. This experiment resembles the famous thought experiment imagined by Feynman in 1963, in which the quantum nature of the electron is illustrated from a Young-like double-slit experiment. Well-defined oscillations are visible in the angular distribution of the scattered electrons, showing that each electron interferes with itself.
+C1 Univ Caen, CEA, CNRS, EnsiCaen,Ctr Interdisciplinaire Rech Ions Laser, F-14050 Caen, France.
+   Comis Nacl Energia Atom, Ctr Atom Bariloche, RA-8400 San Carlos De Bariloche, Rio Negro, Argentina.
+   Comis Nacl Energia Atom, Inst Balseiro, RA-8400 San Carlos De Bariloche, Rio Negro, Argentina.
+   Univ Nacl Cuyo, RA-8400 San Carlos De Bariloche, Rio Negro, Argentina.
+RP Chesnel, JY (corresponding author), Univ Caen, CEA, CNRS, EnsiCaen,Ctr Interdisciplinaire Rech Ions Laser, 6 Bd Mal Juin, F-14050 Caen, France.
+RI Frémont, François/U-7079-2019; Chesnel, Jean-Yves/A-1422-2015
+OI Chesnel, Jean-Yves/0000-0003-3494-8425; Barrachina,
+   Raul/0000-0002-2404-8311
+CR Barrachina RO, 2007, RADIAT PHYS CHEM, V76, P375, DOI 10.1016/j.radphyschem.2005.12.055
+   Barrachina RO, 2004, J PHYS B-AT MOL OPT, V37, P3847, DOI 10.1088/0953-4075/37/19/006
+   CARNAL O, 1991, PHYS REV LETT, V66, P2689, DOI 10.1103/PhysRevLett.66.2689
+   DAVISSON CJ, 1928, FRANKLIN I J, V205, P597
+   Debye P, 1915, ANN PHYS-BERLIN, V46, P809
+   Ehrenfest P., 1915, AMSTERDAM ACAD, V23, P1132
+   FEYNMAN R, 1963, FEYNMAN LECT PHYS, V3, pCH37
+   Fremont F, 2005, PHYS REV A, V72, DOI 10.1103/PhysRevA.72.050704
+   Fremont F, 1996, PHYS REV A, V54, pR4609, DOI 10.1103/PhysRevA.54.R4609
+   Hossain S, 2005, PHYS REV A, V72, DOI 10.1103/PhysRevA.72.010701
+   Jacques V, 2005, EUR PHYS J D, V35, P561, DOI 10.1140/epjd/e2005-00201-y
+   JONSSON C, 1974, AM J PHYS, V42, P4
+   Kamalou O, 2005, PHYS REV A, V71, DOI 10.1103/PhysRevA.71.010702
+   Martinez S, 2003, J PHYS B-AT MOL OPT, V36, P4813, DOI 10.1088/0953-4075/36/24/005
+   MERLI PG, 1976, AM J PHYS, V44, P306, DOI 10.1119/1.10184
+   MOLLENSTEDT G, 1956, Z PHYS, V145, P377, DOI 10.1007/BF01326780
+   MorettoCapelle P, 1996, J PHYS B-AT MOL OPT, V29, P2007, DOI 10.1088/0953-4075/29/10/011
+   Stochkel K, 2005, PHYS REV A, V72, DOI 10.1103/PhysRevA.72.050703
+   Stolterfoht N, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.023201
+   SWENSON JK, 1991, PHYS REV LETT, V66, P417, DOI 10.1103/PhysRevLett.66.417
+   TONOMURA A, 1989, AM J PHYS, V57, P117, DOI 10.1119/1.16104
+   YOUNG T, 1807, COURSE NATURAL PHILO
+   Young T, 1804, PHILOS T R SOC LOND, V94, P1
+NR 23
+TC 25
+Z9 25
+U1 1
+U2 11
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 0031-9007
+J9 PHYS REV LETT
+JI Phys. Rev. Lett.
+PD MAR 9
+PY 2007
+VL 98
+IS 10
+AR 100403
+DI 10.1103/PhysRevLett.98.100403
+PG 4
+WC Physics, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Physics
+GA 144JN
+UT WOS:000244792400003
+PM 17358516
+DA 2022-10-21
+ER
+
+PT J
+AU Errulat, D
+   Harriman, KLM
+   Galico, DA
+   Ovens, JS
+   Mansikkamaki, A
+   Murugesu, M
+AF Errulat, Dylan
+   Harriman, Katie L. M.
+   Galico, Diogo A.
+   Ovens, Jeffrey S.
+   Mansikkamaki, Akseli
+   Murugesu, Muralee
+TI Aufbau vs. non-Aufbau ground states in two-coordinate d(7)
+   single-molecule magnets
+SO INORGANIC CHEMISTRY FRONTIERS
+LA English
+DT Article
+ID CIRCULAR-DICHROISM; ELECTRONIC-STRUCTURE; TRANSITION-METAL; LINEAR
+   IRON(I); ION MAGNETISM; COMPLEXES; SPECTROSCOPY; RELAXATION; ABSENCE;
+   PROBE
+AB Single-molecule magnets (SMMs) with d(7) electronic configurations often require designer ligands to satisfy the metals electronic conditions to achieve large angular momentum. Herein, the slow relaxation of the magnetization in two d(7) metal complexes in near identical ligand fields is achieved from divergent origins. The two compounds, [Co-II{N(SiMePh2)(2)}(2)] and [K(2,2,2-crypt)][Fe-I{N(SiMePh2)(2)}(2)] (2,2,2-crypt = 2,2,2-cryptand), display unusual electronic configurations giving rise to SMM behavior originating either from 3d-4s orbital mixing or a non-Aufbau ground state. The chracteristics contributing to the rare non-Aufbau ground state configurations are illuminated by the use of a highly donating amido-ligand, which would be expected to significantly split the respective orbitals. Magnetic circular dichroism provides experimental support for ab initio determined electronic structures. Moreover, computational models reveal that the relative electronic configurations are largely retained independently of coordination geometry, provided that some degree of pseudo-linearity is retained. Thus, providing generalized design principles in the pursuit of linear d(7) SMMs.
+C1 [Errulat, Dylan; Harriman, Katie L. M.; Galico, Diogo A.; Ovens, Jeffrey S.; Murugesu, Muralee] Univ Ottawa, Dept Chem & Biomol Sci, Ottawa, ON K1N 6N5, Canada.
+   [Mansikkamaki, Akseli] Univ Oulu, NMR Res Unit, A Mansikkamaki, POB 3000, Oulu 90014, Finland.
+RP Murugesu, M (corresponding author), Univ Ottawa, Dept Chem & Biomol Sci, Ottawa, ON K1N 6N5, Canada.; Mansikkamaki, A (corresponding author), Univ Oulu, NMR Res Unit, A Mansikkamaki, POB 3000, Oulu 90014, Finland.
+EM akseli.mansikkamaki@oulu.fi; m.murugesu@uottawa.ca
+RI Murugesu, Muralee/A-4168-2016; Alves Galico, Diogo/D-2608-2013
+OI Murugesu, Muralee/0000-0002-5123-374X; Alves Galico,
+   Diogo/0000-0003-3722-2996; Mansikkamaki, Akseli/0000-0003-0401-4373
+FU Natural Sciences and Engineering Research Council of Canada; Canadian
+   Foundation for Innovation; Magnus Ehrnrooth Foundation; University of
+   Oulu (Kvantum Institute); University of Ottawa; Finnish Grid and Cloud
+   Infrastructure project [urn:nbn:fi:research-infras2016072533]
+FX We are grateful to the University of Ottawa, Natural Sciences and
+   Engineering Research Council of Canada, the Canadian Foundation for
+   Innovation, the Magnus Ehrnrooth Foundation, as well as the University
+   of Oulu (Kvantum Institute) for the funding of this work. We are
+   grateful to Dr Thierry Maris and Mr Daniel Chartrand of the X-Ray
+   Diffraction Laboratory at the Universite de Montreal for the collection
+   and analysis of diffraction data for 3. Computational resources have
+   been provided by CSC-IT Center for Science in Finland and the Finnish
+   Grid and Cloud Infrastructure project (persistent identifier
+   urn:nbn:fi:research-infras2016072533).
+CR Atanasov M, 2015, COORDIN CHEM REV, V289, P177, DOI 10.1016/j.ccr.2014.10.015
+   Atanasov M, 2013, CHEM SCI, V4, P139, DOI 10.1039/c2sc21394j
+   Aubin SMJ, 1999, INORG CHEM, V38, P5329, DOI 10.1021/ic990613g
+   BARTLETT RA, 1987, J AM CHEM SOC, V109, P7563, DOI 10.1021/ja00258a069
+   Boca R, 2021, COORDIN CHEM REV, V430, DOI 10.1016/j.ccr.2020.213657
+   Bryan AM, 2014, INORG CHEM, V53, P2692, DOI 10.1021/ic403098p
+   Bunting PC, 2018, SCIENCE, V362, P1378, DOI 10.1126/science.aat7319
+   Chilton NF, 2015, DALTON T, V44, P11202, DOI 10.1039/c5dt01589h
+   COLLINGWOOD JC, 1973, J CHEM SOC FARAD T 2, P591
+   Comba P, 2018, CHEM-EUR J, V24, P5319, DOI 10.1002/chem.201704822
+   Coutinho J.T., 2018, LANTHANIDE BASED MUL, P195
+   COX PA, 1975, MOL PHYS, V30, P405, DOI 10.1080/00268977500102021
+   Curran DJ, 2021, DALTON T, V50, P5483, DOI 10.1039/d1dt00513h
+   da Cunha TT, 2013, J AM CHEM SOC, V135, P16332, DOI 10.1021/ja4089956
+   Danopoulos AA, 2017, DALTON T, V46, P1163, DOI 10.1039/c6dt03565e
+   Du JZ, 2015, ANGEW CHEM INT EDIT, V54, P12640, DOI 10.1002/anie.201505937
+   FIGGIS BN, 1958, NATURE, V182, P1568, DOI 10.1038/1821568a0
+   FIGGIS BN, 1964, NATURE, V203, P1138, DOI 10.1038/2031138a0
+   FIGGIS BN, 1968, J CHEM SOC A, P2086, DOI 10.1039/j19680002086
+   Fillman KL, 2015, CHEM SCI, V6, P1178, DOI 10.1039/c4sc02791d
+   Frost JM, 2016, CHEM SCI, V7, P2470, DOI 10.1039/c5sc03224e
+   GERLOCH M, 1975, J CHEM SOC DALTON, P2443, DOI 10.1039/dt9750002443
+   Gonidec M, 2010, J AM CHEM SOC, V132, P1756, DOI 10.1021/ja9095895
+   Huzan MS, 2020, CHEM SCI, V11, P11801, DOI 10.1039/d0sc03787g
+   KADEN TA, 1974, INORG CHEM, V13, P2585, DOI 10.1021/ic50141a012
+   Kuzmann E, 2017, STRUCT CHEM, V28, P975, DOI 10.1007/s11224-016-0899-2
+   Larrabee JA, 2004, J AM CHEM SOC, V126, P12316, DOI 10.1021/ja0485006
+   Ho LTA, 2018, PHYS REV B, V98, DOI 10.1103/PhysRevB.98.174418
+   Ho LTA, 2016, PHYS REV B, V94, DOI 10.1103/PhysRevB.94.104422
+   Lin CY, 2014, INORG CHEM, V53, P9400, DOI 10.1021/ic501534f
+   Malakhovskii AV, 2021, OPT MATER, V114, DOI 10.1016/j.optmat.2021.110953
+   Mallah T., 2013, CHEM-EUR J, V19, P950
+   Mavragani N, 2021, ANGEW CHEM INT EDIT, V60, P24206, DOI 10.1002/anie.202110813
+   McInnes EJL, 2002, J AM CHEM SOC, V124, P9219, DOI 10.1021/ja020456b
+   Merrill WA, 2009, J AM CHEM SOC, V131, P12693, DOI 10.1021/ja903439t
+   Perfetti M, 2019, CHEM SCI, V10, P2101, DOI 10.1039/c8sc03170c
+   Perlepe PS, 2020, INORGANICS, V8, DOI 10.3390/inorganics8060039
+   Piligkos S, 2009, COORDIN CHEM REV, V253, P2352, DOI 10.1016/j.ccr.2008.10.014
+   Power PP, 2012, CHEM REV, V112, P3482, DOI 10.1021/cr2004647
+   Pratt J, 2018, INORG CHEM, V57, P6491, DOI 10.1021/acs.inorgchem.8b00551
+   Rau IG, 2014, SCIENCE, V344, P988, DOI 10.1126/science.1252841
+   Rechkemmer Y, 2016, NAT COMMUN, V7, DOI 10.1038/ncomms10467
+   Rechkemmer Y, 2015, J AM CHEM SOC, V137, P13114, DOI 10.1021/jacs.5b08344
+   Reiff WM, 2004, J AM CHEM SOC, V126, P10206, DOI 10.1021/ja030632w
+   Samuel PP, 2014, J AM CHEM SOC, V136, P11964, DOI 10.1021/ja5043116
+   Sarkar A, 2020, CHEM-EUR J, V26, P14036, DOI 10.1002/chem.202003211
+   Smith JM, 2012, DALTON T, V41, P1423, DOI 10.1039/c1dt11674f
+   SOLOMON EI, 1995, COORDIN CHEM REV, V144, P369, DOI 10.1016/0010-8545(95)01150-N
+   Thomsen MK, 2019, INORG CHEM, V58, P3211, DOI 10.1021/acs.inorgchem.8b03301
+   Titis J, 2018, DALTON T, V47, P7879, DOI 10.1039/c8dt01445k
+   van Slageren J, 2010, DALTON T, V39, P4999, DOI 10.1039/b925028j
+   Weller R, 2021, DALTON T, V50, P10947, DOI 10.1039/d1dt01543e
+   Weller R, 2021, DALTON T, V50, P4890, DOI 10.1039/d1dt00121c
+   Werncke CG, 2016, CHEM-EUR J, V22, P1668, DOI 10.1002/chem.201503980
+   Werncke CG, 2015, ANGEW CHEM INT EDIT, V54, P245, DOI 10.1002/anie.201408802
+   Wolford NJ, 2021, DALTON T, V50, P416, DOI 10.1039/d0dt03730c
+   Wolford NJ, 2020, DALTON T, V49, P14401, DOI 10.1039/d0dt02929g
+   Wolford NJ, 2019, ANGEW CHEM INT EDIT, V58, P10266, DOI 10.1002/anie.201905423
+   Yao XN, 2017, J AM CHEM SOC, V139, P373, DOI 10.1021/jacs.6b11043
+   Ye SF, 2015, CHEM SCI, V6, P2909, DOI 10.1039/c4sc03268c
+   Zadrozny JM, 2013, INORG CHEM, V52, P13123, DOI 10.1021/ic402013n
+   Zadrozny JM, 2013, NAT CHEM, V5, P577, DOI [10.1038/NCHEM.1630, 10.1038/nchem.1630]
+   Zadrozny JM, 2013, CHEM SCI, V4, P125, DOI 10.1039/c2sc20801f
+NR 63
+TC 4
+Z9 4
+U1 0
+U2 8
+PU ROYAL SOC CHEMISTRY
+PI CAMBRIDGE
+PA THOMAS GRAHAM HOUSE, SCIENCE PARK, MILTON RD, CAMBRIDGE CB4 0WF, CAMBS,
+   ENGLAND
+SN 2052-1553
+J9 INORG CHEM FRONT
+JI Inorg. Chem. Front.
+PD NOV 23
+PY 2021
+VL 8
+IS 23
+BP 5076
+EP 5085
+DI 10.1039/d1qi00912e
+EA OCT 2021
+PG 10
+WC Chemistry, Inorganic & Nuclear
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry
+GA XB3LV
+UT WOS:000707176400001
+OA hybrid
+DA 2022-10-21
+ER
+
+PT J
+AU Dall'Osto, G
+   Coccia, E
+   Guido, CA
+   Corni, S
+AF Dall'Osto, Giulia
+   Coccia, Emanuele
+   Guido, Ciro A.
+   Corni, Stefano
+TI Investigating ultrafast two-pulse experiments on single DNQDI
+   fluorophores: a stochastic quantum approach
+SO PHYSICAL CHEMISTRY CHEMICAL PHYSICS
+LA English
+DT Article
+ID TD-CI SIMULATION; ELECTRONIC OPTICAL-RESPONSE; LARGE MOLECULES;
+   ENERGY-TRANSFER; DYNAMICS; SPECTROSCOPY; COHERENCE; STATE; SPECTRA
+AB Ultrafast two-pulse experiments on single molecules are invaluable tools to investigate the microscopic dynamics of a fluorophore. The first pulse generates electronic or vibronic coherence and the second pulse probes the time-evolution of the coherence. A protocol that is able to simulate ultrafast experiments on single molecules is applied in this study. It is based on a coupled quantum-mechanical description of the fluorophore and real-time dynamics of the system vibronic wave packet interacting with an electric field, described by means of the stochastic Schrodinger equation within the Markovian limit. This approach is applied to the DNQDI fluorophore, previously investigated experimentally [D. Brinkset al.,Nature, 2010,465, 905-908]. We find this to be in good agreement with the experimental outcomes and provide microscopic and atomistic interpretation.
+C1 [Dall'Osto, Giulia; Guido, Ciro A.; Corni, Stefano] Univ Padua, Dept Chem Sci, Via Marzolo 1, Padua, Italy.
+   [Coccia, Emanuele] Univ Trieste, Dept Chem & Pharmaceut Sci, Via Giorgieri 1, Trieste, Italy.
+   [Corni, Stefano] CNR, Inst Nanosci, Via Campi 213-A, Modena, Italy.
+RP Corni, S (corresponding author), Univ Padua, Dept Chem Sci, Via Marzolo 1, Padua, Italy.; Corni, S (corresponding author), CNR, Inst Nanosci, Via Campi 213-A, Modena, Italy.
+EM stefano.corni@unipd.it
+RI Guido, Ciro A./AAG-4460-2020
+OI Guido, Ciro A./0000-0003-1924-2862; Dall'Osto,
+   Giulia/0000-0001-5409-1225; Corni, Stefano/0000-0001-6707-108X
+FU ERC under the Grant ERC-CoG-2015 [681285]
+FX Funding from the ERC under the Grant ERC-CoG-2015 No. 681285
+   "TAME-Plasmons" is gratefully acknowledged. Computational support from
+   C3P high-performance computing facility of the Department of Chemistry
+   of the University of Padova and from CINECA (Iscra C project "VIBCOSTO")
+   is also acknowledged.
+CR Avlasevich Y, 2007, CHEM-EUR J, V13, P6555, DOI 10.1002/chem.200700523
+   Biele R, 2012, J PHYS-CONDENS MAT, V24, DOI 10.1088/0953-8984/24/27/273201
+   Breuer H.-P., 2006, THEORY OPEN QUANTUM
+   Brinks D, 2014, CHEM SOC REV, V43, P2476, DOI 10.1039/c3cs60269a
+   Brinks D, 2011, FARADAY DISCUSS, V153, P51, DOI 10.1039/c1fd00087j
+   Brinks D, 2010, NATURE, V465, P905, DOI 10.1038/nature09110
+   Carmichael H, 1999, STAT METHODS QUANTUM
+   Carmichael H, 1993, OPEN SYSTEMS APPROAC
+   Coccia E, 2019, J CHEM PHYS, V151, DOI 10.1063/1.5109378
+   Coccia E, 2018, J CHEM PHYS, V148, DOI 10.1063/1.5022976
+   Collini E, 2013, CHEM SOC REV, V42, P4932, DOI 10.1039/c3cs35444j
+   Collini E, 2010, NATURE, V463, P644, DOI 10.1038/nature08811
+   Croce R., 2018, LIGHT HARVESTING PHO
+   DALIBARD J, 1992, PHYS REV LETT, V68, P580, DOI 10.1103/PhysRevLett.68.580
+   De Sio A, 2016, NAT COMMUN, V7, DOI 10.1038/ncomms13742
+   Domcke W., 1997, THEORY ULTRAFAST NON
+   Egorova D, 2005, J CHEM PHYS, V122, DOI 10.1063/1.1862618
+   Engel GS, 2007, NATURE, V446, P782, DOI 10.1038/nature05678
+   Frisch M.J., 2009, GAUSSIAN 16 REV
+   Gardiner C. W., 2005, QUANTUM NOISE
+   Gelin MF, 2009, J CHEM PHYS, V131, DOI 10.1063/1.3236577
+   GISIN N, 1992, J PHYS A-MATH GEN, V25, P5677, DOI 10.1088/0305-4470/25/21/023
+   Gonzalez JF, 2017, PHYS CHEM CHEM PHYS, V19, P27299, DOI 10.1039/c7cp05401g
+   Hermann G, 2015, J PHYS CHEM C, V119, P25606, DOI 10.1021/acs.jpcc.5608606
+   Hermann G, 2017, J COMPUT CHEM, V38, P2378, DOI 10.1002/jcc.24896
+   Hildner R, 2013, SCIENCE, V340, P1448, DOI 10.1126/science.1235820
+   Hildner R, 2011, PHYS CHEM CHEM PHYS, V13, P1888, DOI 10.1039/c0cp02231d
+   Hildner R, 2011, NAT PHYS, V7, P172, DOI 10.1038/NPHYS1858
+   Improta R, 2007, J PHYS CHEM B, V111, P14080, DOI 10.1021/jp7098569
+   Improta R, 2007, ANGEW CHEM INT EDIT, V46, P405, DOI 10.1002/anie.200602907
+   KOPPEL H, 1978, J CHEM PHYS, V69, P4252
+   Kosloff R, 1997, J CHEM PHYS, V106, P7036, DOI 10.1063/1.473726
+   Lee H, 2007, SCIENCE, V316, P1462, DOI 10.1126/science.1142188
+   Liebel M, 2018, NAT PHOTONICS, V12, P45, DOI 10.1038/s41566-017-0056-5
+   LINDBLAD G, 1976, COMMUN MATH PHYS, V48, P119, DOI 10.1007/BF01608499
+   Macklin JJ, 1996, SCIENCE, V272, P255, DOI 10.1126/science.272.5259.255
+   MOERNER WE, 1989, PHYS REV LETT, V62, P2535, DOI 10.1103/PhysRevLett.62.2535
+   Moerner WE, 1999, SCIENCE, V283, P1670, DOI 10.1126/science.283.5408.1670
+   MOLMER K, 1993, J OPT SOC AM B, V10, P524, DOI 10.1364/JOSAB.10.000524
+   Mukamel S, 2000, ANNU REV PHYS CHEM, V51, P691, DOI 10.1146/annurev.physchem.51.1.691
+   Mukamel S, 1999, ACCOUNTS CHEM RES, V32, P145, DOI 10.1021/ar960206y
+   Mukamel S., 1995, PRINCIPLES NONLINEAR, V6
+   ORRIT M, 1990, PHYS REV LETT, V65, P2716, DOI 10.1103/PhysRevLett.65.2716
+   Padula D, 2017, J PHYS CHEM B, V121, P10026, DOI 10.1021/acs.jpcb.7b08020
+   Palacino Gonzalez E, 2017, PHYS CHEM CHEM PHYS, V19, P32307
+   Plenio MB, 2013, J CHEM PHYS, V139, DOI 10.1063/1.4846275
+   Plenio MB, 1998, REV MOD PHYS, V70, P101, DOI 10.1103/RevModPhys.70.101
+   Rozzi CA, 2018, J PHYS-CONDENS MAT, V30, DOI 10.1088/1361-648X/aa948a
+   Santoro F, 2008, J CHEM PHYS, V128, DOI 10.1063/1.2929846
+   Santoro F, 2007, J CHEM PHYS, V126, DOI 10.1063/1.2437197
+   SCHERER NF, 1991, J CHEM PHYS, V95, P1487, DOI 10.1063/1.461064
+   Scholes GD, 2017, NATURE, V543, P647, DOI 10.1038/nature21425
+   Schweighofer F., 2015, SCI REP, V5, P1
+   SHANK CV, 1983, SCIENCE, V219, P1027, DOI 10.1126/science.219.4588.1027
+   SHANK CV, 1986, SCIENCE, V233, P1276, DOI 10.1126/science.233.4770.1276
+   SHARP TE, 1964, J CHEM PHYS, V41, P3453, DOI 10.1063/1.1725748
+   SHELBY RM, 1979, J CHEM PHYS, V70, P34, DOI 10.1063/1.437197
+   Shinohara Y, 2010, PHYS REV B, V82, DOI 10.1103/PhysRevB.82.155110
+   Sonk JA, 2012, J PHYS CHEM A, V116, P7161, DOI 10.1021/jp302389a
+   Sonk JA, 2011, J PHYS CHEM A, V115, P11832, DOI 10.1021/jp206437s
+   Sonk JA, 2011, J PHYS CHEM A, V115, P4678, DOI 10.1021/jp107384p
+   STOCK G, 1992, PHYS REV A, V45, P3032, DOI 10.1103/PhysRevA.45.3032
+   Tao M., 2016, SCI REP-UK, V6, P1, DOI [10.1038/s41598-016-0001-8, DOI 10.1038/S41598-016-0001-8]
+   Tempel DG, 2011, J CHEM PHYS, V134, DOI 10.1063/1.3549816
+   Tremblay JC, 2010, PHYS REV A, V81, DOI 10.1103/PhysRevA.81.063420
+   Tremblay JC, 2008, J CHEM PHYS, V129, DOI 10.1063/1.2972126
+   Uranga-Pina L, 2014, J CHEM PHYS, V141, DOI 10.1063/1.4892376
+   van Kampen NG, 2007, NORTH-HOLL PERS LIBR, P1
+   WOLFSEDER B, 1995, CHEM PHYS LETT, V235, P370, DOI 10.1016/0009-2614(95)00134-P
+   Xie XS, 1998, ANNU REV PHYS CHEM, V49, P441, DOI 10.1146/annurev.physchem.49.1.441
+   Zewail A. H., 1978, ADV LASER CHEM
+   Zewail AH, 2000, J PHYS CHEM A, V104, P5660, DOI 10.1021/jp001460h
+NR 72
+TC 3
+Z9 3
+U1 1
+U2 8
+PU ROYAL SOC CHEMISTRY
+PI CAMBRIDGE
+PA THOMAS GRAHAM HOUSE, SCIENCE PARK, MILTON RD, CAMBRIDGE CB4 0WF, CAMBS,
+   ENGLAND
+SN 1463-9076
+EI 1463-9084
+J9 PHYS CHEM CHEM PHYS
+JI Phys. Chem. Chem. Phys.
+PD AUG 7
+PY 2020
+VL 22
+IS 29
+BP 16734
+EP 16746
+DI 10.1039/d0cp02557g
+PG 13
+WC Chemistry, Physical; Physics, Atomic, Molecular & Chemical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Physics
+GA MV6SU
+UT WOS:000556485900023
+PM 32658228
+OA Green Published, hybrid
+DA 2022-10-21
+ER
+
+EF

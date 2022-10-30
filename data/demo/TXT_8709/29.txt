@@ -1,0 +1,517 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Liao, YH
+   Yuan, R
+   Chai, YQ
+   Mao, L
+   Zhuo, Y
+   Yuan, YL
+   Bai, LJ
+   Yuan, SR
+AF Liao, Yuhong
+   Yuan, Ruo
+   Chai, Yaqin
+   Mao, Li
+   Zhuo, Ying
+   Yuan, Yali
+   Bai, Lijuan
+   Yuan, Shirong
+TI Electrochemiluminescence quenching via capture of ferrocene-labeled
+   ligand-bound aptamer molecular beacon for ultrasensitive detection of
+   thrombin
+SO SENSORS AND ACTUATORS B-CHEMICAL
+LA English
+DT Article
+DE Electrochemiluminescence quenching; Aptamer molecular beacon; Capture
+   DNA; Ferrocene-labeled; Ligand-bound
+ID ELECTROGENERATED CHEMILUMINESCENCE; BIOSENSING SWITCH; GRAPHENE; DNA;
+   ELECTRODES; PROBE; ELECTROCHEMISTRY; NANOPARTICLES; HYBRIDIZATION;
+   INHIBITION
+AB Herein, we present an ultrasensitive protein-detection protocol based on electrochemiluminescence (ECL) quenching through capture of ferrocene-labeled ligand-bound aptamer molecular beacon (MB). Our device included two main parts: a solid-state ECL sensing platform and an ECL switch. The sensing platform was constructed by modifying the composite of tris(2,2'-bipyridyl) ruthenium(II) and platinum nanoparticles (Ru-PtNPs) and followed by immobilization of capture DNA (CaDNA). MB worked as the ECL intensity switch. In the presence of thrombin (TB), the hairpin-shaped MB binded to TB, inducing the exposure of a partial single-strand (MBs at this state was ligand-bound MBs). The exposed single stand was complementary to CaDNA and hybridized with CaDNA, leading to the capture of ligand-bound MB onto ECL sensing platform and finally resulting in ECL quenching by ferrocene that linked to MB. Otherwise, the ligand-unbound MB could not be captured and ECL quenching would not happen. Accordingly, the change of ECL intensity indirectly reflected the concentration of TB in the sample. The results indicated that our protocol realized recognition of TB directly in the solution and exhibited much higher sensitivity with a detection limit of 1.7 pM. Thus, this approach would be a promising protein-detection procedure directly performed in the solution. (C) 2011 Elsevier B.V. All rights reserved.
+C1 [Liao, Yuhong; Yuan, Ruo; Chai, Yaqin; Mao, Li; Zhuo, Ying; Yuan, Yali; Bai, Lijuan; Yuan, Shirong] Southwest Univ, Educ Minist, Key Lab Luminescence & Real Time Anal, Coll Chem & Chem Engn, Chongqing 400715, Peoples R China.
+RP Yuan, R (corresponding author), Southwest Univ, Educ Minist, Key Lab Luminescence & Real Time Anal, Coll Chem & Chem Engn, Chongqing 400715, Peoples R China.
+EM yuanruo@swu.edu.cn
+FU NNSF of China [20675064]; Ministry of Education of China [708073];
+   Natural Science Foundation of Chongqing City [CSTC-2009BA1003,
+   CSTC-2010BB4121]; High Technology Project Foundation of Southwest
+   University [XSGX02]; State Key Laboratory of Electroanalytical Chemistry
+   [SKLEAC2010009]; Fundamental Research Funds for the Central Universities
+   [XDJK2009B013, XDJK2010C062]; Doctor Foundation of Southwest University
+   [SWU109016]; Outstanding Youth Foundation of College of Chemistry and
+   Chemical Engineering, Southwest University [SWUC009]; Southwest China
+   University, China [KB2010006]
+FX This work was supported by the NNSF of China (20675064), the Ministry of
+   Education of China (Project 708073), the Natural Science Foundation of
+   Chongqing City (CSTC-2009BA1003, CSTC-2010BB4121) and High Technology
+   Project Foundation of Southwest University (XSGX02), State Key
+   Laboratory of Electroanalytical Chemistry (SKLEAC2010009), the
+   Fundamental Research Funds for the Central Universities (XDJK2009B013,
+   XDJK2010C062), the Doctor Foundation of Southwest University (SWU109016)
+   and the Outstanding Youth Foundation of College of Chemistry and
+   Chemical Engineering, Southwest University (SWUC009), the Postgraduate
+   Science and Technology Innovation Program of Southwest China University
+   (Grant No. KB2010006), China.
+CR ANDRIEUX CP, 1990, J ELECTROANAL CHEM, V296, P117, DOI 10.1016/0022-0728(90)87237-E
+   Bard A., 1980, ELECTROCHEMICAL METH, P231
+   Bichler J, 1996, THROMB RES, V84, P289, DOI 10.1016/S0049-3848(96)00189-2
+   Cao WD, 2006, J AM CHEM SOC, V128, P7572, DOI 10.1021/ja060162g
+   Centi S, 2007, ANAL CHEM, V79, P1466, DOI 10.1021/ac061879p
+   Dai H, 2008, ELECTROCHIM ACTA, V53, P5113, DOI 10.1016/j.electacta.2008.02.044
+   Fahnrich KA, 2001, TALANTA, V54, P531, DOI 10.1016/S0039-9140(01)00312-5
+   FURBEE JW, 1993, ANAL CHEM, V65, P1654, DOI 10.1021/ac00061a004
+   Hu LZ, 2009, ANAL CHEM, V81, P9807, DOI 10.1021/ac901925x
+   Hwang GT, 2004, J AM CHEM SOC, V126, P6528, DOI 10.1021/ja049795q
+   Jie GF, 2008, ANAL CHEM, V80, P4033, DOI 10.1021/ac800052g
+   Kou R, 2009, ELECTROCHEM COMMUN, V11, P954, DOI 10.1016/j.elecom.2009.02.033
+   Lee S, 2007, BIOCHEM BIOPH RES CO, V358, P47, DOI 10.1016/j.bbrc.2007.04.057
+   Li Y, 2007, TALANTA, V72, P1704, DOI 10.1016/j.talanta.2007.01.062
+   LIU HY, 1995, ELECTROCHIM ACTA, V40, P1845, DOI 10.1016/0013-4686(95)00099-Z
+   Lu CH, 2009, ANGEW CHEM INT EDIT, V48, P4785, DOI 10.1002/anie.200901479
+   Lu J, 2008, ACS NANO, V2, P1825, DOI 10.1021/nn800244k
+   Lv W, 2009, ACS NANO, V3, P3730, DOI 10.1021/nn900933u
+   Manga KK, 2009, ADV FUNCT MATER, V19, P3638, DOI 10.1002/adfm.200900891
+   McCall J, 1999, ANAL CHEM, V71, P2523, DOI 10.1021/ac981322c
+   Paek SM, 2009, NANO LETT, V9, P72, DOI 10.1021/nl802484w
+   Pumera M, 2009, CHEM REC, V9, P211, DOI 10.1002/tcr.200900008
+   Richter MM, 2004, CHEM REV, V104, P3003, DOI 10.1021/cr020373d
+   Shan Y, 2009, CHEM COMMUN, P905, DOI 10.1039/b821049g
+   Shlyahovsky B, 2007, BIOSENS BIOELECTRON, V22, P2570, DOI 10.1016/j.bios.2006.10.009
+   Si YC, 2008, CHEM MATER, V20, P6792, DOI 10.1021/cm801356a
+   Stoller MD, 2008, NANO LETT, V8, P3498, DOI 10.1021/nl802558y
+   Sun XP, 2006, ANAL CHEM, V78, P6674, DOI 10.1021/ac060325j
+   Tyagi S, 1996, NAT BIOTECHNOL, V14, P303, DOI 10.1038/nbt0396-303
+   Tyagi S, 1998, NAT BIOTECHNOL, V16, P49, DOI 10.1038/nbt0198-49
+   Wang DH, 2009, ACS NANO, V3, P907, DOI 10.1021/nn900150y
+   Wang XY, 2007, ANAL CHIM ACTA, V598, P242, DOI 10.1016/j.aca.2007.07.050
+   Wang XY, 2010, TALANTA, V80, P1643, DOI 10.1016/j.talanta.2009.09.060
+   Wang XY, 2010, ANAL CHIM ACTA, V658, P128, DOI 10.1016/j.aca.2009.11.007
+   Wang XY, 2009, BIOSENS BIOELECTRON, V24, P3288, DOI 10.1016/j.bios.2009.04.019
+   Wang Y, 2009, ANAL CHEM, V81, P9710, DOI 10.1021/ac901935a
+   Wilson R, 2003, CHEM COMMUN, P2710, DOI 10.1039/b307550h
+   Xiao Y, 2007, J AM CHEM SOC, V129, P11896, DOI 10.1021/ja074218y
+   Xue LL, 2009, ELECTROCHEM COMMUN, V11, P1579, DOI 10.1016/j.elecom.2009.05.059
+   Yang CYJ, 2005, J AM CHEM SOC, V127, P12772, DOI 10.1021/ja053482t
+   Yang SY, 2010, ELECTROCHEM COMMUN, V12, P1206, DOI 10.1016/j.elecom.2010.06.020
+   Yoo E, 2009, NANO LETT, V9, P2255, DOI 10.1021/nl900397t
+   Zhan W, 2007, ANAL CHEM, V79, P459, DOI 10.1021/ac061336f
+   Zhang J, 2008, ANAL CHEM, V80, P2888, DOI 10.1021/ac701995g
+   Zhang J, 2011, BIOSENS BIOELECTRON, V26, P2645, DOI 10.1016/j.bios.2010.11.028
+NR 45
+TC 28
+Z9 30
+U1 1
+U2 113
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 0925-4005
+J9 SENSOR ACTUAT B-CHEM
+JI Sens. Actuator B-Chem.
+PD NOV 15
+PY 2011
+VL 158
+IS 1
+BP 393
+EP 399
+DI 10.1016/j.snb.2011.06.045
+PG 7
+WC Chemistry, Analytical; Electrochemistry; Instruments & Instrumentation
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Electrochemistry; Instruments & Instrumentation
+GA 828KP
+UT WOS:000295500200057
+DA 2022-10-19
+ER
+
+PT J
+AU Yang, MH
+   Sun, S
+   Bruck, HA
+   Kostov, Y
+   Rasooly, A
+AF Yang, Minghui
+   Sun, Steven
+   Bruck, Hugh Alan
+   Kostov, Yordan
+   Rasooly, Avraham
+TI Electrical percolation-based biosensor for real-time direct detection of
+   staphylococcal enterotoxin B (SEB)
+SO BIOSENSORS & BIOELECTRONICS
+LA English
+DT Article
+DE Biosensor; Semiconductor; Carbon nanotubes; Electrical percolation;
+   Antibody; Point of care; Personalized medicine
+ID CARBON NANOTUBES; ATOPIC-DERMATITIS; RHEUMATOID-ARTHRITIS; FOOD;
+   SUPERANTIGENS; FUNCTIONALIZATION; PREVALENCE; CHILDREN; TOXINS; ELISA
+AB Electrical percolation-based biosensing is a new technology. This is the first report of an electrical percolation-based biosensor for real-time detection. The label-free biosensor is based on electrical percolation through a single-walled carbon nanotubes (SWNTs)-antibody complex that forms a network functioning as a "Biological Semiconductor (BSC). The conductivity of a BSC is directly related to the number of contacts facilitated by the antibody-antigen "connectors" within the SWNT network. BSCs are fabricated by immobilizing a pre-functionalized SWNTs-antibody complex directly on a poly(methyl methacrylate) (PMMA) and polycarbonate (PC) surface. Each BSC is connected via silver electrodes to a computerized ohmmeter, thereby enabling a continuous electronic measurement of molecular interactions (e.g. antibody-antigen binding) via the change in resistance. Using anti-staphylococcal enterotoxin B (SEB) IgG to functionalize the BSC, we demonstrate that the biosensor was able to detect SEB at concentrations as low as 5 ng/mL at a signal to baseline (S/B) ratio of 2. Such measurements were performed on the chip in wet conditions.
+   The actuation of the chip by SEB is immediate, permitting real-time signal measurements. In addition to this "direct" label-free detection mode, a secondary antibody can be used to "label" the target molecule bound to the BSC in a manner analogous to an immunological sandwich "indirect" detection-type assay. Although a secondary antibody is not needed for direct detection, the indirect mode of detection may be useful as an additional measurement to verify or amplify signals from direct detection in clinical, food safety and other critical assays. The BSC was used to measure SEB both in buffer and in milk, a complex matrix, demonstrating the potential of electrical percolation-based biosensors for real-time label-free multi-analyte detection in clinical and complex samples. Assembly of BSCs is simple enough that multiple sensors can be fabricated on the same chip, thereby creating "Biological Central Processing Units (BCPUs)" capable of parallel processing and sorting out information on multiple analytes simultaneously which may be used for complex analysis and for point of care diagnostics. Published by Elsevier B.V.
+C1 [Yang, Minghui; Sun, Steven; Kostov, Yordan] Univ Maryland Baltimore Cty, Ctr Adv Sensor Technol, Baltimore, MD 21250 USA.
+   [Bruck, Hugh Alan] Univ Maryland, College Pk, MD 20742 USA.
+   [Sun, Steven; Rasooly, Avraham] US FDA, Div Biol, Off Sci & Engn, Silver Spring, MD 20993 USA.
+   [Rasooly, Avraham] NCI, Bethesda, MD 20892 USA.
+   [Yang, Minghui] Univ Jinan, Sch Chem & Chem Engn, Jinan 250022, Peoples R China.
+RP Rasooly, A (corresponding author), NCI, NIH, 6130 Execut Blvd,EPN,Room 6035A, Rockville, MD 20852 USA.
+EM rasoolya@mail.nih.gov
+RI Rasooly, Avraham/AAH-4518-2021; Bruck, Hugh Alan/I-1154-2018
+OI Bruck, Hugh Alan/0000-0002-0845-765X
+FU Intramural NIH HHS [Z99 CA999999] Funding Source: Medline
+CR Olsen S J, 2000, MMWR CDC Surveill Summ, V49, P1
+   ARCHER D L, 1988, Clinical Microbiology Reviews, V1, P377
+   Bean Nancy H., 1996, Morbidity and Mortality Weekly Report, V45, P1
+   Bennett RW, 2005, J FOOD PROTECT, V68, P1264, DOI 10.4315/0362-028X-68.6.1264
+   BERGER M, 1967, BIBL GYNAECOL, P1
+   Breuer K, 2000, ALLERGY, V55, P551, DOI 10.1034/j.1398-9995.2000.00432.x
+   Bunikowski R, 1999, J ALLERGY CLIN IMMUN, V103, P119, DOI 10.1016/S0091-6749(99)70535-X
+   Bunning V. Kelly, 1997, World Health Statistics Quarterly, V50, P51
+   Chen RJ, 2003, P NATL ACAD SCI USA, V100, P4984, DOI 10.1073/pnas.0837064100
+   Chen RJ, 2001, J AM CHEM SOC, V123, P3838, DOI 10.1021/ja010172b
+   EVENSON ML, 1988, INT J FOOD MICROBIOL, V7, P311, DOI 10.1016/0168-1605(88)90057-8
+   GARTHRIGHT WE, 1988, PUBLIC HEALTH REP, V103, P107
+   Guglielmo-Viret V, 2005, J IMMUNOL METHODS, V301, P164, DOI 10.1016/j.jim.2005.04.003
+   Henghold WB, 2004, DERMATOL CLIN, V22, P257, DOI 10.1016/j.det.2004.03.004
+   Herz U, 1999, INT ARCH ALLERGY IMM, V118, P240, DOI 10.1159/000024085
+   Homola J, 2002, INT J FOOD MICROBIOL, V75, P61, DOI 10.1016/S0168-1605(02)00010-7
+   HOWELL MD, 1991, P NATL ACAD SCI USA, V88, P10921, DOI 10.1073/pnas.88.23.10921
+   IIJIMA S, 1991, NATURE, V354, P56, DOI 10.1038/354056a0
+   Kong J, 2000, SCIENCE, V287, P622, DOI 10.1126/science.287.5453.622
+   Kong J, 2001, J PHYS CHEM B, V105, P2890, DOI 10.1021/jp0101312
+   Ler SG, 2006, J CHROMATOGR A, V1133, P1, DOI 10.1016/j.chroma.2006.08.078
+   Mempel M, 2003, EUR J CLIN MICROBIOL, V22, P306, DOI 10.1007/s10096-003-0928-0
+   Nedelkov D, 2000, INT J FOOD MICROBIOL, V60, P1, DOI 10.1016/S0168-1605(00)00328-7
+   Rasooly A, 2006, J AOAC INT, V89, P873
+   Rasooly A, 2001, J FOOD PROTECT, V64, P37, DOI 10.4315/0362-028X-64.1.37
+   Rasooly L, 1999, INT J FOOD MICROBIOL, V49, P119, DOI 10.1016/S0168-1605(99)00053-7
+   Rosenbloom Mark, 2002, Am J Ther, V9, P5, DOI 10.1097/00045391-200201000-00003
+   Sapsford KE, 2005, APPL ENVIRON MICROB, V71, P5590, DOI 10.1128/AEM.71.9.5590-5592.2005
+   Sapsford KE, 2009, ANAL BIOANAL CHEM, V394, P499, DOI 10.1007/s00216-009-2730-z
+   Shriver-Lake LC, 2003, J FOOD PROTECT, V66, P1851, DOI 10.4315/0362-028X-66.10.1851
+   Soelberg SD, 2005, J IND MICROBIOL BIOT, V32, P669, DOI 10.1007/s10295-005-0044-5
+   Sun S, 2009, LAB CHIP, V9, P3275, DOI 10.1039/b912097a
+   Tans SJ, 1997, NATURE, V386, P474, DOI 10.1038/386474a0
+   UEMATSU Y, 1991, P NATL ACAD SCI USA, V88, P8534, DOI 10.1073/pnas.88.19.8534
+   Wiener SL, 1996, MIL MED, V161, P251, DOI 10.1093/milmed/161.5.251
+   Yang MH, 2008, ANAL CHEM, V80, P8532, DOI 10.1021/ac801418n
+   Yang M, 2008, INT J FOOD MICROBIOL, V127, P78, DOI 10.1016/j.ijfoodmicro.2008.06.012
+   Yang MH, 2010, ANAL CHEM, V82, P3567, DOI 10.1021/ac902644z
+   Yang MH, 2009, INT J FOOD MICROBIOL, V133, P265, DOI 10.1016/j.ijfoodmicro.2009.05.029
+   Yu X, 2005, MOL BIOSYST, V1, P70, DOI 10.1039/b502124c
+NR 40
+TC 22
+Z9 25
+U1 1
+U2 29
+PU ELSEVIER ADVANCED TECHNOLOGY
+PI OXFORD
+PA OXFORD FULFILLMENT CENTRE THE BOULEVARD, LANGFORD LANE, KIDLINGTON,
+   OXFORD OX5 1GB, OXON, ENGLAND
+SN 0956-5663
+J9 BIOSENS BIOELECTRON
+JI Biosens. Bioelectron.
+PD AUG 15
+PY 2010
+VL 25
+IS 12
+BP 2573
+EP 2578
+DI 10.1016/j.bios.2010.04.019
+PG 6
+WC Biophysics; Biotechnology & Applied Microbiology; Chemistry, Analytical;
+   Electrochemistry; Nanoscience & Nanotechnology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biophysics; Biotechnology & Applied Microbiology; Chemistry;
+   Electrochemistry; Science & Technology - Other Topics
+GA 620YI
+UT WOS:000279538700004
+PM 20447819
+OA Green Accepted
+DA 2022-10-19
+ER
+
+PT J
+AU Bangar, MA
+   Shirale, DJ
+   Purohit, HJ
+   Chen, W
+   Myung, NV
+   Mulchandani, A
+AF Bangar, Mangesh A.
+   Shirale, Dhammanand J.
+   Purohit, Hemant J.
+   Chen, Wilfred
+   Myung, Nosang V.
+   Mulchandani, Ashok
+TI Single Conducting Polymer Nanowire Based Sequence-Specific,
+   Base-Pair-Length Dependant Label-free DNA Sensor
+SO ELECTROANALYSIS
+LA English
+DT Article
+DE Conducting polymer nanowire; DNA sensor; Gating effect; Work function
+   difference; Breast cancer; Metagenomics; Nanowires
+ID FIELD-EFFECT TRANSISTORS; OLIGONUCLEOTIDE-FUNCTIONALIZED POLYPYRROLE;
+   ELECTROCHEMICAL DETECTION; ELECTRICAL DETECTION; ELECTRONIC DETECTION;
+   NANOPARTICLE PROBES; GOLD SURFACES; HYBRIDIZATION; RECOGNITION;
+   MONOLAYERS
+AB We have fabricated a highly sensitive, simple and label-free single polypyrrole (Ppy) nanowire based conductometric/chemiresistive DNA sensor. The fabrication was optimized in terms of probe DNA sequence immobilization using a linker molecule and using gold-thiol interaction. Two resultant sensor designs working on two different sensing mechanisms (gating effect and work function based sensors) were tested to establish reliable sensor architecture with higher sensitivity and device-to-device reproducibility. The utility of the work function based configuration was demonstrated by detecting 19 base pair (bp) long breast cancer gene sequence with single nucleotide polymorphism (SNP) discrimination with high sensitivity, lower detection limit of similar to 10(-16) M and wide dynamic range (similar to 10(-16) to 10(-11) M) in a small sample volume (30 mu L). To further demonstrate the utility of the DNA sensor for detection of target sequences with different number of bases, targets with 21 and 36 bases were detected. These sequences have implications in environmental sample analysis or metagenomics. Sensor response showed increase with the number of bases in the target sequence. For long sequence (with 36 bases), effect of DNA alignment on sensor performance was studied.
+C1 [Bangar, Mangesh A.; Shirale, Dhammanand J.; Chen, Wilfred; Myung, Nosang V.; Mulchandani, Ashok] Univ Calif Riverside, Riverside, CA 92521 USA.
+   [Purohit, Hemant J.] Natl Environm Engn Res Inst, CSIR, Environm Genom Unit, Nagpur 440020, Maharashtra, India.
+RP Mulchandani, A (corresponding author), Univ Calif Riverside, Riverside, CA 92521 USA.
+EM adani@engr.ucr.edu
+RI Mulchandani, Ashok/B-9692-2016; Shirale, Dhammanand J/H-1994-2016;
+   Mulchandani, Ashok/R-6130-2019; Chen, Wilfred/H-4335-2013
+OI Mulchandani, Ashok/0000-0002-2831-4154; Shirale,
+   Dhammanand/0000-0003-3021-3253
+FU U.S. EPA [GR-83237501]; NSF [CBET-0617240]; NIH [U01ES016026]; CSIR,
+   India [SIP16:4.1]
+FX We acknowledge the support of Grants GR-83237501 from the U.S. EPA,
+   CBET-0617240 from NSF and U01ES016026 from NIH. HJP is supported through
+   CSIR, India, Grant SIP16:4.1.
+CR Arinaga K, 2006, LANGMUIR, V22, P5560, DOI 10.1021/la060324m
+   Bangar MA, 2009, ANAL CHEM, V81, P2168, DOI 10.1021/ac802319f
+   Byon HR, 2006, J AM CHEM SOC, V128, P2188, DOI 10.1021/ja056897n
+   Cai H, 2002, ANAL CHIM ACTA, V469, P165, DOI 10.1016/S0003-2670(02)00670-0
+   Chen CP, 2009, ANAL CHEM, V81, P36, DOI 10.1021/ac800986q
+   Demers LM, 2002, J AM CHEM SOC, V124, P11248, DOI 10.1021/ja0265355
+   Dong XC, 2008, ADV MATER, V20, P2389, DOI 10.1002/adma.200702798
+   Drummond TG, 2003, NAT BIOTECHNOL, V21, P1192, DOI 10.1038/nbt873
+   Forzani ES, 2004, NANO LETT, V4, P1785, DOI 10.1021/nl049080l
+   Fritz J, 2002, P NATL ACAD SCI USA, V99, P14142, DOI 10.1073/pnas.232276699
+   Fritz J, 2000, SCIENCE, V288, P316, DOI 10.1126/science.288.5464.316
+   Gao ZQ, 2007, ANAL CHEM, V79, P3291, DOI 10.1021/ac061808q
+   Georgiadis R, 2000, J AM CHEM SOC, V122, P3166, DOI 10.1021/ja9930824
+   Gui EL, 2007, J AM CHEM SOC, V129, P14427, DOI 10.1021/ja075176g
+   Hahm J, 2004, NANO LETT, V4, P51, DOI 10.1021/nl034853b
+   He PG, 2004, CHEM COMMUN, P348, DOI 10.1039/b313030b
+   Heller I, 2008, NANO LETT, V8, P591, DOI 10.1021/nl072996i
+   Herne TM, 1997, J AM CHEM SOC, V119, P8916, DOI 10.1021/ja9719586
+   Ingebrandt S, 2006, PHYS STATUS SOLIDI A, V203, P3399, DOI 10.1002/pssa.200622465
+   Janata J, 2003, NAT MATER, V2, P19, DOI 10.1038/nmat768
+   Kauffman DR, 2008, CHEM SOC REV, V37, P1197, DOI 10.1039/b709567h
+   Kerman K, 2003, ELECTROCHEM COMMUN, V5, P887, DOI 10.1016/j.elecom.2003.08.013
+   Kick A, 2009, J ELECTRON SPECTROSC, V172, P36, DOI 10.1016/j.elspec.2009.04.002
+   Kimura-Suda H, 2003, J AM CHEM SOC, V125, P9014, DOI 10.1021/ja035756n
+   Kluber S, 2001, T ROY SOC TROP MED H, V95, P169, DOI 10.1016/S0035-9203(01)90148-8
+   Ko S, 2008, ULTRAMICROSCOPY, V108, P1328, DOI 10.1016/j.ultramic.2008.04.045
+   KorriYoussoufi H, 1997, J AM CHEM SOC, V119, P7388, DOI 10.1021/ja964261d
+   Krishnamoorthy K, 2004, CHEM COMMUN, P820, DOI 10.1039/b316794a
+   Lao RJ, 2005, ANAL CHEM, V77, P6475, DOI 10.1021/ac050911x
+   Levicky R, 1998, J AM CHEM SOC, V120, P9787, DOI 10.1021/ja981897r
+   Li Z, 2005, APPL PHYS A-MATER, V80, P1257, DOI 10.1007/s00339-004-3157-1
+   Lubin AA, 2006, ANAL CHEM, V78, P5671, DOI 10.1021/ac0601819
+   McDonnell JM, 2001, CURR OPIN CHEM BIOL, V5, P572, DOI 10.1016/S1367-5931(00)00251-9
+   Niu SY, 2009, J INORG BIOCHEM, V103, P43, DOI 10.1016/j.jinorgbio.2008.09.001
+   Parak WJ, 2003, NANO LETT, V3, P33, DOI 10.1021/nl025888z
+   Peng H, 2009, BIOMATERIALS, V30, P2132, DOI 10.1016/j.biomaterials.2008.12.065
+   Peng N, 2009, NANO LETT, V9, P1626, DOI 10.1021/nl803930w
+   Peterson AW, 2001, NUCLEIC ACIDS RES, V29, P5163, DOI 10.1093/nar/29.24.5163
+   Petrovykh DY, 2004, LANGMUIR, V20, P429, DOI 10.1021/la034944o
+   Pouthas F, 2004, APPL PHYS LETT, V84, P1594, DOI 10.1063/1.1650907
+   Ramanathan K, 2005, J AM CHEM SOC, V127, P496, DOI 10.1021/ja044486l
+   Ramsay G, 1998, NAT BIOTECHNOL, V16, P40, DOI 10.1038/nbt0198-40
+   Star A, 2006, P NATL ACAD SCI USA, V103, P921, DOI 10.1073/pnas.0504146103
+   Steel AB, 1998, ANAL CHEM, V70, P4670, DOI 10.1021/ac980037q
+   Storhoff JJ, 1998, J AM CHEM SOC, V120, P1959, DOI 10.1021/ja972332i
+   Storhofff JJ, 2002, LANGMUIR, V18, P6666, DOI 10.1021/la0202428
+   Tang XW, 2006, NANO LETT, V6, P1632, DOI 10.1021/nl060613v
+   Taton TA, 2000, SCIENCE, V289, P1757, DOI 10.1126/science.289.5485.1757
+   Tolani SB, 2009, ANAL BIOANAL CHEM, V393, P1225, DOI 10.1007/s00216-008-2556-0
+   Uno T, 2007, ANAL CHEM, V79, P52, DOI 10.1021/ac060273y
+   Wang J, 1999, ANAL CHIM ACTA, V402, P7, DOI 10.1016/S0003-2670(99)00531-0
+   Wang J, 1999, BIOELECTROCH BIOENER, V48, P477, DOI 10.1016/S0302-4598(99)00003-3
+   Wang J, 2003, ANAL CHIM ACTA, V500, P247, DOI 10.1016/S0003-2670(03)00725-6
+   Yoon H, 2008, CHEMBIOCHEM, V9, P634, DOI 10.1002/cbic.200700660
+NR 54
+TC 34
+Z9 34
+U1 0
+U2 29
+PU WILEY-V C H VERLAG GMBH
+PI WEINHEIM
+PA POSTFACH 101161, 69451 WEINHEIM, GERMANY
+SN 1040-0397
+EI 1521-4109
+J9 ELECTROANAL
+JI Electroanalysis
+PD FEB
+PY 2011
+VL 23
+IS 2
+BP 371
+EP 379
+DI 10.1002/elan.201000388
+PG 9
+WC Chemistry, Analytical; Electrochemistry
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Electrochemistry
+GA 718VZ
+UT WOS:000287155900010
+DA 2022-10-19
+ER
+
+PT J
+AU Rems, L
+   Tarek, M
+   Casciola, M
+   Miklavcic, D
+AF Rems, Lea
+   Tarek, Mounir
+   Casciola, Maura
+   Miklavcic, Damijan
+TI Properties of lipid electropores II: Comparison of continuum-level
+   modeling of pore conductance to molecular dynamics simulations
+SO BIOELECTROCHEMISTRY
+LA English
+DT Article
+DE Electroporation; Lipid bilayer; Pore conductance; Molecular dynamics
+   simulations; Poisson-Nernst-Planck theory
+ID REVERSIBLE ELECTRICAL BREAKDOWN; NERNST-PLANCK EQUATIONS; BROWNIAN
+   DYNAMICS; ION CHANNELS; BILAYER-MEMBRANES; POISSON-BOLTZMANN;
+   ELECTRODIFFUSION THEORY; SINGLE-CELL; SELECTIVITY; WATER
+AB Electrical conductance of an aqueous pore in the lipid bilayer has an important role in the process of membrane electroporation, i.e., formation of pores induced by electric pulses. In our present study we compare the pore conductance as predicted by a theoretical model based on the continuum Poisson-Nernst-Planck theory to the pore conductance obtained with molecular dynamics simulations (Casciola et al., Bioelectrochemistry 109:108-116, 2016). Our analysis demonstrates that the Poisson-Nernst-Planck model is able to quantitatively predict the dependence of the pore conductance on the pore radius when considering the toroidal shape of the pore. In order to correctly describe the difference in the pore conductance for CI and Na ions (the pore selectivity), however, it is necessary to take into account the electric double layer next to the lipid-water interface and the electroosmotic flow through the pore. We further show that simplified analytical descriptions of pore conductance can lead to incorrect predictions of the pore size extracted from experimental measurements, and can affect the predictions of electroporation models. Overall, this study demonstrates that continuum modeling can be efficiently used as complementary method to molecular scale models for investigating lipid pores. (C) 2016 Elsevier B.V. All rights reserved.
+C1 [Rems, Lea; Miklavcic, Damijan] Univ Ljubljana, Fac Elect Engn, Trzaska 25, SI-1000 Ljubljana, Slovenia.
+   [Tarek, Mounir; Casciola, Maura] Univ Lorraine, UMR 7565, SRSMC, F-54506 Vandoeuvre Les Nancy, France.
+   [Tarek, Mounir] CNRS, UMR 7565, SRSMC, F-54506 Vandoeuvre Les Nancy, France.
+   [Casciola, Maura] Sapienza Univ Rome, Dept Informat Engn Elect & Telecommun DIET, I-00184 Rome, Italy.
+   [Casciola, Maura] Ist Italian Tecnol, Ctr Life Nano Sci Sapienza, I-00161 Rome, Italy.
+   [Rems, Lea] Delft Univ Technol, Dept Chem Engn, NL-2628 BL Delft, Netherlands.
+RP Tarek, M (corresponding author), Univ Lorraine, Unite Mixte Rech 7565, CNRS, Blvd Aiguillettes,BP 70239, F-54506 Vandoeuvre Les Nancy, France.
+EM mounir.tarek@univ-lorraine.fr
+RI TAREK, Mounir/B-8443-2012; Miklavčič, Damijan/A-9497-2008; Rems,
+   Lea/U-4161-2019
+OI Miklavčič, Damijan/0000-0003-3506-9449; Rems, Lea/0000-0001-7470-4367
+FU Slovenian Research Agency (ARRS) [P2-0249]; "Istituto Italiano di
+   Tecnologia" (IIT) [81/13]; French Agence Nationale de la Recherche
+   [ANR-10_BLAN-916-03-INTCELL, STSM-TD1104-270215-057439]; COST action
+   [TD1104]
+FX L.R. and D.M. acknowledge the support from the Slovenian Research Agency
+   (ARRS) under the program P2-0249 and funding for junior Researchers
+   R856. M.C. acknowledges the support of the "Istituto Italiano di
+   Tecnologia" (IIT) under project 81/13 16-04-2013. M.T. acknowledges the
+   support of the French Agence Nationale de la Recherche, under grant
+   ANR-10_BLAN-916-03-INTCELL Part of the study was performed during the
+   Short Term Scientific Mission (STSM-TD1104-270215-057439) of L.R., which
+   was granted by COST action TD1104 (www.electroporation.net). The study
+   was conducted in the scope of the European Associated Laboratory for
+   Pulsed Electric Field Applications in Biology and Medicine (LEA EBAM).
+CR Abidor I. G., 1979, J ELECTROANAL CHEM, V104, P37, DOI DOI 10.1016/S0022-0728(79)81006-2
+   Gonzalez MA, 2010, J CHEM PHYS, V132, DOI 10.1063/1.3330544
+   Antezana Zbinden MD, 2013, BIOTECHNOL BIOENG, V110, P1605, DOI 10.1002/bit.24829
+   Atkins P., 2009, PHYS CHEM, Vninth
+   BARNETT A, 1990, BIOCHIM BIOPHYS ACTA, V1025, P10, DOI 10.1016/0005-2736(90)90184-P
+   BARNETT A, 1991, BIOELECTROCH BIOENER, V25, P163, DOI 10.1016/0302-4598(91)87001-W
+   Bhattacharyya S, 2009, COLLOID SURFACE A, V339, P167, DOI 10.1016/j.colsurfa.2009.02.017
+   Burger M, 2012, NONLINEARITY, V25, DOI 10.1088/0951-7715/25/4/961
+   Cannon R, 2013, J SURG ONCOL, V107, P544, DOI 10.1002/jso.23280
+   Casciola M, 2016, BIOELECTROCHEMISTRY, V109, P108, DOI 10.1016/j.bioelechem.2016.01.006
+   Conlis A.T., 2006, BIOMEMS BIOMED NANOT, P301
+   Corry B, 2000, BIOPHYS J, V78, P2364, DOI 10.1016/S0006-3495(00)76781-6
+   Corry B, 2003, BIOPHYS J, V84, P3594, DOI 10.1016/S0006-3495(03)75091-7
+   Daiguji H, 2004, NANO LETT, V4, P137, DOI 10.1021/nl0348185
+   DeBruin KA, 1999, BIOPHYS J, V77, P1213, DOI 10.1016/S0006-3495(99)76973-0
+   English NJ, 2015, PHYS CHEM CHEM PHYS, V17, P12407, DOI 10.1039/c5cp00629e
+   Gillespie D, 2005, J PHYS-CONDENS MAT, V17, P6609, DOI 10.1088/0953-8984/17/42/002
+   Gillespie D, 2008, BIOPHYS J, V94, P1169, DOI 10.1529/biophysj.107.113084
+   GLASER RW, 1988, BIOCHIM BIOPHYS ACTA, V940, P275, DOI 10.1016/0005-2736(88)90202-7
+   Goulding D, 2000, PHYS REV LETT, V85, P1132, DOI 10.1103/PhysRevLett.85.1132
+   Gowrishankar TR, 2006, BIOCHEM BIOPH RES CO, V341, P1266, DOI 10.1016/j.bbrc.2006.01.094
+   Gurtovenko AA, 2014, J PHYS CHEM B, V118, P9909, DOI 10.1021/jp5028355
+   Gurtovenko AA, 2010, CHEM REV, V110, P6077, DOI 10.1021/cr1000783
+   Gusbeth C, 2009, CHEMOSPHERE, V75, P228, DOI 10.1016/j.chemosphere.2008.11.066
+   HASTED JB, 1948, J CHEM PHYS, V16, P1, DOI 10.1063/1.1746645
+   HIBINO M, 1993, BIOPHYS J, V64, P1789, DOI 10.1016/S0006-3495(93)81550-9
+   Ho MC, 2013, J PHYS CHEM B, V117, P11633, DOI 10.1021/jp401722g
+   Hu Y, 2015, LANGMUIR, V31, P6615, DOI 10.1021/la504049q
+   Hummer G, 2005, NEW J PHYS, V7, DOI 10.1088/1367-2630/7/1/034
+   Hyon Y, 2011, COMMUN MATH SCI, V9, P459
+   Im W, 2002, J MOL BIOL, V322, P851, DOI 10.1016/S0022-2836(02)00778-7
+   Joshi RP, 2015, J APPL PHYS, V118, DOI 10.1063/1.4929808
+   Kakorin S, 2002, BIOELECTROCHEMISTRY, V56, P163, DOI 10.1016/S1567-5394(02)00040-3
+   Kalinowski S, 1998, BBA-BIOMEMBRANES, V1369, P204, DOI 10.1016/S0005-2736(97)00222-8
+   Kapla J, 2013, J PHYS CHEM B, V117, P6667, DOI 10.1021/jp402385d
+   Kirby B., 2013, MICRO NANOSCALE FLUI, V1
+   Knecht V, 2013, BIOPHYS J, V104, P818, DOI 10.1016/j.bpj.2012.12.056
+   Koronkiewicz S, 2002, BBA-BIOMEMBRANES, V1561, P222, DOI 10.1016/S0005-2736(02)00347-4
+   Kotulska M, 2010, ADV ELECTROPORATION, P123
+   Kotulska M, 2010, J MEMBRANE BIOL, V236, P37, DOI 10.1007/s00232-010-9285-y
+   Kramar P, 2012, J MEMBRANE BIOL, V245, P651, DOI 10.1007/s00232-012-9487-6
+   Kramar P, 2010, ADV PLANAR LIP BILAY, V11, P29, DOI 10.1016/S1554-4516(10)11002-3
+   Krassowska W, 2007, BIOPHYS J, V92, P404, DOI 10.1529/biophysj.106.094235
+   Lakshmanan S, 2014, ADV DRUG DELIVER REV, V71, P98, DOI 10.1016/j.addr.2013.05.010
+   Fernandez ML, 2012, BIOCHEM BIOPH RES CO, V423, P325, DOI 10.1016/j.bbrc.2012.05.122
+   Lee SH, 1996, J PHYS CHEM-US, V100, P1420, DOI 10.1021/jp953050c
+   Leguebe M, 2014, J THEOR BIOL, V360, P83, DOI 10.1016/j.jtbi.2014.06.027
+   Li J, 2013, BBA-BIOMEMBRANES, V1828, P461, DOI 10.1016/j.bbamem.2012.08.014
+   Li JB, 2011, BIOELECTROCHEMISTRY, V82, P10, DOI 10.1016/j.bioelechem.2011.04.006
+   Li JB, 2010, BIOMICROFLUIDICS, V4, DOI 10.1063/1.3324847
+   Lin TC, 2015, NONLINEARITY, V28, P2053, DOI 10.1088/0951-7715/28/7/2053
+   Lin TC, 2014, COMMUN MATH SCI, V12, P149
+   Liu C, 2013, NANO LETT, V13, P4288, DOI 10.1021/nl402053z
+   Liu JL, 2015, PHYS REV E, V92, DOI 10.1103/PhysRevE.92.012711
+   Mahnic-Kalamiza S, 2014, J MEMBRANE BIOL, V247, P1279, DOI 10.1007/s00232-014-9737-x
+   Mamonov AB, 2006, BIOPHYS CHEM, V124, P268, DOI 10.1016/j.bpc.2006.03.019
+   Melikov KC, 2001, BIOPHYS J, V80, P1829, DOI 10.1016/S0006-3495(01)76153-X
+   Mezeme ME, 2012, APPL PHYS LETT, V100, DOI 10.1063/1.3700727
+   Miklavcic D, 2010, RADIOL ONCOL, V44, P34, DOI 10.2478/v10019-010-0002-3
+   Moy G, 2000, BIOPHYS J, V78, P2349, DOI 10.1016/S0006-3495(00)76780-4
+   Neu JC, 2003, BIOELECTROCHEMISTRY, V60, P107, DOI 10.1016/S1567-5394(03)00051-3
+   Nilson RH, 2006, J CHEM PHYS, V125, DOI 10.1063/1.2358684
+   Nonner W, 2000, BIOPHYS J, V79, P1976, DOI 10.1016/S0006-3495(00)76446-0
+   Noskov SY, 2004, BIOPHYS J, V87, P2299, DOI 10.1529/biophysj.104.044008
+   Pera H, 2015, J CHEM PHYS, V142, DOI 10.1063/1.4905260
+   Phoon PY, 2008, J FOOD ENG, V88, P144, DOI 10.1016/j.jfoodeng.2007.12.016
+   Piggot TJ, 2011, J PHYS CHEM B, V115, P13381, DOI 10.1021/jp207013v
+   Pucihar G, 2009, IEEE T BIO-MED ENG, V56, P1491, DOI 10.1109/TBME.2009.2014244
+   Rems L, 2013, SCI REP-UK, V3, DOI 10.1038/srep03382
+   Roux B, 2004, Q REV BIOPHYS, V37, P15, DOI 10.1017/S0033583504003968
+   Sack M, 2010, FOOD ENG REV, V2, P147, DOI 10.1007/s12393-010-9017-1
+   Salomone F, 2014, MOL PHARMACEUT, V11, P2466, DOI 10.1021/mp500223t
+   Schmeer M, 2004, PHYS CHEM CHEM PHYS, V6, P5564, DOI 10.1039/b411037d
+   Sersa G, 2015, CANCER IMMUNOL IMMUN, V64, P1315, DOI 10.1007/s00262-015-1724-2
+   Shayanfar S, 2013, INT J FOOD SCI TECH, V48, P1289, DOI 10.1111/ijfs.12089
+   Smith KC, 2014, BIOELECTROCHEMISTRY, V100, P3, DOI 10.1016/j.bioelechem.2013.10.009
+   Szabo M., 2015, BIOCH BIOPHYS ACTA B
+   Teissie J, 2005, BBA-GEN SUBJECTS, V1724, P270, DOI 10.1016/j.bbagen.2005.05.006
+   Teissie J., 2013, NOV GENE THER APPROA
+   Toepfl S, 2007, CHEM ENG PROCESS, V46, P537, DOI 10.1016/j.cep.2006.07.011
+   van der Spoel D, 1998, J CHEM PHYS, V108, P10220, DOI 10.1063/1.476482
+   Vasilkoski Z, 2006, PHYS REV E, V74, DOI 10.1103/PhysRevE.74.021904
+   Vernier PT, 2013, P IEEE, V101, P494, DOI 10.1109/JPROC.2012.2222011
+   Vorobyov I, 2014, BIOPHYS J, V106, P586, DOI 10.1016/j.bpj.2013.12.027
+   Weaver JC, 1996, BIOELECTROCH BIOENER, V41, P135, DOI 10.1016/S0302-4598(96)05062-3
+   Wegner LH, 2015, BIOPHYS J, V108, P1660, DOI 10.1016/j.bpj.2015.01.038
+   WILHELM C, 1993, BIOPHYS J, V64, P121, DOI 10.1016/S0006-3495(93)81346-8
+   Yan LM, 2008, J PHYS CHEM B, V112, P5602, DOI 10.1021/jp7121449
+   Yang M, 2015, ANAL CHEM, V87, P1544, DOI 10.1021/ac503813r
+   Yarmush ML, 2014, ANNU REV BIOMED ENG, V16, P295, DOI 10.1146/annurev-bioeng-071813-104622
+   Zhang Y, 2014, CHINESE SCI BULL, V59, P4908, DOI 10.1007/s11434-014-0655-1
+   Zheng Q, 2011, J CHEM PHYS, V134, DOI 10.1063/1.3581031
+NR 92
+TC 12
+Z9 12
+U1 2
+U2 30
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 1567-5394
+EI 1878-562X
+J9 BIOELECTROCHEMISTRY
+JI Bioelectrochemistry
+PD DEC
+PY 2016
+VL 112
+BP 112
+EP 124
+DI 10.1016/j.bioelechem.2016.03.005
+PG 13
+WC Biochemistry & Molecular Biology; Biology; Biophysics; Electrochemistry
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Biochemistry & Molecular Biology; Life Sciences & Biomedicine - Other
+   Topics; Biophysics; Electrochemistry
+GA DW3EB
+UT WOS:000383523800015
+PM 27091314
+DA 2022-10-19
+ER
+
+EF

@@ -1,0 +1,273 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Di Napoli, S
+   Thiess, A
+   Blugel, S
+   Mokrousov, Y
+AF Di Napoli, S.
+   Thiess, A.
+   Bluegel, S.
+   Mokrousov, Y.
+TI Modeling impurity-assisted chain creation in noble-metal break junctions
+SO JOURNAL OF PHYSICS-CONDENSED MATTER
+LA English
+DT Article
+ID GOLD; CONDUCTANCE; WIRES
+AB In this work we present the generalization of the model for chain formation in break junctions, introduced by Thiess et al (2008 Nano Lett. 8 2144), to zigzag transition-metal chains with s and p impurities. We apply this extended model to study the producibility trends for noble-metal chains with impurities, often present in break junction experiments, namely, Cu, Ag and Au chains with H, C, O and N adatoms. Providing the material-specific parameters for our model from systematic full-potential linearized augmented plane-wave first-principles calculations, we find that the presence of such impurities crucially affects the binding properties of the noble-metal chains. We reveal that both the impurity-induced bond strengthening and the formation of zigzag bonds can lead to a significantly enhanced probability for chain formation in break junctions.
+C1 [Di Napoli, S.] CAC CNEA, Dept Fis Materia Condensada, RA-1650 San Martin, Pcia De Buenos, Argentina.
+   [Di Napoli, S.] Consejo Nacl Invest Cient & Tecn, Consejo Nacl Invest Cient & Tecn, RA-1033 Buenos Aires, DF, Argentina.
+   [Thiess, A.; Bluegel, S.; Mokrousov, Y.] Forschungszentrum Julich, Peter Grunberg Inst, D-52425 Julich, Germany.
+   [Thiess, A.; Bluegel, S.; Mokrousov, Y.] Forschungszentrum Julich, Inst Adv Simulat, D-52425 Julich, Germany.
+   [Thiess, A.; Bluegel, S.; Mokrousov, Y.] JARA, D-52425 Julich, Germany.
+RP Di Napoli, S (corresponding author), CAC CNEA, Dept Fis Materia Condensada, Ave Gen Paz 1499, RA-1650 San Martin, Pcia De Buenos, Argentina.
+EM dinapoli@tandar.cnea.gov.ar
+RI Blügel, Stefan/J-8323-2013; Mokrousov, Yuriy/H-8517-2013
+OI Blügel, Stefan/0000-0001-9987-4733; Mokrousov,
+   Yuriy/0000-0003-1072-2421; Di Napoli, Solange/0000-0002-0565-3778
+FU HGF-YIG [VH-NG-513]; Conicet [PIP00258]
+FX The authors kindly thank Professors J M van Ruitenbek and E Scheer for
+   inspiring and fruitful discussions. YM gratefully acknowledges funding
+   under the HGF-YIG Programme VH-NG-513 and SDN acknowledges funding from
+   Conicet, PIP00258.
+CR Amorim EPM, 2007, NANOTECHNOLOGY, V18, DOI 10.1088/0957-4484/18/14/145701
+   Anglada E, 2007, PHYS REV LETT, V98, DOI 10.1103/PhysRevLett.98.096102
+   Ayuela A, 2005, PHYS REV B, V72, DOI 10.1103/PhysRevB.72.161403
+   Bahn SR, 2002, PHYS REV B, V66, DOI 10.1103/PhysRevB.66.081405
+   Bahn SR, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.266101
+   Barnett RN, 2004, NANO LETT, V4, P1845, DOI 10.1021/nl049054n
+   Cakir D, 2011, PHYS REV B, V84, DOI 10.1103/PhysRevB.84.085450
+   Calzolari A, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.096404
+   da Silva EZ, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.256102
+   Fernandez-Seivane L, 2007, PHYS REV B, V75, DOI 10.1103/PhysRevB.75.075415
+   Hasmy A, 2008, PHYS REV B, V78, DOI 10.1103/PhysRevB.78.115409
+   Hobi E, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.056104
+   Kizuka T, 2008, PHYS REV B, V77, DOI 10.1103/PhysRevB.77.155401
+   Kondo Y, 2000, SCIENCE, V289, P606, DOI 10.1126/science.289.5479.606
+   Legoas SB, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.216103
+   Mokrousov Y, 2005, PHYS REV B, V72, DOI 10.1103/PhysRevB.72.045402
+   Novaes FD, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.016104
+   Novaes FD, 2003, PHYS REV LETT, V90, DOI 10.1103/PhysRevLett.90.036101
+   Ohnishi H, 1998, NATURE, V395, P780, DOI 10.1038/27399
+   Rodrigues V, 2002, PHYS REV B, V65, DOI 10.1103/PhysRevB.65.153402
+   Rubio-Bollinger G, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.026101
+   Ryu M, 2006, JPN J APPL PHYS 1, V45, P8952, DOI 10.1143/JJAP.45.8952
+   Sanchez-Portal D, 1999, PHYS REV LETT, V83, P3884, DOI 10.1103/PhysRevLett.83.3884
+   Sanchez-Portal D, 2001, SURF SCI, V482, P1261, DOI 10.1016/S0039-6028(01)00875-5
+   SKRIVER HL, 1992, PHYS REV B, V46, P7157, DOI 10.1103/PhysRevB.46.7157
+   Smit RHM, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.266102
+   Thiess A, 2008, NANO LETT, V8, P2144, DOI 10.1021/nl0800671
+   Thiess A, 2009, PHYS REV LETT, V103, DOI 10.1103/PhysRevLett.103.217201
+   Thiess A, 2010, PHYS REV B, V81, DOI 10.1103/PhysRevB.81.054433
+   Thijssen WHA, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.026806
+   Tosatti E, 2001, SCIENCE, V291, P288, DOI 10.1126/science.291.5502.288
+   Yanson AI, 1998, NATURE, V395, P783, DOI 10.1038/27405
+   Zarechnaya EY, 2008, COMP MATER SCI, V43, P522, DOI 10.1016/j.commatsci.2007.12.018
+NR 33
+TC 4
+Z9 4
+U1 0
+U2 16
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TEMPLE CIRCUS, TEMPLE WAY, BRISTOL BS1 6BE, ENGLAND
+SN 0953-8984
+EI 1361-648X
+J9 J PHYS-CONDENS MAT
+JI J. Phys.-Condes. Matter
+PD APR 4
+PY 2012
+VL 24
+IS 13
+AR 135501
+DI 10.1088/0953-8984/24/13/135501
+PG 11
+WC Physics, Condensed Matter
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Physics
+GA 916RE
+UT WOS:000302120100012
+PM 22392857
+OA Green Submitted
+DA 2022-10-19
+ER
+
+PT J
+AU Kitaura, N
+   Itoh, H
+   Yoshida, N
+   Tanaka, Y
+   Inoue, J
+   Kashiwaya, S
+AF Kitaura, N
+   Itoh, H
+   Yoshida, N
+   Tanaka, Y
+   Inoue, J
+   Kashiwaya, S
+TI Quantum transport in disordered normal metal/unconventional
+   superconductor junctions
+SO PHYSICA B-CONDENSED MATTER
+LA English
+DT Article; Proceedings Paper
+CT 23rd International Conference on Low Temperature Physics (LT23)
+CY AUG 20-27, 2002
+CL HIROSHIMA, JAPAN
+SP Int Union Pure & Appl Phys, Sci Council Japan, Phys Soc Japan, Japan Soc Appl Phys, Cryogen Assoc Japan
+DE N/S junction; ZBCP; disorder
+ID D-WAVE SUPERCONDUCTORS; TUNNELING SPECTROSCOPY; CONDUCTANCE; SURFACE;
+   STATES
+AB We calculate tunnel conductance for disordered normal metal/unconventional superconductor junctions where superconducting order parameter has broken time reversal symmetry (BTRS), i.e., (d(x2-y2) + is. It is shown that reflectionless tunneling phenomena appears since zero-energy resonant states caused by the internal phase of d(x2-y2)-pair potential is broken by BTRS states. It is also shown that splitting of zero bias conductance peak due to BTRS in conductance spectra remains whereas the height of the peak is suppressed by the randomness. (C) 2003 Elsevier Science B.V. All rights reserved.
+C1 Nagoya Univ, Dept Quantum Engn, Nagoya, Aichi 4648603, Japan.
+   Nagoya Univ, Dept Appl Phys, Nagoya, Aichi 4648603, Japan.
+   Toyota Phys & Chem Res Inst, Nagakute, Aichi 4801192, Japan.
+   Natl Inst Adv Ind Sci & Technol, Tsukuba, Ibaraki 3050045, Japan.
+RP Itoh, H (corresponding author), Nagoya Univ, Dept Quantum Engn, Nagoya, Aichi 4648603, Japan.
+RI Kashiwaya, Satoshi/J-8681-2015
+OI Kashiwaya, Satoshi/0000-0002-2516-9211
+CR BEENAKKER CWJ, 1992, PHYS REV B, V46, P12841, DOI 10.1103/PhysRevB.46.12841
+   Itoh H, 2002, PHYSICA C, V367, P99, DOI 10.1016/S0921-4534(01)01006-1
+   Kashiwaya S, 2000, REP PROG PHYS, V63, P1641, DOI 10.1088/0034-4885/63/10/202
+   Kashiwaya S, 1995, J PHYS CHEM SOLIDS, V56, P1721, DOI 10.1016/0022-3697(95)00135-2
+   MATSUMOTO M, 1995, J PHYS SOC JPN, V64, P3384, DOI 10.1143/JPSJ.64.3384
+   TAKANE Y, 1992, J PHYS SOC JPN, V61, P2858, DOI 10.1143/JPSJ.61.2858
+   TANAKA Y, 1995, PHYS REV LETT, V74, P3451, DOI 10.1103/PhysRevLett.74.3451
+   Tanuma Y, 1999, PHYS REV B, V60, P9817, DOI 10.1103/PhysRevB.60.9817
+   Tanuma Y, 2001, PHYS REV B, V64, DOI 10.1103/PhysRevLett.87.214519
+NR 9
+TC 0
+Z9 0
+U1 0
+U2 1
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0921-4526
+J9 PHYSICA B
+JI Physica B
+PD MAY
+PY 2003
+VL 329
+BP 1451
+EP 1452
+DI 10.1016/S0921-4526(02)02375-X
+PN 2
+PG 2
+WC Physics, Condensed Matter
+WE Conference Proceedings Citation Index - Science (CPCI-S); Science Citation Index Expanded (SCI-EXPANDED)
+SC Physics
+GA 694YK
+UT WOS:000183802700477
+DA 2022-10-19
+ER
+
+PT J
+AU Khoo, KH
+   Neaton, JB
+   Son, YW
+   Cohen, ML
+   Louie, SG
+AF Khoo, Khoong Hong
+   Neaton, J. B.
+   Son, Young Woo
+   Cohen, Marvin L.
+   Louie, Steven G.
+TI Negative differential resistance in carbon atomic wire-carbon nanotube
+   junctions
+SO NANO LETTERS
+LA English
+DT Article
+ID CONDUCTANCE QUANTIZATION; POINT CONTACTS
+AB Negative differential resistance (NDR) was recently observed in carbon nanotube junctions just before breaking and hypothesized to arise from the formation of monatomic carbon wires in the junction. Motivated by these results, a first-principles scattering-state approach, based on density functional theory, is used to study the transport properties of carbon chains covalently connecting metallic carbon nanotube leads at finite bias. The I-V characteristics of short carbon chains are predicted to exhibit even-odd behavior, and NDR is found for both even and odd chain junctions in our calculations.
+C1 [Neaton, J. B.; Louie, Steven G.] Univ Calif Berkeley, Lawrence Berkeley Lab, Mol Foundry, Berkeley, CA 94720 USA.
+   [Khoo, Khoong Hong; Cohen, Marvin L.; Louie, Steven G.] Univ Calif Berkeley, Dept ojPhys, Berkeley, CA 94720 USA.
+   [Neaton, J. B.; Louie, Steven G.] Univ Calif Berkeley, Lawrence Berkeley Lab, Div Mat Sci, Berkeley, CA 94720 USA.
+   [Son, Young Woo] Konkuk Univ, Dept Phys, Seoul 143701, South Korea.
+   [Son, Young Woo] Korea Inst Adv Study, Sch Computat Sci, Seoul 130722, South Korea.
+RP Neaton, JB (corresponding author), Univ Calif Berkeley, Lawrence Berkeley Lab, Mol Foundry, Berkeley, CA 94720 USA.
+EM jbneaton@lbl.gov
+RI Khoo, Khoong Hong/G-3983-2012; Neaton, Jeffrey/F-8578-2015; son,
+   Young-Woo/B-2566-2010
+OI Khoo, Khoong Hong/0000-0002-4628-1202; Neaton,
+   Jeffrey/0000-0001-7585-6135; 
+FU National Science Foundation [DMR07-05941]; Office of Science; Office of
+   Basic Energy Sciences of the U.S. Department of Energy [DE-AC02-05CH
+   11231]; KRF [KRF-2007-314-C00093]
+FX This work was supported by National Science Foundation Grant
+   DMR07-05941. Portions of this work were also performed at the Molecular
+   Foundry, Lawrence Berkeley National Laboratory, and were supported by
+   the Office of Science, Office of Basic Energy Sciences of the U.S.
+   Department of Energy under Contract No. DE-AC02-05CH 11231. Y.W.S.
+   acknowledges support from the KRF (No. KRF-2007-314-C00093).
+   Computational resources have been provided by the National Energy
+   Research Scientific Computing Center and the San Diego Supercomputing
+   Center.
+CR Artacho E, 1999, PHYS STATUS SOLIDI B, V215, P809, DOI 10.1002/(SICI)1521-3951(199909)215:1<809::AID-PSSB809>3.0.CO;2-0
+   Brandbyge M, 2002, PHYS REV B, V65, DOI 10.1103/PhysRevB.65.165401
+   CEPERLEY DM, 1980, PHYS REV LETT, V45, P566, DOI 10.1103/PhysRevLett.45.566
+   CHOI HJ, 2008, PHYS REV B, V76, P5420
+   CostaKramer JL, 1997, PHYS REV B, V55, pR4875, DOI 10.1103/PhysRevB.55.R4875
+   CostaKramer JL, 1997, PHYS REV B, V55, P5416, DOI 10.1103/PhysRevB.55.5416
+   DATTA S, 1995, ELECT TRONSPORT MESO
+   Di Ventra M, 2002, PHYS REV B, V65, DOI 10.1103/PhysRevB.65.045402
+   Fujimoto Y, 2003, PHYS REV B, V67, DOI 10.1103/PhysRevB.67.195315
+   Garcia Y, 2004, PHYS REV B, V69, DOI 10.1103/PhysRevB.69.041402
+   Hansen K, 1997, PHYS REV B, V56, P2208, DOI 10.1103/PhysRevB.56.2208
+   Kim YH, 2003, PHYS REV B, V68, DOI 10.1103/PhysRevB.68.125420
+   KRANS JM, 1995, NATURE, V375, P767, DOI 10.1038/375767a0
+   Lang ND, 1998, PHYS REV LETT, V81, P3515, DOI 10.1103/PhysRevLett.81.3515
+   Lang ND, 2000, PHYS REV LETT, V84, P358, DOI 10.1103/PhysRevLett.84.358
+   Larade B, 2001, PHYS REV B, V64, DOI 10.1103/PhysRevB.64.075420
+   Lee YJ, 2004, PHYS REV B, V69, DOI 10.1103/PhysRevB.69.125409
+   Ludoph B, 1999, PHYS REV LETT, V82, P1530, DOI 10.1103/PhysRevLett.82.1530
+   Marques MAL, 2004, NANO LETT, V4, P811, DOI 10.1021/nl049839t
+   Neaton JB, 2005, COMPUT PHYS COMMUN, V169, P1, DOI 10.1016/j.cpc.2005.03.003
+   Ohnishi H, 1998, NATURE, V395, P780, DOI 10.1038/27399
+   RINZLER AG, 1995, SCIENCE, V269, P1550, DOI 10.1126/science.269.5230.1550
+   Rodrigues V, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.096801
+   Sim HS, 2001, PHYS REV LETT, V87, DOI 10.1103/PhysRevLett.87.096803
+   Smit RHM, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.076805
+   Soler JM, 2002, J PHYS-CONDENS MAT, V14, P2745, DOI 10.1088/0953-8984/14/11/302
+   Taylor J, 2001, PHYS REV B, V63, DOI 10.1103/PhysRevB.63.245407
+   Thijssen WHA, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.026806
+   Thygesen KS, 2003, PHYS REV LETT, V91, DOI 10.1103/PhysRevLett.91.146801
+   Tomfohr JK, 2002, PHYS REV B, V65, DOI 10.1103/PhysRevB.65.245105
+   Tongay S, 2004, PHYS REV LETT, V93, DOI 10.1103/PhysRevLett.93.136404
+   TROULLIER N, 1991, PHYS REV B, V43, P1993, DOI 10.1103/PhysRevB.43.1993
+   Tsukamoto S, 2002, PHYS REV B, V66, DOI 10.1103/PhysRevB.66.161402
+   Xue YQ, 2002, CHEM PHYS, V281, P151, DOI 10.1016/S0301-0104(02)00446-9
+   Yakobson BI, 1997, COMP MATER SCI, V8, P341, DOI 10.1016/S0927-0256(97)00047-5
+   Yoon YG, 2001, PHYS REV LETT, V86, P688, DOI 10.1103/PhysRevLett.86.688
+   Yuzvinsky TD, 2006, NANO LETT, V6, P2718, DOI 10.1021/nl061671j
+NR 37
+TC 156
+Z9 156
+U1 0
+U2 43
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 1530-6984
+J9 NANO LETT
+JI Nano Lett.
+PD SEP
+PY 2008
+VL 8
+IS 9
+BP 2900
+EP 2905
+DI 10.1021/nl8017143
+PG 6
+WC Chemistry, Multidisciplinary; Chemistry, Physical; Nanoscience &
+   Nanotechnology; Materials Science, Multidisciplinary; Physics, Applied;
+   Physics, Condensed Matter
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Science & Technology - Other Topics; Materials Science;
+   Physics
+GA 347KQ
+UT WOS:000259140200052
+PM 18710297
+DA 2022-10-19
+ER
+
+EF

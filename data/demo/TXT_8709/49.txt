@@ -1,0 +1,79 @@
+﻿FN Thomson Reuters Web of Knowledge™
+VR 1.0
+PT J
+AU Osborne, JJ
+   Roberts, GT
+   Chambers, AR
+   Gabriel, SB
+AF Osborne, JJ
+   Roberts, GT
+   Chambers, AR
+   Gabriel, SB
+TI Thin-film semiconductor sensors for hyperthermal oxygen atoms
+SO SENSORS AND ACTUATORS B-CHEMICAL
+LA English
+DT Article
+DE atomic oxygen; zinc oxide; earth orbit
+ID LOW-EARTH-ORBIT; GAS SENSORS; ZINC-OXIDE; ZNO FILMS
+AB In Earth orbit, atomic oxygen (AO) erodes and degrades many spacecraft materials. Several sensors have been employed to make in situ measurements of these oxygen atom fluxes, yet none has proved suitable for general application to microsatellites. We have investigated the potential of thin-film zinc oxide (ZnO) AO sensors. It is known that single crystal and thin-film semiconductor sensors may be used to measure fluxes of low-energy (thermal) oxygen atoms. This work extends the principle to the measurement of hyperthermal (high energy) oxygen atoms ina ground-based simulation facility. It is found that, upon exposure to AO, the conductance of the ZnO sensors decreases. Moreover, the rate of sensor conductance change is proportional to the flux of oxygen atoms. Two sensors, which were manufactured simultaneously, demonstrated very similar responses when exposed concurrently to hyperthermal AO. Further experiments showed that the sensors were not affected by fluxes of molecular oxygen, but were influenced by ultraviolet (UV) radiation. A ZnO film covered with silica - to prevent the action of AO - was used to examine the influence of UV, which was shown to cause a small, permanent change of the conductance of the semiconductor (C) 2000 Elsevier Science S.A. All rights reserved.
+C1 Univ Southampton, Sch Engn Sci Aeronaut & Astronaut, Southampton SO17 1BJ, Hants, England.
+   Univ Southampton, Sch Engn Sci, Southampton SO17 1BJ, Hants, England.
+RP Roberts, GT (corresponding author), Univ Southampton, Sch Engn Sci Aeronaut & Astronaut, HIghfield, Southampton SO17 1BJ, Hants, England.
+CR AITA CR, 1980, J APPL PHYS, V51, P5533, DOI 10.1063/1.327472
+   BOVING HJ, 1989, 270 CSEM
+   CALEDONIA GE, 1987, AIAA J, V25, P59, DOI 10.2514/3.9580
+   CHANDRA P, 1967, INDIAN J PURE AP PHY, V5, P6
+   COLLINS RJ, 1958, PHYS REV, V112, P388, DOI 10.1103/PhysRev.112.388
+   CUNNINGHAM J, 1974, FARADAY DISCUSS, V58, P160
+   FABRICIUS H, 1986, APPL OPTICS, V25, P2764, DOI 10.1364/AO.25.002764
+   Gabriel SB, 1998, J SPACECRAFT ROCKETS, V35, P413, DOI 10.2514/2.3347
+   GILLIGAN JE, 1967, AIAA67214
+   HABERRECKER K, 1967, NUCL INSTRUM METHODS, V57, P22, DOI 10.1016/0029-554X(67)90492-2
+   Harris IL, 1997, REV SCI INSTRUM, V68, P3220, DOI 10.1063/1.1148270
+   HEDIN AE, 1977, J GEOPHYS RES-SPACE, V82, P2148, DOI 10.1029/JA082i016p02148
+   HEILAND G, 1982, SENSOR ACTUATOR, V2, P343, DOI 10.1016/0250-6874(81)80055-8
+   HUTSON AR, 1957, PHYS REV, V108, P222, DOI 10.1103/PhysRev.108.222
+   JACOB A, 1975, J APPL PHYS, V46, P5116, DOI 10.1063/1.321569
+   MALINOVA GV, 1969, KINET CATAL, V10, P263
+   MEAD CA, 1965, PHYS LETT, V18, P218, DOI 10.1016/0031-9163(65)90295-7
+   Mollwo E., 1954, P PHOT C, P509
+   MORRISON SR, 1982, SENSOR ACTUATOR, V2, P329, DOI 10.1016/0250-6874(81)80054-6
+   NAHR H, 1971, J CHEM PHYS, V54, P3022, DOI 10.1063/1.1675288
+   OSBORNE JJ, 1998, 4 INT C PROT MAT SPA
+   OSBORNE JJ, 1999, 98104 ESAESTEC DTOSQ
+   OSBORNE JJ, 1999, THESIS U SOUTHAMPTON
+   OSBORNE JJ, 1999, REV SCI INSTRUM, V70
+   PACKIRISAMY S, 1995, J MATER SCI, V30, P308, DOI 10.1007/BF00354390
+   REDDY MR, 1995, J MATER SCI, V30, P281, DOI 10.1007/BF00354389
+   SCHROPP REI, 1989, J APPL PHYS, V66, P2027, DOI 10.1063/1.344341
+   SUKHAREV VY, 1986, RUSS J PHYS CHEM, V60, P1437
+   SUNDARAM KB, 1984, J PHYS D APPL PHYS, V17, P147, DOI 10.1088/0022-3727/17/1/020
+   WEIHS B, 1994, ESA, P277
+NR 30
+TC 14
+Z9 14
+U1 0
+U2 8
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 0925-4005
+J9 SENSOR ACTUAT B-CHEM
+JI Sens. Actuator B-Chem.
+PD APR 20
+PY 2000
+VL 63
+IS 1-2
+BP 55
+EP 62
+DI 10.1016/S0925-4005(00)00298-7
+PG 8
+WC Chemistry, Analytical; Electrochemistry; Instruments & Instrumentation
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Electrochemistry; Instruments & Instrumentation
+GA 305TH
+UT WOS:000086556100009
+DA 2022-10-19
+ER
+
+EF

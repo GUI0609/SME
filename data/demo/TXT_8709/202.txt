@@ -1,0 +1,55 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Fink, HW
+   Schonenberger, C
+AF Fink, HW
+   Schonenberger, C
+TI Electrical conduction through DNA molecules
+SO NATURE
+LA English
+DT Article
+ID HOLOGRAPHY
+AB The question of whether DNA is able to transport electrons has attracted much interest, particularly as this ability may play a role as a repair mechanism after radiation damage to the DNA helix(1). Experiments addressing DNA conductivity have involved a large number of DNA strands doped with intercalated donor and acceptor molecules, and the conductivity has been assessed from electron transfer rates as a function of the distance between the donor and acceptor sites(2,3). But the experimental results remain contradictory, as do theoretical predictions(4). Here we report direct measurements of electrical current as a function of the potential applied across a few DNA molecules associated into single ropes at least 600 nm long, which indicate efficient conduction through the ropes. We find that the resistivity values derived fi om these measurements are comparable to those of conducting polymers, and indicate that DNA transports electrical current as efficiently as a good semiconductor. This property, and the fact that DNA molecules of specific composition ranging in length from just a few nucleotides to chains several tens of micrometres long can be routinely prepared, makes DNA ideally suited for the construction of mesoscopic electronic devices.
+C1 Univ Basel, Inst Phys, CH-4056 Basel, Switzerland.
+RP Fink, HW (corresponding author), Univ Basel, Inst Phys, Klingelbergstr 82, CH-4056 Basel, Switzerland.
+EM finkhw@ubaclu.unibas.ch
+RI Schönenberger, Christian/N-3187-2017
+OI Schönenberger, Christian/0000-0002-5652-460X
+CR Arkin MR, 1996, SCIENCE, V273, P475, DOI 10.1126/science.273.5274.475
+   Austin RH, 1997, PHYS TODAY, V50, P32, DOI 10.1063/1.881674
+   Beratan DN, 1997, CHEM BIOL, V4, P3, DOI 10.1016/S1074-5521(97)90230-1
+   Dandliker PJ, 1997, SCIENCE, V275, P1465, DOI 10.1126/science.275.5305.1465
+   FINK HW, 1990, PHYS REV LETT, V65, P1204, DOI 10.1103/PhysRevLett.65.1204
+   Fink HW, 1997, J OPT SOC AM A, V14, P2168, DOI 10.1364/JOSAA.14.002168
+   Lewis FD, 1997, SCIENCE, V277, P673, DOI 10.1126/science.277.5326.673
+   Schmid H, 1997, APPL PHYS LETT, V70, P2679, DOI 10.1063/1.118978
+NR 8
+TC 1041
+Z9 1095
+U1 1
+U2 216
+PU MACMILLAN MAGAZINES LTD
+PI LONDON
+PA PORTERS SOUTH, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 0028-0836
+J9 NATURE
+JI Nature
+PD APR 1
+PY 1999
+VL 398
+IS 6726
+BP 407
+EP 410
+DI 10.1038/18855
+PG 4
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 182PW
+UT WOS:000079508200047
+PM 10201370
+DA 2022-10-21
+ER
+
+EF

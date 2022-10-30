@@ -1,0 +1,592 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Heitzer, HM
+   Marks, TJ
+   Ratner, MA
+AF Heitzer, Henry M.
+   Marks, Tobin J.
+   Ratner, Mark A.
+TI Molecular-Donor-Bridge-Acceptor Strategies for High-Capacitance Organic
+   Dielectric Materials
+SO JOURNAL OF THE AMERICAN CHEMICAL SOCIETY
+LA English
+DT Article
+ID NONLINEAR-OPTICAL RESPONSE; SELF-ASSEMBLED MONOLAYERS; THIN-FILM
+   TRANSISTORS; PERFORMANCE CORRELATIONS; RATIONAL DESIGN; LOW-VOLTAGE;
+   ELECTRON; OXIDE; HYPERPOLARIZABILITY; SEMICONDUCTORS
+AB Donor-bridge-acceptor (DBA) systems occupy a rich history in molecular electronics and photonics. A key property of DBA materials is their typically large and tunable (hyper)polarizabilities. While traditionally, classical descriptions such as the Clausius-Mossotti formalism have been used to relate molecular polarizabilities to bulk dielectric response, recent work has shown that these classical equations are inadequate for numerous materials classes. Creating high-dielectric organic materials is critically important for utilizing unconventional semiconductors in electronic circuitry. Employing a plane-wave density functional theory formalism, we investigate the dielectric response of highly polarizable DBA molecule-based thin films. Such films are found to have large dielectric response arising from cooperative effects between donor and acceptor units when mediated by a conjugated bridge. Moreover, the dielectric response can be systematically tuned by altering the building block donor, acceptor, or bridge structures and is found to be nonlinearly dependent on electric field strength. The computed dielectric constants are largely independent of the density functional employed, and qualitative trends are readily evident. Remarkably large computed dielectric constants >15.0 and capacitances >6.0 mu F/cm(2) are achieved for squaraine monolayers, significantly higher than in traditional organic dielectrics. Such calculations should provide a guide for designing high-capacitance organic dielectrics that should greatly enhance transistor performance.
+C1 [Marks, Tobin J.] Northwestern Univ, Dept Chem, Evanston, IL 60208 USA.
+   Northwestern Univ, Mat Res Ctr, Evanston, IL 60208 USA.
+RP Marks, TJ (corresponding author), Northwestern Univ, Dept Chem, 2145 Sheridan Rd, Evanston, IL 60208 USA.
+EM t-marks@northwestern.edu; ratner@northwestern.edu
+RI Marks, Tobin/AAG-1472-2019
+FU MRSEC program of NSF through Northwestern University Materials Research
+   Center [DMR-1121262]; Department of Defense (DoD) through National
+   Defense Science and Engineering Graduate Fellowship (NDSEG) Program
+FX The research was supported by the MRSEC program of NSF (DMR-1121262)
+   through the Northwestern University Materials Research Center. H.M.H. is
+   supported by the Department of Defense (DoD) through the National
+   Defense Science and Engineering Graduate Fellowship (NDSEG) Program.
+CR Albert IDL, 1998, CHEM MATER, V10, P753, DOI 10.1021/cm970478a
+   Albert IDL, 1997, J AM CHEM SOC, V119, P6575, DOI 10.1021/ja962968u
+   Albinsson B, 2007, PHYS CHEM CHEM PHYS, V9, P5847, DOI 10.1039/b706122f
+   Alyar H, 2013, REV ADV MATER SCI, V34, P79
+   Baettig P, 2005, APPL PHYS LETT, V86, DOI 10.1063/1.1843290
+   Benedetto S. A., 2008, J AM CHEM SOC, V130, P7528
+   Blythe R., 2005, AKENFIELD
+   Boudreault PLT, 2012, CHEM MATER, V24, P2929, DOI 10.1021/cm301095x
+   BREDAS JL, 1985, J CHEM PHYS, V82, P3808, DOI 10.1063/1.448868
+   BREDAS JL, 1994, CHEM REV, V94, P243, DOI 10.1021/cr00025a008
+   Brothers EN, 2008, J CHEM PHYS, V129, DOI 10.1063/1.2955460
+   Brown EC, 2008, J PHYS CHEM B, V112, P44, DOI 10.1021/jp072481f
+   Champagne B, 1997, J PHYS CHEM A, V101, P3158, DOI 10.1021/jp962751m
+   Davis WB, 1998, NATURE, V396, P60, DOI 10.1038/23912
+   DEHU C, 1993, J AM CHEM SOC, V115, P6198, DOI 10.1021/ja00067a039
+   DiBenedetto SA, 2009, J AM CHEM SOC, V131, P11080, DOI 10.1021/ja902751e
+   DiBenedetto SA, 2009, J AM CHEM SOC, V131, P7158, DOI 10.1021/ja9013166
+   DiBenedetto SA, 2009, ADV MATER, V21, P1407, DOI 10.1002/adma.200803267
+   Everaerts K, 2013, ACS APPL MATER INTER, V5, P11884, DOI 10.1021/am403585n
+   Everaerts K, 2013, J AM CHEM SOC, V135, P8926, DOI 10.1021/ja4019429
+   Facchetti A, 2004, INORG CHIM ACTA, V357, P3980, DOI 10.1016/j.ica.2004.06.061
+   Giannozzi P, 2009, J PHYS-CONDENS MAT, V21, DOI 10.1088/0953-8984/21/39/395502
+   Ha MJ, 2013, NANO LETT, V13, P954, DOI 10.1021/nl3038773
+   Ha YG, 2014, ACCOUNTS CHEM RES, V47, P1019, DOI 10.1021/ar4002262
+   Heitzer HM, 2014, ACS NANO, V8, P12587, DOI 10.1021/nn505431p
+   Heitzer HM, 2013, J AM CHEM SOC, V135, P9753, DOI 10.1021/ja401904d
+   Henderson TM, 2011, PHYS STATUS SOLIDI B, V248, P767, DOI 10.1002/pssb.201046303
+   Hennek JW, 2012, ACS APPL MATER INTER, V4, P1614, DOI 10.1021/am201776p
+   HEYD J, 2003, J CHEM PHYS, V118, P8207, DOI DOI 10.1063/1.1564060
+   Horiuchi S, 2008, NAT MATER, V7, P357, DOI 10.1038/nmat2137
+   Janesko BG, 2011, J CHEM PHYS, V134, DOI 10.1063/1.3589145
+   Kamyshny A, 2014, SMALL, V10, P3515, DOI 10.1002/smll.201303000
+   Kang B, 2013, ACS APPL MATER INTER, V5, P2302, DOI 10.1021/am302796z
+   KANIS DR, 1994, CHEM REV, V94, P195, DOI 10.1021/cr00025a007
+   Kilsa K, 2001, J AM CHEM SOC, V123, P3069, DOI 10.1021/ja003820k
+   Kim SH, 2013, ADV MATER, V25, P1822, DOI 10.1002/adma.201202790
+   Kim YH, 2012, ADV MATER, V24, P497, DOI 10.1002/adma.201103032
+   Klauk H, 2007, NATURE, V445, P745, DOI 10.1038/nature05533
+   Labello NP, 2005, J COMPUT CHEM, V26, P1464, DOI 10.1002/jcc.20282
+   Liao CZ, 2015, ADV MATER, V27, P7493, DOI 10.1002/adma.201402625
+   Lin P, 2012, ADV MATER, V24, P34, DOI 10.1002/adma.201103334
+   MCDOWELL SAC, 1995, CHEM PHYS LETT, V235, P1, DOI 10.1016/0009-2614(95)00076-G
+   Meyer B., 2001, PHYS REV B, P63
+   Mishra A, 2009, CHEM REV, V109, P1141, DOI 10.1021/cr8004229
+   Natan A, 2006, PHYS REV B, V73, DOI 10.1103/PhysRevB.73.193310
+   Natan A, 2010, ADV FUNCT MATER, V20, P2077, DOI 10.1002/adfm.200902162
+   Nitzan A, 2003, SCIENCE, V300, P1384, DOI 10.1126/science.1081572
+   Nitzan A, 2001, ANNU REV PHYS CHEM, V52, P681, DOI 10.1146/annurev.physchem.52.1.681
+   OKAMOTO H, 1991, PHYS REV B, V43, P8224, DOI 10.1103/PhysRevB.43.8224
+   Perdew JP, 1996, PHYS REV LETT, V77, P3865, DOI 10.1103/PhysRevLett.77.3865
+   Pilania G, 2012, J MATER SCI, V47, P7580, DOI 10.1007/s10853-012-6411-5
+   Ortiz RP, 2012, CHEM-EUR J, V18, P532, DOI 10.1002/chem.201101715
+   Rampi MA, 1998, APPL PHYS LETT, V72, P1781, DOI 10.1063/1.121183
+   Ramprasad R, 2005, PHYS REV B, V72, DOI 10.1103/PhysRevB.72.052107
+   Resta R, 2007, TOP APPL PHYS, V105, P31
+   Romaner L, 2008, ADV FUNCT MATER, V18, P3999, DOI 10.1002/adfm.200800876
+   Sangwan VK, 2014, APPL PHYS LETT, V104, DOI 10.1063/1.4866387
+   Sangwan VK, 2013, NANO LETT, V13, P1162, DOI 10.1021/nl3045553
+   Sangwan VK, 2012, ACS NANO, V6, P7480, DOI 10.1021/nn302768h
+   Schatz G. C., 2002, QUANTUM MECH CHEM
+   Sekino H, 2007, J CHEM PHYS, V126, DOI 10.1063/1.2428291
+   Sharma V, 2014, NAT COMMUN, V5, DOI 10.1038/ncomms5845
+   Shi N, 2007, J COMPUT-AIDED MATER, V14, P133, DOI 10.1007/s10820-006-9034-9
+   Shi N, 2006, APPL PHYS LETT, V89, DOI 10.1063/1.2339037
+   Shi N., 2007, PHYS REV B, P75
+   Sirringhaus H, 2014, ADV MATER, V26, P1319, DOI 10.1002/adma.201304346
+   Slowinski K, 1997, J AM CHEM SOC, V119, P11910, DOI 10.1021/ja971921l
+   TILLMAN N, 1990, LANGMUIR, V6, P1512, DOI 10.1021/la00099a014
+   Ting GG, 2009, LANGMUIR, V25, P2140, DOI 10.1021/la802944n
+   TOKURA Y, 1989, PHYS REV LETT, V63, P2405, DOI 10.1103/PhysRevLett.63.2405
+   Ulman A, 1996, CHEM REV, V96, P1533, DOI 10.1021/cr9502357
+   Usta H, 2009, J AM CHEM SOC, V131, P5586, DOI 10.1021/ja809555c
+   Verbiest T, 1997, J MATER CHEM, V7, P2175, DOI 10.1039/a703434b
+   Vila FD, 2010, J CHEM PHYS, V133, DOI 10.1063/1.3457362
+   von Hippel A.R., 1995, DIELECTRIC MAT APPL
+   Wiberg J, 2007, J AM CHEM SOC, V129, P155, DOI 10.1021/ja066346c
+   Yitzchaik S, 1996, ACCOUNTS CHEM RES, V29, P197, DOI 10.1021/ar9501582
+   Yitzchaik S, 1997, J AM CHEM SOC, V119, P2995, DOI 10.1021/ja963489y
+   Yoon MH, 2005, P NATL ACAD SCI USA, V102, P4678, DOI 10.1073/pnas.0501027102
+   Yoon MH, 2006, J AM CHEM SOC, V128, P12851, DOI 10.1021/ja063290d
+   Yu LP, 2009, PHYS REV B, V80, DOI 10.1103/PhysRevB.80.165432
+NR 81
+TC 34
+Z9 34
+U1 2
+U2 112
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0002-7863
+EI 1520-5126
+J9 J AM CHEM SOC
+JI J. Am. Chem. Soc.
+PD JUN 10
+PY 2015
+VL 137
+IS 22
+BP 7189
+EP 7196
+DI 10.1021/jacs.5b03301
+PG 8
+WC Chemistry, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry
+GA CK6EW
+UT WOS:000356322300043
+PM 25978594
+DA 2022-10-21
+ER
+
+PT J
+AU Meier, C
+   Reuter, D
+   Riedesel, C
+   Wieck, AD
+AF Meier, C
+   Reuter, D
+   Riedesel, C
+   Wieck, AD
+TI Fabrication of two-dimensional electron systems by focused ion beam
+   doping of III/V semiconductor heterostructures
+SO JOURNAL OF APPLIED PHYSICS
+LA English
+DT Article
+ID GAS FORMATION; IMPLANTATION; GAAS; SI; HETEROJUNCTION; MOBILITY; FIELD;
+   PHOTOLUMINESCENCE; TRANSISTORS
+AB Two-dimensional electron systems have been fabricated by focused ion beam implantation of Si dopant ions in undoped III/V heterostructures grown by molecular beam epitaxy. With this method, lateral patterning of two-dimensional electron gases is possible while the planarity of the sample surface is conserved. In this paper, we present a systematic study of this technique and discuss its potential for applications. In detail, different base material systems are experimentally investigated and compared. The electronic properties of the samples are characterized by low-field Hall measurements, capacitance-voltage spectroscopy, and measurements of the longitudinal magnetoresistance at low temperatures. The dependence of the electronic properties on the implantation parameters is discussed. (C) 2003 American Institute of Physics.
+C1 Univ Duisburg, Festkorperphys Lab, D-47048 Duisburg, Germany.
+   Ruhr Univ Bochum, Lehrstuhl Angew Festkorperphys, D-44780 Bochum, Germany.
+RP Meier, C (corresponding author), Univ Duisburg, Festkorperphys Lab, Lotharstr 1, D-47048 Duisburg, Germany.
+RI Meier, Cedrik/E-4877-2011; Wieck, Andreas Dirk D/C-5129-2009
+OI Meier, Cedrik/0000-0002-3787-3572; Wieck, Andreas Dirk
+   D/0000-0001-9776-2922
+CR ANDO T, 1982, J PHYS SOC JPN, V51, P3900, DOI 10.1143/JPSJ.51.3900
+   ARIMOTO H, 1991, J VAC SCI TECHNOL B, V9, P2675, DOI 10.1116/1.585670
+   BINDAL A, 1989, J APPL PHYS, V65, P1246, DOI 10.1063/1.343017
+   COLERIDGE PT, 1989, PHYS REV B, V39, P1120, DOI 10.1103/PhysRevB.39.1120
+   DINGLE R, 1978, APPL PHYS LETT, V33, P665, DOI 10.1063/1.90457
+   DUTT MB, 1986, PHYS STATUS SOLIDI A, V96, P121, DOI 10.1002/pssa.2210960114
+   Eshlaghi S, 1999, J APPL PHYS, V86, P6605, DOI 10.1063/1.371720
+   HIRAYAMA Y, 1993, APPL PHYS LETT, V63, P2366, DOI 10.1063/1.110799
+   KAWANO A, 1990, JPN J APPL PHYS, V30, pL71
+   Kelly MJ., 1995, LOW DIMENSIONAL SEMI
+   LI YJ, 1991, J VAC SCI TECHNOL B, V9, P3456, DOI 10.1116/1.585822
+   LITMARK U, 1981, PHYS REV A, V23, P64
+   MADELUNG O, 1987, LANDOLTBORNSTEIN NUM, V3, P353
+   PEARAH P, 1984, J APPL PHYS, V56, P1851, DOI 10.1063/1.334197
+   PFEIFFER L, 1989, APPL PHYS LETT, V55, P1888, DOI 10.1063/1.102162
+   PLOOG K, 1984, MOL BEAM EPITAXY 3 5
+   PREWETT PD, 1991, MICROENGINEERING SER
+   Rahm M, 2002, J APPL PHYS, V91, P7980, DOI 10.1063/1.1453338
+   Reuter D, 2002, PHYSICA E, V13, P938, DOI 10.1016/S1386-9477(02)00239-4
+   Reuter D, 2002, SEMICOND SCI TECH, V17, P585, DOI 10.1088/0268-1242/17/6/315
+   Reuter D, 2001, APPL PHYS LETT, V79, P377, DOI 10.1063/1.1386618
+   SASA S, 1990, APPL PHYS LETT, V57, P2259, DOI 10.1063/1.103908
+   SCHUBERT EF, 1984, APPL PHYS A-MATER, V33, P63, DOI 10.1007/BF00617610
+   SHIGETOMI S, 1985, PHYS STATUS SOLIDI A, V89, pK79, DOI 10.1002/pssa.2210890162
+   STORMER HL, 1981, APPL PHYS LETT, V39, P912
+   STORMER HL, 1979, SOLID STATE COMMUN, V29, P705, DOI 10.1016/0038-1098(79)91010-X
+   Sze S.M., 1985, SEMICONDUCTOR DEVICE
+   WIECK AD, 1990, APPL PHYS LETT, V56, P928, DOI 10.1063/1.102628
+   YU ET, 1992, SOLID STATE PHYS, V46, P1, DOI 10.1016/S0081-1947(08)60397-5
+   ZRENNER A, 1986, PHYS REV B, V33, P5607, DOI 10.1103/PhysRevB.33.5607
+NR 30
+TC 5
+Z9 5
+U1 0
+U2 3
+PU AMER INST PHYSICS
+PI MELVILLE
+PA CIRCULATION & FULFILLMENT DIV, 2 HUNTINGTON QUADRANGLE, STE 1 N O 1,
+   MELVILLE, NY 11747-4501 USA
+SN 0021-8979
+J9 J APPL PHYS
+JI J. Appl. Phys.
+PD MAY 15
+PY 2003
+VL 93
+IS 10
+BP 6100
+EP 6106
+DI 10.1063/1.1563032
+PN 1
+PG 7
+WC Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Physics
+GA 677CQ
+UT WOS:000182789700038
+DA 2022-10-21
+ER
+
+PT J
+AU Ando, K
+AF Ando, Koji
+TI Single-electron quantum dynamics in high-harmonic generation spectrum
+   from LiH molecule: Analysis of potential energy surfaces for electrons
+   constructed from a model of localized Gaussian wave packets with
+   valence-bond spin-coupling
+SO JOURNAL OF CHEMICAL PHYSICS
+LA English
+DT Article
+AB A high-harmonic generation (HHG) spectrum from a LiH molecule induced by an intense laser pulse is computed and analyzed with potential energy surfaces for electron motion (ePES) constructed from a model of localized electron wave packets with valence-bond spin-coupling. The molecule has two valence ePES with binding energies of 0.39 hartree and 1.1 hartree. The HHG spectrum from an electron dynamics on the weaker bound valence ePES, virtually assigned to Li 2s, exhibits a dominant peak at the first harmonic without plateau and cutoff. This compares with the free electron spectrum under an oscillating laser field and is comprehensive with the shape and depth of the ePES. The other valence ePES, assigned to H 1s, is deeper bound such that the overall profile of the wave function is well approximated by a Gaussian of the width comparable to the Li-H bond length. However, a small fraction, less than 10(-3), of the probability density amplitude tunnels out from the bound potential with high wave number and spreads over tens of nm with parts recombining to the molecule due to the laser field oscillation. This minor portion of the electronic wave function is the major origin of the HHG extending up to 50 harmonic orders. Nonlinear dynamics within the potential well induced by the laser field oscillation also contributes to the HHG up to 30 harmonic orders. Published under license by AIP Publishing.
+C1 [Ando, Koji] Tokyo Womans Christian Univ, Dept Informat & Sci, Suginami Ku, 2-6-1 Zenpukuji, Tokyo 1678585, Japan.
+RP Ando, K (corresponding author), Tokyo Womans Christian Univ, Dept Informat & Sci, Suginami Ku, 2-6-1 Zenpukuji, Tokyo 1678585, Japan.
+EM ando_k@lab.twcu.ac.jp
+OI Ando, Koji/0000-0002-6102-0019
+FU KAKENHI [26248009, 26620007, 19K22173]
+FX This work was supported by KAKENHI (Grant Nos. 26248009, 26620007, and
+   19K22173).
+CR Ando K, 2018, J CHEM PHYS, V148, DOI 10.1063/1.5012575
+   Ando K, 2017, COMPUT THEOR CHEM, V1116, P159, DOI 10.1016/j.comptc.2017.02.028
+   Ando K, 2016, J CHEM PHYS, V144, DOI 10.1063/1.4944827
+   Ando K, 2012, CHEM PHYS LETT, V523, P134, DOI 10.1016/j.cplett.2011.12.019
+   Ando K, 2009, B CHEM SOC JPN, V82, P975, DOI 10.1246/bcsj.82.975
+   Baggesen JC, 2011, J PHYS B-AT MOL OPT, V44, DOI 10.1088/0953-4075/44/11/115601
+   Balzer K, 2010, PHYS REV A, V82, DOI 10.1103/PhysRevA.82.033427
+   Bandrauk AD, 2013, J PHYS B-AT MOL OPT, V46, DOI 10.1088/0953-4075/46/15/153001
+   Bucksbaum PH, 2007, SCIENCE, V317, P766, DOI 10.1126/science.1142135
+   CORKUM PB, 1993, PHYS REV LETT, V71, P1994, DOI 10.1103/PhysRevLett.71.1994
+   Geppert D, 2008, J PHYS B-AT MOL OPT, V41, DOI 10.1088/0953-4075/41/7/074006
+   Ghimire S, 2011, NAT PHYS, V7, P138, DOI [10.1038/nphys1847, 10.1038/NPHYS1847]
+   Gonzalez-Lezana T, 2004, J CHEM PHYS, V120, P2247, DOI 10.1063/1.1637584
+   Grossmann F., 2013, THEORETICAL FEMTOSEC
+   Haessler S, 2011, J PHYS B-AT MOL OPT, V44, DOI 10.1088/0953-4075/44/20/203001
+   Hyeon-Deuk K, 2016, PHYS CHEM CHEM PHYS, V18, P2314, DOI 10.1039/c5cp06615h
+   Hyeon-Deuk K, 2015, J CHEM PHYS, V143, DOI 10.1063/1.4935509
+   Hyeon-Deuk K, 2014, PHYS REV B, V90, DOI 10.1103/PhysRevB.90.165132
+   Hyeon-Deuk K, 2014, J CHEM PHYS, V140, DOI 10.1063/1.4874635
+   Itatani J, 2004, NATURE, V432, P867, DOI 10.1038/nature03183
+   Kling MF, 2008, ANNU REV PHYS CHEM, V59, P463, DOI 10.1146/annurev.physchem.59.032607.093532
+   KRAUSE JL, 1992, PHYS REV LETT, V68, P3535, DOI 10.1103/PhysRevLett.68.3535
+   Krausz F, 2009, REV MOD PHYS, V81, P163, DOI 10.1103/RevModPhys.81.163
+   Li PC, 2016, SCI REP-UK, V6, DOI 10.1038/srep32763
+   Lostedt E., 2012, PHYS REV A, V85, P053410, DOI 10.1103/physreva.85.053410
+   Nest M, 2008, NEW J PHYS, V10, DOI 10.1088/1367-2630/10/2/025019
+   Nikodem A, 2017, PHYS REV A, V95, DOI 10.1103/PhysRevA.95.053404
+   Offenbacher H, 2015, J ELECTRON SPECTROSC, V204, P92, DOI 10.1016/j.elspec.2015.04.023
+   ORTH FB, 1979, J MOL SPECTROSC, V76, P17, DOI 10.1016/0022-2852(79)90215-7
+   Ramasesha K, 2016, ANNU REV PHYS CHEM, V67, P41, DOI 10.1146/annurev-physchem-040215-112025
+   Remacle F, 2007, PHYS REV LETT, V99, DOI 10.1103/PhysRevLett.99.183902
+   Remacle F, 2011, PHYS REV A, V83, DOI 10.1103/PhysRevA.83.013411
+   Salieres P, 2012, REP PROG PHYS, V75, DOI 10.1088/0034-4885/75/6/062401
+   Sato T, 2013, PHYS REV A, V88, DOI 10.1103/PhysRevA.88.023402
+   SCHAFER KJ, 1993, PHYS REV LETT, V70, P1599, DOI 10.1103/PhysRevLett.70.1599
+   Takemoto N, 2011, PHYS REV A, V84, DOI 10.1103/PhysRevA.84.023401
+   Telnov DA, 2013, PHYS REV A, V87, DOI 10.1103/PhysRevA.87.053406
+   Tolstikhin OI, 2013, PHYS REV A, V87, DOI 10.1103/PhysRevA.87.041401
+   Ulusoy IS, 2012, J PHYS CHEM A, V116, P11107, DOI 10.1021/jp304140r
+   Vampa G, 2014, PHYS REV LETT, V113, DOI 10.1103/PhysRevLett.113.073901
+   Watanabe N, 2000, PHYS REV E, V62, P2914, DOI 10.1103/PhysRevE.62.2914
+   Yoshikawa N, 2017, SCIENCE, V356, P736, DOI 10.1126/science.aam8861
+   2015, AM FAM PHYSICIAN, V91, P23417, DOI DOI 10.1103/PHYSREVA.91.023417
+NR 43
+TC 0
+Z9 0
+U1 1
+U2 9
+PU AMER INST PHYSICS
+PI MELVILLE
+PA 1305 WALT WHITMAN RD, STE 300, MELVILLE, NY 11747-4501 USA
+SN 0021-9606
+EI 1089-7690
+J9 J CHEM PHYS
+JI J. Chem. Phys.
+PD FEB 28
+PY 2020
+VL 152
+IS 8
+AR 084306
+DI 10.1063/1.5139079
+PG 6
+WC Chemistry, Physical; Physics, Atomic, Molecular & Chemical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Physics
+GA KU6NY
+UT WOS:000519832800005
+PM 32113351
+OA Green Submitted
+DA 2022-10-21
+ER
+
+PT J
+AU Das, N
+   Mandal, N
+   Sekhar, PK
+   RoyChaudhuri, C
+AF Das, Naren
+   Mandal, N.
+   Sekhar, Praveen Kumar
+   RoyChaudhuri, Chirasree
+TI Signal Processing for Single Biomolecule Identification Using Nanopores:
+   A Review
+SO IEEE SENSORS JOURNAL
+LA English
+DT Review
+DE Sensors; Data mining; Current measurement; Bandwidth; Nanobioscience;
+   Signal processing algorithms; Noise measurement; Nanopores; single
+   molecule; sensing; algorithm; electronic interface
+ID SOLID-STATE NANOPORES; MOLECULE ANALYSIS; FOCUSED ION; NOISE;
+   TRANSLOCATION; FABRICATION; PROTEINS; BANDWIDTH; SYSTEM;
+   FUNCTIONALIZATION
+AB Nanopore sensors provide an innovative platform for rapid and label-free biomolecule detection. The analytical information extracted from resistive pulse sensing (RPS) measurement, though powerful has several limitations. To address these challenges, various signal conditioning algorithms have been researched which include efficient clustering and classification of data, applying probabilistic models to reduce information overlap and also leveraging transient analysis of ionic current instead of the steady state RPS measurement. Additionally, as the current is typically in few picoampere regime with high transition rates, its faithful measurement requires precision instrumentation like a patch clamp amplifier with low noise and high bandwidth. However, for practical deployment of such systems, it is necessary to develop portable electronic interface. Significant efforts have been directed globally to develop on-chip customized integrated circuits with low noise, high bandwidth amplifiers. Thus, it is absolutely timely and pertinent to conduct a review on the various signal processing schemes and electronic interfaces for single biomolecule identification using nanopores which will enable to comprehend the current status for its deployment as a commercial platform for genomics and ultrasensitive detection. To the best of our knowledge, the data extraction methodologies and electronic interface schemes for nanopores have not yet been summarized. In this paper, a comprehensive review emphasizing the signal processing algorithms for DNA sequencing and protein identification in complex analyte using functionalized and non-functionalized nanopores has been presented along with the on-chip low noise electronic interfaces required for field deployable measurement.
+C1 [Das, Naren] Deemed Univ, Koneru Lakshmaiah Educ Fdn, Elect & Commun Engn Dept, Guntur 522502, Andhra Pradesh, India.
+   [Mandal, N.; RoyChaudhuri, Chirasree] IIEST, Elect & Telecommun Engn Dept, Howrah 711103, India.
+   [Sekhar, Praveen Kumar] Washington State Univ, Sch Engn & Comp Sci, Vancouver, WA 98686 USA.
+   [RoyChaudhuri, Chirasree] IIEST, Ctr Healthcare Sci & Technol, Howrah 711103, India.
+RP RoyChaudhuri, C (corresponding author), IIEST, Elect & Telecommun Engn Dept, Howrah 711103, India.
+EM narentitun@gmail.com; naresh.mandalwb@gmail.com; praveen.sekhar@wsu.edu;
+   chirashree@telecom.iiests.ac.in
+RI Das, Naren/AAS-6958-2020
+OI Das, Naren/0000-0003-4673-7190
+FU University Grants Commission-Rajiv Gandhi National Fellowship
+   (UGC-RGNF); Ministry of Human Resource Development (MHRD) through the
+   Impacting Research Innovation and Technology (IMPRINT) grant; Indian
+   Council of Medical Research (ICMR), India
+FX This work was supported in part by the University Grants
+   Commission-Rajiv Gandhi National Fellowship (UGC-RGNF), in part by the
+   Ministry of Human Resource Development (MHRD) through the Impacting
+   Research Innovation and Technology (IMPRINT) grant, and in part by the
+   Indian Council of Medical Research (ICMR), India.
+CR Actis P, 2011, BIOSENS BIOELECTRON, V26, P4503, DOI 10.1016/j.bios.2011.05.010
+   Actis P, 2010, BIOSENS BIOELECTRON, V26, P333, DOI 10.1016/j.bios.2010.08.016
+   Albrecht T., 2010, TECHCONNECT BRIEFS, V3, P85
+   Albrecht T, 2019, ANNU REV ANAL CHEM, V12, P371, DOI 10.1146/annurev-anchem-061417-125903
+   Balan A, 2015, SCI REP-UK, V5, DOI 10.1038/srep17775
+   Balijepalli A, 2014, ACS NANO, V8, P1547, DOI 10.1021/nn405761y
+   Balme S, 2016, LANGMUIR, V32, P8916, DOI 10.1021/acs.langmuir.6b02048
+   Bell NAW, 2016, NAT NANOTECHNOL, V11, P645, DOI [10.1038/nnano.2016.50, 10.1038/NNANO.2016.50]
+   Bialasiewicz S, 2019, BMC INFECT DIS, V19, DOI 10.1186/s12879-019-4173-2
+   Bryce DA, 2018, ANAL CHEM, V90, P11509, DOI 10.1021/acs.analchem.8b02791
+   Celik N, 2020, COMMUN BIOL, V3, DOI 10.1038/s42003-019-0729-3
+   Chang H, 2004, NANO LETT, V4, P1551, DOI 10.1021/nl049267c
+   Chen P, 2004, NANO LETT, V4, P1333, DOI 10.1021/nl0494001
+   Choi S. S., 2018, ECS Transactions, V85, P69, DOI 10.1149/08509.0069ecst
+   Chuah K, 2019, NAT COMMUN, V10, DOI 10.1038/s41467-019-10147-7
+   Coglitore D, 2018, PHYS CHEM CHEM PHYS, V20, P12799, DOI 10.1039/c8cp01787e
+   COLQUHOUN D, 1981, PROC R SOC SER B-BIO, V211, P205, DOI 10.1098/rspb.1981.0003
+   Crescentini M, 2015, IEEE T BIOMED CIRC S, V9, P334, DOI 10.1109/TBCAS.2014.2346402
+   Danelon C, 2006, LANGMUIR, V22, P10711, DOI 10.1021/la061321c
+   Das N, 2018, IEEE SENS J, V18, P10183, DOI 10.1109/JSEN.2018.2872853
+   Das N, 2018, IEEE T NANOTECHNOL, V17, P1138, DOI 10.1109/TNANO.2018.2866870
+   Deamer DW, 2000, TRENDS BIOTECHNOL, V18, P147, DOI 10.1016/S0167-7799(00)01426-8
+   DEBLOIS RW, 1970, REV SCI INSTRUM, V41, P909, DOI 10.1063/1.1684724
+   Deng T, 2015, SCI BULL, V60, P304, DOI 10.1007/s11434-014-0705-8
+   Ding S, 2009, ANAL CHEM, V81, P6649, DOI 10.1021/ac9006705
+   Ester M., 1996, ACM SIGKDD C KNOWL D, VVolume 96, P226, DOI DOI 10.5555/3001460.3001507
+   Firnkes M, 2010, NANO LETT, V10, P2162, DOI 10.1021/nl100861c
+   Forstater JH, 2016, ANAL CHEM, V88, P11900, DOI 10.1021/acs.analchem.6b03725
+   Freedman KJ, 2016, NAT COMMUN, V7, DOI 10.1038/ncomms10217
+   Gao R, 2014, CHINESE SCI BULL, V59, P4968, DOI 10.1007/s11434-014-0656-0
+   Goto Y, 2020, J HUM GENET, V65, P69, DOI 10.1038/s10038-019-0655-8
+   Goto Y, 2019, NANOSCALE, V11, P14426, DOI 10.1039/c9nr03563j
+   Goyal G, 2016, NANOTECHNOLOGY, V27, DOI 10.1088/0957-4484/27/49/495301
+   Gu Z, 2017, SCI BULL, V62, P1245, DOI 10.1016/j.scib.2017.09.005
+   Gu Z, 2015, ANAL CHEM, V87, P907, DOI 10.1021/ac5028758
+   HORN R, 1983, BIOPHYS J, V43, P207, DOI 10.1016/S0006-3495(83)84341-0
+   Howorka S, 2001, NAT BIOTECHNOL, V19, P636, DOI 10.1038/90236
+   Hsu CL, 2015, IEEE T BIOMED CIRC S, V9, P652, DOI 10.1109/TBCAS.2015.2496232
+   Im J, 2019, ACS NANO, V13, P6308, DOI 10.1021/acsnano.9b00618
+   Jeck WR, 2019, J MOL DIAGN, V21, P58, DOI 10.1016/j.jmoldx.2018.08.003
+   Jiang YN, 2015, SCI BULL, V60, P491, DOI 10.1007/s11434-015-0739-6
+   Kasianowicz JJ, 1996, P NATL ACAD SCI USA, V93, P13770, DOI 10.1073/pnas.93.24.13770
+   Keyser UF, 2011, J R SOC INTERFACE, V8, P1369, DOI 10.1098/rsif.2011.0222
+   Kim J, 2016, SENSOR ACTUAT B-CHEM, V234, P273, DOI 10.1016/j.snb.2016.04.032
+   Kim J, 2013, SENSOR ACTUAT B-CHEM, V176, P1051, DOI 10.1016/j.snb.2012.08.075
+   Lazzara TD, 2011, ACS APPL MATER INTER, V3, P1068, DOI 10.1021/am101212h
+   Lepoitevin M, 2017, ADV COLLOID INTERFAC, V250, P195, DOI 10.1016/j.cis.2017.09.001
+   Li J, 2001, NATURE, V412, P166, DOI 10.1038/35084037
+   Li W, 2013, ACS NANO, V7, P4129, DOI 10.1021/nn4004567
+   Liebes-Peer Y, 2016, MICROCHIM ACTA, V183, P987, DOI 10.1007/s00604-015-1557-x
+   Lin VSY, 1997, SCIENCE, V278, P840, DOI 10.1126/science.278.5339.840
+   Lo CJ, 2006, NANOTECHNOLOGY, V17, P3264, DOI 10.1088/0957-4484/17/13/031
+   Makra I, 2014, ELECTROCHEM COMMUN, V43, P55, DOI 10.1016/j.elecom.2014.03.007
+   Misiunas K, 2018, NANO LETT, V18, P4040, DOI 10.1021/acs.nanolett.8b01709
+   Mojtabavi M, 2019, ACS NANO, V13, P3042, DOI 10.1021/acsnano.8b08017
+   Morin TJ, 2018, SCI REP-UK, V8, DOI 10.1038/s41598-018-33086-7
+   Mulberry G, 2019, IEEE T BIOMED CIRC S, V13, P387, DOI 10.1109/TBCAS.2019.2897287
+   Mussi V, 2012, NANOTECHNOLOGY, V23, DOI 10.1088/0957-4484/23/43/435301
+   Ozel RE, 2016, ACS SENSORS, V1, P265, DOI 10.1021/acssensors.5b00289
+   Parsnejad S, 2016, IEEE INT SYMP CIRC S, P2851, DOI 10.1109/ISCAS.2016.7539187
+   Pedone D, 2009, ANAL CHEM, V81, P9689, DOI 10.1021/ac901877z
+   Plesa C, 2015, NANOTECHNOLOGY, V26, DOI 10.1088/0957-4484/26/8/084003
+   Qin F, 1996, BIOPHYS J, V70, P264, DOI 10.1016/S0006-3495(96)79568-1
+   Rabiner L. R., 1986, Computer Speech and Language, V1, P167, DOI 10.1016/S0885-2308(86)80021-3
+   Raillon C, 2013, IEEE ENG MED BIO, P4106, DOI 10.1109/EMBC.2013.6610448
+   Raillon C, 2012, NANOSCALE, V4, P4916, DOI 10.1039/c2nr30951c
+   Reiner JE, 2010, P NATL ACAD SCI USA, V107, P12080, DOI 10.1073/pnas.1002194107
+   Ren R, 2017, NAT COMMUN, V8, DOI 10.1038/s41467-017-00549-w
+   Robertson JWF, 2010, J PHYS-CONDENS MAT, V22, DOI 10.1088/0953-8984/22/45/454108
+   Rodriguez LJ, 2003, LECT NOTES COMPUT SC, V2652, P847
+   Roman J, 2018, ACS SENSORS, V3, P2129, DOI 10.1021/acssensors.8b00700
+   Rosenstein JK, 2012, NAT METHODS, V9, P487, DOI [10.1038/NMETH.1932, 10.1038/nmeth.1932]
+   Shekar S, 2019, NANO LETT, V19, P1090, DOI 10.1021/acs.nanolett.8b04388
+   Shekar S, 2016, NANO LETT, V16, P4483, DOI 10.1021/acs.nanolett.6b01661
+   Smeets RMM, 2006, PHYS REV LETT, V97, DOI 10.1103/PhysRevLett.97.088101
+   STEVENS CF, 1972, BIOPHYS J, V12, P1028, DOI 10.1016/S0006-3495(72)86141-1
+   Storm AJ, 2005, PHYS REV E, V71, DOI 10.1103/PhysRevE.71.051903
+   Tabard-Cossa V, 2007, NANOTECHNOLOGY, V18, DOI 10.1088/0957-4484/18/30/305505
+   Taherzadeh-Sani M, 2017, IEEE T VLSI SYST, V25, P1756, DOI 10.1109/TVLSI.2017.2654452
+   Tan SW, 2016, NANOSCALE RES LETT, V11, DOI 10.1186/s11671-016-1255-6
+   Tang ZF, 2016, NANOMATER NANOTECHNO, V6, DOI 10.5772/64015
+   Uba FI, 2015, ANALYST, V140, P113, DOI 10.1039/c4an01439a
+   Uddin A, 2013, NANOTECHNOLOGY, V24, DOI 10.1088/0957-4484/24/15/155501
+   Uram JD, 2008, ACS NANO, V2, P857, DOI 10.1021/nn700322m
+   Verschueren DV, 2018, NANOTECHNOLOGY, V29, DOI 10.1088/1361-6528/aaabce
+   Wang GL, 2006, J AM CHEM SOC, V128, P7679, DOI 10.1021/ja061357r
+   Wang HF, 2018, CHINESE J ANAL CHEM, V46, P843, DOI 10.1016/S1872-2040(18)61090-4
+   Wang J, 2018, ACS APPL MATER INTER, V10, P2033, DOI 10.1021/acsami.7b16539
+   Wang MC, 2016, J NANOSCI NANOTECHNO, V16, P9930, DOI 10.1166/jnn.2016.12148
+   Wanunu M, 2007, NANO LETT, V7, P1580, DOI 10.1021/nl070462b
+   Weckman NE, 2019, ACS SENSORS, V4, P2065, DOI 10.1021/acssensors.9b00686
+   Wei RS, 2012, NAT NANOTECHNOL, V7, P257, DOI [10.1038/NNANO.2012.24, 10.1038/nnano.2012.24]
+   Wei ZX, 2019, ANAL CHEM, V91, P10033, DOI 10.1021/acs.analchem.9b01896
+   Wen C, 2017, ACS SENSORS, V2, P300, DOI 10.1021/acssensors.6b00826
+   Xu XL, 2017, ACS SENSORS, V2, P1452, DOI 10.1021/acssensors.7b00385
+   Yemini M, 2009, NANOTECHNOLOGY, V20, DOI 10.1088/0957-4484/20/24/245302
+   Yong Mao Huang, 2015, 2015 IEEE MTT-S International Microwave Symposium (IMS2015), P1, DOI 10.1109/MWSYM.2015.7167111
+   Yuan ZS, 2018, NANOSCALE RES LETT, V13, DOI 10.1186/s11671-018-2463-z
+   Yun J, 2017, ELECTRON LETT, V53, P707, DOI 10.1049/el.2017.0870
+   Yusko EC, 2017, NAT NANOTECHNOL, V12, P360, DOI [10.1038/NNANO.2016.267, 10.1038/nnano.2016.267]
+   Yusko EC, 2011, NAT NANOTECHNOL, V6, P253, DOI 10.1038/nnano.2011.12
+   Zhang JH, 2017, CHEM COMMUN, V53, P10176, DOI [10.1039/c7cc04745b, 10.3778/j.issn.1002-8331.1607-0302]
+   Zhang N, 2014, CHINESE SCI BULL, V59, P4942, DOI 10.1007/s11434-014-0660-4
+   Zhou Shui-Geng, 2000, Journal of Software, V11, P735
+NR 104
+TC 5
+Z9 5
+U1 21
+U2 49
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 1530-437X
+EI 1558-1748
+J9 IEEE SENS J
+JI IEEE Sens. J.
+PD JUN 1
+PY 2021
+VL 21
+IS 11
+BP 12808
+EP 12820
+DI 10.1109/JSEN.2020.3032451
+PG 13
+WC Engineering, Electrical & Electronic; Instruments & Instrumentation;
+   Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Instruments & Instrumentation; Physics
+GA SJ9LC
+UT WOS:000655846200040
+DA 2022-10-21
+ER
+
+PT J
+AU Biagi, R
+   Fernandez-Rodriguez, J
+   Gonidec, M
+   Mirone, A
+   Corradini, V
+   Moro, F
+   De Renzi, V
+   del Pennino, U
+   Cezar, JC
+   Amabilino, DB
+   Veciana, J
+AF Biagi, R.
+   Fernandez-Rodriguez, J.
+   Gonidec, M.
+   Mirone, A.
+   Corradini, V.
+   Moro, F.
+   De Renzi, V.
+   del Pennino, U.
+   Cezar, J. C.
+   Amabilino, D. B.
+   Veciana, J.
+TI X-ray absorption and magnetic circular dichroism investigation of
+   bis(phthalocyaninato)terbium single-molecule magnets deposited on
+   graphite
+SO PHYSICAL REVIEW B
+LA English
+DT Article
+ID SPIN; SPECTROSCOPY; COMPLEXES; SURFACE; METALS
+AB Bisphthalocyaninato terbium complexes show a long magnetization relaxation time at relatively high temperatures-which makes them very interesting as magnets at single-molecule level. Their technological exploitation, however, requires the addressing of the individual molecules, therefore the deposition of single-molecule magnets on surfaces is a topic of great interest as the interaction with the substrate can play a crucial role in the definition of the molecule properties. In this work we investigate the electronic and magnetic properties of anionic and neutral forms of a bis(phthalocyaninato)terbium derivative deposited on graphite by means of x-ray absorption spectroscopy and x-ray magnetic circular dichroism, performed at low temperature and high magnetic field at the M(4,5) edge of Tb. We were able to reproduce the experimental spectra by means of multiplet calculations and to validate the applicability of sum rules to the present case. Sum rules were then used for determining the orbital and spin moments of thick (several monolayers) and of thin films (submonolayer range). Calculations of spectra as a function of the molecule orientation with respect to the impinging x-ray beam, allowed us to ascertain the adsorption geometry of molecules. For both compounds, molecules stay essentially flat when adsorbing as thin film on graphite. This result is also confirmed by scanning probe microscopy, which also finds a very interesting ordered arrangement for the molecules of the neutral form. In the thick film of the neutral compound the molecules keep the same orientational order, arranging almost flat as well. On the contrary, in the thick film of the anionic compound their orientation appears to be random. The origin of this different behavior can be related to the hindrance of the counterion moiety and/or to the different solvent used for each compound. Finally, the comparison of the magnetization values and their dependence on the external magnetic field and temperature suggest that the magnetic properties of molecules are preserved when adsorbed onto the graphite surface.
+C1 [Biagi, R.; Moro, F.; De Renzi, V.; del Pennino, U.] Univ Modena & Reggio Emilia, Dipartimento Fis, Modena, Italy.
+   [Biagi, R.; Corradini, V.; Moro, F.; De Renzi, V.; del Pennino, U.] CNR, Ist Nanosci S3, Modena, Italy.
+   [Fernandez-Rodriguez, J.; Mirone, A.; Cezar, J. C.] European Synchrotron Radiat Facil, F-38043 Grenoble, France.
+   [Gonidec, M.; Amabilino, D. B.; Veciana, J.] ICMAB CSIC, Bellaterra, Spain.
+RP Biagi, R (corresponding author), Univ Modena & Reggio Emilia, Dipartimento Fis, Modena, Italy.
+EM roberto.biagi@unimore.it
+RI Cezar, Julio Criginski/D-5039-2012; Amabilino, David B/D-4671-2012;
+   Gonidec, Mathieu/J-3371-2019; Moro, Fabrizio/G-6296-2012; Moro,
+   Fabrizio/I-8072-2015; Cezar, Julio Criginski/B-2731-2008; Biagi,
+   Roberto/C-3132-2013; Veciana, Jaume/A-2147-2008; Del Pennino,
+   Umberto/L-1454-2016
+OI Cezar, Julio Criginski/0000-0002-7904-6874; Amabilino, David
+   B/0000-0003-1674-8462; Gonidec, Mathieu/0000-0002-0187-1305; Moro,
+   Fabrizio/0000-0002-6381-0479; Moro, Fabrizio/0000-0002-6381-0479; Cezar,
+   Julio Criginski/0000-0002-7904-6874; Biagi, Roberto/0000-0002-8849-1582;
+   Veciana, Jaume/0000-0003-1023-9923; Del Pennino,
+   Umberto/0000-0001-9484-1449
+FU MAGMANet [515767]; FuMaSSEC [MEST-CT-2005-020992]; Spanish projects
+   EMOCIONA [CTQ2006-06333/BQU]; CIBER de Bioingenieria, Biomateriales y
+   Nanomedicina (CIBER-BBN), promoted by ISCIII, Spain
+FX This work has been carried out within the framework of the EU, MAGMANet,
+   Contracts No. 515767, and also supported by FuMaSSEC (Grant No.
+   MEST-CT-2005-020992) and Spanish projects EMOCIONA (Grant No.
+   CTQ2006-06333/BQU) and CIBER de Bioingenieria, Biomateriales y
+   Nanomedicina (CIBER-BBN), promoted by ISCIII, Spain. One of us, J.F.-R.,
+   is grateful to Gobierno del Principado de Asturias for the financial
+   support. We acknowledge the ESRF for provision of beamtime.
+CR Bogani L, 2007, ADV MATER, V19, P3906, DOI 10.1002/adma.200700594
+   CARRA P, 1993, PHYS REV LETT, V70, P694, DOI 10.1103/PhysRevLett.70.694
+   CARRA P, 1993, PHYSICA B, V192, P182, DOI 10.1016/0921-4526(93)90119-Q
+   CHEN CT, 1995, PHYS REV LETT, V75, P152, DOI 10.1103/PhysRevLett.75.152
+   CONTE AM, 2007, THESIS SISSA
+   Corradini V, 2009, PHYS REV B, V79, DOI 10.1103/PhysRevB.79.144419
+   De Nadai C, 2004, PHYS REV B, V69, DOI 10.1103/PhysRevB.69.184421
+   DEGROOT FMF, 1994, J ELECTRON SPECTROSC, V67, P529, DOI 10.1016/0368-2048(93)02041-J
+   Gomez-Segura J, 2006, CHEM COMMUN, P2866, DOI 10.1039/b606276h
+   Gonidec M, 2010, J AM CHEM SOC, V132, P1756, DOI 10.1021/ja9095895
+   Ishikawa N, 2005, ANGEW CHEM INT EDIT, V44, P2931, DOI 10.1002/anie.200462638
+   Ishikawa N, 2004, INORG CHEM, V43, P5498, DOI 10.1021/ic049348b
+   Ishikawa N, 2003, INORG CHEM, V42, P2440, DOI 10.1021/ic026295u
+   Ivanov AV, 2006, RUSS CHEM B+, V55, P281, DOI 10.1007/s11172-006-0249-4
+   Mannini M, 2008, CHEM-EUR J, V14, P7530, DOI 10.1002/chem.200800693
+   MARGHERITI L, ADV MAT IN PRESS
+   Mirone A, 2006, EUR PHYS J B, V53, P23, DOI 10.1140/epjb/e2006-00340-5
+   MIRONE A, ARXIV07064170
+   Stepanow S, 2010, J AM CHEM SOC, V132, P11900, DOI 10.1021/ja105124r
+   Teramura Y, 1996, J PHYS SOC JPN, V65, P3056, DOI 10.1143/JPSJ.65.3056
+   Vitali L, 2008, NANO LETT, V8, P3364, DOI 10.1021/nl801869b
+   Voss S, 2007, PHYS REV B, V75, DOI 10.1103/PhysRevB.75.045102
+NR 22
+TC 26
+Z9 26
+U1 0
+U2 27
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1098-0121
+J9 PHYS REV B
+JI Phys. Rev. B
+PD DEC 6
+PY 2010
+VL 82
+IS 22
+AR 224406
+DI 10.1103/PhysRevB.82.224406
+PG 8
+WC Materials Science, Multidisciplinary; Physics, Applied; Physics,
+   Condensed Matter
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Materials Science; Physics
+GA 713SB
+UT WOS:000286756600002
+DA 2022-10-21
+ER
+
+EF

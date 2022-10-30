@@ -1,0 +1,345 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Pudleiner, P
+   Thunstrom, P
+   Valli, A
+   Kauch, A
+   Li, G
+   Held, K
+AF Pudleiner, P.
+   Thunstrom, P.
+   Valli, A.
+   Kauch, A.
+   Li, G.
+   Held, K.
+TI Parquet approximation for molecules: Spectrum and optical conductivity
+   of the Pariser-Parr-Pople model
+SO PHYSICAL REVIEW B
+LA English
+DT Article
+ID ELECTRONIC-STRUCTURE CALCULATIONS; AB-INITIO CALCULATIONS; CORRELATED
+   SYSTEMS; SUPERFLUID SYSTEMS; ENTROPY PRINCIPLE; RENORMALIZATION;
+   BENZENE; ENERGIES; FERMIONS; LATTICE
+AB We study a simple model system for the conjugated pi bonds in benzene, the Pariser-Parr-Pople (PPP) model, within the parquet approximation (PA), exemplifying the prospects of the PA for molecules. Advantages of the PA are its polynomial scaling with the number of orbitals, and the natural calculation of one-and two-particle spectral functions as well as of response and correlation functions. We find large differences in the electronic correlations in the PPP model compared to a Hubbard model with only local interactions. The quasiparticle renormalization (or mass enhancement) is much weaker in the PPP than in the Hubbard model, but the static part of the self-energy enhances the band gap of the former. Furthermore, the vertex corrections to the optical conductivity are much more important in the PPP model. Because nonlocal interactions strongly alter the self-energy, we conclude that the PA is more suitable for calculating conjugated p bonds in molecules than single site dynamical mean-field theory.
+C1 [Pudleiner, P.; Valli, A.; Kauch, A.; Held, K.] Vienna Univ Technol, Inst Solid State Phys, A-1040 Vienna, Austria.
+   [Pudleiner, P.] Graz Univ Technol, Inst Theoret & Computat Phys, A-8010 Graz, Austria.
+   [Thunstrom, P.] Uppsala Univ, Dept Phys & Astron, Mat Theory, S-75120 Uppsala, Sweden.
+   [Li, G.] ShanghaiTech Univ, Sch Phys Sci & Technol, Shanghai 200031, Peoples R China.
+RP Pudleiner, P (corresponding author), Vienna Univ Technol, Inst Solid State Phys, A-1040 Vienna, Austria.; Pudleiner, P (corresponding author), Graz Univ Technol, Inst Theoret & Computat Phys, A-8010 Graz, Austria.
+RI Kauch, Anna/E-8746-2012; Li, Gang/E-5004-2013; Valli,
+   Angelo/K-5890-2015; Held, Karsten/O-4178-2015
+OI Kauch, Anna/0000-0002-7669-0090; Li, Gang/0000-0002-0952-5909; Valli,
+   Angelo/0000-0002-0725-2425; Held, Karsten/0000-0001-5984-8549
+FU European Research Council under the European Union [306447]; Austrian
+   Science Fund (FWF) [SFB ViCoM F41, P 30997]; FWF Doctoral School [W
+   1243]; Austrian Science Fund (FWF) through the Erwin Schrodinger
+   fellowship [J3890-N36]; Austrian Science Fund (FWF) through the project
+   'LinReTraCe [P 30213]
+FX We would like to thank Felix Horbinger for helping to set up the ED
+   calculations and Tin Ribic for helpful discussions on the optical
+   conductivity. P. P., A.K., and K.H. were supported by European Research
+   Council under the European Union's Seventh Framework Program
+   (FP/2007-2013) through ERC Grant No. 306447, and by the Austrian Science
+   Fund (FWF) through SFB ViCoM F41 and project P 30997. P.P. has been
+   further supported by the FWF Doctoral School W 1243 "Building Solids for
+   Function"; and A.V. acknowledges financial support from the Austrian
+   Science Fund (FWF) through the Erwin Schrodinger fellowship J3890-N36,
+   and through project 'LinReTraCe' P 30213. Calculations have been done in
+   part on the Vienna Scientific Cluster (VSC).
+CR Anisimov VI, 1997, J PHYS-CONDENS MAT, V9, P7359, DOI 10.1088/0953-8984/9/35/010
+   [Anonymous], 2013, THESIS TU WIEN
+   Ayral T, 2015, PHYS REV B, V92, DOI 10.1103/PhysRevB.92.115109
+   Barford W., 2013, INT SERIES MONOGRAPH
+   Bartlett RJ, 2007, REV MOD PHYS, V79, P291, DOI 10.1103/RevModPhys.79.291
+   Bickers NE, 2004, CRM SER MATH PHYS, P237, DOI 10.1007/0-387-21717-7_6
+   BICKERS NE, 1991, PHYS REV B, V43, P8044, DOI 10.1103/PhysRevB.43.8044
+   BICKERS NE, 1991, INT J MOD PHYS B, V5, P253, DOI 10.1142/S021797929100016X
+   Biermann S, 2003, PHYS REV LETT, V90, DOI 10.1103/PhysRevLett.90.086402
+   Bursill RJ, 1998, CHEM PHYS LETT, V294, P305, DOI 10.1016/S0009-2614(98)00903-8
+   COESTER F, 1960, NUCL PHYS, V17, P477, DOI 10.1016/0029-5582(60)90140-1
+   DEDOMINICIS C, 1964, J MATH PHYS, V5, P14, DOI 10.1063/1.1704062
+   DEDOMINICIS C, 1964, J MATH PHYS, V5, P31, DOI 10.1063/1.1704064
+   DEDOMINICIS C, 1962, J MATH PHYS, V3, P983, DOI 10.1063/1.1724313
+   DIATLOV IT, 1957, SOV PHYS JETP-USSR, V5, P631
+   DOERING JP, 1969, J CHEM PHYS, V51, P2866, DOI 10.1063/1.1672424
+   Foulkes WMC, 2001, REV MOD PHYS, V73, P33, DOI 10.1103/RevModPhys.73.33
+   Galler  A., ARXIV171006651
+   Galler A, 2017, PHYS REV B, V95, DOI 10.1103/PhysRevB.95.115107
+   Georges A, 1996, REV MOD PHYS, V68, P13, DOI 10.1103/RevModPhys.68.13
+   GEORGES A, 1992, PHYS REV B, V45, P6479, DOI 10.1103/PhysRevB.45.6479
+   GODBY RW, 1988, PHYS REV B, V37, P10159, DOI 10.1103/PhysRevB.37.10159
+   Gull E, 2011, REV MOD PHYS, V83, P349, DOI 10.1103/RevModPhys.83.349
+   Gunacker P, 2015, PHYS REV B, V92, DOI 10.1103/PhysRevB.92.155102
+   Haverkort MW, 2016, J PHYS CONF SER, V712, DOI 10.1088/1742-6596/712/1/012001
+   Held K, 2007, ADV PHYS, V56, P829, DOI 10.1080/00018730701619647
+   Held K, 2006, PHYS STATUS SOLIDI B, V243, P2599, DOI 10.1002/pssb.200642053
+   Held K., ARXIV11093972
+   Held  K., ARXIV14115191
+   HIBERTY PC, 1995, J AM CHEM SOC, V117, P7760, DOI 10.1021/ja00134a022
+   Horbinger  F., 2015, THESIS
+   Janis V, 2001, PHYS REV B, V64, DOI 10.1103/PhysRevB.64.115115
+   Janis V, 2017, PHYS REV B, V95, DOI 10.1103/PhysRevB.95.165113
+   Janis V, 2017, PHYS REV B, V95, DOI 10.1103/PhysRevB.95.045108
+   Kaasbjerg K, 2010, PHYS REV B, V81, DOI 10.1103/PhysRevB.81.085102
+   Katanin AA, 2013, J PHYS A-MATH THEOR, V46, DOI 10.1088/1751-8113/46/4/045002
+   Katanin AA, 2009, PHYS REV B, V80, DOI 10.1103/PhysRevB.80.075104
+   Kaufmann J, 2017, PHYS REV B, V96, DOI 10.1103/PhysRevB.96.035114
+   Kotliar G, 2006, REV MOD PHYS, V78, P865, DOI 10.1103/RevModPhys.78.865
+   Kusunose H, 2006, J PHYS SOC JPN, V75, DOI 10.1143/JPSJ.75.054713
+   LASSETTR.EN, 1968, J CHEM PHYS, V48, P5066, DOI 10.1063/1.1668178
+   Li  G., COMP PHY COMM UNPUB
+   Li G, 2016, PHYS REV B, V93, DOI 10.1103/PhysRevB.93.165103
+   Li G, 2015, PHYS REV B, V91, DOI 10.1103/PhysRevB.91.165134
+   Lichtenstein AI, 1998, PHYS REV B, V57, P6884, DOI 10.1103/PhysRevB.57.6884
+   Ljungberg MP, 2015, PHYS REV B, V92, DOI 10.1103/PhysRevB.92.075422
+   Martin R.M., 2016, INTERACTING ELECT
+   METZNER W, 1989, PHYS REV LETT, V62, P324, DOI 10.1103/PhysRevLett.62.324
+   MULLERHARTMANN E, 1989, Z PHYS B CON MAT, V74, P507, DOI 10.1007/BF01311397
+   PARISER R, 1953, J CHEM PHYS, V21, P466, DOI 10.1063/1.1698929
+   Pedersen KGL, 2014, PHYS REV B, V90, DOI 10.1103/PhysRevB.90.125413
+   POPLE JA, 1953, T FARADAY SOC, V49, P1375, DOI 10.1039/tf9534901375
+   Pudleiner P, 2016, PHYS REV B, V93, DOI 10.1103/PhysRevB.93.195134
+   Ribic T, 2017, PHYS REV B, V96, DOI 10.1103/PhysRevB.96.235127
+   Rohringer G, 2018, REV MOD PHYS, V90, DOI 10.1103/RevModPhys.90.025003
+   Rohringer G, 2013, PHYS REV B, V88, DOI 10.1103/PhysRevB.88.115112
+   Rohringer G, 2012, PHYS REV B, V86, DOI 10.1103/PhysRevB.86.125114
+   Rubtsov AN, 2008, PHYS REV B, V77, DOI 10.1103/PhysRevB.77.033101
+   Rubtsov AN, 2005, PHYS REV B, V72, DOI 10.1103/PhysRevB.72.035122
+   Schafer T, 2015, PHYS REV B, V91, DOI 10.1103/PhysRevB.91.121107
+   Schollwock U, 2011, ANN PHYS-NEW YORK, V326, P96, DOI 10.1016/j.aop.2010.09.012
+   Sherrill CD, 1999, ADV QUANTUM CHEM, V34, P143, DOI 10.1016/S0065-3276(08)60532-8
+   Tam KM, 2013, PHYS REV E, V87, DOI 10.1103/PhysRevE.87.013311
+   Taranto C, 2014, PHYS REV LETT, V112, DOI 10.1103/PhysRevLett.112.196402
+   Thunstrom P, 2012, PHYS REV LETT, V109, DOI 10.1103/PhysRevLett.109.186401
+   Tiago ML, 2005, SOLID STATE COMMUN, V136, P333, DOI 10.1016/j.ssc.2005.08.012
+   Tomczak JM, 2015, J PHYS CONF SER, V592, DOI 10.1088/1742-6596/592/1/012055
+   Tomczak JM, 2012, EPL-EUROPHYS LETT, V100, DOI 10.1209/0295-5075/100/67001
+   Toschi A, 2007, PHYS REV B, V75, DOI 10.1103/PhysRevB.75.045118
+   Toschi A, 2011, ANN PHYS-BERLIN, V523, P698, DOI 10.1002/andp.201100036
+   Valli A, 2015, PHYS REV B, V91, DOI 10.1103/PhysRevB.91.115115
+   Valli  A., 2013, THESIS
+   Wallerberger M, 2019, COMPUT PHYS COMMUN, V235, P388, DOI 10.1016/j.cpc.2018.09.007
+   Weisse A, 2008, LECT NOTES PHYS, V739, P529, DOI 10.1007/978-3-540-74686-7_18
+   Wentzell N., ARXIV161006520
+   WHITE SR, 1992, PHYS REV LETT, V69, P2863, DOI 10.1103/PhysRevLett.69.2863
+   Yang SX, 2009, PHYS REV E, V80, DOI 10.1103/PhysRevE.80.046706
+NR 78
+TC 12
+Z9 12
+U1 1
+U2 6
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 2469-9950
+EI 2469-9969
+J9 PHYS REV B
+JI Phys. Rev. B
+PD MAR 11
+PY 2019
+VL 99
+IS 12
+AR 125111
+DI 10.1103/PhysRevB.99.125111
+PG 12
+WC Materials Science, Multidisciplinary; Physics, Applied; Physics,
+   Condensed Matter
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Materials Science; Physics
+GA HO2EJ
+UT WOS:000460723900007
+OA Green Submitted
+DA 2022-10-21
+ER
+
+PT J
+AU Elmoussaoui, S
+   El-Kork, N
+   Korek, M
+AF Elmoussaoui, Soumaya
+   El-Kork, Nayla
+   Korek, Mahmoud
+TI Electronic structure of the ZnCl molecule with rovibrational and
+   ionicity studies of the ZnX (X = F, Cl, Br, I) compounds
+SO COMPUTATIONAL AND THEORETICAL CHEMISTRY
+LA English
+DT Article
+DE Ab initio calculation; Electronic structure; Spectroscopic constants;
+   Potential energy curves; Dipole moments; Ionic fraction; Einstein
+   coefficients
+ID DIPOLE-MOMENT CALCULATION; AB-INITIO; BOND IONICITY; STATES; SCALE;
+   PSEUDOPOTENTIALS; SPECTRA; ATOMS; HGCL; ZNBR
+AB Based on the complete active space self consistent field (CASSCF) method with multi-reference configuration interaction MRCI calculations including single and double excitations with Davidson correction (+Q), twenty three low lying electronic states in the (2s+1)A((+/-)) representation of the zinc monochloride ZnCl molecule are investigated considering 7 and 9 valence electrons. The internuclear distance Re, the harmonic frequency omega(e), the permanent dipole moment mu, the rotational constant B-e and the electronic transition energy with respect to the ground state T-e are calculated for the bound states. The transition dipole moment between some doublet states is used to determine the Einstein spontaneous A(21) and induced emission B-21(omega) coefficients, the spontaneous radiative lifetime tau(spon), the emission wavelength lambda(21), the oscillator strength f(21) and the line strength S-21. The fraction of the ground state ionic character f and equilibrium dissociation energy D-E,D-e are also computed. Using the canonical function approach, the eigenvalues E-v, the rotational constants B-v, the centrifugal distortion constants D-v and the abscissas of the turning points R-min and R-max of the zinc monohalide molecules ZnX (X: F, CI, Br, I) are calculated. The comparison between the values of the present work and those available in the literature for several electronic states shows good accordance. (C) 2016 Elsevier B.V. All rights reserved.
+C1 [Elmoussaoui, Soumaya; Korek, Mahmoud] Beirut Arab Univ, Dept Phys, POB 11-5020,Riad El Solh, Beirut 11072809, Lebanon.
+   [El-Kork, Nayla] Khalifa Univ, POB 57, Sharjah, U Arab Emirates.
+RP Korek, M (corresponding author), Beirut Arab Univ, Dept Phys, POB 11-5020,Riad El Solh, Beirut 11072809, Lebanon.
+EM fkorek@yahoo.com
+RI El-Kork, Nayla/P-6538-2016
+OI El-Kork, Nayla/0000-0002-5402-4951; Elmoussaoui,
+   Soumaya/0000-0001-8098-3219
+FU Lebanese National Council for Scientific Research (CNRS - Lebanon)
+FX This research has received financial support from The Lebanese National
+   Council for Scientific Research (CNRS - Lebanon) by the grant program
+   for scientific research 2013-2015.
+CR Allouche AR, 2011, J COMPUT CHEM, V32, P174, DOI 10.1002/jcc.21600
+   ALLRED AL, 1958, J INORG NUCL CHEM, V5, P264, DOI 10.1016/0022-1902(58)80003-2
+   [Anonymous], [No title captured]
+   BARBE J, 1983, J CHEM EDUC, V60, P640, DOI 10.1021/ed060p640
+   BERGNER A, 1993, MOL PHYS, V80, P1431, DOI 10.1080/00268979300103121
+   Boldyrev AI, 1997, MOL PHYS, V92, P365, DOI 10.1080/00268979709482107
+   BOWMAKER GA, 1990, J MOL STRUC-THEOCHEM, V64, P295
+   CATLOW CRA, 1983, J PHYS C SOLID STATE, V16, P4321, DOI 10.1088/0022-3719/16/22/010
+   CORBETT JD, 1967, INORG CHEM, V6, P2199, DOI 10.1021/ic50058a015
+   Cornell SD, 1938, PHYS REV, V54, P341, DOI 10.1103/PhysRev.54.341
+   Elmoussaoui S., 2016, CAN J IN PRESS  0504
+   Elmoussaoui S, 2015, COMPUT THEOR CHEM, V1068, P42, DOI 10.1016/j.comptc.2015.06.015
+   Elmoussaoui S, 2015, J QUANT SPECTROSC RA, V161, P131, DOI 10.1016/j.jqsrt.2015.04.004
+   Figgen D, 2005, CHEM PHYS, V311, P227, DOI 10.1016/j.chemphys.2004.10.005
+   Fiser J, 2014, CHEM PHYS, V441, P137, DOI 10.1016/j.chemphys.2014.07.012
+   Flory MA, 2006, J CHEM PHYS, V125, DOI 10.1063/1.2355495
+   Flory MA, 2004, J CHEM PHYS, V121, P8385, DOI 10.1063/1.1795691
+   GIVAN A, 1982, J MOL STRUCT, V78, P299, DOI 10.1016/0022-2860(82)80016-1
+   Hayashi S., 2008, THESIS
+   Herzberg G., 2013, MOL SPECTRA MOL STRU, V1
+   HILBORN RC, 1982, AM J PHYS, V50, P982, DOI 10.1119/1.12937
+   Hildenbrand DL, 1999, J CHEM PHYS, V111, P1337, DOI 10.1063/1.479319
+   HUET TR, 1990, J MOL SPECTROSC, V144, P32, DOI 10.1016/0022-2852(90)90306-B
+   Kerkines ISK, 2006, J PHYS CHEM A, V110, P10899, DOI 10.1021/jp062801f
+   Korek M, 2002, CAN J PHYS, V80, P1025, DOI 10.1139/P02-045
+   Korek M, 2001, J PHYS B-AT MOL OPT, V34, P3689, DOI 10.1088/0953-4075/34/18/307
+   KOREK M, 1993, CAN J CHEM, V71, P313, DOI 10.1139/v93-046
+   LIAO MS, 1995, INORG CHEM, V34, P5597, DOI 10.1021/ic00126a033
+   Loh W. H. T., 1968, REENTRY PLANETARY EN, V2, P235
+   Noorizadeh S, 2008, J PHYS CHEM A, V112, P3486, DOI 10.1021/jp709877h
+   PACCHIONI G, 1995, CHEM PHYS, V199, P155, DOI 10.1016/0301-0104(95)00202-Y
+   Qteish A, 2015, J PHYS CHEM SOLIDS, V82, P82, DOI 10.1016/j.jpcs.2015.02.011
+   Schamps J., 2003, PHYS CHEM NEWS, V9, P75
+   STRADELLA OG, 1985, INORG CHEM, V24, P3631, DOI 10.1021/ic00216a031
+   Sureshkumar M. B., 1994, Optica Pura y Aplicada, V27, P198
+   Tenenbaum ED, 2007, J MOL SPECTROSC, V244, P153, DOI 10.1016/j.jms.2007.05.011
+   Tennyson J, 2014, J MOL SPECTROSC, V298, P1, DOI 10.1016/j.jms.2014.01.012
+   Walter J.M., 1929, Proceedings of the Royal Society of London, V122, P201, DOI 10.1098/rspa.1929.0014
+NR 38
+TC 15
+Z9 16
+U1 0
+U2 15
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 2210-271X
+EI 1872-7999
+J9 COMPUT THEOR CHEM
+JI Comput. Theor. Chem.
+PD AUG 15
+PY 2016
+VL 1090
+BP 94
+EP 104
+DI 10.1016/j.comptc.2016.06.012
+PG 11
+WC Chemistry, Physical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry
+GA DT2PW
+UT WOS:000381323900015
+DA 2022-10-21
+ER
+
+PT J
+AU Elmoussaoui, S
+   Chmaisani, W
+   Korek, M
+AF Elmoussaoui, Soumaya
+   Chmaisani, Wael
+   Korek, Mahmoud
+TI Theoretical electronic structure with dipole moment and rovibrational
+   calculation of the low-lying electronic states of the HgF molecule
+SO JOURNAL OF QUANTITATIVE SPECTROSCOPY & RADIATIVE TRANSFER
+LA English
+DT Article
+DE Ab initio calculation; Electronic structure; Static and transition
+   dipole moment; Ionic fraction; Einstein spontaneous emission constants;
+   Vibrational levels; Franck-Condon factor
+ID AB-INITIO PSEUDOPOTENTIALS; VALENCE BASIS-SETS; BOND IONICITY; LASER
+   ACTION; HGCL; HGBR; TRANSITION; MERCURY; DISCHARGE; LEVEL
+AB With the lack of evitable data about the electronic structure of the low-lying states of the HgF molecule unlike its counter parts of mercury monohalides, spectroscopic study of eighteen low-lying doublet and quartet electronic states in the representation (2s+1) Lambda ((+\-)) of this molecule is conducted. Adiabatic potential energy curves of those states are investigated using the complete active space self consistent field (CASSCF) calculation with multi-reference configuration interaction (MRCI) method including single and double excitations with Davidson correction (+Q). The spectroscopic constants as R-e, omega(e), omega X-e(e), B-e, alpha(e), T-e and mu(e) are calculated for the bound states. The dissociation energy D-0(0) and the percentage ionic character Tonic are also computed. The transition dipole moment mu(TDM) between some doublet low-lying states is studied and some emission coefficients as the Einstein spontaneous coefficients A(21), the spontaneous radiative lifetime tau(spon), and the oscillator strength f(21) are thus determined. A rovibrational study has been done to investigate the vibrational levels of the low-lying bound states and the vibrational constants E-v, B-v, D-v, R-min and R-max are reported. The Franck-Condon factors have also been calculated for the most probable transitions between the excited states and the ground state. The comparison between the values of the present work and those short information available in the literature shows good accordance. (C) 2017 Elsevier Ltd. All rights reserved.
+C1 [Elmoussaoui, Soumaya; Chmaisani, Wael; Korek, Mahmoud] Beirut Arab Univ, Fac Sci, POB 11-5020, Beirut 11072809, Lebanon.
+RP Korek, M (corresponding author), Beirut Arab Univ, Fac Sci, POB 11-5020, Beirut 11072809, Lebanon.
+EM mahmoud.korek@bau.edu.lb
+RI Chmaisani, Wael/AAW-9701-2020
+OI Chmaisani, Wael/0000-0003-1078-9319; Elmoussaoui,
+   Soumaya/0000-0001-8098-3219
+CR Allouche AR, 2011, J COMPUT CHEM, V32, P174, DOI 10.1002/jcc.21600
+   ANDRAE D, 1990, THEOR CHIM ACTA, V77, P123, DOI 10.1007/BF01114537
+   [Anonymous], [No title captured]
+   BARBE J, 1983, J CHEM EDUC, V60, P640, DOI 10.1021/ed060p640
+   BURNHAM R, 1978, APPL PHYS LETT, V33, P156, DOI 10.1063/1.90290
+   Cheung NH, 1979, JQSRT, V21, P391
+   Cremer D, 2008, CHEMPHYSCHEM, V9, P2510, DOI 10.1002/cphc.200800510
+   DMITRIEV YY, 1992, PHYS LETT A, V167, P280, DOI 10.1016/0375-9601(92)90206-2
+   DUZY C, 1977, CHEM PHYS LETT, V52, P345, DOI 10.1016/0009-2614(77)80556-3
+   Elmoussaoui S, 2017, CAN J CHEM, V95, P22, DOI 10.1139/cjc-2016-0058
+   Elmoussaoui S, 2016, COMPUT THEOR CHEM, V1090, P94, DOI 10.1016/j.comptc.2016.06.012
+   Elmoussaoui S, 2015, COMPUT THEOR CHEM, V1068, P42, DOI 10.1016/j.comptc.2015.06.015
+   Elmoussaoui S, 2015, J QUANT SPECTROSC RA, V161, P131, DOI 10.1016/j.jqsrt.2015.04.004
+   Guivan NN, 2006, OPT SPECTROSC+, V101, P375, DOI 10.1134/S0030400X06090074
+   HAY PJ, 1979, ANNU REV PHYS CHEM, V30, P311, DOI 10.1146/annurev.pc.30.100179.001523
+   HILBORN RC, 1982, AM J PHYS, V50, P982, DOI 10.1119/1.12937
+   HORNE DG, 1968, J CHEM PHYS, V48, P4758, DOI 10.1063/1.1668058
+   Howell HG, 1943, PROC R SOC LON SER-A, V182, P95, DOI 10.1098/rspa.1943.0025
+   Khalizov AF, 2003, J PHYS CHEM A, V107, P6360, DOI 10.1021/jp0350722
+   Kim J, 2010, J CHEM PHYS, V133, DOI 10.1063/1.3497189
+   Korek M, 2002, CAN J PHYS, V80, P1025, DOI 10.1139/P02-045
+   Korek M, 2001, J PHYS B-AT MOL OPT, V34, P3689, DOI 10.1088/0953-4075/34/18/307
+   KOREK M, 1993, CAN J CHEM, V71, P313, DOI 10.1139/v93-046
+   Kovba VM, 2006, RUSS J PHYS CHEM+, V80, P1285, DOI 10.1134/S0036024406080206
+   KUCHLE W, 1991, MOL PHYS, V74, P1245, DOI 10.1080/00268979100102941
+   KUMAR V, 1987, CHEM PHYS LETT, V142, P217, DOI 10.1016/0009-2614(87)80926-0
+   KVASNIK F, 1982, OPT COMMUN, V41, P199, DOI 10.1016/0030-4018(82)90071-2
+   Le Roy RJ, 2017, J QUANT SPECTROSC RA, V186, P167, DOI 10.1016/j.jqsrt.2016.05.028
+   LIAO MS, 1995, INORG CHEM, V34, P5597, DOI 10.1021/ic00126a033
+   LUTHY W, 1982, PHYS LETT A, V88, P450, DOI 10.1016/0375-9601(82)90538-2
+   Martin JML, 2001, J CHEM PHYS, V114, P3408, DOI 10.1063/1.1337864
+   PARKS JH, 1977, APPL PHYS LETT, V31, P297, DOI 10.1063/1.89676
+   PARKS JH, 1977, APPL PHYS LETT, V31, P192, DOI 10.1063/1.89644
+   Qteish A, 2015, J PHYS CHEM SOLIDS, V82, P82, DOI 10.1016/j.jpcs.2015.02.011
+   RICE GW, 1985, APPL SPECTROSC, V39, P554, DOI 10.1366/0003702854248584
+   Shepler BC, 2016, J CHEM PHYS, V127
+   STRADELLA OG, 1985, INORG CHEM, V24, P3631, DOI 10.1021/ic00216a031
+   WADT WR, 1979, APPL PHYS LETT, V34, P658, DOI 10.1063/1.90627
+   Werner HJ, OLPRO IS PACKAGE AB
+   WHITEHURST C, 1987, J PHYS B-AT MOL OPT, V20, P4035, DOI 10.1088/0022-3700/20/16/015
+   Wieland K., 1941, Helvetica Physica Acta, V14, P420
+   WIELAND K, 1960, Z ELEKTROCHEM, V64, P761
+   Wieland K., 1929, Helvetica Physica Acta, V2, P46
+   WOON DE, 1995, J CHEM PHYS, V103, P4572, DOI 10.1063/1.470645
+NR 44
+TC 9
+Z9 9
+U1 0
+U2 7
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0022-4073
+EI 1879-1352
+J9 J QUANT SPECTROSC RA
+JI J. Quant. Spectrosc. Radiat. Transf.
+PD NOV
+PY 2017
+VL 201
+BP 64
+EP 74
+DI 10.1016/j.jqsrt.2017.06.040
+PG 11
+WC Optics; Spectroscopy
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Optics; Spectroscopy
+GA FH9PL
+UT WOS:000411544100008
+DA 2022-10-21
+ER
+
+EF

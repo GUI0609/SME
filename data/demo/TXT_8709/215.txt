@@ -1,0 +1,336 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Kortus, J
+   Baruah, T
+   Bernstein, N
+   Pederson, MR
+AF Kortus, J
+   Baruah, T
+   Bernstein, N
+   Pederson, MR
+TI Magnetic ordering, electronic structure, and magnetic anisotropy energy
+   in the high-spin Mn-10 single molecule magnet
+SO PHYSICAL REVIEW B
+LA English
+DT Article
+ID APPROXIMATION; INTENSITIES; NANOMAGNETS
+AB We report the electronic structure and magnetic ordering of the single molecule magnet [Mn10O4(2,2(')-biphenoxide)(4)Br-12](4-) based on first-principles all-electron density-functional calculations. We find that two of the ten core Mn atoms are coupled antiferromagnetically to the remaining eight, resulting in a ferrimagnetic ground state with total spin S=13. The calculated magnetic anisotropy barrier is found to be 9 K in good agreement with experiment. The presence of the Br anions impacts the electronic structure and therefore the magnetic properties of the ten Mn atoms. However, the electric field due to the negative charges has no significant effect on the magnetic anisotropy.
+C1 Max Planck Inst Festkorperforsch, D-70569 Stuttgart, Germany.
+   USN, Ctr Computat Mat Sci, Res Lab, Washington, DC 20375 USA.
+RP Kortus, J (corresponding author), Max Planck Inst Festkorperforsch, Heisenbergstr 1, D-70569 Stuttgart, Germany.
+OI Kortus, Jens/0000-0001-9351-7022
+CR Barra AL, 1999, J SOLID STATE CHEM, V145, P484, DOI 10.1006/jssc.1999.8185
+   Barra AL, 1997, PHYS REV B, V56, P8192, DOI 10.1103/PhysRevB.56.8192
+   Briley A, 1998, PHYS REV B, V58, P1786, DOI 10.1103/PhysRevB.58.1786
+   Friedman JR, 1996, PHYS REV LETT, V76, P3830, DOI 10.1103/PhysRevLett.76.3830
+   HOHENBERG P, 1964, PHYS REV B, V136, pB864, DOI 10.1103/PhysRev.136.B864
+   JACKSON K, 1990, PHYS REV B, V42, P3276, DOI 10.1103/PhysRevB.42.3276
+   KOHN W, 1965, PHYS REV, V140, P1133, DOI 10.1103/PhysRev.140.A1133
+   Mertes KM, 2001, PHYS REV LETT, V87, part. no., DOI 10.1103/PhysRevLett.87.227205
+   PEDERSON MR, 1990, PHYS REV B, V41, P7453, DOI 10.1103/PhysRevB.41.7453
+   Pederson MR, 1999, PHYS REV B, V60, P9566, DOI 10.1103/PhysRevB.60.9566
+   Pederson MR, 1999, PHYS REV B, V59, pR693, DOI 10.1103/PhysRevB.59.R693
+   Pederson MR, 2000, PHYS STATUS SOLIDI B, V217, P197, DOI 10.1002/(SICI)1521-3951(200001)217:1<197::AID-PSSB197>3.0.CO;2-B
+   Pederson MR, 1999, CHEM PHYS LETT, V307, P253, DOI 10.1016/S0009-2614(99)00525-4
+   Perdew JP, 1996, PHYS REV LETT, V77, P3865, DOI 10.1103/PhysRevLett.77.3865
+   Porezag D, 1999, PHYS REV A, V60, P2840, DOI 10.1103/PhysRevA.60.2840
+   Porezag D, 1996, PHYS REV B, V54, P7830, DOI 10.1103/PhysRevB.54.7830
+   SESSOLI R, 1993, NATURE, V365, P141, DOI 10.1038/365141a0
+   SESSOLI R, COMMUNICATION
+   Thomas L, 1996, NATURE, V383, P145, DOI 10.1038/383145a0
+   Van Vleck JH, 1937, PHYS REV, V52, P1178, DOI 10.1103/PhysRev.52.1178
+NR 20
+TC 32
+Z9 32
+U1 0
+U2 6
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 2469-9950
+EI 2469-9969
+J9 PHYS REV B
+JI Phys. Rev. B
+PD SEP 1
+PY 2002
+VL 66
+IS 9
+AR 092403
+DI 10.1103/PhysRevB.66.092403
+PG 4
+WC Materials Science, Multidisciplinary; Physics, Applied; Physics,
+   Condensed Matter
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Materials Science; Physics
+GA 600GX
+UT WOS:000178383200017
+OA Green Submitted
+DA 2022-10-21
+ER
+
+PT J
+AU Zipse, D
+   Dalal, NS
+   Achey, RM
+   North, JM
+   Hill, S
+   Edwards, RS
+AF Zipse, D
+   Dalal, NS
+   Achey, RM
+   North, JM
+   Hill, S
+   Edwards, RS
+TI EPR and NMR characterization of the S=9 excited state and spin density
+   distribution in the single-molecule magnet Fe8Br8: Implications to the
+   S=10 model and magnetization Tunneling pathways
+SO APPLIED MAGNETIC RESONANCE
+LA English
+DT Article; Proceedings Paper
+CT Specialized Colloque AMPERE on NMR and EPR of Broad-Line Solids
+CY SEP 08-12, 2003
+CL Portoroz, SLOVENIA
+ID ELECTRONIC-STRUCTURE; QUANTUM RELAXATION; FE-8; DELOCALIZATION; CRYSTAL;
+   SYSTEM
+AB High-sensitivity, variable-frequency, high-field electron paramagnetic resonance (EPR) measurements and nuclear magnetic resonance (NMR) measurements are reported for the S = 10 single-molecule magnet Fe8Br8. We find that the S = 10 state is nested with its first excited state, with S = 9, located at only 24 +/- 2 K above. Also reported are some preliminary Br-81 NMR measurements of the unpaired electron spin density on the Br- sites. The results provide new insight and benchmarks for improved electronic and magnetic structural calculations and macroscopic tunneling pathways of this class of single-molecule magnets.
+C1 Florida State Univ, Dept Chem & Biochem, Tallahassee, FL 32306 USA.
+   Florida State Univ, Natl High Magnet Field Lab, Tallahassee, FL 32306 USA.
+   Univ Florida, Dept Phys, Gainesville, FL 32611 USA.
+RP Zipse, D (corresponding author), Florida State Univ, Dept Chem & Biochem, Tallahassee, FL 32306 USA.
+RI Hill, Stephen/J-5383-2014; Dalal, Naresh/V-4474-2018
+OI Hill, Stephen/0000-0001-6742-3620; Edwards, Rachel
+   S./0000-0003-2550-3627
+CR Achey RM, 2002, SOLID STATE COMMUN, V121, P107, DOI 10.1016/S0038-1098(01)00463-X
+   [Anonymous], 2000, MRS B, V25
+   Barra AL, 1996, EUROPHYS LETT, V35, P133, DOI 10.1209/epl/i1996-00544-3
+   Barra AL, 2000, CHEM-EUR J, V6, P1608, DOI 10.1002/(SICI)1521-3765(20000502)6:9<1608::AID-CHEM1608>3.3.CO;2-#
+   Caciuffo R, 1998, PHYS REV LETT, V81, P4744, DOI 10.1103/PhysRevLett.81.4744
+   Carretta P, 2002, PHYS REV B, V66, DOI 10.1103/PhysRevB.66.094420
+   Christou G, 2000, MRS BULL, V25, P66, DOI 10.1557/mrs2000.226
+   Chudnovsky E. M., 1998, MACROSCOPIC QUANTUM
+   del Barco E, 2000, PHYS REV B, V62, P3018, DOI 10.1103/PhysRevB.62.3018
+   DELFS C, 1993, INORG CHEM, V32, P3099, DOI 10.1021/ic00066a022
+   Friedman JR, 1996, PHYS REV LETT, V76, P3830, DOI 10.1103/PhysRevLett.76.3830
+   Furukawa Y, 2001, PHYS REV B, V64, DOI 10.1103/PhysRevB.64.094439
+   Gatteschi D, 2003, ANGEW CHEM INT EDIT, V42, P268, DOI 10.1002/anie.200390099
+   Hernandez JM, 1996, EUROPHYS LETT, V35, P301, DOI 10.1209/epl/i1996-00570-7
+   Hill S, 1998, PHYS REV LETT, V80, P2453, DOI 10.1103/PhysRevLett.80.2453
+   Hill S, 2002, PHYS REV B, V65, DOI 10.1103/PhysRevB.65.224410
+   Katsnelson MI, 1999, PHYS REV B, V59, P6919, DOI 10.1103/PhysRevB.59.6919
+   Kortus J, 2001, EUR PHYS J D, V16, P177, DOI 10.1007/s100530170086
+   Leuenberger MN, 2001, NATURE, V410, P789, DOI 10.1038/35071024
+   Maccagnano S, 2001, POLYHEDRON, V20, P1441, DOI 10.1016/S0277-5387(01)00633-7
+   North JM, 2002, PHYS REV B, V66, DOI 10.1103/PhysRevB.66.174437
+   North JM, 2003, J APPL PHYS, V93, P7092, DOI 10.1063/1.1543856
+   North JM, 2003, PHYS REV B, V67, DOI 10.1103/PhysRevB.67.174407
+   Park K, 2002, PHYS REV B, V65, DOI 10.1103/PhysRevB.65.014426
+   Pederson MR, 2002, J APPL PHYS, V91, P7149, DOI 10.1063/1.1450786
+   Perenboom JAAJ, 1998, PHYS REV B, V58, P330, DOI 10.1103/PhysRevB.58.330
+   Prokof'ev NV, 1998, PHYS REV LETT, V80, P5794, DOI 10.1103/PhysRevLett.80.5794
+   Raghu C, 2001, PHYS REV B, V64, DOI 10.1103/PhysRevB.64.064419
+   Sangregorio C, 1997, PHYS REV LETT, V78, P4645, DOI 10.1103/PhysRevLett.78.4645
+   Thomas L, 1996, NATURE, V383, P145, DOI 10.1038/383145a0
+   Wernsdorfer W, 2000, PHYS REV LETT, V84, P2965, DOI 10.1103/PhysRevLett.84.2965
+   Wernsdorfer W, 1999, PHYS REV LETT, V82, P3903, DOI 10.1103/PhysRevLett.82.3903
+   Wernsdorfer W, 2000, EUROPHYS LETT, V50, P552, DOI 10.1209/epl/i2000-00305-x
+   WIEGHARDT K, 1984, ANGEW CHEM INT EDIT, V23, P77
+   Zipse D, 2004, J APPL PHYS, V95, P6900, DOI 10.1063/1.1664451
+NR 35
+TC 5
+Z9 5
+U1 0
+U2 6
+PU SPRINGER WIEN
+PI WIEN
+PA SACHSENPLATZ 4-6, PO BOX 89, A-1201 WIEN, AUSTRIA
+SN 0937-9347
+EI 1613-7507
+J9 APPL MAGN RESON
+JI Appl. Magn. Reson.
+PY 2004
+VL 27
+IS 1-2
+BP 151
+EP 163
+DI 10.1007/BF03166310
+PG 13
+WC Physics, Atomic, Molecular & Chemical; Spectroscopy
+WE Science Citation Index Expanded (SCI-EXPANDED); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Physics; Spectroscopy
+GA 886IO
+UT WOS:000226220600015
+DA 2022-10-21
+ER
+
+PT J
+AU Verhulst, AS
+   Ruic, D
+   Willems, K
+   Van Dorpe, P
+AF Verhulst, Anne S.
+   Ruic, Dino
+   Willems, Kherim
+   Van Dorpe, Pol
+TI Boosting the Sensitivity of the Nanopore Field-Effect Transistor to
+   Translocating Single Molecules
+SO IEEE SENSORS JOURNAL
+LA English
+DT Article
+DE Sensors; Nanoscale devices; Nanobioscience; Logic gates; Electrodes;
+   Sensitivity; MOSFET; Nanopore; proteomics; single molecule;
+   translocation
+ID DNA
+AB Nano-scaling of metal-oxide-semiconductor (MOS) field-effect transistors (FETs) is exploited to benefit the interdisciplinary field of single-molecule biosensing. While single-molecule DNA sequencing is done successfully by ionic current sensing through nanopores, the unambiguous characterization of more complex single biomolecules, such as fast translocating proteins, remains challenging with existing techniques. However, the nanopore-FET (NP-FET), a device with a nanopore embedded within the channel of the FET, is a promising new device detecting the motion of a molecule through the nanopore based on the transistor's electronic current. This nano-scale FET-based approach enables next-generation single-molecule sensing by offering larger signals and hence higher bandwidth, responding to a key challenge of detecting fast translocating molecules, and by offering denser electronic system packing and therefore more parallel sensing. However, the sensitivity of the nanopore-FET reported so far was limited to about 30%. In this paper, we show that the inherent potential of this hybrid nanofluidic-nanoelectronic device significantly exceeds the initial reportings by demonstrating sensitivity predictions up to 1000%. Our findings are supported with 3D nanofluidic-nanoelectronic open-source device simulations. Insight in the versatility of the device is provided through geometrical device optimization and demonstration that the device is sensitive to both positively and negatively charged molecules in both n- and p-channel FET configurations. These promising features, together with the immense expertise in MOS fabrication and scaling, offer a path to a highly parallelized and scalable sensor platform for genomics and proteomics.
+C1 [Verhulst, Anne S.; Ruic, Dino; Willems, Kherim; Van Dorpe, Pol] IMEC, B-3001 Leuven, Belgium.
+   [Verhulst, Anne S.] Katholieke Univ Leuven, Dept Elect Engn, B-3001 Leuven, Belgium.
+   [Ruic, Dino; Van Dorpe, Pol] Katholieke Univ Leuven, Dept Phys & Astron, B-3001 Leuven, Belgium.
+   [Ruic, Dino] Alphabets X, Mountain View, CA 94043 USA.
+   [Willems, Kherim] Katholieke Univ Leuven, Dept Chem, B-3001 Leuven, Belgium.
+RP Verhulst, AS (corresponding author), IMEC, B-3001 Leuven, Belgium.
+EM anne.verhulst@imec.be; pol.vandorpe@imec.be
+RI Willems, Kherim/AAN-8711-2020; Van Dorpe, Pol/J-3935-2014
+OI Willems, Kherim/0000-0003-1341-1581; Van Dorpe, Pol/0000-0003-0918-1664;
+   , Anne/0000-0002-3742-9017
+FU imec's Industrial Affiliation Program
+FX This work was supported by the imec's Industrial Affiliation Program.
+CR Akkilic N, 2020, BIOSENS BIOELECTRON, V151, DOI 10.1016/j.bios.2019.111944
+   [Anonymous], 2018, OP SOURC CFD TOOLB V
+   [Anonymous], 2020, SOURCE CODE NPFETFOA
+   Avci UE, 2015, IEEE J ELECTRON DEVI, V3, P88, DOI 10.1109/JEDS.2015.2390591
+   Bowden R, 2019, NAT COMMUN, V10, DOI 10.1038/s41467-019-09637-5
+   Branton D, 2008, NAT BIOTECHNOL, V26, P1146, DOI 10.1038/nbt.1495
+   CAUGHEY DM, 1967, PR INST ELECTR ELECT, V55, P2192, DOI 10.1109/PROC.1967.6123
+   Chang SC, 2017, IEEE J EXPLOR SOLID-, V3, P56, DOI 10.1109/JXCDC.2017.2750108
+   Dal Peraro M, 2016, NAT REV MICROBIOL, V14, P77, DOI 10.1038/nrmicro.2015.3
+   Deamer D, 2016, NAT BIOTECHNOL, V34, P518, DOI 10.1038/nbt.3423
+   Dekker C, 2007, NAT NANOTECHNOL, V2, P209, DOI 10.1038/nnano.2007.27
+   Di Ventra M, 2016, NAT NANOTECHNOL, V11, P117, DOI [10.1038/NNANO.2015.320, 10.1038/nnano.2015.320]
+   Fanget A, 2014, NANO LETT, V14, P244, DOI 10.1021/nl403849g
+   Farrell P. A, 1991, COMPUTATIONAL METHOD, P51
+   Graf M, 2019, NANO LETT, V19, P9075, DOI 10.1021/acs.nanolett.9b04180
+   Gross P, 2010, METHOD ENZYMOL, V475, P427, DOI 10.1016/S0076-6879(10)75017-5
+   Gupta M, 2019, IEEE SENS J, V19, P6578, DOI 10.1109/JSEN.2019.2912503
+   Harrington L, 2019, ACS NANO, V13, P633, DOI 10.1021/acsnano.8b07697
+   Heerema SJ, 2016, NAT NANOTECHNOL, V11, P127, DOI [10.1038/nnano.2015.307, 10.1038/NNANO.2015.307]
+   Houghtaling J, 2019, ACS NANO, V13, P5231, DOI 10.1021/acsnano.8b09555
+   Howorka S, 2009, CHEM SOC REV, V38, P2360, DOI 10.1039/b813796j
+   Ivanov AP, 2011, NANO LETT, V11, P279, DOI 10.1021/nl103873a
+   Jain M, 2016, GENOME BIOL, V17, DOI 10.1186/s13059-016-1103-0
+   Keyser UF, 2016, NAT NANOTECHNOL, V11, P106, DOI 10.1038/nnano.2016.2
+   Manrao EA, 2012, NAT BIOTECHNOL, V30, P349, DOI 10.1038/nbt.2171
+   MOERNER WE, 1989, PHYS REV LETT, V62, P2535, DOI 10.1103/PhysRevLett.62.2535
+   Parkin WM, 2018, ACS SENSORS, V3, P313, DOI 10.1021/acssensors.7b00708
+   Restrepo-Perez L, 2019, ACS NANO, V13, P13668, DOI 10.1021/acsnano.9b05156
+   Ruic D, 2020, P INT C SINGL MOL SE, P194
+   Santermans S, 2020, IEDM, P35
+   Sharma Sudhansh, 2008, JOURNAL OF SEMICONDUCTOR TECHNOLOGY AND SCIENCE, V8, P170
+   Shekar S, 2016, NANO LETT, V16, P4483, DOI 10.1021/acs.nanolett.6b01661
+   Song JY, 2006, IEEE T NANOTECHNOL, V5, P186, DOI 10.1109/TNANO.2006.869952
+   Tamersit K, 2016, IEEE SENS J, V16, P4180, DOI 10.1109/JSEN.2016.2550492
+   Venkatesan BM, 2011, NAT NANOTECHNOL, V6, P615, DOI [10.1038/nnano.2011.129, 10.1038/NNANO.2011.129]
+   Verreck D., 2016, TUNNEL FIELD EFFECT, DOI [10.1002/047134608X.W8333, DOI 10.1002/047134608X.W8333]
+   Weller HG, 1998, COMPUT PHYS, V12, P620, DOI 10.1063/1.168744
+   Willems K, 2020, NANOSCALE, V12, P16775, DOI 10.1039/d0nr03114c
+   Willems K, 2017, PHILOS T R SOC B, V372, DOI 10.1098/rstb.2016.0230
+   Xie P, 2012, NAT NANOTECHNOL, V7, P119, DOI [10.1038/nnano.2011.217, 10.1038/NNANO.2011.217]
+   Xue L, 2020, NAT REV MATER, V5, P931, DOI 10.1038/s41578-020-0229-6
+   Yusko EC, 2017, NAT NANOTECHNOL, V12, P360, DOI [10.1038/NNANO.2016.267, 10.1038/nnano.2016.267]
+   Zhan BB, 2014, SMALL, V10, P4042, DOI 10.1002/smll.201400463
+   Zhu X, 2021, ACS NANO, V15, P9882, DOI 10.1021/acsnano.1c01042
+   Zlatanova J, 2006, MOL CELL, V24, P317, DOI 10.1016/j.molcel.2006.10.017
+NR 45
+TC 0
+Z9 0
+U1 4
+U2 5
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 1530-437X
+EI 1558-1748
+J9 IEEE SENS J
+JI IEEE Sens. J.
+PD MAR 15
+PY 2022
+VL 22
+IS 6
+BP 5732
+EP 5742
+DI 10.1109/JSEN.2022.3149345
+PG 11
+WC Engineering, Electrical & Electronic; Instruments & Instrumentation;
+   Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Instruments & Instrumentation; Physics
+GA ZU7YB
+UT WOS:000770054800099
+OA Green Published
+DA 2022-10-21
+ER
+
+PT J
+AU Gitterman, M
+   Klinger, MI
+AF Gitterman, M
+   Klinger, MI
+TI Suppression of photon emission from a single molecule by a classical
+   field: exact analytical solution
+SO JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS
+LA English
+DT Article
+ID DYNAMICS; QUANTUM; DRIVEN; CAVITY; SYSTEM; RF
+AB The Hamiltonian of a single molecule subjected to laser and classical radio-frequency fields is reduced to that describing a pseudo-spin interacting with vibrational excitations of a semi-classical field. An exact solution is obtained of the Hamiltonian similar to that of an electron linearly interacting with boson excitations, by applying an appropriate unitary operator. The latter gives rise to a coherent 'dressing' of the excited molecule by a large number of semi-classical excitations, which prevents a photon emission by the molecule. The condition of the photon emission suppression is determined by the ratio of the difference of interaction energies of the molecule, in the ground and excited electronic states, with a semi-classical field to the photon energy of radio-frequency field. No full suppression of photon emission occurs when the width Gamma of the excited state due to spontaneous emission is finite. For small values of Gamma/omega(rf) in the range Gamma/omega(rf) < 1, the larger the ratio Gamma/omega(rf) the smaller the suppression of the photon emission, while the suppression practically does not occur for large Gamma/omega(rf) > 1.
+C1 Bar Ilan Univ, Dept Phys, IL-52900 Ramat Gan, Israel.
+RP Gitterman, M (corresponding author), Bar Ilan Univ, Dept Phys, IL-52900 Ramat Gan, Israel.
+CR BASCHE T, 1992, PHYS REV LETT, V69, P1516, DOI 10.1103/PhysRevLett.69.1516
+   Basche Th., 1997, SINGLE MOL OPTICAL D
+   Brunel C, 1998, PHYS REV LETT, V81, P2679, DOI 10.1103/PhysRevLett.81.2679
+   COHENTANNOUDJI C, 1992, ATOM PHOTON INTERATI
+   DAKHNOVSKII Y, 1994, PHYS REV B, V49, P4649, DOI 10.1103/PhysRevB.49.4649
+   Frasca M, 2003, ANN PHYS-NEW YORK, V306, P193, DOI 10.1016/S0003-4916(03)00078-2
+   Grifoni M, 1998, PHYS REP, V304, P229, DOI 10.1016/S0370-1573(98)00022-2
+   GROSSMANN F, 1991, PHYS REV LETT, V67, P516, DOI 10.1103/PhysRevLett.67.516
+   Klinger M. I., 1979, PROBLEMS ELECT POLAR
+   Klinger MI, 2000, PHYS REV B, V61, P3353, DOI 10.1103/PhysRevB.61.3353
+   LEGGETT AJ, 1987, REV MOD PHYS, V59, P1, DOI 10.1103/RevModPhys.59.1
+   LIN WA, 1990, PHYS REV LETT, V65, P2927, DOI 10.1103/PhysRevLett.65.2927
+   LUONIS B, 1997, PHYS REV LETT, V78, P3673
+   Makarov DE, 2001, J CHEM PHYS, V115, P5989, DOI 10.1063/1.1392377
+   MAKAROV DE, 1993, PHYS REV E, V48, pR4164, DOI 10.1103/PhysRevE.48.R4164
+   MORILLO M, 1993, J CHEM PHYS, V98, P4548, DOI 10.1063/1.465016
+   Neu P, 1996, PHYS REV A, V54, P5323, DOI 10.1103/PhysRevA.54.5323
+   Orrit M, 2002, J CHEM PHYS, V117, P10938, DOI 10.1063/1.1521152
+   PLATA J, 1993, PHYS REV A, V48, P782, DOI 10.1103/PhysRevA.48.782
+   PRIOR Y, 1977, PHYS REV LETT, V39, P1329, DOI 10.1103/PhysRevLett.39.1329
+   Rozhkov I, 2005, PHYS REV A, V71, DOI 10.1103/PhysRevA.71.033810
+   TAMARAT P, 1995, PHYS REV LETT, V75, P1514, DOI 10.1103/PhysRevLett.75.1514
+   YUNG Y, 2002, ADV CHEM PHYS, V123, P199
+NR 23
+TC 0
+Z9 0
+U1 0
+U2 3
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA DIRAC HOUSE, TEMPLE BACK, BRISTOL BS1 6BE, ENGLAND
+SN 0953-4075
+J9 J PHYS B-AT MOL OPT
+JI J. Phys. B-At. Mol. Opt. Phys.
+PD OCT 14
+PY 2005
+VL 38
+IS 19
+BP 3581
+EP 3586
+DI 10.1088/0953-4075/38/19/010
+PG 6
+WC Optics; Physics, Atomic, Molecular & Chemical
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Optics; Physics
+GA 991KJ
+UT WOS:000233812600013
+DA 2022-10-21
+ER
+
+EF

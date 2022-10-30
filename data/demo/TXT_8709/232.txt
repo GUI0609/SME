@@ -1,0 +1,207 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Yan, S
+   Choi, DJ
+   Burgess, JAJ
+   Rolf-Pissarczyk, S
+   Loth, S
+AF Yan, Shichao
+   Choi, Deung-Jang
+   Burgess, Jacob A. J.
+   Rolf-Pissarczyk, Steffen
+   Loth, Sebastian
+TI Control of quantum magnets by atomic exchange bias
+SO NATURE NANOTECHNOLOGY
+LA English
+DT Article
+ID FORCE MICROSCOPY; SPIN; SPECTROSCOPY; ANISOTROPY; RESOLUTION
+AB Mixing of discretized states in quantum magnets has a radical impact on their properties. Managing this effect is key for spintronics in the quantum limit. Magnetic fields can modify state mixing and, for example, mitigate destabilizing effects in single-molecule magnets(1,2). The exchange bias field(3,4) has been proposed as a mechanism for localized control of individual nanomagnets(5,6). Here, we demonstrate that exchange coupling with the magnetic tip of a scanning tunnelling microscope provides continuous tuning of spin state mixing in an individual nanomagnet. By directly measuring spin relaxation time with electronic pump-probe spectroscopy(7), we find that the exchange interaction acts analogously to a local magnetic field that can be applied to a specific atom. It can be tuned in strength by up to several tesla and cancel external magnetic fields, thereby demonstrating the feasibility of complete control over individual quantum magnets with atomically localized exchange coupling.
+C1 [Yan, Shichao; Choi, Deung-Jang; Burgess, Jacob A. J.; Rolf-Pissarczyk, Steffen; Loth, Sebastian] Max Planck Inst Struct & Dynam Matter, D-22761 Hamburg, Germany.
+   [Yan, Shichao; Choi, Deung-Jang; Burgess, Jacob A. J.; Rolf-Pissarczyk, Steffen; Loth, Sebastian] Max Planck Inst Solid State Res, D-70569 Stuttgart, Germany.
+RP Yan, S (corresponding author), Max Planck Inst Struct & Dynam Matter, D-22761 Hamburg, Germany.
+EM shichao.yan@mpsd.mpg.de; sebastian.loth@mpsd.mpg.de
+RI Loth, Sebastian/ABG-5237-2020; Choi, Deung-Jang/E-7969-2016
+OI Loth, Sebastian/0000-0002-1587-3678; Choi,
+   Deung-Jang/0000-0002-6797-3953; Yan, Shichao/0000-0002-7318-300X
+CR Ardavan A, 2007, PHYS REV LETT, V98, DOI 10.1103/PhysRevLett.98.057201
+   Bork J, 2011, NAT PHYS, V7, P901, DOI [10.1038/NPHYS2076, 10.1038/nphys2076]
+   Bryant B, 2013, PHYS REV LETT, V111, DOI 10.1103/PhysRevLett.111.127203
+   Delgado F, 2010, PHYS REV B, V82, DOI 10.1103/PhysRevB.82.134414
+   Gatteschi D, 2003, ANGEW CHEM INT EDIT, V42, P268, DOI 10.1002/anie.200390099
+   Heinrich AJ, 2004, SCIENCE, V306, P466, DOI 10.1126/science.1101077
+   Heinrich BW, 2013, NAT PHYS, V9, P765, DOI [10.1038/nphys2794, 10.1038/NPHYS2794]
+   Hirjibehedin CF, 2007, SCIENCE, V317, P1199, DOI 10.1126/science.1146110
+   Horcas I, 2007, REV SCI INSTRUM, V78, DOI 10.1063/1.2432410
+   Kaiser U, 2007, NATURE, V446, P522, DOI 10.1038/nature05617
+   Khajetoorians AA, 2013, SCIENCE, V339, P55, DOI 10.1126/science.1228519
+   Lazo C, 2011, PHYS REV B, V84, DOI 10.1103/PhysRevB.84.144428
+   Leuenberger MN, 2001, NATURE, V410, P789, DOI 10.1038/35071024
+   Loth S, 2012, SCIENCE, V335, P196, DOI 10.1126/science.1214131
+   Loth S, 2010, SCIENCE, V329, P1628, DOI [10.1126/science.1191688, 10.1126/science.191688]
+   Loth S, 2010, NAT PHYS, V6, P340, DOI 10.1038/NPHYS1616
+   McEnroe SA, 2007, NAT NANOTECHNOL, V2, P631, DOI 10.1038/nnano.2007.292
+   Meier F, 2003, PHYS REV LETT, V90, DOI 10.1103/PhysRevLett.90.047901
+   Nogues J, 1999, J MAGN MAGN MATER, V192, P203, DOI 10.1016/S0304-8853(98)00266-2
+   Oberg JC, 2014, NAT NANOTECHNOL, V9, P64, DOI [10.1038/nnano.2013.264, 10.1038/NNANO.2013.264]
+   Otte AF, 2009, PHYS REV LETT, V103, DOI 10.1103/PhysRevLett.103.107203
+   Schmidt R, 2011, PHYS REV LETT, V106, DOI 10.1103/PhysRevLett.106.257202
+   Stipe BC, 1998, SCIENCE, V280, P1732, DOI 10.1126/science.280.5370.1732
+   Tao K, 2009, PHYS REV LETT, V103, DOI 10.1103/PhysRevLett.103.057202
+   Weymouth AJ, 2014, SCIENCE, V343, P1120, DOI 10.1126/science.1249502
+   Wieser R, 2013, NEW J PHYS, V15, DOI 10.1088/1367-2630/15/1/013011
+   Wolf SA, 2001, SCIENCE, V294, P1488, DOI 10.1126/science.1065389
+NR 27
+TC 94
+Z9 94
+U1 1
+U2 136
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1748-3387
+EI 1748-3395
+J9 NAT NANOTECHNOL
+JI Nat. Nanotechnol.
+PD JAN
+PY 2015
+VL 10
+IS 1
+BP 40
+EP 45
+DI 10.1038/NNANO.2014.281
+PG 6
+WC Nanoscience & Nanotechnology; Materials Science, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics; Materials Science
+GA AY2GC
+UT WOS:000347405800017
+PM 25502311
+DA 2022-10-21
+ER
+
+PT J
+AU Rybakiewicz, R
+   Djurado, D
+   Cybulski, H
+   Dobrzynska, E
+   Kulszewicz-Bajer, I
+   Boudinet, D
+   Verilhac, JM
+   Zagorska, M
+   Pron, A
+AF Rybakiewicz, Renata
+   Djurado, David
+   Cybulski, Hubert
+   Dobrzynska, Ewelina
+   Kulszewicz-Bajer, Irena
+   Boudinet, Damien
+   Verilhac, Jean-Marie
+   Zagorska, Malgorzata
+   Pron, Adam
+TI Arylene bisimides with triarylamine N-substituents as new solution
+   processable organic semiconductors: Synthesis, spectroscopic,
+   electrochemical and electronic properties
+SO SYNTHETIC METALS
+LA English
+DT Article
+DE Arylene bisimides; Triarylamine derivatives; Low band semiconductors;
+   Organic transistors; DFT calculations
+ID FIELD-EFFECT TRANSISTORS; DENSITY-FUNCTIONAL THEORY; ELECTROACTIVE
+   CONDUCTING POLYMERS; NAPHTHALENE DIIMIDE; CHARGE-TRANSPORT;
+   EXCITATION-ENERGIES; CONJUGATED POLYMERS; PERYLENE DIIMIDES; CORROSION
+   CONTROL; METALS
+AB New solution processable organic semiconductors, consisting of pyrromelitic, naphthalene or perylene bisimide core and triarylamine N-substituents, have been synthesized. All three compounds are electrochemically active and undergo quasi-reversible oxidation and reduction as evidenced by cyclic voltammetry investigations. The oxidation process involves the transformation of the triarylamine substituents into radical cations as proven spectroscopically and spectroelectrochemically. The reduction process occurs at the arylene bisimide core leading to the formation of a radical anion and eventually a dianion in the second step. These findings are in perfect agreement with the DFT calculations which show that in the synthesized molecules the HOMO orbital is located on the triarylamine moiety whereas the LUMO one on the bisimide core. In all molecules studied the electrochemically determined ionization potential (IP) is slightly higher than 5.0 eV whereas in naphthalene and perylene derivatives the electron affinity (EA) is close to -3.9 eV. These values fulfill the requirements for n-type (electron) semiconductors in air operating n-channel field effect transistors (FETs) as well as for p-type (hole) conductors in p-channel FETs. To verify whether the newly synthesized compounds exhibit the expected electrical transport properties all organic (CYTOP dielectric) test transistors were fabricated. All three semiconductors showed no field effect in the n-channel configuration. To the contrary, they could be used in p-channel FETs showing, in the saturation regime, the hole mobility approaching 10(-4) cm(2) V(-1) s(-1) - the value which slightly exceeds that measured for low molecular weight, amorphous triarylamine semiconductors. (C) 2011 Elsevier B.V. All rights reserved.
+C1 [Rybakiewicz, Renata; Dobrzynska, Ewelina; Kulszewicz-Bajer, Irena; Zagorska, Malgorzata] Warsaw Univ Technol, Fac Chem, PL-00664 Warsaw, Poland.
+   [Djurado, David; Pron, Adam] Univ Grenoble 1, CEA Grenoble, Lab Elect Mol Organ & Hybride, INAC SPrAM,UMR 5819,CEA,CNRS, F-38054 Grenoble, France.
+   [Cybulski, Hubert] Univ Santiago de Compostela, Ctr Res Biol Chem & Mol Mat, Dept Phys Chem, Santiago De Compostela 15782, Spain.
+   [Boudinet, Damien; Verilhac, Jean-Marie] CEA LITEN LCI, F-38054 Grenoble, France.
+RP Zagorska, M (corresponding author), Warsaw Univ Technol, Fac Chem, Noakowskiego 3, PL-00664 Warsaw, Poland.
+EM zagorska@ch.pw.edu.pl; adam.pron@cea.fr
+RI Cybulski, Hubert/G-3724-2014; Cybulski, Hubert/AAH-6575-2019
+OI Cybulski, Hubert/0000-0002-2996-5020; Cybulski,
+   Hubert/0000-0002-2996-5020; Rybakiewicz, Renata/0000-0001-5152-1445;
+   Kulszewicz-Bajer, Irena/0000-0002-7936-5138; Zagorska,
+   Malgorzata/0000-0002-8880-7217; Pron, Adam/0000-0002-8267-4353
+FU European Union [FP-7/2007-2013, 247745]; Interdisciplinary Centre of
+   Mathematical and Computer Modelling (ICM) of the University of Warsaw
+   [G36-25]
+FX This work was supported by European Union's Seventh Framework Programme
+   (FP-7/2007-2013) under grant agreement no. 247745 (NoE FlexNet). The
+   authors acknowledge the computational grant G36-25 from the
+   Interdisciplinary Centre of Mathematical and Computer Modelling (ICM) of
+   the University of Warsaw.
+CR Ahrens MJ, 2006, J ORG CHEM, V71, P2107, DOI 10.1021/jo052394o
+   An ZS, 2009, J PHYS CHEM A, V113, P5585, DOI 10.1021/jp900152r
+   Argun AA, 2004, CHEM MATER, V16, P4401, DOI 10.1021/cm049669l
+   Arias AC, 2010, CHEM REV, V110, P3, DOI 10.1021/cr900150b
+   Bauernschmitt R, 1996, CHEM PHYS LETT, V256, P454, DOI 10.1016/0009-2614(96)00440-X
+   BECKE AD, 1993, J CHEM PHYS, V98, P5648, DOI 10.1063/1.464913
+   Boudinet D, 2010, ORG ELECTRON, V11, P227, DOI 10.1016/j.orgel.2009.10.021
+   Casida ME, 1998, J CHEM PHYS, V108, P4439, DOI 10.1063/1.475855
+   Chao CC, 2005, J ORG CHEM, V70, P4323, DOI 10.1021/jo050001f
+   Cheng YJ, 2009, CHEM REV, V109, P5868, DOI 10.1021/cr900182s
+   Delgado MCR, 2010, J AM CHEM SOC, V132, P3375, DOI 10.1021/ja908173x
+   Erten S, 2005, J PHOTOCH PHOTOBIO A, V175, P214, DOI 10.1016/j.jphotochem.2005.04.038
+   Feng JQ, 2008, CHEM-EUR J, V14, P7000, DOI 10.1002/chem.200800136
+   Frisch M. J., 2016, GAUSSIAN 16, V16
+   Gangadasu B, 2004, SYNLETT, P1285
+   Gawrys P, 2011, ELECTROCHIM ACTA, V56, P3429, DOI 10.1016/j.electacta.2010.09.070
+   Gawrys P, 2010, J PHYS CHEM B, V114, P1803, DOI 10.1021/jp908931w
+   Gawrys P, 2009, SYNTHETIC MET, V159, P1478, DOI 10.1016/j.synthmet.2009.04.003
+   Hadfield RH, 2009, NAT PHOTONICS, V3, P696, DOI 10.1038/nphoton.2009.230
+   Horie M, 2008, J MATER CHEM, V18, P5230, DOI 10.1039/b808840c
+   Jones BA, 2007, J AM CHEM SOC, V129, P15259, DOI 10.1021/ja075242e
+   Kulszewicz-Bajer I, 2004, NEW J CHEM, V28, P669, DOI 10.1039/b311096f
+   LEE CT, 1988, PHYS REV B, V37, P785, DOI 10.1103/PhysRevB.37.785
+   Lee SK, 1999, J AM CHEM SOC, V121, P3513, DOI 10.1021/ja984188m
+   Lin CC, 2010, TETRAHEDRON, V66, P8629, DOI 10.1016/j.tet.2010.09.041
+   Murray BJ, 1996, JPN J APPL PHYS 1, V35, P5384, DOI 10.1143/JJAP.35.5384
+   Naghavi SS, 2011, J MOL SPECTROSC, V265, P95, DOI 10.1016/j.jms.2010.12.004
+   Pron A, 2002, PROG POLYM SCI, V27, P135, DOI 10.1016/S0079-6700(01)00043-0
+   Pron A, 2010, CHEM SOC REV, V39, P2577, DOI 10.1039/b907999h
+   Qu JQ, 2004, CHEM-EUR J, V10, P528, DOI 10.1002/chem.200304994
+   Rozalska I, 2004, NEW J CHEM, V28, P1235, DOI 10.1039/b404828h
+   Sadighi JP, 1998, J AM CHEM SOC, V120, P4960, DOI 10.1021/ja980052c
+   Saragi TP, 2006, ADV FUNCT MATER, V16, P966, DOI 10.1002/adfm.200500361
+   Singh TB, 2006, ORG ELECTRON, V7, P480, DOI 10.1016/j.orgel.2006.06.010
+   Song YB, 2007, J MATER CHEM, V17, P4483, DOI 10.1039/b708887f
+   Spinks GM, 2002, J SOLID STATE ELECTR, V6, P85, DOI 10.1007/s100080100211
+   Stratmann RE, 1998, J CHEM PHYS, V109, P8218, DOI 10.1063/1.477483
+   Tallman DE, 2002, J SOLID STATE ELECTR, V6, P73, DOI 10.1007/s100080100212
+   Thalacker C, 2006, J ORG CHEM, V71, P8098, DOI 10.1021/jo0612269
+   Thomas SW, 2007, CHEM REV, V107, P1339, DOI 10.1021/cr0501339
+   Trassati S., 1985, PURE APPL CHEM, V58, P955
+   Wu HB, 2009, CHEM SOC REV, V38, P3391, DOI 10.1039/b816352a
+   Wurthner F, 2002, CHEM-EUR J, V8, P4742, DOI 10.1002/1521-3765(20021018)8:20<4742::AID-CHEM4742>3.0.CO;2-L
+   Zhang WM, 2009, J AM CHEM SOC, V131, P10814, DOI 10.1021/ja9034818
+   Zheng QD, 2008, J AM CHEM SOC, V130, P14410, DOI 10.1021/ja805746h
+NR 45
+TC 22
+Z9 22
+U1 1
+U2 78
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 0379-6779
+J9 SYNTHETIC MET
+JI Synth. Met.
+PD AUG
+PY 2011
+VL 161
+IS 15-16
+BP 1600
+EP 1610
+DI 10.1016/j.synthmet.2011.05.025
+PG 11
+WC Materials Science, Multidisciplinary; Physics, Condensed Matter; Polymer
+   Science
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Materials Science; Physics; Polymer Science
+GA 821JQ
+UT WOS:000294971700024
+DA 2022-10-21
+ER
+
+EF

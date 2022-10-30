@@ -1,0 +1,192 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Al-Saidi, WA
+   Krakauer, H
+   Zhang, S
+AF Al-Saidi, WA
+   Krakauer, H
+   Zhang, S
+TI Auxiliary-field quantum monte carlo study of TiO and MnO molecules
+SO PHYSICAL REVIEW B
+LA English
+DT Article
+ID ELECTRONIC-STRUCTURE; FERMION SYSTEMS; WAVE-FUNCTIONS; GROUND-STATES;
+   PSEUDOPOTENTIALS; SIMULATIONS; GAS
+AB Calculations of the binding energy of the transition-metal oxide molecules TiO and MnO are presented, using a recently developed phaseless auxiliary-field quantum Monte Carlo approach. This method maps the interacting many-body problem onto a linear combination of noninteracting problems by a complex Hubbard-Stratonovich transformation, and controls the phase and sign problem with a phaseless approximation relying on a trial wave function. It employs random walks in Slater determinant space to project the ground state of the system, and allows use of much of the same machinery as in standard density functional theory calculations using the plane-wave basis and nonlocal pseudopotentials. The calculations used a single Slater determinant trial wave function obtained from a density functional calculation, with no further optimization. The calculated binding energies are in good agreement with experiment and with recent diffusion Monte Carlo results. Together with previous results for sp-bonded systems, the present study indicates that the phaseless auxiliary-field method is a robust and promising approach for the study of correlation effects in real materials.
+C1 Coll William & Mary, Dept Phys, Williamsburg, VA 23187 USA.
+RP Al-Saidi, WA (corresponding author), Coll William & Mary, Dept Phys, Williamsburg, VA 23187 USA.
+OI Krakauer, Henry/0000-0003-2517-0957
+CR ALBARET T, 1997, FARADAY DISCUSS, V106, P155
+   BLANKENBECLER R, 1981, PHYS REV D, V24, P2278, DOI 10.1103/PhysRevD.24.2278
+   Carlson J, 1999, PHYS REV B, V59, P12788, DOI 10.1103/PhysRevB.59.12788
+   CEPERLEY DM, 1980, PHYS REV LETT, V45, P566, DOI 10.1103/PhysRevLett.45.566
+   Foulkes WMC, 2001, REV MOD PHYS, V73, P33, DOI 10.1103/RevModPhys.73.33
+   Gonze X, 2002, COMP MATER SCI, V25, P478, DOI 10.1016/S0927-0256(02)00325-7
+   Grossman JC, 2002, J CHEM PHYS, V117, P1434, DOI 10.1063/1.1487829
+   Hartwigsen C, 1998, PHYS REV B, V58, P3641, DOI 10.1103/PhysRevB.58.3641
+   HUBBARD J, 1959, PHYS REV LETT, V3, P77, DOI 10.1103/PhysRevLett.3.77
+   Huber K.P., 1979, MOL SPECTRA MOL STRU
+   KLEINMAN L, 1982, PHYS REV LETT, V48, P1425, DOI 10.1103/PhysRevLett.48.1425
+   Kohn W, 1999, REV MOD PHYS, V71, P1253, DOI 10.1103/RevModPhys.71.1253
+   LEE JW, CONDMAT0411247
+   LOH EY, 1990, PHYS REV B, V41, P9301, DOI 10.1103/PhysRevB.41.9301
+   Loock HP, 1998, J CHEM PHYS, V109, P8980, DOI 10.1063/1.477568
+   MITAS L, 1991, J CHEM PHYS, V95, P3467, DOI 10.1063/1.460849
+   Needs RJ, 2003, INT J MOD PHYS B, V17, P5425, DOI 10.1142/S0217979203020533
+   NICHOLAS J, 1999, PHYS REV B, V59, P12471
+   PERDEW JP, 1992, PHYS REV B, V45, P13244, DOI 10.1103/PhysRevB.45.13244
+   Perdew JP, 1996, PHYS REV LETT, V77, P3865, DOI 10.1103/PhysRevLett.77.3865
+   RAPPE AM, 1990, PHYS REV B, V41, P1227, DOI 10.1103/PhysRevB.41.1227
+   Rom N, 1997, CHEM PHYS LETT, V270, P382, DOI 10.1016/S0009-2614(97)00370-9
+   Schmidt K. E., 1984, APPL MONTE CARLO MET
+   Sokolova S, 2000, CHEM PHYS LETT, V320, P421, DOI 10.1016/S0009-2614(00)00276-1
+   Stratonovich R. L., 1958, SOV PHYS DOKL, V2, P416, DOI DOI 10.1103/PHYSREVLETT.3.77
+   SUGIYAMA G, 1986, ANN PHYS-NEW YORK, V168, P1, DOI 10.1016/0003-4916(86)90107-7
+   TROULLIER N, 1991, PHYS REV B, V43, P1993, DOI 10.1103/PhysRevB.43.1993
+   Wagner L, 2003, CHEM PHYS LETT, V370, P412, DOI 10.1016/S0009-2614(03)00128-3
+   Zhang S., 2003, THEORETICAL METHODS
+   Zhang SW, 2005, COMPUT PHYS COMMUN, V169, P394, DOI 10.1016/j.cpc.2005.03.087
+   Zhang SW, 2003, PHYS REV LETT, V90, DOI 10.1103/PhysRevLett.90.136401
+   Zhang SW, 1997, PHYS REV B, V55, P7464, DOI 10.1103/PhysRevB.55.7464
+NR 32
+TC 38
+Z9 38
+U1 0
+U2 4
+PU AMERICAN PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1098-0121
+J9 PHYS REV B
+JI Phys. Rev. B
+PD FEB
+PY 2006
+VL 73
+IS 7
+AR 075103
+DI 10.1103/PhysRevB.73.075103
+PG 7
+WC Materials Science, Multidisciplinary; Physics, Applied; Physics,
+   Condensed Matter
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Materials Science; Physics
+GA 017BK
+UT WOS:000235668900030
+OA Green Submitted
+DA 2022-10-21
+ER
+
+PT J
+AU Pfattner, R
+   Pavlica, E
+   Jaggi, M
+   Liu, SX
+   Decurtins, S
+   Bratina, G
+   Veciana, J
+   Mas-Torrent, M
+   Rovira, C
+AF Pfattner, Raphael
+   Pavlica, Egon
+   Jaggi, Michael
+   Liu, Shi-Xia
+   Decurtins, Silvio
+   Bratina, Gvido
+   Veciana, Jaume
+   Mas-Torrent, Marta
+   Rovira, Concepcio
+TI Photo-induced intramolecular charge transfer in an ambipolar
+   field-effect transistor based on a pi-conjugated donor-acceptor dyad
+SO JOURNAL OF MATERIALS CHEMISTRY C
+LA English
+DT Article
+ID HIGH-PERFORMANCE AMBIPOLAR; MOBILITY; DIIMIDE; SEMICONDUCTORS;
+   DERIVATIVES; COPOLYMER; TRANSPORT; ELECTRON; DESIGN
+AB A pi-conjugated tetrathiafulvalene-fused perylenediimide (TTF-PDI) molecular dyad is successfully used as a solution-processed active material for light sensitive ambipolar field-effect transistors with balanced hole and electron mobilities. The photo-response of the TTF-PDI dyad resembles its absorption profile. Wavelength-dependent photoconductivity measurements reveal an important photo-response at an energy corresponding to a PDI-localized electronic pi-pi* transition and also a more moderate effect due to an intramolecular charge transfer from the HOMO localized on the TTF unit to the LUMO localized on the PDI moiety. This work clearly elucidates the interplay between intra- and intermolecular electronic processes in organic devices.
+C1 [Pfattner, Raphael; Veciana, Jaume; Mas-Torrent, Marta; Rovira, Concepcio] Networking Res Ctr Bioengn Biomat & Nanomed CIBER, Inst Ciencia Mat Barcelona ICMAB CSIC, Bellaterra 08193, Spain.
+   [Pavlica, Egon; Bratina, Gvido] Univ Nova Gorica, Lab Organ Matter Phys, SI-5000 Nova Gorica, Slovenia.
+   [Jaggi, Michael; Liu, Shi-Xia; Decurtins, Silvio] Univ Bern, Dept Chem & Biochem, CH-3012 Bern, Switzerland.
+RP Pfattner, R (corresponding author), Networking Res Ctr Bioengn Biomat & Nanomed CIBER, Inst Ciencia Mat Barcelona ICMAB CSIC, Campus UAB, Bellaterra 08193, Spain.
+EM shi-xia.liu@iac.unibe.ch; mmas@icmab.es
+RI Pavlica, Egon/L-2466-2017; Bratina, Gvido/A-3244-2017; Veciana,
+   Jaume/A-2147-2008; Mas-Torrent, Marta/A-3485-2013; Pfattner,
+   Raphael/E-9209-2011; Liu, Shi-Xia/C-5574-2016; ROVIRA,
+   Concepció*/F-3155-2011
+OI Pavlica, Egon/0000-0003-2877-2590; Bratina, Gvido/0000-0002-0085-7990;
+   Veciana, Jaume/0000-0003-1023-9923; Mas-Torrent,
+   Marta/0000-0002-1586-005X; Pfattner, Raphael/0000-0002-7232-1845; Liu,
+   Shi-Xia/0000-0001-6104-4320; ROVIRA, Concepció*/0000-0002-2365-9479
+FU EU Large Project ONE-P [FP7-NMP-2007-212311]; ERC [StG 2012-306826];
+   Networking Research Center on Bioengineering, Biomaterials and
+   Nanomedicine (CIBER-BBN); DGI (Spain); Generalitat de Catalunya
+   [2009SGR516]; Swiss National Science Foundation [200020-130266/1]; ESF
+   Project GOSPEL [09-Euro-GRAPHENE-FP-001]; project POMAS
+   [CTQ2010-19501/BQU]; Slovenian Research Agency [P1-0055]
+FX The authors thank the EU Large Project ONE-P (FP7-NMP-2007-212311), ERC
+   StG 2012-306826 e-GAMES, the Networking Research Center on
+   Bioengineering, Biomaterials and Nanomedicine (CIBER-BBN), the DGI
+   (Spain) with project POMAS CTQ2010-19501/BQU and Generalitat de
+   Catalunya 2009SGR516, as well as the Swiss National Science Foundation
+   (grant no. 200020-130266/1). E.P. and G.B. acknowledge the support of
+   the ESF Project GOSPEL (Ref. no: 09-Euro-GRAPHENE-FP-001). G.B.
+   acknowledges the Slovenian Research Agency program P1-0055. We are
+   grateful to L. Martin-Samos Colomer for fruitful discussions.
+CR Amriou S, 2005, J MATER CHEM, V15, P1232, DOI 10.1039/b500500k
+   Chen ZY, 2012, ADV MATER, V24, P647, DOI 10.1002/adma.201102786
+   El Gemayel M, 2012, J AM CHEM SOC, V134, P2429, DOI 10.1021/ja211515b
+   Fan J, 2012, ADV MATER, V24, P2186, DOI 10.1002/adma.201103836
+   Gao XK, 2007, ADV MATER, V19, P3037, DOI 10.1002/adma.200700007
+   Jaggi M, 2009, ORG LETT, V11, P3096, DOI 10.1021/ol901186n
+   Jones BA, 2007, J AM CHEM SOC, V129, P15259, DOI 10.1021/ja075242e
+   Kronemeijer AJ, 2012, ADV MATER, V24, P1558, DOI 10.1002/adma.201104522
+   Kruger H, 2007, ADV FUNCT MATER, V17, P3715, DOI 10.1002/adfm.200700365
+   Leufgen M, 2008, ORG ELECTRON, V9, P1101, DOI 10.1016/j.orgel.2008.08.011
+   Mas-Torrent M, 2006, J MATER CHEM, V16, P433, DOI 10.1039/b510121b
+   Mas-Torrent M, 2006, CHEMPHYSCHEM, V7, P86, DOI 10.1002/cphc.200500325
+   Mas-Torrent M, 2008, CHEM SOC REV, V37, P827, DOI 10.1039/b614393h
+   Naraso, 2005, J AM CHEM SOC, V127, P10142, DOI 10.1021/ja051755e
+   Oton F, 2011, CRYSTENGCOMM, V13, P6597, DOI 10.1039/c1ce05559c
+   Pfattner R, 2010, ADV MATER, V22, P4198, DOI 10.1002/adma.201001446
+   Ortiz RP, 2012, CHEM-EUR J, V18, P532, DOI 10.1002/chem.201101715
+   Saragi TPI, 2007, APPL PHYS LETT, V90, DOI 10.1063/1.2750387
+   Sayago J, 2012, NAT PHOTONICS, V6, P639, DOI 10.1038/nphoton.2012.235
+   Sonar P, 2010, ADV MATER, V22, P5409, DOI 10.1002/adma.201002973
+   Takahashi Y, 2007, CHEM MATER, V19, P6382, DOI 10.1021/cm702690w
+   Treier M, 2012, NANOSCALE, V4, P1677, DOI 10.1039/c2nr11635a
+   Wen YG, 2010, ADV MATER, V22, P1331, DOI 10.1002/adma.200901454
+   Wobkenberg PH, 2010, J MATER CHEM, V20, P3673, DOI 10.1039/b919970e
+   Ye Q, 2011, ORG LETT, V13, P5960, DOI 10.1021/ol202357f
+   Yuen JD, 2011, J AM CHEM SOC, V133, P20799, DOI 10.1021/ja205566w
+   Zaumseil J, 2007, CHEM REV, V107, P1296, DOI 10.1021/cr0501543
+   Zhan XW, 2011, ADV MATER, V23, P268, DOI 10.1002/adma.201001402
+NR 28
+TC 40
+Z9 41
+U1 1
+U2 63
+PU ROYAL SOC CHEMISTRY
+PI CAMBRIDGE
+PA THOMAS GRAHAM HOUSE, SCIENCE PARK, MILTON RD, CAMBRIDGE CB4 0WF, CAMBS,
+   ENGLAND
+SN 2050-7526
+EI 2050-7534
+J9 J MATER CHEM C
+JI J. Mater. Chem. C
+PY 2013
+VL 1
+IS 25
+BP 3985
+EP 3988
+DI 10.1039/c3tc30442f
+PG 4
+WC Materials Science, Multidisciplinary; Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Materials Science; Physics
+GA 158QU
+UT WOS:000319988200013
+OA Green Submitted, Green Published
+DA 2022-10-21
+ER
+
+EF
