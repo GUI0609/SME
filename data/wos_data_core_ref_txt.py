@@ -143,10 +143,9 @@ def convert_dict_to_df(wos_dict,output = None):
     df['doi'] = df['DI'].apply(i_0)
     df['abstract'] = df['AB'].apply(i_0)
 
-    df['author_name'] = df['AF']
+    df['author_names'] = df['AF']
     df['author_address'] = df['C1']
     df['co_author_address'] = df['RP']
-    df['author_name'] = df['AF']
     df['reference'] = df['CR']
 
 
