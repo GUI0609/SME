@@ -141,14 +141,10 @@ def convert_dict_to_df(wos_dict,output = None):
     df['abstract'] = df['AB'].apply(i_0)
     df['doctype'] = df['DT'].apply(i_0)
     df['doi'] = df['DI'].apply(i_0)
-    df['abstract'] = df['AB'].apply(i_0)
-
     df['author_names'] = df['AF']
     df['author_address'] = df['C1']
     df['co_author_address'] = df['RP']
     df['reference'] = df['CR']
-
-
     df['title'] = df['TI'].apply(lambda x:' '.join(x))
     df['author_last'] = df['AF'].apply(lambda x:x[-1])
 
@@ -171,5 +167,11 @@ def convert_dict_to_df(wos_dict,output = None):
         df.to_excel(output)
     else:
         return df
+
+if __name__ == '__main__':
+    # main_path需要输入wos_core的文件夹地址
+    main_path = '/content/SME/data/demo/TXT_8709'
+    df_core_wos = convert_dict_to_df(extract_doi_kvlist_from_txt(main_path,histcite = False))
+    df_core_wos.to_csv('df_core_wos.csv')
 
 
