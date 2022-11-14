@@ -52,3 +52,4 @@ dgl
 ray
 scipy
 torch
+polyfuzz[fast]
