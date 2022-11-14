@@ -44,20 +44,20 @@ author_from_ss = get_unique_authors(author_msg_from_ss['authors_ss'],['authorId'
 #author_msg_from_wos
 names = []
 def convert_author_msg_from_wos(author_names_list):
-  for author in author_names_list.split('; '):
-    namelist = author.split('(')[-1].split(')')[0].split(' ')
-    if len(namelist)==3:
-        name = namelist[1]+' '+namelist[2][:-1]+' '+namelist[0][:-1]
-        names.append(name)
-    elif len(namelist)==2:
-        name = namelist[1]+' '+namelist[0][:-1]
-        names.append(name)
-    elif len(namelist)==4:
-        name = namelist[1]+' '+namelist[2]+' '+namelist[3]+' '+namelist[0][:-1]
-        names.append(name)
-    else:
-        name = ' '.join(namelist)
-        names.append(name)
+    for author in author_names_list.split('; '):
+        namelist = author.split('(')[-1].split(')')[0].split(' ')
+        if len(namelist)==3:
+            name = namelist[1]+' '+namelist[2][:-1]+' '+namelist[0][:-1]
+            names.append(name)
+        elif len(namelist)==2:
+            name = namelist[1]+' '+namelist[0][:-1]
+            names.append(name)
+        elif len(namelist)==4:
+            name = namelist[1]+' '+namelist[2]+' '+namelist[3]+' '+namelist[0][:-1]
+            names.append(name)
+        else:
+            name = ' '.join(namelist)
+            names.append(name)
 for author_names_list in author_msg_from_wos['author_names'].tolist():
     convert_author_msg_from_wos(author_names_list)
 
@@ -161,16 +161,16 @@ au_pp_r_from_ss = au_pp_r_from_ss.rename(columns = {'authors_ss':'authorId'})
 
 # author_msg_from_wos
 def convert_author_msg_from_wos_2(author):
-  namelist = author.split('(')[-1].split(')')[0].split(' ')
-  if len(namelist)==3:
-    name = namelist[1]+' '+namelist[2][:-1]+' '+namelist[0][:-1]
-  elif len(namelist)==2:
-    name = namelist[1]+' '+namelist[0][:-1]
-  elif len(namelist)==4:
-    name = namelist[1]+' '+namelist[2]+' '+namelist[3]+' '+namelist[0][:-1]
-  else:
-    name = ' '.join(namelist)
-  return name
+    namelist = author.split('(')[-1].split(')')[0].split(' ')
+    if len(namelist)==3:
+        name = namelist[1]+' '+namelist[2][:-1]+' '+namelist[0][:-1]
+    elif len(namelist)==2:
+        name = namelist[1]+' '+namelist[0][:-1]
+    elif len(namelist)==4:
+        name = namelist[1]+' '+namelist[2]+' '+namelist[3]+' '+namelist[0][:-1]
+    else:
+        name = ' '.join(namelist)
+    return name
 author_msg_from_wos['author_names'] = author_msg_from_wos['author_names'].apply(lambda x:x.split('; '))
 
 author_msg_from_wos = author_msg_from_wos.dropna().explode('author_names').dropna().reset_index().drop(columns = ['index'])
@@ -317,6 +317,4 @@ def make_authorship_relationships(
 
     return output
 
-
-    
 make_authorship_relationships(au_pp_r,author_nodes,SME_node,graph = graph)
