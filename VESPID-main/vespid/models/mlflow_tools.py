@@ -4,7 +4,7 @@ from sys import version_info
 import cloudpickle
 from smart_open import open
 import importlib
-from importlib.metadata import PackageNotFoundError
+# from importlib.metadata import PackageNotFoundError
 from packaging import version
 import yaml
 import pandas as pd
@@ -285,8 +285,8 @@ def _check_model_dependencies(run_id):
                 current_version = version.parse(
                     importlib.metadata.version(name)
                 )
-            except PackageNotFoundError as e:
-                raise PackageNotFoundError(f"Couldn't find package '{name}' "
+            except:
+                print(f"Couldn't find package '{name}' "
                                            "installed, please install to use "
                                            "this model")
         
