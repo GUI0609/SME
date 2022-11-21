@@ -564,9 +564,9 @@ class Objectives(object):
                 if c.direction == 'minimize':
                     minimizing_columns[columns_to_track[-1]] = columns_to_track[-1]
                     
-        logger.debug(f"{columns_to_track}")
-        logger.debug(f"{columns_to_scale}")
-        logger.debug(f"{minimizing_columns}")
+        logger.debug(columns_to_track)
+        logger.debug(columns_to_scale)
+        logger.debug(minimizing_columns)
         
         # Ensure that all metrics are on [0,1] scale 
         if len(columns_to_scale) > 0:
