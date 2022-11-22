@@ -283,7 +283,7 @@ def _check_model_dependencies(run_id):
         else:
             try:
                 current_version = version.parse(
-                    importlib.metadata.version(name)
+                    name.__version__
                 )
             except:
                 print(f"Couldn't find package '{name}' "
