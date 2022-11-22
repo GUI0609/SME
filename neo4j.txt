@@ -1,0 +1,1 @@
+MATCH (aAuthor) SET a.papercount=size((a)-[]-())
