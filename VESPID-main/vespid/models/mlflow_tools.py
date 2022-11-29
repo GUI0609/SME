@@ -227,7 +227,7 @@ def generate_conda_env(model_packages=None):
     
     for m in model_packages:
         # version = importlib.metadata.version(m)
-        package_versions.append(f"{m}=={m.__version__}")
+        package_versions.append(m)
     
         
     conda_env = {
