@@ -13,22 +13,31 @@ from vespid.data.neo4j_tools import (
 from vespid.models.clustering import HdbscanEstimator
 from vespid.models.mlflow_tools import setup_mlflow
 from vespid.data.aws import test_s3_access
-from vespid.models.optuna import Hyperparameter, Criterion, Objectives
+from vespid.models.optuna_tool import Hyperparameter, Criterion, Objectives
 from vespid.models.static_communities import hydrate_best_optuna_solution
 
 logger = setup_logger(module_name=__name__)
+from vespid.data.neo4j_tools import (
+    Neo4jConnectionHandler, 
+    test_graph_connectivity
+)
 
+from py2neo import Graph, Node, Relationship, NodeMatcher
+
+graph = Neo4jConnectionHandler(
+    db_ip='49.234.22.192',
+            database='neo4j',
+            db_username='neo4j',
+            db_password='Ggl0609,',
+            secure_connection=False)
+            
 
 def get_embeddings(
     year,
-    db_ip=None,
-    db_username='neo4j',
-    db_password_secret=None,
-    db_password=None,
-    connection_handler=None,
-    drivers=None,
-    to_list=True,
-    batch_size=None
+    graph=graph,
+    drivers=['neo4j-arrow','py2neo','native'],
+    to_list = True
+
 ):
     '''
     Gets embeddings of papers from a given year from Neo4j.
@@ -68,20 +77,6 @@ def get_embeddings(
     numpay array or pandas DataFrame
         Returns the embeddings in a format dictated by the `to_list` kwarg
     '''
-    if connection_handler is None:
-        if db_password_secret is not None:
-            db_password = get_secure_key(
-                db_password_secret,
-                aws_secret=True,
-                bypass_safety_check=True
-            )[db_username]
-        graph = Neo4jConnectionHandler(
-            db_ip,
-            db_username=db_username,
-            db_password=db_password
-        )
-    else:
-        graph = connection_handler
 
     # The publicationDate and semanticScholarID non-null *look* like overkill, 
     # but they're not. They leverage indexes we've generated for both that 
@@ -400,6 +395,7 @@ if __name__ == '__main__':
     
     parser.add_argument('--n_trials', type=int, default=100,
                         help='number of parameter combinations to test')
+
     parser.add_argument('--n_jobs', type=int, default=25,
                         help='# parallel jobs in search')
     parser.add_argument('--cv', type=int, default=5,
@@ -445,22 +441,6 @@ if __name__ == '__main__':
                         'year.')
     parser.add_argument('--end_year', type=int, default=2018,
                         help='ending year you want in study')
-    
-    parser.add_argument('--db_ip', type=str,
-                        default=None,
-                        help='IP address or domain in which the Neo4j graph '
-                        'containing embeddings is located')
-    parser.add_argument('--db_password_secret', type=str,
-                        default=None,
-                        help='Name of AWS Secrets Manager secret to use for '
-                        'grabbing the Neo4j database password. If None, will '
-                        'look for a value provided via --db_password')
-    parser.add_argument('--db_password', type=str,
-                        default=None,
-                        help='Plaintext database password. Not recommended '
-                        'for security reasons, ideally you should save the '
-                        'password via a tool like AWS Secrets Manager and '
-                        'then access using the --db_password_secret arg')
     parser.add_argument('--mlflow_tracking_uri', type=str,
                         default=None,
                         help='IP address/domain + port of the MLFlow tracking'
@@ -475,7 +455,7 @@ if __name__ == '__main__':
         cluster_methods = args.cluster_method
     
     # Check that we can save to mlflow
-    test_s3_access('mlflow-qs2')
+    # test_s3_access('mlflow-qs2')
 
     if args.start_year > args.end_year:
         step_size = -1
@@ -489,10 +469,8 @@ if __name__ == '__main__':
         logger.info(
             f"creating embeddings array from dataframe for year {year}...")
         embeddings = get_embeddings(
-            db_ip=args.db_ip,
-            year=year,
-            db_password_secret=args.db_password_secret
-        )
+            year=year
+        ).T
         
         # Setup the mlflow experiment
         full_experiment_name = args.experiment_name + f' - {year}'        
