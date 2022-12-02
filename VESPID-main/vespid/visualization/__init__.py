@@ -455,7 +455,7 @@ def visualize_language_clusters(
     if cluster_pipeline is not None:
         umap = cluster_pipeline.named_steps['umap']
         clusterer = cluster_pipeline.named_steps['hdbscan']
-        logger.debug(f"{clusterer.score()=}")
+        logger.debug(f"{clusterer.score()}")
         
     elif umap_model is not None and cluster_model is not None:
         umap = umap_model
