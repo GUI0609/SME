@@ -187,7 +187,7 @@ def setup_logger(
         level=default_level,
         datefmt=DATETIME_FORMAT,
         handlers=handlers,
-        force=align_all_loggers
+        # force=align_all_loggers
     )
 
     return logging.getLogger(module_name)
