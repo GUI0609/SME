@@ -1,1 +1,18 @@
 MATCH (aAuthor) SET a.papercount=size((a)-[]-())
+
+
+//创建子图
+CALL gds.graph.project(
+  'myGraph',
+  'Publication',
+  'CITED',
+  {
+    relationshipProperties: 'weight'
+  }
+)
+
+//计算pagerank
+CALL gds.pageRank.stream('myGraph')
+YIELD nodeId, score
+RETURN gds.util.asNode(nodeId).title AS title, score
+ORDER BY score ASC
