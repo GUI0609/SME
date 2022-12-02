@@ -52,3 +52,4 @@ urllib3
 python-dotenv
 umap_learn
 vespid
+scikit-image
