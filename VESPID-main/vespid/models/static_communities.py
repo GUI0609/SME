@@ -436,7 +436,7 @@ def make_language_clusters(
     MATCH (n:Publication)
     WHERE n.publicationDate IS NOT NULL
     AND n.semanticScholarID IS NOT NULL
-    AND n.publicationDate.year = {year}
+    AND n.publicationDate.year = {year} 
     AND n.embedding IS NOT NULL
     RETURN n.id AS id, n.title as title, n.abstract as abstract, 
     n.embedding AS embedding
