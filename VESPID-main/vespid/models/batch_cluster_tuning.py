@@ -14,7 +14,6 @@ from vespid.models.clustering import HdbscanEstimator
 from vespid.models.mlflow_tools import setup_mlflow
 from vespid.data.aws import test_s3_access
 from vespid.models.optuna_tool import Hyperparameter, Criterion, Objectives
-# from vespid.models.static_communities import hydrate_best_optuna_solution
 
 logger = setup_logger(module_name=__name__)
 from vespid.data.neo4j_tools import (
@@ -471,7 +470,7 @@ if __name__ == '__main__':
             f"creating embeddings array from dataframe for year {year}...")
         embeddings = get_embeddings(
             year=year
-        ).T
+        )
         
         # Setup the mlflow experiment
         full_experiment_name = args.experiment_name + f' - {year}'        
@@ -561,7 +560,7 @@ if __name__ == '__main__':
             experiment_parameters,
             n_trials=args.n_trials,
             n_jobs=args.n_jobs,
-            garbage_collect=True
+            garbage_collect=False
         )
         
         #TODO: manual garbage collection here?
@@ -577,6 +576,14 @@ if __name__ == '__main__':
             year=year,
             clusterer=best_model[1],
             graph=graph,
-            model_id=None,
+            model_id=f'bestmodel{year}',
             batch_size=None
+        )
+        match_noise_ndoes_to_cluster(
+            year=year,
+            graph=graph, 
+            model_id='hdbscan_cluster_selection_methodmodel',
+            node_label='Publication', 
+            cluster_label='LanguageCluster',
+            add_edges_to_graph=True
         )
