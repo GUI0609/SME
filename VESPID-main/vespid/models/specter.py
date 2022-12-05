@@ -252,14 +252,14 @@ def get_data(graph, limit=None,
              query="MATCH (a:Publication) WHERE a.id STARTS WITH 'SME_' RETURN a.id AS paper_id, a.title AS title, "
                    "a.abstract AS abstract, a.topics AS topics"):
     logger.info("getting data from neo4j...")
-    if not db_password:
-        logger.info(f"db_password is {db_password}, attempting to read `NEO4J_PASSWORD` from os.environ...")
-        db_password = os.environ["NEO4J_PASSWORD"]
+    # if not db_password:
+    #     logger.info(f"db_password is {db_password}, attempting to read `NEO4J_PASSWORD` from os.environ...")
+    #     db_password = os.environ["NEO4J_PASSWORD"]
     # graph = Neo4jConnectionHandler(db_ip=ip_address, db_password=db_password)  # 'Vespid!')
     # query = "MATCH (a:Publication) " \
     #         "RETURN a.id AS paper_id, a.title AS title, a.abstract AS abstract, a.topics AS topics"
-    if limit and int(limit) > 0:
-        query += f" limit {int(limit)}"
+    # if limit and int(limit) > 0:
+    #     query += f" limit {int(limit)}"
     df_papers = graph.cypher_query_to_dataframe(query)
     return df_papers
 
