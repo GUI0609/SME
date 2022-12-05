@@ -248,14 +248,14 @@ def get_keyphrase_embeddings(phrases):
     return embeddings
 
 #FIXME: topics aren't used in this function so far as I can see and are likely to significantly slow down data retrieval - remove
-def get_data(ip_address, db_password=os.environ.get("NEO4J_PASSWORD"), limit=None,
-             query="MATCH (a:Publication) RETURN a.id AS paper_id, a.title AS title, "
+def get_data(graph, limit=None,
+             query="MATCH (a:Publication) WHERE a.id STARTS WITH 'SME_' RETURN a.id AS paper_id, a.title AS title, "
                    "a.abstract AS abstract, a.topics AS topics"):
     logger.info("getting data from neo4j...")
     if not db_password:
         logger.info(f"db_password is {db_password}, attempting to read `NEO4J_PASSWORD` from os.environ...")
         db_password = os.environ["NEO4J_PASSWORD"]
-    graph = Neo4jConnectionHandler(db_ip=ip_address, db_password=db_password)  # 'Vespid!')
+    # graph = Neo4jConnectionHandler(db_ip=ip_address, db_password=db_password)  # 'Vespid!')
     # query = "MATCH (a:Publication) " \
     #         "RETURN a.id AS paper_id, a.title AS title, a.abstract AS abstract, a.topics AS topics"
     if limit and int(limit) > 0:
@@ -264,7 +264,7 @@ def get_data(ip_address, db_password=os.environ.get("NEO4J_PASSWORD"), limit=Non
     return df_papers
 
 
-def main(db_ip, db_password, db_query_limit=None, query=None, s3_path=None, return_embeddings=False,
+def main(graph, db_query_limit=None, query=None, s3_path=None, return_embeddings=False,
          processing_type='gpu', process='batch', batch_size=8, id_field='paper_id', data_fields=('title', 'abstract'),
          s3_bucket='vespid', local_path=None, output_neo4j_embeddings=False):
 
@@ -281,7 +281,7 @@ SET p.embedding = [x IN split(row.embedding, ';') | toFloat(x) ]
         raise ValueError(f"invalid combination of arguments: "
                          f"s3_path `{s3_path}` and return embeddings `{return_embeddings}`. "
                          f"Specify one or the other.")
-    df_papers = get_data(ip_address=db_ip, db_password=db_password, limit=db_query_limit,
+    df_papers = get_data(graph, limit=db_query_limit,
                          query=query)
     embedding_col = 'embedding'
     logger.info("processing...")
@@ -336,11 +336,8 @@ SET p.embedding = [x IN split(row.embedding, ';') | toFloat(x) ]""")
     parser.add_argument('-t', '--processing-type', type=str, default='gpu', help='gpu or cpu')
     parser.add_argument("-b", '--batch-size', type=int, default=8,
                         help='What batch size to be used for batch processing')
-    parser.add_argument('--db-ip', default=DB_IP, help="IP address of database. "
-                                                       "defaults to SME+ at `35.164.169.229`. "
-                                                       "SCORE is at `54.202.173.127`")
-    parser.add_argument('--db-password', default=None,
-                        help="password for database. if not given load 'NEO4J_PASSWORD' from os.environ")
+    parser.add_argument('--graph',help="the neo4j database graph")
+ 
     parser.add_argument("--s3-bucket", default='vespid', help="bucket to which to save results in S3")
     # address a to-do in this file
     g = parser.add_mutually_exclusive_group(required=True)
@@ -368,7 +365,7 @@ SET p.embedding = [x IN split(row.embedding, ';') | toFloat(x) ]""")
     #     parser.error("specify only one of --s3-path or --return-embeddings")
     # elif not args.return_embeddings and not args.s3_path:
     #     parser.error("specify at least one of --s3-path or --return-embeddings")
-    main_results = main(db_ip=args.db_ip, db_password=args.db_password, db_query_limit=args.db_query_limit,
+    main_results = main(graph=args.graph, db_query_limit=args.db_query_limit,
                         query=args.query, return_embeddings=args.return_embeddings,
                         s3_path=args.s3_path, s3_bucket=args.s3_bucket, local_path=args.local_path,
                         processing_type=args.processing_type, process=args.process, batch_size=args.batch_size,
