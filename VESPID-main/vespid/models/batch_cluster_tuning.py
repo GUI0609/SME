@@ -14,13 +14,14 @@ from vespid.models.clustering import HdbscanEstimator
 from vespid.models.mlflow_tools import setup_mlflow
 from vespid.data.aws import test_s3_access
 from vespid.models.optuna_tool import Hyperparameter, Criterion, Objectives
-from vespid.models.static_communities import hydrate_best_optuna_solution
+# from vespid.models.static_communities import hydrate_best_optuna_solution
 
 logger = setup_logger(module_name=__name__)
 from vespid.data.neo4j_tools import (
     Neo4jConnectionHandler, 
     test_graph_connectivity
 )
+from vespid.models.static_communities import *
 
 from py2neo import Graph, Node, Relationship, NodeMatcher
 
@@ -161,7 +162,7 @@ def objective(
         umap_metric.name,
         umap_metric.categories
     )
-    umap_min_dist = trial.suggest_uniform(
+    umap_min_dist = trial.suggest_float(
         umap_min_dist.name,
         umap_min_dist.min,
         umap_min_dist.max
@@ -571,4 +572,11 @@ if __name__ == '__main__':
             experiment_parameters,
             hydration_tolerance=0.05,
             log_to_mlflow=True
+        )
+        make_language_clusters(
+            year=year,
+            clusterer=best_model[1],
+            graph=graph,
+            model_id=None,
+            batch_size=None
         )
