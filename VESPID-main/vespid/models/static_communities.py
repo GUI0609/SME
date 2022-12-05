@@ -628,7 +628,7 @@ def match_noise_nodes_to_cluster(
     logger.debug("Running node query...")
     node_query = f"""
     MATCH (n:{node_label})
-    WHERE n.clusterLabel = '-1'
+    WHERE n.id STARTS WITH 'SME_' AND n.clusterLabel = -1
     AND n.publicationDate.year = {year}
     RETURN n.id AS nodeID, n.embedding AS embedding
     """    
