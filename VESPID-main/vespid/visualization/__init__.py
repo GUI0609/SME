@@ -450,7 +450,8 @@ def visualize_language_clusters(
     X,
     cluster_pipeline=None, 
     umap_model=None, 
-    cluster_model=None
+    cluster_model=None,
+    html_path=None
 ):
     if cluster_pipeline is not None:
         umap = cluster_pipeline.named_steps['umap']
@@ -502,7 +503,6 @@ def visualize_language_clusters(
     fig.update_traces(marker=dict(line=dict(width=2,
                                             color='DarkSlateGrey')))
     
-    fig.write_html("figures/2011_SCORE_tuning_test_solution.html")
+    fig.write_html(html_path)
     fig.show()
-    
     return X_2d, umap_2d
