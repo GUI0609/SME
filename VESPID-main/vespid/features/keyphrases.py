@@ -270,9 +270,16 @@ class ClusterTfidf(TfidfTransformer):
         num_candidates = 30
 
         # List of stopwords to exclude that we know we want to avoid
-        additional_stopwords = [
-            'elsevier'
-        ]
+        additional_stopwords = ['study','','recent', 'challenge', 'new', 'goal', 'american', 'interest', 'Co.','K','key','introduction', 'institute', 'insight', 'agreement',
+                'conventional', 'future', 'understanding', 'Elsevier','tool','use','crucial','result','publishing','AIP','2018','Ltd.','B.V.','et','al','contribution','strategy','c','C','small number','different type','unique approach','important contribution','promising method',
+                'significant difference','novel strategy','direct comparison','et al','important role', 'large number','great potential','past decade','present work',
+                'c 2006', 'c 2005', 'C 2011', 'C 2003', '100 nm', '10 nm','C 2010', 'C 2008', 'CP AFM', 'C 2009',
+                'c 2013 LLC', '300 K.','0.01 nm','B. V.', 'C 2014','b(2 mode',
+                'C 2013','0.5 v','6 nm','3 nm', 'C 2016','c 2015', 'C 2012','c 2013','c 2011','c 2007','J. Am',
+                'J. Phys','c 2004','300 k','C 2014 LLC','Rev. B','200 nm','C 2001','i. e.',
+                'C 2002 Science','C 2001 Science', 'c 2021', '10(13 cm(2','c 2019','c 2008', 'C 1998',
+                'e. g.', 'C 2000', 'J. Chem', 'C 2002', 'C 1999', 'C 2005','c 2010', 'c 2000 Science','C 2014','Rev. Lett','present work',
+                'institute physics','american institute physics','publishing llc','v1 s1','results','mwm1 k2','et al','figure merit','5dgmp','published aip publishing','cc cc','al04ga06sbgasb','science bv']
 
         if self.stop_words == 'nltk':
             stops = set(stopwords_nltk.words('english'))
