@@ -558,7 +558,6 @@ inspected")
         
         return PipelineFlag('cancel_pipeline', value=return_value)
 
-
     def save(self, filepath=None):
         '''
         Archives a copy of the Pipeline so it can be used later/shared. 

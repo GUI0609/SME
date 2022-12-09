@@ -19,7 +19,7 @@ graph = Neo4jConnectionHandler(
     db_ip='49.234.22.192',
             database='neo4j',
             db_username='neo4j',
-            db_password='Ggl0609,',
+            db_password='********',
             secure_connection=False)
 
 
