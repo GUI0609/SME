@@ -270,7 +270,7 @@ class ClusterTfidf(TfidfTransformer):
         num_candidates = 30
 
         # List of stopwords to exclude that we know we want to avoid
-        additional_stopwords = ['study','','recent', 'challenge', 'new', 'goal', 'american', 'interest', 'Co.','K','key','introduction', 'institute', 'insight', 'agreement',
+        additional_stopwords = ['study','elsevier bv','recent', 'challenge', 'new', 'goal', 'american', 'interest', 'Co.','K','key','introduction', 'institute', 'insight', 'agreement',
                 'conventional', 'future', 'understanding', 'Elsevier','tool','use','crucial','result','publishing','AIP','2018','Ltd.','B.V.','et','al','contribution','strategy','c','C','small number','different type','unique approach','important contribution','promising method',
                 'significant difference','novel strategy','direct comparison','et al','important role', 'large number','great potential','past decade','present work',
                 'c 2006', 'c 2005', 'C 2011', 'C 2003', '100 nm', '10 nm','C 2010', 'C 2008', 'CP AFM', 'C 2009',
