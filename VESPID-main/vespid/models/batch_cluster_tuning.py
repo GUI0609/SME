@@ -35,9 +35,9 @@ graph = Neo4jConnectionHandler(
 def get_embeddings(
     year,
     graph=graph,
+    paper_include='SME',
     drivers=['neo4j-arrow','py2neo','native'],
     to_list = True
-
 ):
     '''
     Gets embeddings of papers from a given year from Neo4j.
@@ -85,15 +85,35 @@ def get_embeddings(
     # have a publication date!)
     
     # NOTE: may be expensive, but sorting is needed so we can use rehydrated models consistently
-    query = f"""
-    MATCH (n:Publication)
-    WHERE n.publicationDate IS NOT NULL
-    AND n.semanticScholarID IS NOT NULL
-    AND n.publicationDate.year = {year}
-    AND n.embedding IS NOT NULL
-    RETURN n.embedding AS embedding
-    ORDER BY n.id ASC
-    """
+    if paper_include=='SME':    
+        query = f"""
+        MATCH (n:Publication)
+        WHERE n.id STARTS WITH 'SME'
+        AND n.publicationDate.year = {year}
+        AND n.embedding IS NOT NULL
+        RETURN n.embedding AS embedding
+        ORDER BY n.id ASC
+        """
+    elif paper_include=='SME_ref':
+        query = f"""
+        MATCH (n1)-[r:CITED_BY]->(n2)
+        WHERE n2.id STARTS WITH 'SME' AND n2.publicationDate.year = {year}
+        RETURN n1.embedding AS embedding
+        ORDER BY n1.id ASC
+        UNION
+        MATCH (n:Publication)
+        WHERE n.id STARTS WITH 'SME' AND n.publicationDate.year = {year}
+        RETURN n.embedding AS embedding
+        ORDER BY n.id ASC
+        """
+    elif paper_include=='year':
+        query = f"""
+        MATCH (n:Publication)
+        WHERE n.publicationDate.year = {year}
+        RETURN n.embedding AS embedding
+        ORDER BY n.id ASC
+        """ 
+
     if to_list:
         return np.array(
             graph.cypher_query_to_dataframe(query, drivers=drivers)['embedding'].tolist()
