@@ -387,7 +387,7 @@ class ClusterTfidf(TfidfTransformer):
 def mmr(doc_embedding,
         word_embeddings,
         words,
-        top_n=5,
+        top_n=10,
         diversity=0.8):
     """ 
     Calculate Maximal Marginal Relevance (MMR)
