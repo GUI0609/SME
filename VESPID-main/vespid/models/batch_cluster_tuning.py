@@ -599,7 +599,7 @@ if __name__ == '__main__':
             model_id=f'bestmodel{year}',
             batch_size=None
         )
-        match_noise_ndoes_to_cluster(
+        match_noise_nodes_to_cluster(
             year=year,
             graph=graph, 
             model_id='hdbscan_cluster_selection_methodmodel',
