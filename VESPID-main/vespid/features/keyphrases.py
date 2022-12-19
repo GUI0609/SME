@@ -279,7 +279,8 @@ class ClusterTfidf(TfidfTransformer):
                 'J. Phys','c 2004','300 k','C 2014 LLC','Rev. B','200 nm','C 2001','i. e.',
                 'C 2002 Science','C 2001 Science', 'c 2021', '10(13 cm(2','c 2019','c 2008', 'C 1998',
                 'e. g.', 'C 2000', 'J. Chem', 'C 2002', 'C 1999', 'C 2005','c 2010', 'c 2000 Science','C 2014','Rev. Lett','present work',
-                'institute physics','american institute physics','publishing llc','v1 s1','results','mwm1 k2','et al','figure merit','5dgmp','published aip publishing','cc cc','al04ga06sbgasb','science bv']
+                'institute physics','american institute physics','publishing llc','v1 s1','results','mwm1 k2','et al','figure merit','5dgmp','published aip publishing','cc cc','al04ga06sbgasb','science bv',
+                'v1 s1','aaa','singlemolecule','single molecule']
 
         if self.stop_words == 'nltk':
             stops = set(stopwords_nltk.words('english'))
@@ -459,7 +460,7 @@ def mmr(doc_embedding,
 def extract_cluster_keyphrases(
     documents_data,
     cluster_label='cluster_label',
-    top_n=5,
+    top_n=7,
     embedding_aggregation_type='mean',
     embedding_weights=None,
     ngram_range=(2,3),
