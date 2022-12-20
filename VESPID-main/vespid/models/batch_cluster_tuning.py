@@ -330,7 +330,8 @@ def bayesian_tune(
     n_trials,
     garbage_collect=True,
     n_jobs=1,
-    study_name=None
+    study_name=None,
+    colab=False
 ):
     '''
     Takes ranges of values for different hyperparameters of our
@@ -388,14 +389,16 @@ def bayesian_tune(
     else:
         raise ValueError("Both `mlflow_experiment` and `study_name` "
                          "cannot be set to None")
-
-    study.optimize(
-        experiment_parameters, 
-        n_trials=n_trials, 
-        n_jobs=n_jobs,
-        gc_after_trial=garbage_collect,
-        show_progress_bar=False
-    )
+    if colab:
+        import tensorflow as tf
+        with tf.device("/device:GPU:0"):
+            study.optimize(
+                experiment_parameters, 
+                n_trials=n_trials, 
+                n_jobs=n_jobs,
+                gc_after_trial=garbage_collect,
+                show_progress_bar=False
+            )
 
     return study
 
