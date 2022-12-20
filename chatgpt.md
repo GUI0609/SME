@@ -143,3 +143,23 @@ As a language model, I am not able to execute code or perform calculations. Howe
 4. Use a visualization library, such as Matplotlib or Seaborn, to plot the results and show the interdisciplinarity of each paper. This might involve creating a scatter plot or heatmap to show the similarity between the papers, or using a network diagram to show the connections between the different disciplines represented in the papers.
 
 Overall, this is just one possible approach to calculating the interdisciplinarity of research papers using Python. There may be other ways to solve this problem, and the specific steps and algorithms you use will depend on the details of your data and the research question you are trying to answer.
+
+# Q：how to cluster in a citation graph
+In order to cluster a citation graph, you can use a technique called community detection. This involves using algorithms to identify groups of nodes in the graph that are more densely connected to each other than they are to other nodes in the graph. These groups of nodes can then be considered clusters, and can be used to gain insight into the structure of the citation graph and the relationships between different sources.
+
+There are many different algorithms that can be used for community detection, and the specific one that is best suited to your needs will depend on the characteristics of your citation graph and the goals of your analysis. Some common algorithms include modularity maximization, which looks for groups of nodes that are highly interconnected but have few connections to nodes outside of the group, and spectral clustering, which uses the eigenvectors of the graph's adjacency matrix to identify clusters.
+
+Once you have identified the clusters in your citation graph, you can use visualization techniques to represent the clusters and help you better understand the structure of the graph. For example, you could use a tool like Gephi to create a visual representation of the graph, with nodes colored according to their cluster membership, or you could use a force-directed layout algorithm to create a "hairball" visualization, where clusters are represented as dense clusters of nodes with fewer connections to nodes outside of the cluster.
+
+Overall, the process of clustering a citation graph involves using algorithms to identify groups of nodes that are densely connected to each other, and then using visualization techniques to represent the clusters and gain insight into the structure of the graph.
+
+# Q：which cluster based on node embedding and graph structrue?
+One approach to clustering a graph based on both node embedding and graph structure is to use a technique called graph convolutional network (GCN) clustering. GCN clustering involves using a GCN model to learn node embeddings, and then using these embeddings as input to a clustering algorithm.
+
+In this approach, the GCN model is first trained on the graph, using a supervised learning task such as node classification. As the model trains, it learns to generate low-dimensional node embeddings that capture the structural and semantic information in the graph. These node embeddings can then be used as input to a clustering algorithm, such as k-means, to identify clusters in the graph.
+
+One advantage of this approach is that it combines the power of GCNs to learn node embeddings that capture the structure and semantics of the graph with the ability of clustering algorithms to identify groups of nodes that are similar to each other. This can help to improve the quality of the clusters that are identified, and can provide a more nuanced view of the structure of the graph.
+
+Overall, GCN clustering is a powerful approach to clustering a graph based on both node embedding and graph structure, and can help to provide a more complete picture of the relationships between nodes in the graph.
+
+# Q：how to use GCN in citation graph based on node embedding
