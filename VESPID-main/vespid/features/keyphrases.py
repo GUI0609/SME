@@ -280,7 +280,8 @@ class ClusterTfidf(TfidfTransformer):
                 'C 2002 Science','C 2001 Science', 'c 2021', '10(13 cm(2','c 2019','c 2008', 'C 1998',
                 'e. g.', 'C 2000', 'J. Chem', 'C 2002', 'C 1999', 'C 2005','c 2010', 'c 2000 Science','C 2014','Rev. Lett','present work',
                 'institute physics','american institute physics','publishing llc','v1 s1','results','mwm1 k2','et al','figure merit','5dgmp','published aip publishing','cc cc','al04ga06sbgasb','science bv',
-                'v1 s1','aaa','singlemolecule','single molecule']
+                'v1 s1','aaa','singlemolecule','single molecule','cells','materials','enhanced','nacl','kcl','phonon','molecule','single','charge','applications','chemistry','silicon','organic','test case','ab','water','molecular','highly','system','impact',
+                'theory','nitride']
 
         if self.stop_words == 'nltk':
             stops = set(stopwords_nltk.words('english'))
