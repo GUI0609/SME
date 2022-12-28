@@ -4,7 +4,7 @@ import dask.dataframe as dd
 import warnings
 import os
 import plotly.express as px
-
+from collections import Counter
 import datashader as ds
 import datashader.transfer_functions as tf
 from datashader.layout import random_layout, forceatlas2_layout
@@ -474,10 +474,13 @@ def visualize_language_clusters(
     
     # Get cluster labels in there for coloring
     X_2d['cluster'] = pd.Series(clusterer.labels_).astype(str)
+    cluster_count = Counter(X_2d['cluster'].tolist())
+    X_2d['cluster_count'] = X_2d['cluster'].map(cluster_count)
     
     # Size noise points smaller than rest
     X_2d['size'] = 0.2
     X_2d.loc[X_2d['cluster'] == '-1', 'size'] = 0.1
+
     
     logger.info("Calculating interdisciplinarity scores...")
     X_2d['interdisciplinarity_score'] = calculate_interdisciplinarity_score(
@@ -495,7 +498,7 @@ def visualize_language_clusters(
         # width=1000, 
         # height=667, 
         color='cluster',
-        size='interdisciplinarity_score',
+        size='size',
         symbol='cluster'
     )
     
