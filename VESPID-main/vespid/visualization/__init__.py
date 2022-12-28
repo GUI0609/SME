@@ -479,8 +479,10 @@ def visualize_language_clusters(
     
     # Size noise points smaller than rest
     X_2d['size'] = 0.2
-    X_2d.loc[X_2d['cluster'] == '-1', 'size'] = 0.1
+    X_2d.loc[X_2d['cluster'] == '-1', 'size'] = 0.05
 
+
+    X_2d['clusters'] = X_2d.apply(lambda row: row['cluster']+' :'+str(row['cluster_count']),axis=1)
     
     logger.info("Calculating interdisciplinarity scores...")
     X_2d['interdisciplinarity_score'] = calculate_interdisciplinarity_score(
@@ -497,9 +499,10 @@ def visualize_language_clusters(
         y='x_1',
         # width=1000, 
         # height=667, 
-        color='cluster',
+        color='clusters',
         size='size',
-        symbol='cluster'
+        symbol='clusters',
+        text = 'interdisciplinarity_score'
     )
     
     # Add dark outline to markers so we can see the really tiny ones
