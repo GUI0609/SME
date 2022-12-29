@@ -337,8 +337,10 @@ class ClusterTfidf(TfidfTransformer):
 
         # Get indices for the top_n highest-scoring words for each cluster
         # Returns indices sorted in ascending order based on the values they refer to
-        top_indices = tfidf_matrix_dense.argsort()[:, -num_candidates:]
+        top_indices = tfidf_matrix_dense.argsort()
         logger.debug(f"top_indices.shape = {top_indices.shape}")
+        top_indices = [i for i in top_indices if i[0] not in additional_stopwords]
+        top_indices = top_indices[:, -num_candidates:]
 
         # Return word-score pairs for top_n of each cluster label integer
         # Form is {cluster_num: [(phrase1, score1), (phrase2, score2), etc.]}
@@ -389,7 +391,7 @@ class ClusterTfidf(TfidfTransformer):
 def mmr(doc_embedding,
         word_embeddings,
         words,
-        top_n=10,
+        top_n=15,
         diversity=0.8):
     """ 
     Calculate Maximal Marginal Relevance (MMR)
@@ -461,7 +463,7 @@ def mmr(doc_embedding,
 def extract_cluster_keyphrases(
     documents_data,
     cluster_label='cluster_label',
-    top_n=7,
+    top_n=15,
     embedding_aggregation_type='mean',
     embedding_weights=None,
     ngram_range=(2,3),
