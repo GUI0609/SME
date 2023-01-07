@@ -466,7 +466,7 @@ def extract_cluster_keyphrases(
     top_n=15,
     embedding_aggregation_type='mean',
     embedding_weights=None,
-    ngram_range=(2,3),
+    ngram_range=(2,5),
     diversity=0.5
 ):
     '''
