@@ -340,7 +340,7 @@ class ClusterTfidf(TfidfTransformer):
         top_indices = tfidf_matrix_dense.argsort()
         logger.debug(f"top_indices.shape = {top_indices.shape}")
         top_indices = [i for i in top_indices if i[0] not in additional_stopwords]
-        top_indices = top_indices[:, -num_candidates:]
+        top_indices = np.array(top_indices)[:, -num_candidates:]
 
         # Return word-score pairs for top_n of each cluster label integer
         # Form is {cluster_num: [(phrase1, score1), (phrase2, score2), etc.]}
